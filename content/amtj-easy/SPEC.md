@@ -1,55 +1,65 @@
-# 阿彌陀經 "easy" pages — authoring spec
+# 阿彌陀經 "easy" pages (rich format) — authoring spec
 
-Goal: a lighter, friendlier companion to the detailed pages in `content/amtj/`. Same 14 passages (see
-`content/amtj/PLAN.json`), but each page is about one screen, in everyday words, a little fun, and ends with things
-for the reader to think about. The detailed page `content/amtj/<slug>.json` is your **only content source**: simplify
-it, do not add to it. The exemplar to match in voice and shape is `content/amtj-easy/08-mingzhu.json`.
+Goal: a companion to the detailed pages in `content/amtj/` that is **as full in substance but easier to follow**.
+"Easy" means: everyday words, short sentences, terms explained before they're used, one idea per paragraph,
+concrete examples, small pauses for the reader to think — **not** less content. A previous attempt cut each page to
+~600 characters and was rejected as too thin. The rich exemplar to match in voice, depth and shape is
+`content/amtj-easy/08-mingzhu.json` (about 2,300 characters of explanation). Each page must carry at least 80% of the
+detailed page's explanation (and no less than 1,600 characters), enforced by the verifier.
+
+Your only content source is the detailed page `content/amtj/<slug>.json` (plus the sources it quotes, if you need
+to confirm context). **Re-explain it; do not add doctrine.** Keep every idea the detailed page carries, including its
+examples, Q&A, glossary entries and open questions — explain them more plainly and in a better order.
 
 ## Hard rules
-1. **No new doctrine.** Every idea card must be traceable to the detailed page's text and quotes (or the source
-   page it quotes). If the detailed page says "the lecturer reads it as…", keep that attribution ("讲者的读法…").
-   Do not turn a lecturer's reading into a universal claim. Do not explain what the KB does not explain.
-2. **Plain & short.** Simplified Chinese. Short sentences, everyday words; if a technical term is unavoidable,
-   explain it in the same sentence in the lecturer's plain words. Limits (enforced): title <= 30 chars; hook <= 120;
-   surface <= 260; each idea `head` <= 16 and `text` <= 120; story `text` <= 280; each `think` <= 60 and ends with
-   ？; takeaway <= 48; each `unsure` <= 100.
-3. **A little fun, never flippant.** Use vivid comparisons (preferably the lecturer's own: his school/house/石头
-   examples), direct address ("你"), and a curious tone. No jokes about the sutra, Buddhas, or the teaching; no
-   slang; no emoji in the content (the template adds a few icons).
-4. **Each idea card (3–5 of them) carries 1–2 verbatim quotes** (`quotes`, Traditional text copied unchanged from a
-   source page, <= 150 chars, `src` an id in `kb/manifest.json`). Prefer quotes already used in the detailed page.
-   The builder shows them folded under "看讲者原话", so they must really back the card.
-5. **`surface`** is the *plain literal meaning of the sutra passage as written* (the "surface meaning"), in your own
-   words; the template labels it as such. It must stay faithful to the sutra text in PLAN (do not import the
-   lecturer's 行法 reading here — that goes in the idea cards). Cover the whole passage, in order.
-6. **`think`: 2–3 questions** that invite the reader to look at their own experience or weigh the lecturer's point.
-   They must not assert doctrine or smuggle in a claim the KB does not make; open, concrete, answerable by looking
-   inward or by reading the passage. Draw from the detailed page's `open_questions`, `how_to`-style checks and
-   examples. Avoid yes/no questions where possible.
-7. **`story`** (optional but wanted): retell one of the lecturer's examples so someone who has not read the page can
-   follow it in 2–4 sentences. If the passage has none, omit `story`.
-8. **`unsure`** (0–2): the most important open points from the detailed page's `open_questions`, in plain words,
-   so the reader knows what the sources leave open. For `partial`/`qa`/`none` coverage pages add the honest one-line
-   limit of the KB here (and set `coverage` + `coverage_note` as in the detailed page).
+1. **No new doctrine, no stronger claims.** Anything you explain must be traceable to the detailed page's text and
+   quotes. Keep attributions ("讲者说/讲者的读法"). Do not turn a lecturer's reading into a universal claim. Do not
+   explain what the KB does not explain; say so under `unsure`.
+2. **Plain Simplified Chinese.** Short sentences. Define a technical term the first time (in `terms`, using the
+   lecturer's own plain explanation). Prefer concrete pictures and the lecturer's own examples. A little warmth and
+   humour is welcome ("先停一下", direct address "你"); never flippant about the sutra, the Buddhas or the teaching;
+   no slang; no emoji in the text (the template adds icons).
+3. **Step by step.** Order sections so a newcomer can follow: what the passage asks → what the words mean → how the
+   lecturer reads it → the apparent puzzle and his answer → what it means for the reader.
+4. **Quotes**: `quotes` are verbatim Traditional text copied unchanged from a source page (<= 150 chars, `src` an id in
+   `kb/manifest.json`); reuse the quotes in the detailed page. They are shown folded under "看讲者原话". Every
+   section needs at least one, every term and misreading needs at least one.
+5. **`surface`**: the plain *literal* meaning of the sutra passage as written, in your own words, covering the whole
+   passage in order. The template labels it as the compiler's paraphrase. Do not import the lecturer's 行法 reading
+   there — that belongs in the sections.
+6. **`think` and `pause`** questions are open, concrete and answerable from the reader's own experience or from the
+   passage. They must not assert doctrine or smuggle in a claim the KB does not make. Avoid yes/no where possible.
 
 ## JSON
 ```json
 {
   "slug": "08-mingzhu",
-  "title": "catchy plain title (question or hook, Simplified)",
-  "hook": "1-2 short sentences that make you want to read on",
-  "surface": "plain literal meaning of the passage",
-  "ideas": [ {"head": "short label", "text": "one plain idea", "quotes": [{"q": "verbatim Traditional", "src": "pages/amtj/amtj7"}]} ],
-  "story": {"title": "...", "text": "...", "quotes": [{"q": "...", "src": "..."}]},
-  "think": ["question？", "question？"],
-  "takeaway": "one line to remember",
-  "unsure": ["..."],
+  "title": "plain, curious title (<=30 chars)",
+  "hook": "2-3 sentences that make the reader want to continue (<=260)",
+  "surface": "plain literal paraphrase of the whole passage (<=700)",
+  "terms": [ {"term": "<=16 chars", "plain": "lecturer's plain explanation, 2-4 sentences (<=300)", "quotes": [{"q": "verbatim Traditional", "src": "pages/amtj/amtj7"}]} ],
+  "sections": [
+    {
+      "head": "<=28 chars",
+      "paras": [ {"t": "one idea, plain (<=340 chars)", "quotes": [{"q": "...", "src": "..."}]} ],
+      "example": {"title": "<=20", "text": "retell the lecturer's example fully (<=560)", "quotes": [{"q": "...", "src": "..."}]},
+      "pause": "a small question to stop and think？"
+    }
+  ],
+  "misreadings": [ {"wrong": "a natural wrong reading (<=90)", "right": "what the lecturer says instead (<=240)", "quotes": [{"q": "...", "src": "..."}]} ],
+  "think": ["4-6 open questions？"],
+  "takeaway": "one line to remember (<=90)",
+  "unsure": ["0-4 points the sources leave open, in plain words (<=150 each)"],
   "coverage": "lecture",
   "coverage_note": "only when coverage is not lecture"
 }
 ```
-`coverage` defaults to the detailed page's value; copy it (and its note, shortened) from `content/amtj/<slug>.json`.
+Limits: `terms` 2–5; `sections` 4–7 with 2–6 `paras` each (`example` and `pause` optional per section; use
+several of each across the page); `misreadings` 2–4; `think` 4–6.
+Copy `coverage` and a shortened `coverage_note` from the detailed page. On partial/qa pages keep the detailed
+page's honesty about which parts are only the lecturer's general frame or the writer's inference.
 
 ## Verify
-`python -I scripts/verify_amtj_easy.py content/amtj-easy/<slug>.json` must say 0 errors. Do not run the site builder
-and do not edit scripts, PLAN, other pages, sources or digests.
+`python -I scripts/verify_amtj_easy.py content/amtj-easy/<slug>.json` must say 0 errors. Do not run the site
+builder and do not edit scripts, PLAN, other pages, sources or digests. The old short version of your page is in
+git history; overwrite `content/amtj-easy/<slug>.json` completely.

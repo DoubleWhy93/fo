@@ -28,6 +28,8 @@ q.orig{quotes:"「" "」";font-style:normal;display:block;margin:.3rem 0;padding
 .src{font-size:.75rem;color:var(--mute)}
 .story{background:var(--soft);border-radius:14px;padding:.9rem 1.2rem;margin:1rem 0}.story b{color:var(--acc)}
 .think{background:var(--think);border-radius:14px;padding:.8rem 1.2rem;margin:1rem 0}.think li{margin:.5rem 0}
+.pause{background:var(--think);border-radius:10px;padding:.5rem .9rem;margin:1rem 0;font-size:.95rem}
+.mis .w{color:var(--mute);margin:.1rem 0}.mis .r{margin:.2rem 0}
 .take{font-size:1.2rem;font-weight:600;text-align:center;margin:2.2rem 0 1rem;line-height:1.6}
 .unsure{font-size:.9rem;color:var(--mute);border-top:1px dashed var(--line);margin-top:2rem;padding-top:.6rem}
 .cov{border:1px dashed var(--acc);border-radius:10px;padding:.5rem .9rem;margin:1rem 0;font-size:.9rem}
@@ -68,23 +70,33 @@ def shell(title, body):
             f"<title>{H(title)}</title><style>{CSS}</style></head><body><main>{body}</main></body></html>")
 
 
+def paras_html(ps):
+    return "".join(f"<p>{H(p['t'])}</p>{quotes_html(p.get('quotes'))}" for p in ps)
+
+
 def build():
     os.makedirs(OUT, exist_ok=True)
     pages = {}
     for f in sorted(glob.glob("content/amtj-easy/[0-9]*.json")):
         d = json.load(open(f, encoding="utf8"))
-        pages[d["slug"]] = d
+        if "sections" in d:   # rich format only
+            pages[d["slug"]] = d
     order = [p for p in PLAN if p["slug"] in pages]
     for i, p in enumerate(order):
         d = pages[p["slug"]]
         prev = order[i - 1] if i else None
         nxt = order[i + 1] if i + 1 < len(order) else None
         cap = "".join(f"<p>{H(S(e['text']))}</p>" for e in p["sutra_excerpts"])
-        cards = "".join(f'<div class="card"><b>{H(it["head"])}</b><p>{H(it["text"])}</p>{quotes_html(it.get("quotes"))}</div>' for it in d["ideas"])
-        story = ""
-        if d.get("story"):
-            st = d["story"]
-            story = f'<h2>🌱 一个小例子</h2><div class="story"><b>{H(st["title"])}</b><p>{H(st["text"])}</p>{quotes_html(st.get("quotes"))}</div>'
+        terms = "".join(f'<div class="card"><b>{H(t["term"])}</b><p>{H(t["plain"])}</p>{quotes_html(t.get("quotes"))}</div>' for t in d["terms"])
+        secs = ""
+        for n, s in enumerate(d["sections"], 1):
+            ex = ""
+            if s.get("example"):
+                e = s["example"]
+                ex = f'<div class="story"><b>🌱 {H(e["title"])}</b><p>{H(e["text"])}</p>{quotes_html(e.get("quotes"))}</div>'
+            pause = f'<div class="pause">💭 {H(s["pause"])}</div>' if s.get("pause") else ""
+            secs += f'<h2>{n}. {H(s["head"])}</h2>{paras_html(s["paras"])}{ex}{pause}'
+        mis = "".join(f'<div class="card mis"><p class="w">❌ 容易这样想：{H(m["wrong"])}</p><p class="r">✅ {H(m["right"])}</p>{quotes_html(m.get("quotes"))}</div>' for m in d["misreadings"])
         think = '<h2>💭 想一想</h2><div class="think"><ol>' + "".join(f"<li>{H(q)}</li>" for q in d["think"]) + "</ol></div>"
         cov = ""
         if d["coverage"] != "lecture":
@@ -94,22 +106,23 @@ def build():
             uns = '<div class="unsure"><b>还没定论：</b><ul>' + "".join(f"<li>{H(x)}</li>" for x in d["unsure"]) + "</ul></div>"
         pager = ('<div class="pager"><span>' + (f'<a href="{prev["slug"]}.html">← 上一段</a>' if prev else "") + "</span><span>" +
                  (f'<a href="{nxt["slug"]}.html">下一段 →</a>' if nxt else "") + "</span></div>")
-        body = (f'<nav class="top"><a href="index.html">《阿弥陀经》轻松读</a><span>{p["order"]} / {len(order)}</span></nav>'
+        body = (f'<nav class="top"><a href="index.html">《阿弥陀经》轻松读</a><span>{p["order"]} / {len(PLAN)}</span></nav>'
                 f'<h1>{H(d["title"])}</h1><p class="hook">{H(d["hook"])}</p>'
                 f'<div class="sutra"><p class="cap">经文 · 鸠摩罗什译</p>{cap}</div>'
                 f'<div class="surface"><span class="lab">字面意思（整理者的白话，不是讲者原话）</span>{H(d["surface"])}</div>'
-                f'{cov}<h2>🔎 讲者是怎么读的</h2>{cards}{story}{think}'
+                f'{cov}<h2>🔑 先搞懂几个词</h2>{terms}{secs}'
+                f'<h2>⚠️ 容易读偏的地方</h2>{mis}{think}'
                 f'<p class="take">✨ {H(d["takeaway"])}</p>{uns}'
-                f'<p class="more"><a href="../amtj/{p["slug"]}.html">想看完整讲解（含全部原文引用）→</a></p>{pager}'
-                '<p class="note">本页是对讲稿的简化整理，“讲者”指《佛说阿弥陀经大义》的讲者；所有“看讲者原话”都可回查原稿。</p>')
+                f'<p class="more"><a href="../amtj/{p["slug"]}.html">想看更完整的讲解（含全部原文引用）→</a></p>{pager}'
+                '<p class="note">本页是对讲稿的白话整理，“讲者”指《佛说阿弥陀经大义》的讲者；所有“看讲者原话”都可回查原稿。</p>')
         open(f"{OUT}/{p['slug']}.html", "w", encoding="utf8").write(shell(f"{d['title']} · 阿弥陀经轻松读", body))
     toc = "".join(
         f'<li><a href="{p["slug"]}.html">{p["order"]}. {H(pages[p["slug"]]["title"])}</a>'
-        f'<span class="h">{H(pages[p["slug"]]["hook"])}</span></li>' for p in order)
+        f'<span class="h">{H(pages[p["slug"]]["hook"][:70])}…</span></li>' for p in order)
     body = ('<h1>《阿弥陀经》轻松读</h1>'
-            '<p class="hook">不用背术语。每一段先看经文，再看讲者怎么读，最后留几个问题给你自己想。</p>'
+            '<p class="hook">不用先懂术语。每一段先看经文，再把几个关键词讲明白，一步步读下去，中间留几个问题给你自己想。</p>'
             f'<ol class="toc">{toc}</ol>'
-            '<p class="note">想要更完整、逐字可查的版本，请看<a href="../amtj/index.html">详细讲解</a>。经文：鸠摩罗什译，CBETA T12n0366；讲解取自《佛说阿弥陀经大义》及相关讲稿与答疑，版权归原作者。</p>')
+            '<p class="note">想要逐字可查、更完整的版本，请看<a href="../amtj/index.html">详细讲解</a>。经文：鸠摩罗什译，CBETA T12n0366；讲解取自《佛说阿弥陀经大义》及相关讲稿与答疑，版权归原作者。</p>')
     open(f"{OUT}/index.html", "w", encoding="utf8").write(shell("《阿弥陀经》轻松读", body))
     print(f"built {len(order)} pages + index -> {OUT}/")
 
