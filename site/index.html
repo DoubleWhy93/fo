@@ -1,5 +1,4 @@
-<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>华严讲稿学习站</title><style>:root{--bg:#fbf8f2;--fg:#2b2622;--mute:#7a6f63;--acc:#8a4b2a;--card:#fff;--line:#e6dccd;--soft:#f3ebdd;--sutra:#f0f4ea}
+<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>华严讲稿学习站</title><style>:root{--bg:#fbf8f2;--fg:#2b2622;--mute:#7a6f63;--acc:#8a4b2a;--card:#fff;--line:#e6dccd;--soft:#f3ebdd;--sutra:#f0f4ea}
 @media (prefers-color-scheme:dark){:root{--bg:#1d1a17;--fg:#ece5da;--mute:#a79a8a;--acc:#e0a173;--card:#26221e;--line:#3a342d;--soft:#2a2520;--sutra:#232a21}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.85 "Noto Serif SC","Songti SC","Source Han Serif SC",serif}
 main{max-width:46rem;margin:0 auto;padding:2rem 1.2rem 5rem}
@@ -23,19 +22,31 @@ ul.open{font-size:.95rem;color:var(--mute)}
 ol.toc{padding-left:0;list-style:none}ol.toc li{margin:1rem 0;padding:.7rem 1rem;background:var(--card);border:1px solid var(--line);border-radius:8px}
 ol.toc .n{color:var(--mute);margin-right:.5rem}ol.toc .t{font-size:.92rem;color:var(--mute);display:block;margin-top:.2rem}
 .badge{font-size:.72rem;border:1px solid var(--line);border-radius:99px;padding:.05rem .5rem;margin-left:.4rem;color:var(--mute)}
-.card-sum{font-size:1.1rem}.conf{font-size:.8rem;color:var(--mute)}
-table.idx{width:100%;border-collapse:collapse;font-size:.95rem}table.idx td,table.idx th{border-bottom:1px solid var(--line);padding:.45rem .4rem;text-align:left;vertical-align:top}
-.chips a{display:inline-block;margin:.15rem .3rem .15rem 0;padding:.05rem .6rem;border:1px solid var(--line);border-radius:99px;text-decoration:none;font-size:.9rem}
+.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
+justify-content:space-between;flex-wrap:wrap;padding:.5rem 1.2rem;font:15px/1.5 "Noto Sans SC","PingFang SC",sans-serif}
+.gbar .brand{font-weight:700;text-decoration:none;color:var(--fg)}.gbar nav a{margin-left:1rem;text-decoration:none;color:var(--acc)}
+.gbar nav a.on{font-weight:700;border-bottom:2px solid var(--acc)}
+.crumb{font-size:.88rem;color:var(--mute);margin:.2rem 0 .6rem}.crumb a{color:var(--mute)}
+.hero{padding:1.6rem 0 .4rem}.hero h1{font-size:2.2rem}.hero p{font-size:1.15rem;color:var(--mute)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;margin:1rem 0}
+.tile{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.9rem 1.1rem;text-decoration:none;color:var(--fg)}
+.tile b{color:var(--acc);display:block;font-size:1.1rem}.tile span{font-size:.92rem;color:var(--mute)}
+.tile:hover{border-color:var(--acc)}
+table.idx{width:100%;border-collapse:collapse;font-size:.97rem}table.idx td,table.idx th{border-bottom:1px solid var(--line);padding:.45rem .4rem;text-align:left;vertical-align:top}
+.chips a,.chips span.c{display:inline-block;margin:.15rem .3rem .15rem 0;padding:.05rem .6rem;border:1px solid var(--line);border-radius:99px;text-decoration:none;font-size:.9rem}
 .tension{background:var(--card);border:1px dashed var(--acc);border-radius:8px;padding:.7rem 1rem;margin:1rem 0}
 input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
-</style></head><body><main>
-<div class="kicker"></div><h1>华严讲稿学习站</h1><p class="lead">整理自华严书院公开讲稿，并附原文引文。</p>
-<h2>《佛说阿弥陀经》讲解</h2>
-<ol class="toc"><li><a href="amtj-easy/index.html">轻松版</a><span class="t">更口语、带例子和思考题，每页内容不少于详细版。</span></li>
-<li><a href="amtj/index.html">详细版</a><span class="t">逐段对照经文，依讲稿与答疑整理。</span></li></ol>
-<h2>华严知识库</h2>
-<ol class="toc"><li><a href="kb/index.html">概念卡（323）</a><span class="t">每个概念：讲者怎么说、不同用法、各讲稿讲法、说法不一之处、原文引文。</span></li>
-<li><a href="kb/frameworks.html">框架卡（89）</a><span class="t">六波罗蜜、三处十会、住行向地等成员列表与次序。</span></li>
-<li><a href="kb/tensions.html">说法差异（238）</a><span class="t">各页讲法不一致之处，汇集而不裁决。</span></li></ol>
-<p class="note">本页整理自华严书院公开讲稿：概念卡汇集各讲稿的说法并附原文引文，不作裁决；整理可能有疏漏，请以引文所在原页为准。</p>
-</main></body></html>
+.conf{font-size:.8rem;color:var(--mute)}.card-sum{font-size:1.1rem}
+.auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
+</style></head><body><header class="gbar"><a class="brand" href="index.html">华严讲稿学习站</a><nav><a href="jing.html">经典</a><a href="jiang/index.html">讲座</a><a href="wen/index.html">问答</a><a href="kb/index.html">知识库</a><a href="about.html">关于</a></nav></header><main><div class="hero"><h1>华严讲稿学习站</h1>
+<p>整理华严书院公开讲稿与答疑：按经文读、按讲座读、按问题找、按概念查。每段整理都附原文引文。</p></div>
+<h2>从这里开始</h2><div class="grid">
+<a class="tile" href="amtj-easy/index.html"><b>《阿弥陀经》轻松读</b><span>第一次接触？从这部短经开始，一段一段读。</span></a>
+<a class="tile" href="kb/index.html"><b>查一个概念</b><span>种性、道种智、黄金为地……323 个概念，讲者怎么说、各页怎么讲。</span></a>
+<a class="tile" href="wen/index.html"><b>找一个问题</b><span>472 篇答疑，可搜索。</span></a></div>
+<h2>全部内容</h2><div class="grid">
+<a class="tile" href="jing.html"><b>经典</b><span>《佛说阿弥陀经》逐段讲解（轻松版与详细版）</span></a>
+<a class="tile" href="jiang/index.html"><b>讲座</b><span>5 个讲稿系列，161 讲</span></a>
+<a class="tile" href="wen/index.html"><b>问答</b><span>15 组答疑</span></a>
+<a class="tile" href="kb/index.html"><b>知识库</b><span>概念卡、框架卡、讲稿内部的不同说法</span></a>
+<a class="tile" href="about.html"><b>关于</b><span>来源、整理方法与注意事项</span></a></div><p class="note">整理自<a href="https://huayan.academy/">华严书院</a>公开讲稿，仅供学习；内容版权归原作者。</p></main></body></html>

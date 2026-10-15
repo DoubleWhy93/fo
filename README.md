@@ -46,11 +46,10 @@ Work in progress.
 - Explanations attribute readings to the lecturer; they do not add doctrine the sources do not contain.
 - Places where the sources are unclear, differ, or have garbled text are recorded (`notes`, `errata`, `open_questions`) and not silently resolved.
 
-To rebuild the explanation sites:
+To rebuild the whole site into `site/` (landing page, 经典, 讲座, 问答, 知识库, 关于; it runs the 阿弥陀经 and knowledge-base builders too):
 
 ```
-python -I scripts/build_amtj_site.py
-python -I scripts/build_amtj_easy_site.py
+python -I scripts/build_site.py
 ```
 
 ## Licence

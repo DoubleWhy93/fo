@@ -2,6 +2,8 @@
 Usage: python -I scripts/build_kb_site.py   (Simplified Chinese; quotes shown simplified, labelled with their source page)"""
 import glob, html, json, os, re, sys
 import opencc
+sys.path.insert(0, "scripts")
+import site_common
 
 sys.stdout.reconfigure(encoding="utf-8")
 S = opencc.OpenCC("t2s").convert
@@ -11,12 +13,7 @@ OUT = "site/kb"
 os.makedirs(OUT + "/c", exist_ok=True)
 os.makedirs(OUT + "/f", exist_ok=True)
 CSS = open("scripts/build_amtj_site.py", encoding="utf8").read().split('CSS = """')[1].split('"""')[0]
-CSS += """.card-sum{font-size:1.1rem}.conf{font-size:.8rem;color:var(--mute)}
-table.idx{width:100%;border-collapse:collapse;font-size:.95rem}table.idx td,table.idx th{border-bottom:1px solid var(--line);padding:.45rem .4rem;text-align:left;vertical-align:top}
-.chips a{display:inline-block;margin:.15rem .3rem .15rem 0;padding:.05rem .6rem;border:1px solid var(--line);border-radius:99px;text-decoration:none;font-size:.9rem}
-.tension{background:var(--card);border:1px dashed var(--acc);border-radius:8px;padding:.7rem 1rem;margin:1rem 0}
-input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
-"""
+CSS += site_common.BAR_CSS
 SERIES = {"huayan28": "二十八讲", "huayan70": "七十讲", "shixin": "十信位", "swxf": "行法", "amtj": "阿弥陀经大义", "juewu_s": "觉悟", "答疑": "答疑"}
 
 
@@ -35,11 +32,12 @@ def label(sid):
 
 def page(title, body, depth=1, kicker="", nav=True):
     up = "../" * depth
-    nv = (f'<nav class="top"><a href="{up}index.html">首页</a><span><a href="{up}kb/index.html">概念</a> · '
-          f'<a href="{up}kb/frameworks.html">框架</a> · <a href="{up}kb/tensions.html">说法差异</a></span></nav>') if nav else ""
+    nv = site_common.bar(depth, "知识库") if nav else ""
+    sub = (f'<nav class="top"><span><a href="{up}kb/index.html">概念</a> · <a href="{up}kb/frameworks.html">框架</a> · '
+           f'<a href="{up}kb/tensions.html">说法差异</a></span></nav>') if nav else ""
     return f"""<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{H(title)}</title><style>{CSS}</style></head><body><main>
-{nv}<div class="kicker">{H(kicker)}</div>{body}
+<title>{H(title)}</title><style>{CSS}</style></head><body>{nv}<main>
+{sub}<div class="kicker">{H(kicker)}</div>{body}
 <p class="note">本页整理自华严书院公开讲稿：概念卡汇集各讲稿的说法并附原文引文，不作裁决；整理可能有疏漏，请以引文所在原页为准。</p>
 </main></body></html>"""
 
@@ -156,13 +154,4 @@ for k, c in sorted(fws.items(), key=lambda kv: kv[1]["name"]):
 open(f"{OUT}/tensions.html", "w", encoding="utf8").write(page(
     "说法差异", f"<h1>讲稿内部的不同说法</h1><p>共 {len(T)} 条。只汇集不裁决，点概念名可看原文引文。</p>" + "".join(T), 1, "华严知识库"))
 
-home = f"""<h1>华严讲稿学习站</h1><p class="lead">整理自华严书院公开讲稿，并附原文引文。</p>
-<h2>《佛说阿弥陀经》讲解</h2>
-<ol class="toc"><li><a href="amtj-easy/index.html">轻松版</a><span class="t">更口语、带例子和思考题，每页内容不少于详细版。</span></li>
-<li><a href="amtj/index.html">详细版</a><span class="t">逐段对照经文，依讲稿与答疑整理。</span></li></ol>
-<h2>华严知识库</h2>
-<ol class="toc"><li><a href="kb/index.html">概念卡（{len(cards)}）</a><span class="t">每个概念：讲者怎么说、不同用法、各讲稿讲法、说法不一之处、原文引文。</span></li>
-<li><a href="kb/frameworks.html">框架卡（{len(fws)}）</a><span class="t">六波罗蜜、三处十会、住行向地等成员列表与次序。</span></li>
-<li><a href="kb/tensions.html">说法差异（{len(T)}）</a><span class="t">各页讲法不一致之处，汇集而不裁决。</span></li></ol>"""
-open("site/index.html", "w", encoding="utf8").write(page("华严讲稿学习站", home, 0, "", nav=False))
 print(len(cards), "concept pages,", len(fws), "framework pages,", len(T), "tensions")

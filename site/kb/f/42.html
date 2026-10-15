@@ -23,12 +23,23 @@ ul.open{font-size:.95rem;color:var(--mute)}
 ol.toc{padding-left:0;list-style:none}ol.toc li{margin:1rem 0;padding:.7rem 1rem;background:var(--card);border:1px solid var(--line);border-radius:8px}
 ol.toc .n{color:var(--mute);margin-right:.5rem}ol.toc .t{font-size:.92rem;color:var(--mute);display:block;margin-top:.2rem}
 .badge{font-size:.72rem;border:1px solid var(--line);border-radius:99px;padding:.05rem .5rem;margin-left:.4rem;color:var(--mute)}
-.card-sum{font-size:1.1rem}.conf{font-size:.8rem;color:var(--mute)}
-table.idx{width:100%;border-collapse:collapse;font-size:.95rem}table.idx td,table.idx th{border-bottom:1px solid var(--line);padding:.45rem .4rem;text-align:left;vertical-align:top}
-.chips a{display:inline-block;margin:.15rem .3rem .15rem 0;padding:.05rem .6rem;border:1px solid var(--line);border-radius:99px;text-decoration:none;font-size:.9rem}
+.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
+justify-content:space-between;flex-wrap:wrap;padding:.5rem 1.2rem;font:15px/1.5 "Noto Sans SC","PingFang SC",sans-serif}
+.gbar .brand{font-weight:700;text-decoration:none;color:var(--fg)}.gbar nav a{margin-left:1rem;text-decoration:none;color:var(--acc)}
+.gbar nav a.on{font-weight:700;border-bottom:2px solid var(--acc)}
+.crumb{font-size:.88rem;color:var(--mute);margin:.2rem 0 .6rem}.crumb a{color:var(--mute)}
+.hero{padding:1.6rem 0 .4rem}.hero h1{font-size:2.2rem}.hero p{font-size:1.15rem;color:var(--mute)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;margin:1rem 0}
+.tile{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.9rem 1.1rem;text-decoration:none;color:var(--fg)}
+.tile b{color:var(--acc);display:block;font-size:1.1rem}.tile span{font-size:.92rem;color:var(--mute)}
+.tile:hover{border-color:var(--acc)}
+table.idx{width:100%;border-collapse:collapse;font-size:.97rem}table.idx td,table.idx th{border-bottom:1px solid var(--line);padding:.45rem .4rem;text-align:left;vertical-align:top}
+.chips a,.chips span.c{display:inline-block;margin:.15rem .3rem .15rem 0;padding:.05rem .6rem;border:1px solid var(--line);border-radius:99px;text-decoration:none;font-size:.9rem}
 .tension{background:var(--card);border:1px dashed var(--acc);border-radius:8px;padding:.7rem 1rem;margin:1rem 0}
 input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
-</style></head><body><main>
-<nav class="top"><a href="../../index.html">首页</a><span><a href="../../kb/index.html">概念</a> · <a href="../../kb/frameworks.html">框架</a> · <a href="../../kb/tensions.html">说法差异</a></span></nav><div class="kicker">框架卡</div><h1>善财五十三参</h1><p class='card-sum'>《入法界品》善财童子依次参访善知识，经五十三位行法成就</p><h2>成员</h2><ol><li><b>德云比丘</b>：自妙峰山顶起的首参</li><li><b>释女瞿波</b>：法云地善知识</li><li><b>摩耶夫人</b>：初等觉位善知识</li></ol><p>按参访先后与所对应位次；各页只给零星位置，完整五十三位未列出</p><p class='conf'>完整度：fragmentary</p><div class='ex'><b>概述：经五十三位次第行法至普贤菩萨法界</b><p>德云比丘</p></div><div class='ex'><b>以法云地与初等觉位两位善知识作对比</b><p>释女瞿波、摩耶夫人</p></div><h2>原文</h2><ul class='open'><li><q class="orig">从妙峰山顶参德云比丘开始，经历五十三位次第行法，最终到达如来座前普贤菩萨法界圆满。</q><sup class="src">二十八讲·第十一讲</sup></li><li><q class="orig">法云地善知识是释女瞿波，代表与无上正觉相伴守护，但基因并非同一，而初等觉位善知识是摩耶夫人</q><sup class="src">七十讲·第二十七讲</sup></li></ul><h2>讲稿中没有讲清的</h2><ul class='open'><li>五十三位善知识的完整名单及位次对应，所读页面均未逐一列出</li><li>pages/swxf/shizhu17 仅被标为隐含提及，未找到可引的原文</li><li>第七住位善知识休舍优婆夷、及摩耶夫人之前三位（宝眼主城神、莲华法德及妙华光明身众神、善眼罗刹鬼王）见于七十讲，未列入成员</li></ul><h2>相关</h2><p class='chips'><span><a href="../c/014.html">三处演说</a></span> <span><a href="../c/054.html">入法界品</a></span> <span><a href="../f/48.html">四十位行法</a></span> <span><a href="../c/175.html">普贤菩萨法界</a></span></p>
+.conf{font-size:.8rem;color:var(--mute)}.card-sum{font-size:1.1rem}
+.auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
+</style></head><body><header class="gbar"><a class="brand" href="../../index.html">华严讲稿学习站</a><nav><a href="../../jing.html">经典</a><a href="../../jiang/index.html">讲座</a><a href="../../wen/index.html">问答</a><a href="../../kb/index.html" class=on>知识库</a><a href="../../about.html">关于</a></nav></header><main>
+<nav class="top"><span><a href="../../kb/index.html">概念</a> · <a href="../../kb/frameworks.html">框架</a> · <a href="../../kb/tensions.html">说法差异</a></span></nav><div class="kicker">框架卡</div><h1>善财五十三参</h1><p class='card-sum'>《入法界品》善财童子依次参访善知识，经五十三位行法成就</p><h2>成员</h2><ol><li><b>德云比丘</b>：自妙峰山顶起的首参</li><li><b>释女瞿波</b>：法云地善知识</li><li><b>摩耶夫人</b>：初等觉位善知识</li></ol><p>按参访先后与所对应位次；各页只给零星位置，完整五十三位未列出</p><p class='conf'>完整度：fragmentary</p><div class='ex'><b>概述：经五十三位次第行法至普贤菩萨法界</b><p>德云比丘</p></div><div class='ex'><b>以法云地与初等觉位两位善知识作对比</b><p>释女瞿波、摩耶夫人</p></div><h2>原文</h2><ul class='open'><li><q class="orig">从妙峰山顶参德云比丘开始，经历五十三位次第行法，最终到达如来座前普贤菩萨法界圆满。</q><sup class="src">二十八讲·第十一讲</sup></li><li><q class="orig">法云地善知识是释女瞿波，代表与无上正觉相伴守护，但基因并非同一，而初等觉位善知识是摩耶夫人</q><sup class="src">七十讲·第二十七讲</sup></li></ul><h2>讲稿中没有讲清的</h2><ul class='open'><li>五十三位善知识的完整名单及位次对应，所读页面均未逐一列出</li><li>pages/swxf/shizhu17 仅被标为隐含提及，未找到可引的原文</li><li>第七住位善知识休舍优婆夷、及摩耶夫人之前三位（宝眼主城神、莲华法德及妙华光明身众神、善眼罗刹鬼王）见于七十讲，未列入成员</li></ul><h2>相关</h2><p class='chips'><span><a href="../c/014.html">三处演说</a></span> <span><a href="../c/054.html">入法界品</a></span> <span><a href="../f/48.html">四十位行法</a></span> <span><a href="../c/175.html">普贤菩萨法界</a></span></p>
 <p class="note">本页整理自华严书院公开讲稿：概念卡汇集各讲稿的说法并附原文引文，不作裁决；整理可能有疏漏，请以引文所在原页为准。</p>
 </main></body></html>
