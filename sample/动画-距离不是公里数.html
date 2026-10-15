@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>距离不是公里数</title>
+<style>
+:root{--bg:#0b0e14;--panel:#121722;--fg:#ece9e1;--mute:#8b93a1;--blue:#58C4DD;--yel:#F4D35E;--line:#232b3a}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.7 "Noto Sans SC","Microsoft YaHei","PingFang SC",system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:18px 14px 40px}
+header{display:flex;justify-content:space-between;align-items:baseline;color:var(--mute);font-size:.85rem;letter-spacing:.08em;padding:0 4px 10px}
+.stagebox{background:#0b0e14;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+svg{display:block;width:100%;height:auto}
+svg text{font-family:"Noto Sans SC","Microsoft YaHei","PingFang SC",sans-serif}
+.cap{min-height:9.5rem;padding:14px 8px 4px}
+#narr{font-size:1.45rem;line-height:1.55;transition:opacity .4s}
+#quote{margin-top:.55rem;padding-left:.8rem;border-left:3px solid var(--yel);color:#cfd6e2;font-size:1.02rem;transition:opacity .4s}
+#src{color:var(--mute);font-size:.8rem;margin-top:.2rem;transition:opacity .4s}
+.bar{display:flex;gap:.7rem;align-items:center;margin-top:10px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+button,select{background:#1a2132;color:var(--fg);border:1px solid #2c3750;border-radius:6px;padding:.3rem .7rem;font:inherit;cursor:pointer}
+button:hover{border-color:var(--blue)}
+input[type=range]{flex:1;accent-color:var(--blue)}
+#time{color:var(--mute);font-variant-numeric:tabular-nums;font-size:.9rem;min-width:5.2em;text-align:right}
+.chap{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:10px}
+.chap button{font-size:.82rem;padding:.2rem .6rem;color:var(--mute)}
+.chap button.on{color:var(--yel);border-color:var(--yel)}
+.note{color:var(--mute);font-size:.82rem;margin-top:18px;border-top:1px solid var(--line);padding-top:10px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><span>华严入门 · 动画</span><span>空格 暂停 / 播放 · ← → 快退 / 快进</span></header>
+<div class="stagebox">
+<svg id="stage" viewBox="0 0 1280 660" role="img" aria-label="动画：种性的距离不是空间的距离"></svg>
+</div>
+<div class="cap"><div id="narr"></div><div id="quote"></div><div id="src"></div></div>
+<div class="bar">
+<button id="play">暂停</button><button id="restart">重播</button>
+<input id="scrub" type="range" min="0" max="90" step="0.05" value="0">
+<span id="time">0:00 / 1:30</span>
+<select id="speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.5">1.5×</option></select>
+</div>
+<div class="chap" id="chap"></div>
+<p class="note">整理自《华严经总释二十八讲》第14、19、23讲。旁白为整理者所写，引文为讲者原话（已逐句核对）。动画只表达讲稿所说的“种性距离”这一层意思；台阶的间距是示意，并非讲稿给出的尺度。</p>
+</div>
+<script>
+const DATA={"captions": [{"t0": 0, "t1": 5, "text": "<b>距离</b>，该用什么来量？", "quote": "", "src": ""}, {"t0": 5, "t1": 14, "text": "先看一间禅堂：七个人坐在一起，一起念佛，一起打坐。", "quote": "虽然大家同在念佛，同在禅堂打坐", "src": "二十八讲·第19讲"}, {"t0": 14, "t1": 23, "text": "经里说：“从是西方过十万亿佛土，有世界名曰极乐。”按字面读，这是一段路——向西，很远很远。", "quote": "有人认为宇宙中的某个地方存在那样一个极乐世界", "src": "二十八讲·第23讲"}, {"t0": 23, "t1": 34, "text": "但讲者说：这十万亿佛土，不是公里数。它量的是另一个方向。", "quote": "『十万亿佛土』是指极乐净土和娑婆世界在种性上的距离，并不是空间上的距离", "src": "二十八讲·第23讲"}, {"t0": 34, "t1": 46, "text": "同一句经文，种性不同的人，读出三个不同的“目的地”。", "quote": "是按照空间上的距离来建立，还是按照『种性』上的距离来建立，这就成了大问题，二者完全不同", "src": "二十八讲·第23讲"}, {"t0": 46, "t1": 60, "text": "于是，坐在同一间禅堂里的人，其实相隔很远。", "quote": "人天外道、二乘声闻、权教别教修行者和华严行法之间，最少是十万亿佛土，乃至于三十二亿恒河沙国土的距离", "src": "二十八讲·第19讲"}, {"t0": 60, "t1": 80, "text": "怎样跨过去？不是走路，也不是熬时间。", "quote": "这个距离不是世间法可以跨越的，需要生起内在觉知模式的行法才能跨越　一旦切实生起这样的行法，就是进入到华严行法的初住位，就是跨越了十万亿佛土", "src": "二十八讲·第19讲"}, {"t0": 80, "t1": 90, "text": "距离，要用智慧去量，也要用智慧去跨。", "quote": "种性之间的距离需要靠智慧跨越，不是靠苦行可以跨越。", "src": "二十八讲·第14讲"}], "q": {"bracket": "人天外道、二乘声闻、权教别教修行者和华严行法之间，最少是十万亿佛土，乃至于三十二亿恒河沙国土的距离", "seventh": "当修行者到达第七住位得无生忍，这个距离就已经不是十万亿佛土所能衡量", "ten": "如果修行者能到达华严行法的十回向位、十地位，这就是跨越了三十二亿恒河沙国土", "vajra": "能够到达金刚种性，这和二乘声闻行者、权教别教行者之间的距离即是无量亿国土"}};
+const NS="http://www.w3.org/2000/svg", st=document.getElementById("stage");
+const BLUE="#58C4DD",YEL="#F4D35E",GRN="#83C167",RED="#FC6255",GRY="#8b93a1",WHT="#ece9e1";
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const ez=x=>{x=clamp(x);return x*x*(3-2*x)};
+const lp=(a,b,t)=>a+(b-a)*t;
+const win=(t,a,b)=>ez((t-a)/(b-a));
+function mk(tag,a={},txt){const e=document.createElementNS(NS,tag);for(const k in a)e.setAttribute(k,a[k]);if(txt!==undefined)e.textContent=txt;st.appendChild(e);return e}
+const TOTAL=90;
+
+// defs
+const defs=mk("defs");
+defs.innerHTML='<marker id="ah" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 z" fill="'+YEL+'"/></marker>';
+
+// title
+const title=mk("text",{x:640,y:310,"text-anchor":"middle","font-size":120,fill:WHT,"font-weight":700},"距离");
+const sub=mk("text",{x:640,y:380,"text-anchor":"middle","font-size":28,fill:GRY},"《华严经》里的“过十万亿佛土”");
+
+// axes + hall
+const xAxis=mk("line",{x1:110,y1:560,x2:1180,y2:560,stroke:GRY,"stroke-width":2,pathLength:1,"stroke-dasharray":1});
+const xLabel=mk("text",{x:1180,y:592,"text-anchor":"end","font-size":22,fill:GRY},"空间 →");
+const HALLX=345;
+const hall=mk("rect",{x:290,y:470,width:270,height:90,rx:8,fill:"none",stroke:GRY,"stroke-width":2,"stroke-dasharray":"7 6"});
+const hallLabel=mk("text",{x:HALLX,y:452,"text-anchor":"middle","font-size":22,fill:GRY},"禅堂");
+const hallNote=mk("text",{x:425,y:622,"text-anchor":"middle","font-size":22,fill:BLUE},"同在念佛 · 同在打坐");
+
+// sutra line
+const sutra=mk("text",{x:640,y:64,"text-anchor":"middle","font-size":30,fill:WHT},"“从是西方过十万亿佛土”");
+
+// y-axis ticks
+const TICKS=[[525,"凡夫种性"],[455,"二乘声闻 · 缘觉"],[385,"权教 · 别教"],[300,"华严十住位 · 初住"],[235,"第七住位 · 无生忍"],[170,"十回向 · 十地位"]];
+const ticks=TICKS.map(([y,n])=>({y,l:mk("line",{x1:552,y1:y,x2:568,y2:y,stroke:GRY,"stroke-width":2}),t:mk("text",{x:584,y:y+7,"font-size":21,fill:WHT},n)}));
+
+// arrow + far dot
+const arrow=mk("line",{x1:560,y1:525,x2:560,y2:525,stroke:YEL,"stroke-width":4,"marker-end":"url(#ah)"});
+const dot=mk("circle",{r:10,fill:YEL});
+const farLabel=mk("text",{"font-size":24,fill:YEL},"极乐世界？");
+const distLabel=mk("text",{"text-anchor":"middle","font-size":24,fill:YEL},"十万亿佛土");
+const yTitle=mk("text",{x:540,y:101,"text-anchor":"end","font-size":26,fill:YEL,"font-weight":700},"种性 ↑");
+
+// S4 destinations
+const DEST=[[525,"→ 世间净土（按空间去想）"],[420,"二乘声闻 · 别教种性 → 声闻别教净土"],[267,"华严行者种性 → 自性地实报净土，乃至常寂光净土"]];
+const dests=DEST.map(([y,s])=>mk("text",{x:835,y,"font-size":20,fill:BLUE},s));
+dests[0].setAttribute("x",800);dests[1].setAttribute("x",740);dests[2].setAttribute("x",800);
+
+// S5 bracket
+const brk=mk("path",{d:"M262,525 L250,525 L250,300 L262,300",fill:"none",stroke:RED,"stroke-width":3});
+const brk1=mk("text",{x:236,y:390,"text-anchor":"end","font-size":20,fill:RED},"最少十万亿佛土");
+const brk2=mk("text",{x:236,y:418,"text-anchor":"end","font-size":20,fill:RED},"乃至三十二亿恒河沙国土");
+
+// people
+const N=7, px=i=>320+i*38;
+const YT5=[525,525,525,455,455,385,300];
+const people=[...Array(N)].map((_,i)=>mk("circle",{cx:px(i),cy:525,r:13,fill:BLUE}));
+const halo=mk("circle",{cx:px(2),cy:525,r:20,fill:"none",stroke:YEL,"stroke-width":3});
+
+// S6 banners
+const BAN=[[300,"→ 初住位：跨越十万亿佛土"],[235,"→ 第七住位 · 无生忍：已非十万亿佛土所能衡量"],[170,"→ 十回向 · 十地：跨越三十二亿恒河沙国土（金刚种性）"]];
+const bans=BAN.map(([y,s])=>mk("text",{x:800,y:y+7,"font-size":18,fill:YEL},s));
+const gapLine=mk("line",{x1:px(2)+60,y1:525,x2:px(2)+60,y2:170,stroke:RED,"stroke-width":2,"stroke-dasharray":"6 6"});
+const gapText=mk("text",{x:800,y:400,"font-size":18,fill:RED},"与二乘声闻、权教别教行者之间：无量亿国土");
+
+function render(t){
+  title.style.opacity=sub.style.opacity=win(t,0,1.2)*(1-win(t,4,5.2));
+  const xdim=1-0.8*win(t,24,27);
+  xAxis.setAttribute("stroke-dashoffset",1-win(t,5,7)); xAxis.style.opacity=xdim;
+  xLabel.style.opacity=win(t,5.5,7)*xdim;
+  const hp=win(t,46,50), hy=lp(470,120,hp), hh=lp(90,440,hp);
+  hall.setAttribute("y",hy);hall.setAttribute("height",hh);hall.style.opacity=win(t,6,8);
+  hallLabel.setAttribute("y",hy-18);hallLabel.textContent=t>=46?"同一间禅堂":"禅堂";hallLabel.style.opacity=win(t,7,9);
+  hallNote.style.opacity=win(t,10,12)*(1-win(t,14,16));
+  sutra.style.opacity=win(t,14,16)*(1-win(t,44,46));
+
+  // arrow rotates from pointing west(right) to pointing up
+  const L=win(t,15,19), th=-Math.PI/2*win(t,24,30);
+  const ex=560+430*Math.cos(th), ey=525+430*Math.sin(th);
+  const ax=lp(560,ex,L), ay=lp(525,ey,L);
+  arrow.setAttribute("x2",ax);arrow.setAttribute("y2",ay);arrow.style.opacity=L>0.001?1:0;
+  dot.setAttribute("cx",ex);dot.setAttribute("cy",ey);dot.style.opacity=win(t,18,19.5);
+  farLabel.setAttribute("x",ex+(t<26?-60:20));farLabel.setAttribute("y",ey+(t<26?-18:8));
+  farLabel.textContent=t<30?"极乐世界？":"极乐净土";farLabel.style.opacity=win(t,18,19.5);
+  distLabel.setAttribute("text-anchor",t<26?"middle":"end");distLabel.setAttribute("x",t<26?(560+ax)/2:540);distLabel.setAttribute("y",(525+ay)/2+(t<26?-14:6));
+  distLabel.textContent=t<30?"十万亿佛土":"种性上的距离";distLabel.style.opacity=win(t,17,19)*(1-win(t,56,58));
+  yTitle.style.opacity=win(t,30,32);
+  ticks.forEach((k,j)=>{const o=win(t,30+0.5*j,31+0.5*j);k.l.style.opacity=o;k.t.style.opacity=o});
+  dests.forEach((d,k)=>{d.style.opacity=win(t,36+2*k,37.5+2*k)*(1-win(t,44,46))});
+
+  // people
+  const dim=lp(lp(1,0.35,win(t,14,16)),1,win(t,46,48));
+  people.forEach((c,i)=>{
+    const pop=win(t,7+0.25*i,7.7+0.25*i);
+    let y=lp(525,YT5[i],win(t,48,54));
+    if(i===2){y=525;y=lp(y,300,win(t,62,66));y=lp(y,235,win(t,68,72));y=lp(y,170,win(t,74,78));}
+    c.setAttribute("cy",y);c.setAttribute("r",13*pop);
+    c.setAttribute("fill",i===2&&t>=59?YEL:(i===6&&t>=48?GRN:BLUE));
+    c.style.opacity=pop*((i===2&&t>=59)?1:dim);
+  });
+  halo.setAttribute("cy",people[2].getAttribute("cy"));halo.style.opacity=win(t,58,60);
+
+  brk.style.opacity=brk1.style.opacity=brk2.style.opacity=win(t,52,55)*(1-win(t,60,62));
+  bans.forEach((b,k)=>{b.style.opacity=win(t,64+6*k,66+6*k)});
+  gapLine.style.opacity=gapText.style.opacity=win(t,78,80);
+}
+
+// captions & controls
+const $=s=>document.querySelector(s);
+let t=0,playing=true,speed=1,lastCap=-1,last=performance.now();
+const narr=$("#narr"),quote=$("#quote"),src=$("#src");
+function caps(t){
+  const i=DATA.captions.findIndex(c=>t>=c.t0&&t<c.t1);
+  if(i===lastCap)return; lastCap=i;
+  const c=DATA.captions[i<0?DATA.captions.length-1:i];
+  narr.innerHTML=c.text;
+  quote.style.display=c.quote?"":"none";
+  quote.textContent=c.quote?"「"+c.quote+"」":"";
+  src.textContent=c.src?"—— "+c.src:"";
+}
+const fmt=s=>{s=Math.max(0,Math.floor(s));return Math.floor(s/60)+":"+String(s%60).padStart(2,"0")};
+const CH=[["开场",0],["同在一堂",5],["按空间读",14],["改读为种性",23],["三种读法",34],["同堂而远隔",46],["如何跨过",60],["小结",80]];
+const chap=$("#chap");
+CH.forEach(([n,s])=>{const b=document.createElement("button");b.textContent=n;b.onclick=()=>{t=s;draw();};chap.appendChild(b)});
+function draw(){
+  render(t);caps(t);$("#scrub").value=t;$("#time").textContent=fmt(t)+" / "+fmt(TOTAL);
+  [...chap.children].forEach((b,i)=>{const on=t>=CH[i][1]&&(i===CH.length-1||t<CH[i+1][1]);b.classList.toggle("on",on)});
+}
+function tick(now){
+  const dt=(now-last)/1000;last=now;
+  if(playing){t+=dt*speed;if(t>=TOTAL){t=TOTAL;playing=false;$("#play").textContent="播放"}}
+  draw();requestAnimationFrame(tick);
+}
+$("#play").onclick=()=>{if(t>=TOTAL)t=0;playing=!playing;$("#play").textContent=playing?"暂停":"播放"};
+$("#restart").onclick=()=>{t=0;playing=true;$("#play").textContent="暂停"};
+$("#scrub").oninput=e=>{t=parseFloat(e.target.value);draw()};
+$("#speed").onchange=e=>speed=parseFloat(e.target.value);
+addEventListener("keydown",e=>{
+  if(e.code==="Space"){e.preventDefault();$("#play").click()}
+  if(e.code==="ArrowRight"){t=Math.min(TOTAL,t+5)}
+  if(e.code==="ArrowLeft"){t=Math.max(0,t-5)}
+});
+const m=location.hash.match(/t=([\d.]+)/);
+if(m){t=parseFloat(m[1]);playing=false;$("#play").textContent="播放"}
+draw();requestAnimationFrame(tick);
+</script>
+</body>
+</html>
