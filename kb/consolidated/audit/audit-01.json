@@ -1,0 +1,82 @@
+[
+ {
+  "id": "L001",
+  "verdict": "supported",
+  "reason": "引文所在答语逐一列出无想定、声闻种性、别教菩萨、华严行法四类一心清净，并说都需定义清楚。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L002",
+  "verdict": "supported",
+  "reason": "两页均在引文中完整列出七种根本作意，且均出自《瑜伽师地论》。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L003",
+  "verdict": "partly",
+  "reason": "所引『身业和语业代表…』未涉三处演说；但同页另一段确有该对应，且讲者补一句『怎么理解都可以』。",
+  "suggested_text": "shixin13 说从三处演说角度讲身语意一切法：菩提场会是意地一切法，普光明殿是语业一切法，入法界是身业一切法（怎么理解都可以，但要分清楚）。",
+  "evidence": [
+   {
+    "q": "菩提場會講的這一塊，就是意地一切法；普光明殿就是語業一切法；入法界就是身業一切法。",
+    "src": "pages/shixin/shixin13"
+   }
+  ]
+ },
+ {
+  "id": "L004",
+  "verdict": "supported",
+  "reason": "引文上下文被截断，但同页紧接处明言三昧基于梵行清净的生命活动与体验，根本智行法无入出三昧，差别智行法随缘生起有入出。",
+  "suggested_text": "",
+  "evidence": [
+   {
+    "q": "如來種性的根本智行法沒有入出三昧的說法，一切法皆是自性法。",
+    "src": "pages/huayan70/jiangyi16"
+   }
+  ]
+ },
+ {
+  "id": "L005",
+  "verdict": "supported",
+  "reason": "引文明言意法只有本人知道、别人无法进入，并说意是不共世间。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L006",
+  "verdict": "supported",
+  "reason": "引文及上下文：眼耳鼻舌身所面对的星系宇宙是直观零散的表象，加上自我的定义才叫世界。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L007",
+  "verdict": "supported",
+  "reason": "引文来自2023年问答，讲者说看到某一法先问怎么生起、为何呈现、哪些因缘促成。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L008",
+  "verdict": "supported",
+  "reason": "引文原句即说世间是凡夫贪瞋痴慢生死染著的生起处，亦是生命解脱与无上正觉成就处，出自huayan70。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L009",
+  "verdict": "supported",
+  "reason": "引文明言菩萨行法中烦恼即菩提、生死即涅槃，见烦恼生恐怖要远离就还没到菩萨行法。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L010",
+  "verdict": "supported",
+  "reason": "四项均有对应页：初住位乐住生死；第六第七住强调；七住位得生命解脱之后；十行位以后在一一法别相中建立。",
+  "suggested_text": "",
+  "evidence": []
+ }
+]

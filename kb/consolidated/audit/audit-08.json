@@ -1,0 +1,74 @@
+[
+ {
+  "id": "L071",
+  "verdict": "partly",
+  "reason": "主语是民间信仰：因其把解脱寄于异身异时异处来生，故属世间法；并非寄托本身被称世间法。",
+  "suggested_text": "huayan70第50讲：民间信仰不能解决当下生命解脫，把解脱寄望于异身、异时、异处的来生来世，故是世间法。",
+  "evidence": [
+   {
+    "q": "為什麼民間信仰是世間法？因為民間信仰不能解決當下生命解脫的問題",
+    "src": "pages/huayan70/jiangyi50"
+   }
+  ]
+ },
+ {
+  "id": "L072",
+  "verdict": "supported",
+  "reason": "上下文明言证得般若波罗蜜即到涅槃地，之后布施才是檀波罗蜜等。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L073",
+  "verdict": "supported",
+  "reason": "原文明确说在对立法背后看总持的法则，从法则看二法即同一法。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L074",
+  "verdict": "supported",
+  "reason": "原文：初住位乐住生死指作意思惟，生死即别教菩萨清净法习气。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L075",
+  "verdict": "partly",
+  "reason": "两侧引文都有，但并不构成冲突：swxf称见性位/三贤位思辩领域为生如来家，huayan70称十信位还不算，二者位次可相容。",
+  "suggested_text": "swxf说思辩领域（三贤位、见性位）也称生如来家；huayan70说安住一切法即生如来家，最低证诸法空得无生忍，十信位准确讲还不算。",
+  "evidence": [
+   {
+    "q": "十信位明瞭如來地一切法所在，入阿鞞跋致性，準確講還不算生如來家。",
+    "src": "pages/huayan70/jiangyi48"
+   }
+  ]
+ },
+ {
+  "id": "L076",
+  "verdict": "supported",
+  "reason": "原文：面对未知一法给名字，名字代表其存在可能性，指向如来地无上正觉。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L077",
+  "verdict": "supported",
+  "reason": "原文：童子所在处是种子所在与成就发起处，且是确能成无上正觉的种子。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L078",
+  "verdict": "supported",
+  "reason": "原文：第七位出离生死指出离有法习气影响；第八至第十位入灭尽定行法。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L079",
+  "verdict": "supported",
+  "reason": "原文：编织即给意义，一编织就有清净染著及娑婆极乐华藏世界的分别。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L080",
+  "verdict": "supported",
+  "reason": "原文：能天主生命中「能」这个力平时叫能力，其各种作用形式形成诸天。",
+  "suggested_text": ""
+ }
+]

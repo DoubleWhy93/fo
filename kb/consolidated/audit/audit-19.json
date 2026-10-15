@@ -1,0 +1,74 @@
+[
+ {
+  "id": "S072",
+  "verdict": "supported",
+  "reason": "三条引文分别直接显示：同一力量为烦恼种子/道种、十行位看清楚后称道种、别教阶段转成道种智、关键在生起后的呈现模式。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S073",
+  "verdict": "supported",
+  "reason": "三处引文分别明确显示声闻种性破一念无明与华严讲法之别、第七住位止息影响、别教普贤法界从破到破尽。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S074",
+  "verdict": "supported",
+  "reason": "两侧引文各自显示其说法；二者张力较弱（前者亦说关注力量即一念无明之力量），但各半均成立。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S075",
+  "verdict": "unsupported",
+  "reason": "两处说法并不冲突：都说第七住位只是止息/停止一念无明的影响，不能转成智慧，转智慧靠道种智行法，互为补充。",
+  "suggested_text": "第七住位（无生忍）破一念无明只是止息其带来的束缚和烦恼生起，不能把一念无明转成智慧；转成智慧需菩萨道种智行法（两处说法一致）。",
+  "evidence": [
+   {
+    "q": "並不能轉一念無明成為無上智慧",
+    "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/31.wsmgszsjsmxjx-fsgsby"
+   }
+  ]
+ },
+ {
+  "id": "S076",
+  "verdict": "partly",
+  "reason": "一念无明又称烦恼障、与道种智是同一力量均有依据；但「有加行力的有为法」在所给引文及jiangyi27全页均未出现，且两说并不冲突。",
+  "suggested_text": "一念无明是针对具体某一法的关注和欲求，又称烦恼障；它与菩萨道种智背后是同一个力量，只是所经历的流转不同。",
+  "evidence": [
+   {
+    "q": "道種智不是離開一念無明的力量而獨有，它們是同一個力量，但所經歷的流轉不同",
+    "src": "pages/huayan70/jiangyi27"
+   }
+  ]
+ },
+ {
+  "id": "S077",
+  "verdict": "supported",
+  "reason": "各引文分别显示：法界即众生界、眼耳鼻舌身意与五蕴六入等一切法、法界即我界（引文殊语）、不在别处、需如实知与体验及智慧加生命体验。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S078",
+  "verdict": "supported",
+  "reason": "引文显示法界即众生界；世尊语五蕴身一切法一切觉知即法界；讲者认可「身在法界而不是入法界」。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S079",
+  "verdict": "supported",
+  "reason": "jiangyi34明言法界包括存在现相与存在事实，并说法界是从生命参与角度说的。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S080",
+  "verdict": "supported",
+  "reason": "引文显示善思惟/智慧加生命体验叫入法界，且只见存在现相、不如实知与体验不称入法界。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S081",
+  "verdict": "supported",
+  "reason": "jiangyi50说法界不在别处；另一页明说不要理解为现有一切法之外另有诸佛法界，而是从内在建立的力量。",
+  "suggested_text": ""
+ }
+]

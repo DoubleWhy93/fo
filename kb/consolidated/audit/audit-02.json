@@ -1,0 +1,81 @@
+[
+ {
+  "id": "L011",
+  "verdict": "supported",
+  "reason": "各页分别把「乐住生死」置于初住、六七住、七住得解脱后、十行位以后，四处均有原文，且说法确有差异。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L012",
+  "verdict": "supported",
+  "reason": "上下文明说迦毗罗卫、嵐毗尼、菩提场为密法言说、非历史地名；北岸=眼耳鼻舌身，南岸菩提场=意地，均有。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L013",
+  "verdict": "supported",
+  "reason": "「在任何一法来临的时候……我们在任何一法里面都要有这个过程」直接支持。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L014",
+  "verdict": "supported",
+  "reason": "上下文：「今现在说法」在报身世间完成；以化身世间修法模式只能妄想说某处有佛说法而听不到。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L015",
+  "verdict": "supported",
+  "reason": "上下文：魔通过眼耳鼻舌身令人生觉受、我身我见、我执；十地行法在他化自在天王宫演说。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L016",
+  "verdict": "supported",
+  "reason": "上下文：加工结果再回到眼耳鼻舌身一切法时即「他化天」，出自2024问答页。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L017",
+  "verdict": "supported",
+  "reason": "十住位讲中：以如来地为目标、核心生起住行向地四位行法，称「以果为因」。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L018",
+  "verdict": "supported",
+  "reason": "两页分别说如来地一法存在即其呈现、无生忍阶段以自己显现为果、因果同时存在。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L019",
+  "verdict": "supported",
+  "reason": "「从体相用的角度……从觉知一切法到体验一切法的角度」直接支持。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "L020",
+  "verdict": "partly",
+  "reason": "两种用法各有引文支持；但「讲者并未明确区分」页面未显示，两处并无冲突，只是不同层面的用法。",
+  "suggested_text": "入法界既指《华严经》第三处（僧所行处、无量清净行法成就处），也指修行者以智慧力和行法实践如实知、如实体验一切法的存在现相与事实。",
+  "evidence": [
+   {
+    "q": "第三處入法界是僧所行處，是無量清淨行法成就處",
+    "src": "pages/huayan28/28jiang17"
+   },
+   {
+    "q": "修行者以智慧力和行法實踐如實知、如實體驗一切法的存在現相和存在事實即是入法界",
+    "src": "pages/huayan70/jiangyi34"
+   }
+  ]
+ }
+]

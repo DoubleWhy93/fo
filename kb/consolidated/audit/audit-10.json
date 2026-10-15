@@ -1,0 +1,68 @@
+[
+ {
+  "id": "L091",
+  "verdict": "supported",
+  "reason": "amtj5先本体后自发，amtj6先自发后本体，两页顺序确实不同。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L092",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L093",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L094",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L095",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L096",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L097",
+  "verdict": "supported",
+  "reason": "卡片引文较弱，但同页《楞严》劫波罗巾六结须次第解、不能同时除，明确支持。",
+  "suggested_text": "",
+  "evidence": [
+   {
+    "q": "六結雖然同在一條巾上，但是六結依次挽成，不可能同時打開，要一個一個按次序打開才行。",
+    "src": "pages/huayan28/28jiang11"
+   }
+  ]
+ },
+ {
+  "id": "L098",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L099",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ },
+ {
+  "id": "L100",
+  "verdict": "supported",
+  "reason": "引文及上下文直接显示该主张。",
+  "suggested_text": ""
+ }
+]

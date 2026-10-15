@@ -1,0 +1,68 @@
+[
+ {
+  "id": "L051",
+  "verdict": "supported",
+  "reason": "上下文明言往昔为因地行法模式，果地成就时初发心处成为背后隐秘发起力量",
+  "suggested_text": ""
+ },
+ {
+  "id": "L052",
+  "verdict": "supported",
+  "reason": "上下文紧接译名后即说能生起微细观察与胜妙思惟、于一切法明了通达",
+  "suggested_text": ""
+ },
+ {
+  "id": "L053",
+  "verdict": "supported",
+  "reason": "十住讲明说心王菩萨由正念天子加法慧、功德林、金刚幢、金刚藏等能力总合而成",
+  "suggested_text": ""
+ },
+ {
+  "id": "L054",
+  "verdict": "supported",
+  "reason": "讲者说须提供概念、次第、指归；同页后文说在每一名号里如实知、如实体验解脱与无上正觉（不在引文邻近处）",
+  "suggested_text": ""
+ },
+ {
+  "id": "L055",
+  "verdict": "supported",
+  "reason": "上下文以苹果例明确说总相别相相对，这个苹果又成总相",
+  "suggested_text": ""
+ },
+ {
+  "id": "L056",
+  "verdict": "partly",
+  "reason": "两半均可在上下文见到，但所引句并非前半证据；且两处讲法（抽象概念vs觉知能力）未必构成矛盾，'总相=觉知能力'属概括",
+  "suggested_text": "一处说作为形而上概念的总相只有人天众生能通过思惟觉知提取；另一处说总相即不需特意关注，生命本身共一切有情都有觉知观察体验一切法的能力。",
+  "evidence": [
+   {
+    "q": "只有我們人天衆生通過思惟、覺知才能做到",
+    "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/83.hwzx-ycbxszydgx-"
+   }
+  ]
+ },
+ {
+  "id": "L057",
+  "verdict": "supported",
+  "reason": "引文所在段明说自我因素的定义方式决定报身世间是娑婆、极乐还是华藏",
+  "suggested_text": ""
+ },
+ {
+  "id": "L058",
+  "verdict": "supported",
+  "reason": "上下文明说不能对每一法成就觉悟则无上正觉为妄想相，一切法中成就解脱、如实知",
+  "suggested_text": ""
+ },
+ {
+  "id": "L059",
+  "verdict": "supported",
+  "reason": "引文前句：变成习性后不作意也会生起，经典称无加行力生起",
+  "suggested_text": ""
+ },
+ {
+  "id": "L060",
+  "verdict": "supported",
+  "reason": "引文后明说仍依赖善知识与经典，但须依自己的善思惟生起、检验、体验",
+  "suggested_text": ""
+ }
+]

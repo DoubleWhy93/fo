@@ -1,0 +1,68 @@
+[
+ {
+  "id": "S082",
+  "verdict": "supported",
+  "reason": "两处引文分别说法界是总的说法，及依十十围绕展开的模式即法界模式。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S083",
+  "verdict": "partly",
+  "reason": "两种表述均有引文，但所引页面自身把法界与入法界区分开，且第一页也说有生命活动参与才有法界，并非并存冲突。",
+  "suggested_text": "讲者说法界即众生界、身心觉知的一切法所在；又说智慧加生命体验合在一起叫入法界，只有体验没有智慧不叫法界；法界与入法界的区别在于是否有智慧成就。"
+ },
+ {
+  "id": "S084",
+  "verdict": "partly",
+  "reason": "第七意识、自我因素、凡夫坚固执着转为精进力均有；但「与其性刚强难调难伏同一力量」不在所引三段中，见shizhu4。",
+  "suggested_text": "讲者说勇猛强记是南阎浮提众生的特性，来自第七意识的分别执著、生命中的自我因素；在凡夫种性是坚固的执着，转到行法实践中即成精进力。",
+  "evidence": [
+   {
+    "q": "勇猛強記的力量從哪來的？《地藏經》裡面談到，南閻浮提眾生，其性剛強，難調難伏，力量是同一個。",
+    "src": "pages/swxf/shizhu4"
+   }
+  ]
+ },
+ {
+  "id": "S085",
+  "verdict": "supported",
+  "reason": "引文明说凡夫种性是坚固的执着，转为行法实践中的力量就变成精进力。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S086",
+  "verdict": "supported",
+  "reason": "shizhu4原文直接说勇猛强记与地藏经「其性刚强，难调难伏」力量是同一个。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S087",
+  "verdict": "supported",
+  "reason": "jiangyi47明说该力量在凡夫种性生起染著，皈依自性觉悟后是行法精进的力量。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S088",
+  "verdict": "supported",
+  "reason": "jiangyi46、shixin12、shizhu17、shizhu21分别显示两种登地位、地有两处及开疆拓土。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S089",
+  "verdict": "supported",
+  "reason": "jiangyi46与shixin8分别显示登上心地证诸法空得无生忍，及普光明殿行法理论讲心地中一切法、思辨领域解脱。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S090",
+  "verdict": "supported",
+  "reason": "shixin12说回到眼耳鼻舌身一切法的登地位与共法别教完全不一样；shizhu17说以三贤位智慧力回望时到登地位。",
+  "suggested_text": ""
+ },
+ {
+  "id": "S091",
+  "verdict": "supported",
+  "reason": "jiangyi46原文：不共法别教登地位则到达法身世间成就地。",
+  "suggested_text": ""
+ }
+]
