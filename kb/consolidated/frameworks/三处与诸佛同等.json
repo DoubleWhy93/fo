@@ -1,0 +1,93 @@
+{
+ "name": "三處與諸佛同等",
+ "aliases": [
+  "三種地",
+  "生命中的三種地"
+ ],
+ "summary": "修行者從初發心到如來地，最低三處證得與諸佛同等",
+ "members": [
+  {
+   "name": "第七住位",
+   "note": "又稱見性位／十住位；證諸法空得無生忍，得一切智"
+  },
+  {
+   "name": "第八地位",
+   "note": "又稱登地位；證諸法不空得無生法忍，得道種智"
+  },
+  {
+   "name": "妙覺如來地",
+   "note": "或稱等妙覺位普賢菩薩法界；入滅盡定，得一切種智"
+  }
+ ],
+ "order_note": "依行法進程由初到後：見性／十住位、登地位、妙覺如來地",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "以位次與所證無生忍立說：第七住、第八地、妙覺",
+   "members": [
+    "第七住位",
+    "第八地位",
+    "妙覺如來地"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi27",
+    "pages/huayan70/jiangyi28"
+   ]
+  },
+  {
+   "label": "以所得智立說：一切智、道種智、一切種智",
+   "members": [
+    "見性位／十住位",
+    "登地位",
+    "等妙覺位普賢菩薩法界"
+   ],
+   "pages": [
+    "pages/swxf/shizhu17"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第三處的稱法不同：jiangyi27 稱妙覺如來地入滅盡定行法，shizhu17 稱等妙覺位普賢菩薩法界得一切種智；第一處 jiangyi27 說第七住位，shizhu17 說見性位／十住位",
+   "sources": [
+    {
+     "q": "第三在妙覺如來地，入如來種性滅盡定行法與諸佛同等。",
+     "src": "pages/huayan70/jiangyi27"
+    },
+    {
+     "q": "這第三個——等妙覺位普賢菩薩法界，這個是根本智行法。",
+     "src": "pages/swxf/shizhu17"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各頁未說明『第七住位』與『見性位／十住位』是否為同一位置",
+  "jiangyi28 重複 jiangyi27 的三項，未增加新成員"
+ ],
+ "source_quotes": [
+  {
+   "q": "修行者從初發心到如來地，要在三個方面證得與諸佛同等：",
+   "src": "pages/huayan70/jiangyi27"
+  },
+  {
+   "q": "我們修行者從初發心到如來地，最低要在三個地方證得與諸佛等同。",
+   "src": "pages/swxf/shizhu17"
+  }
+ ],
+ "related": [
+  "無生忍",
+  "無生法忍",
+  "見性位",
+  "根本智與差別智",
+  "滅盡定",
+  "道種智"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi27",
+  "pages/swxf/shizhu17",
+  "pages/huayan70/jiangyi28"
+ ],
+ "confidence": "high",
+ "key": "三处与诸佛同等"
+}

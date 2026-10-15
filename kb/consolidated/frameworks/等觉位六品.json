@@ -1,0 +1,110 @@
+{
+ "name": "等覺位六品",
+ "aliases": [],
+ "summary": "等覺位的六品經文：前三品說本體成就，後三品說行法功德",
+ "members": [
+  {
+   "name": "十定品",
+   "note": "前三品之一，也稱十三昧品，講十種三昧"
+  },
+  {
+   "name": "十通品",
+   "note": "前三品之一"
+  },
+  {
+   "name": "十忍品",
+   "note": "前三品之一"
+  },
+  {
+   "name": "阿僧祇品",
+   "note": "後三品之一，世尊演說如來地法數"
+  },
+  {
+   "name": "如來壽量品",
+   "note": "後三品之一，心王菩薩演說"
+  },
+  {
+   "name": "菩薩住處品",
+   "note": "後三品之一，心王菩薩演說"
+  }
+ ],
+ "order_note": "按經文品次：十定、十通、十忍、阿僧祇、如來壽量、菩薩住處；分前三品與後三品",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "六品全列",
+   "members": [
+    "十定品",
+    "十通品",
+    "十忍品",
+    "阿僧祇品",
+    "如來壽量品",
+    "菩薩住處品"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang23",
+    "pages/huayan28/28jiang24",
+    "pages/swxf/shizhu34"
+   ]
+  },
+  {
+   "label": "只提後三品及演說者",
+   "members": [
+    "阿僧祇品",
+    "如來壽量品",
+    "菩薩住處品"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi32",
+    "pages/huayan70/jiangyi33"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "誰演說：28jiang23 說前三品由普賢菩薩、後三品由心王菩薩演說；jiangyi33 強調前後三品皆有世尊參與，阿僧祇品由世尊說法數。",
+   "sources": [
+    {
+     "q": "前三品由普賢菩薩演說等覺位的成就本體，後三品由心王菩薩演說等覺位的行法功德。",
+     "src": "pages/huayan28/28jiang23"
+    },
+    {
+     "q": "等覺位前三品和後三品都有世尊參與演說，表明等覺位是根本智行法",
+     "src": "pages/huayan70/jiangyi33"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "十通品、十忍品的具體內容各頁未展開"
+ ],
+ "source_quotes": [
+  {
+   "q": "等覺位前三品是《十定品》、《十通品》、《十忍品》，後三品是《阿僧祇品》、《如來壽量品》、《菩薩住處品》。",
+   "src": "pages/huayan28/28jiang23"
+  },
+  {
+   "q": "等覺位有六品經，和十信位、十住位的六品經文結構一致，也和菩提場會的六品經文結構一致。",
+   "src": "pages/huayan28/28jiang23"
+  },
+  {
+   "q": "等覺位六品經文：《十定品》、《十通品》、《十忍品》、《阿僧祇品》、《如來壽量品》、《菩薩住處品》",
+   "src": "pages/swxf/shizhu34"
+  }
+ ],
+ "related": [
+  "普光明殿四個行法階段",
+  "普賢菩薩法界",
+  "心王菩薩",
+  "菩提場六品"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang23",
+  "pages/swxf/shizhu34",
+  "pages/huayan70/jiangyi33",
+  "pages/huayan70/jiangyi32",
+  "pages/huayan28/28jiang24"
+ ],
+ "confidence": "high",
+ "key": "等觉位六品"
+}

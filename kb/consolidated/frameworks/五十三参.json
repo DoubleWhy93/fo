@@ -1,0 +1,116 @@
+{
+ "name": "五十三參",
+ "key": "五十三参",
+ "aliases": [
+  "善財童子五十三參"
+ ],
+ "summary": "善財童子參訪五十三層善知識，經住行向地、等覺位至普賢菩薩",
+ "members": [
+  {
+   "name": "福城東大塔廟文殊",
+   "note": "始處；表十信位"
+  },
+  {
+   "name": "第一參德雲比丘",
+   "note": "初住位，妙峰山（須彌山）"
+  },
+  {
+   "name": "第二十七參觀自在菩薩",
+   "note": "普陀山"
+  },
+  {
+   "name": "第四十一參摩耶夫人",
+   "note": "等覺位第一位善知識"
+  },
+  {
+   "name": "第五十一參彌勒",
+   "note": "囑咐去參文殊"
+  },
+  {
+   "name": "第五十二參文殊",
+   "note": "遵彌勒囑咐再參"
+  }
+ ],
+ "order_note": "自第一參德雲比丘（初住位）起，依住、行、向、地、等覺位次第，共五十三層",
+ "completeness": "fragmentary",
+ "views": [
+  {
+   "label": "按住行向地位次對應善知識（第七至第十住位）",
+   "members": [
+    "第一參德雲比丘"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi53",
+    "pages/swxf/shizhu21",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/136.cz-plmddbcjz-lzdcbssm-"
+   ]
+  },
+  {
+   "label": "按善知識身份分類",
+   "members": [],
+   "pages": [
+    "pages/huayan70/jiangyi45"
+   ]
+  },
+  {
+   "label": "首尾與關鍵節點（德雲、觀自在、摩耶夫人、彌勒、文殊）",
+   "members": [
+    "第一參德雲比丘",
+    "第二十七參觀自在菩薩",
+    "第四十一參摩耶夫人",
+    "第五十一參彌勒",
+    "第五十二參文殊"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang18",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/22.hw-zzjcbz-h-zzjcbz-",
+    "pages/shixin/shixin3"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "經文稱五十三參，但善知識人數算作五十四位，因等覺位第十位有德生童子與有德童女兩位",
+   "sources": [
+    {
+     "q": "其中第十等覺位是德生童子、有德童女兩位善知識，因此五十三參一共有五十四位善知識。",
+     "src": "pages/huayan70/jiangyi45"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "五十三位善知識的逐一名單與位次，本批頁面只零散提到少數幾位",
+  "其餘各參名稱未列出",
+  "各頁對位次的標法只舉例，未完整對照"
+ ],
+ "source_quotes": [
+  {
+   "q": "善財童子是從文殊師利童子處出發，經歷五十三參行法最終到達如來地無上正覺。",
+   "src": "pages/huayan70/jiangyi45"
+  },
+  {
+   "q": "在《入法界品》裡面是把它分成五十三層。",
+   "src": "pages/shixin/shixin3"
+  },
+  {
+   "q": "五十三參中的五位比丘分別是：初住位德雲比丘、二住位海雲比丘、三住位善住比丘、六住位海幢比丘、初行位善見比丘。",
+   "src": "pages/huayan70/jiangyi45"
+  }
+ ],
+ "related": [
+  "三處演說",
+  "住行向地四位行法",
+  "入法界品",
+  "普賢菩薩法界"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi45",
+  "pages/shixin/shixin3",
+  "pages/huayan28/28jiang18",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/22.hw-zzjcbz-h-zzjcbz-",
+  "pages/huayan70/jiangyi53",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/65.rhjjwzczjdsxjs"
+ ],
+ "confidence": "medium"
+}

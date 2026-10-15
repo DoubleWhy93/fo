@@ -1,0 +1,70 @@
+{
+ "key": "三细相与六粗相",
+ "name": "三细相与六粗相",
+ "summary": "一念無明生六粗相，根本無明生三細相，修行次第破除",
+ "members": [
+  {
+   "name": "三細相",
+   "note": "業相、見相、境界相；根本無明所生，無功用行根本智行法"
+  },
+  {
+   "name": "六粗相",
+   "note": "一念無明所生，有功用行差別智行法"
+  }
+ ],
+ "order_note": "先三細後六粗為生起次第；修行則由六粗破起，再入滅盡定破三細",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "三細相＝根本無明，六粗相＝一念無明",
+   "members": [
+    "三細相",
+    "六粗相"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/151.szzxdzdssm-",
+    "pages/huayan70/jiangyi39"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "三細相第二項：jiangyi39 作見相，137 頁項目作轉相",
+   "sources": [
+    {
+     "q": "『三細相』即業相、見相、境界相",
+     "src": "pages/huayan70/jiangyi39"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "六粗相的六個成員在這些頁面均未列出",
+  "三細相各項（業相、轉相／見相、境界相）見「三细相」卡"
+ ],
+ "source_quotes": [
+  {
+   "q": "我們講到無明不覺生三細,境界為緣長六粗。三細相就是根本無明的存在形式，一念無明的存在形式是六粗相。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+  },
+  {
+   "q": "修行者以道種智行法破六粗相，以入滅盡定行法破三細相",
+   "src": "pages/huayan70/jiangyi39"
+  }
+ ],
+ "related": [
+  "三細相",
+  "根本無明",
+  "一念無明",
+  "道種智",
+  "滅盡定"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi39",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/151.szzxdzdssm-"
+ ],
+ "confidence": "medium",
+ "aliases": []
+}

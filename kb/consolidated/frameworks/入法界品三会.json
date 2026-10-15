@@ -1,0 +1,87 @@
+{
+ "name": "入法界品三会",
+ "aliases": [
+  "《入法界品》三会"
+ ],
+ "summary": "《入法界品》分三会：逝多林本会、福城东大塔庙会、善财五十三参",
+ "members": [
+  {
+   "name": "世尊逝多林本会",
+   "note": "对应菩提场会六品；佛"
+  },
+  {
+   "name": "文殊菩萨福城东大塔庙会",
+   "note": "对应普光明殿十信位六品"
+  },
+  {
+   "name": "善财童子五十三参入法界行法",
+   "note": "对应十住位以后行法"
+  }
+ ],
+ "order_note": "按会次第一、二、三会",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "三会名称与对齐关系",
+   "members": [
+    "世尊逝多林本会（对齐菩提场会六品）",
+    "文殊菩萨福城东大塔庙会（对齐普光明殿十信位六品）",
+    "善财童子五十三参（对齐普光明殿十住位以后行法）"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang25",
+    "pages/huayan70/jiangyi40"
+   ]
+  },
+  {
+   "label": "仅列三会名称",
+   "members": [
+    "世尊逝多林本会",
+    "文殊菩萨福城东大塔庙会",
+    "善财童子五十三参入法界行法"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang24",
+    "pages/huayan70/jiangyi44",
+    "pages/huayan70/jiangyi46"
+   ]
+  },
+  {
+   "label": "只讲第一会",
+   "members": [
+    "第一会：逝多林本会"
+   ],
+   "pages": [
+    "pages/swxf/shizhu14"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "jiangyi40 所说前两会「五部分」的具体名目，所读页面未列出"
+ ],
+ "source_quotes": [
+  {
+   "q": "入法界這一品本身又可以分作三會：世尊逝多林本會、文殊菩薩福城東大塔廟會、和善財童子五十三參入法界行法。",
+   "src": "pages/huayan28/28jiang25"
+  },
+  {
+   "q": "《入法界品》的三會就是這部經整體結構中的第二層生起。",
+   "src": "pages/huayan28/28jiang25"
+  }
+ ],
+ "related": [
+  "三处十会",
+  "普光明殿四个行法阶段",
+  "善财童子五十三参",
+  "佛法僧"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang25",
+  "pages/huayan28/28jiang24",
+  "pages/huayan70/jiangyi40",
+  "pages/swxf/shizhu14"
+ ],
+ "confidence": "high",
+ "key": "入法界品三会"
+}

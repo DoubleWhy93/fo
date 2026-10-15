@@ -1,0 +1,149 @@
+{
+ "name": "住行向地四位行法",
+ "key": "住行向地四位行法",
+ "aliases": [
+  "四位行法"
+ ],
+ "summary": "十住、十行、十迴向、十地四位行法，普光明殿四天宮四寶殿演說",
+ "members": [
+  {
+   "name": "十住位",
+   "note": "須彌山頂妙勝殿，法慧菩薩，菩薩無量方便三昧"
+  },
+  {
+   "name": "十行位",
+   "note": "夜摩天宮寶莊嚴殿，功德林菩薩，菩薩善思惟三昧"
+  },
+  {
+   "name": "十迴向位",
+   "note": "兜率天宮一切妙寶所莊嚴殿，金剛幢菩薩，菩薩智光三昧"
+  },
+  {
+   "name": "十地位",
+   "note": "他化天摩尼寶藏殿，金剛藏菩薩，解脫月菩薩三請"
+  }
+ ],
+ "order_note": "依住、行、向、地次第生起；各位以十波羅蜜形式展開，四十位並非串行",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "只列四位名稱",
+   "members": [
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)",
+    "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-",
+    "pages/swxf/shizhu20",
+    "pages/huayan70/jiangyi27"
+   ]
+  },
+  {
+   "label": "按四天宮四寶殿、法主、三昧列出",
+   "members": [
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi22",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/85.zzxxddjsz-szytwdhyfdbhy-"
+   ]
+  },
+  {
+   "label": "按證得內容列出（空與不空）",
+   "members": [
+    "十住位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi17"
+   ]
+  },
+  {
+   "label": "以遠離、看清再回頭解決的次序用於具體一法",
+   "members": [
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd"
+   ]
+  },
+  {
+   "label": "列出位次節點（初住、七住、初行、八迴向、初地、八地、等覺、妙覺）",
+   "members": [
+    "初住",
+    "七住",
+    "初行",
+    "八迴向",
+    "初地",
+    "八地",
+    "等覺",
+    "妙覺"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/78.ryzfj-zzwhszdjw-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "頁面對四位行法加十信位的算法不同：有說講了四個次第、加十信位共五個；有說普光明殿四階段中十信位為第一、四位行法為第二",
+   "sources": [
+    {
+     "q": "華嚴行法講了四個次第，加上十信位就有五個次第。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd"
+    },
+    {
+     "q": "第一階段是十信位，第二階段是『住行向地』四位行法，第三階段是等覺位，第四階段是妙覺位。",
+     "src": "pages/huayan70/jiangyi9"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各頁多只列四位名稱，逐位名稱只有十住位十名在 shizhu30 列出",
+  "十行、十迴向、十地各位十名及各品對應在本批頁面中未完整列出",
+  "十地位所在殿只在 hyxf/85 與 jiangyi22 提到，jiangyi22 寫「演說另述」"
+ ],
+ "source_quotes": [
+  {
+   "q": "形成住行向地四位行法，對應四智法，十住與十地逐漸成為兩個不同類型的行法。",
+   "src": "pages/huayan70/jiangyi17"
+  },
+  {
+   "q": "十住位行法的核心是天帝釋帶領大眾迎佛入妙勝殿，代表自我對自性覺悟的主動的皈依",
+   "src": "pages/huayan70/jiangyi22"
+  },
+  {
+   "q": "這是通過經首我們看到的住行向地四位行法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/85.zzxxddjsz-szytwdhyfdbhy-"
+  }
+ ],
+ "related": [
+  "四十位行法",
+  "普光明殿四個行法階段",
+  "根本智與差別智",
+  "十信位",
+  "等覺位",
+  "妙覺位",
+  "十波羅蜜",
+  "五十三參"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi22",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/85.zzxxddjsz-szytwdhyfdbhy-",
+  "pages/huayan70/jiangyi17",
+  "pages/swxf/shizhu33",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd",
+  "pages/huayan70/jiangyi9"
+ ],
+ "confidence": "high"
+}

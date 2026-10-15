@@ -1,0 +1,76 @@
+{
+ "key": "感性知性理性",
+ "name": "感性、知性、理性",
+ "summary": "三種覺知世間：感性、知性、理性，對應化報法身世間",
+ "members": [
+  {
+   "name": "感性",
+   "note": "五蘊身所在的世間，眼耳鼻舌身當下感受"
+  },
+  {
+   "name": "知性",
+   "note": "靠思惟到達，分凡夫種性與行者種性"
+  },
+  {
+   "name": "理性",
+   "note": "生命自覺的力量，理性世間"
+  }
+ ],
+ "order_note": "感性至知性至理性，由低到高",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "對應化身、報身、法身世間",
+   "members": [
+    "感性",
+    "知性",
+    "理性"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+   ]
+  },
+  {
+   "label": "逐項解釋三者",
+   "members": [
+    "感性",
+    "知性",
+    "理性"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/72.-bn-dllh-s-dllscxdsscb"
+   ]
+  }
+ ],
+ "gaps": [
+  "三者與三身對應的細節，所開頁面只有簡短說法；理性的完整定義未見"
+ ],
+ "source_quotes": [
+  {
+   "q": "感性是五蘊身所在的世間，知性是靠思惟到達的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/72.-bn-dllh-s-dllscxdsscb"
+  },
+  {
+   "q": "知性分兩部分：一種是凡夫種性的；一種是行者種性的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/72.-bn-dllh-s-dllscxdsscb"
+  },
+  {
+   "q": "一般來講，沒有經過修行的人，往往只在感性階段，很少在知性階段，更不會到達理性階段。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+  }
+ ],
+ "related": [
+  "法報化三身",
+  "五蘊",
+  "種性"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/72.-bn-dllh-s-dllscxdsscb",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+ ],
+ "confidence": "medium",
+ "aliases": [],
+ "tensions": []
+}

@@ -1,0 +1,69 @@
+{
+ "key": "三贤位",
+ "name": "三贤位",
+ "summary": "十住、十行、十回向三階段，建立報身世間智慧",
+ "members": [
+  {
+   "name": "十住",
+   "note": ""
+  },
+  {
+   "name": "十行",
+   "note": ""
+  },
+  {
+   "name": "十回向",
+   "note": ""
+  }
+ ],
+ "order_note": "十住、十行、十回向，居十信位之後、十地位之前",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "明列三位",
+   "members": [
+    "十住",
+    "十行",
+    "十回向"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/142.zytyyqfdpbcz"
+   ]
+  },
+  {
+   "label": "談其作用（智慧建立，進入十地前提）",
+   "members": [],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/11.wszypxxdgx",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/70.hyymzdgx-"
+   ]
+  }
+ ],
+ "gaps": [
+  "各位的內部次第在這些頁面未展開"
+ ],
+ "source_quotes": [
+  {
+   "q": "三賢位包括十住、十行、十迴向。三賢位主要是以心思惟法、心智慧法來建立的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/142.zytyyqfdpbcz"
+  },
+  {
+   "q": "三賢位都是講報身世間智慧地的建立，也就是建立自己的文殊師利菩薩。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/11.wszypxxdgx"
+  }
+ ],
+ "related": [
+  "十地位",
+  "十信位",
+  "文殊師利菩薩",
+  "普賢菩薩"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/142.zytyyqfdpbcz",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/11.wszypxxdgx",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/70.hyymzdgx-"
+ ],
+ "confidence": "high",
+ "aliases": [],
+ "tensions": []
+}

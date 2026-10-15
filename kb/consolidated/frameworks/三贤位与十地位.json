@@ -1,0 +1,86 @@
+{
+ "name": "三贤位与十地位",
+ "key": "三贤位与十地位",
+ "aliases": [
+  "外凡与圣位"
+ ],
+ "summary": "三贤位（十住行向）与十地位的区别：外凡与圣位、世尊上升天宫与否",
+ "members": [
+  {
+   "name": "三贤位",
+   "note": "十住、十行、十回向；外凡；世尊上升天宫；建立报身智慧"
+  },
+  {
+   "name": "十地位",
+   "note": "圣位；世尊常住处；无上升天宫；入世间行法"
+  }
+ ],
+ "order_note": "先三贤位后十地位，三贤位为十地位资粮",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "外凡与圣位：三贤位仍为外凡，十地位入圣位",
+   "members": [
+    "三贤位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+   ]
+  },
+  {
+   "label": "经首、上首菩萨、善知识住处之别",
+   "members": [
+    "三贤位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang28"
+   ]
+  },
+  {
+   "label": "世尊是否上升天宫",
+   "members": [
+    "十住、十行、十回向：世尊上升天宫",
+    "十地位：世尊常住处，无上升天宫"
+   ],
+   "pages": [
+    "pages/swxf/shizhu17",
+    "pages/swxf/shizhu16"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "三贤位内三位的各自内涵不在此框架中展开",
+  "对三贤位是外凡的说法，其他页多从行法次第论述，未再明确列表"
+ ],
+ "source_quotes": [
+  {
+   "q": "在十行位、十迴向位，都有世尊上升天宮",
+   "src": "pages/swxf/shizhu16"
+  },
+  {
+   "q": "三賢位的行者依然還是凡夫位，是相對八識為核心的外凡行者",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+  },
+  {
+   "q": "三賢位所有行法是十地行法的資糧，其成就指歸即是十地位。",
+   "src": "pages/huayan28/28jiang28"
+  }
+ ],
+ "related": [
+  "华严四智行法",
+  "十住位",
+  "金刚种性",
+  "五十三参",
+  "登地"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang28",
+  "pages/swxf/shizhu17",
+  "pages/swxf/shizhu16",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+ ],
+ "confidence": "medium"
+}

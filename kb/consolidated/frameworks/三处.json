@@ -1,0 +1,86 @@
+{
+ "name": "三處（菩提場會、普光明殿、入法界）",
+ "aliases": [
+  "三處演說",
+  "三處（佛法僧）"
+ ],
+ "summary": "《華嚴經》三處演說：菩提場、普光明殿、入法界，對應佛法僧",
+ "members": [
+  {
+   "name": "菩提場會",
+   "note": "佛所行處"
+  },
+  {
+   "name": "普光明殿",
+   "note": "智慧所行處"
+  },
+  {
+   "name": "入法界",
+   "note": "行法實踐所行處"
+  }
+ ],
+ "order_note": "依經文演說次序：第一菩提場、第二普光明殿、第三入法界",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "三處與佛法僧對應並各有所行處",
+   "members": [
+    "菩提場會",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi9",
+    "pages/huayan70/jiangyi16"
+   ]
+  },
+  {
+   "label": "僅作為前提提及",
+   "members": [],
+   "pages": [
+    "pages/huayan70/jiangyi13"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "名稱寫法不同：『菩提場會』與『菩提場』，應指同一處",
+   "sources": [
+    {
+     "q": "分別在三處演說：菩提場會、普光明殿、入法界。",
+     "src": "pages/huayan70/jiangyi16"
+    },
+    {
+     "q": "《華嚴經》在三處演說，第一處是菩提場，第二處是普光明殿，第三處是入法界。",
+     "src": "pages/huayan70/jiangyi9"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "三處與各會（三處十會）的對應此處未展開",
+  "三處與佛法僧的逐一對應，jiangyi9 只說『分別對應』，未逐項標明"
+ ],
+ "source_quotes": [
+  {
+   "q": "菩提場代表佛所行處，普光明殿代表智慧所行處，入法界代表行法實踐所行處。",
+   "src": "pages/huayan70/jiangyi9"
+  },
+  {
+   "q": "這三處分別對應我們生命中的『佛法僧』三個因素。",
+   "src": "pages/huayan70/jiangyi9"
+  }
+ ],
+ "related": [
+  "佛法僧",
+  "普光明殿四個行法階段",
+  "三處十會"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi9",
+  "pages/huayan70/jiangyi16",
+  "pages/huayan70/jiangyi13"
+ ],
+ "confidence": "high",
+ "key": "三处"
+}

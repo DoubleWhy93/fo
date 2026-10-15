@@ -1,0 +1,67 @@
+{
+ "name": "八识模式与四智模式",
+ "key": "八识模式与四智模式",
+ "aliases": [],
+ "summary": "生起世间相的两种相反模式:八识成杂染,四智成清净",
+ "members": [
+  {
+   "name": "八识模式",
+   "note": "外缘因素,成凡夫杂染世间"
+  },
+  {
+   "name": "四智模式",
+   "note": "内在智慧生起,右旋,清净/净土世间"
+  }
+ ],
+ "order_note": "sources give no fixed order; always a contrasting pair",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "八识=外缘/杂染;四智=内在/净土",
+   "members": [
+    "八识模式",
+    "四智模式"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+   ]
+  },
+  {
+   "label": "三细相后两种模式,四智为右旋",
+   "members": [
+    "八识模式",
+    "四智模式"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx",
+    "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "internal structure of each mode is not given in these pages"
+ ],
+ "source_quotes": [
+  {
+   "q": "八識模式和四智模式是完全相反的一種法界認知模式，八識模式成就凡夫的雜染世間，而四智模式成就行者的淨土世間。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+  },
+  {
+   "q": "四智模式就是右旋模式，經典中常說的右繞佛、右旋、諸佛伸右手摩菩薩頂等等，說的就是四智模式。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+  }
+ ],
+ "related": [
+  "三细相",
+  "清净世间",
+  "杂染世间",
+  "外凡 内凡"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb"
+ ],
+ "confidence": "high"
+}

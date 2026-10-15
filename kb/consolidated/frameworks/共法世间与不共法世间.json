@@ -1,0 +1,84 @@
+{
+ "name": "共法世间与不共法世间",
+ "key": "共法世间与不共法世间",
+ "aliases": [
+  "共法与不共法"
+ ],
+ "summary": "共法世间靠理性与外缘，不共法世间靠内在实践经验",
+ "members": [
+  {
+   "name": "共法世间",
+   "note": "外在一切法；靠纯理性、知识逻辑；眼耳鼻舌身"
+  },
+  {
+   "name": "不共法世间",
+   "note": "内在报身世间；靠实践经验；意法、一切法从心想生"
+  }
+ ],
+ "order_note": "二分结构，无固定先后",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "内外一切法与理性/实践经验之别",
+   "members": [
+    "共法世间",
+    "不共法世间"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+   ]
+  },
+  {
+   "label": "按六根划分：眼耳鼻舌身五蕴为共法，意法为不共法",
+   "members": [
+    "共法世间：眼耳鼻舌身五蕴世间",
+    "不共法世间：意法"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+   ]
+  },
+  {
+   "label": "「不动」在两种世间含义不同",
+   "members": [
+    "共法世间的不动",
+    "不共法世间的不动"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/11.-bd-zgfsjhbgfsjdcb"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "共法世间的不动在第11页摘录中未被具体解说，只说明不共法世间的不动是不取著",
+  "第28讲22仅提及，未列出成员内容"
+ ],
+ "source_quotes": [
+  {
+   "q": "外在一切法是靠純理性來建立的，是知識、邏輯能夠到達的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+  },
+  {
+   "q": "一個是純理性可以到達的共法世間一切法，一個是靠實踐與經驗來到達的不共法世間一切法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+  },
+  {
+   "q": "在六根的範疇裡面，眼耳鼻舌身意，「意」這一法是不共世間的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+  }
+ ],
+ "related": [
+  "法报化三身",
+  "共法别教与不共法别教",
+  "如来藏",
+  "十信位"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/11.-bd-zgfsjhbgfsjdcb",
+  "pages/huayan28/28jiang22"
+ ],
+ "confidence": "high"
+}

@@ -1,0 +1,120 @@
+{
+ "name": "世界成就十种事",
+ "key": "世界成就十种事",
+ "aliases": [
+  "世界海十种事"
+ ],
+ "summary": "《世界成就品》所说世界海十种事，每种再演十法",
+ "members": [
+  {
+   "name": "世界海起具因缘",
+   "note": ""
+  },
+  {
+   "name": "世界海所依住",
+   "note": ""
+  },
+  {
+   "name": "世界海形状",
+   "note": ""
+  },
+  {
+   "name": "世界海体性",
+   "note": ""
+  },
+  {
+   "name": "世界海庄严",
+   "note": ""
+  },
+  {
+   "name": "世界海清净",
+   "note": ""
+  },
+  {
+   "name": "世界海佛出兴",
+   "note": ""
+  },
+  {
+   "name": "世界海劫住",
+   "note": ""
+  },
+  {
+   "name": "世界海劫转变差别",
+   "note": ""
+  },
+  {
+   "name": "世界海无差别门",
+   "note": ""
+  }
+ ],
+ "order_note": "按经文顺序，第一至第十",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "经文十项列举",
+   "members": [
+    "世界海起具因缘",
+    "世界海所依住",
+    "世界海形状",
+    "世界海体性",
+    "世界海庄严",
+    "世界海清净",
+    "世界海佛出兴",
+    "世界海劫住",
+    "世界海劫转变差别",
+    "世界海无差别门"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang17",
+    "pages/huayan70/jiangyi7",
+    "pages/huayan70/jiangyi8"
+   ]
+  },
+  {
+   "label": "作为方法：为何呈现、怎样呈现、怎样流转",
+   "members": [
+    "这件事为什么要呈现",
+    "怎样呈现",
+    "怎样流转"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/18. zywd-23-11-11)"
+   ]
+  },
+  {
+   "label": "一法生十法、十法生百法",
+   "members": [
+    "每种十个方面"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "每一种事下的十个方面在此卡未逐项列出（仅 28jiang17 展开了第一种的十因缘）"
+ ],
+ "source_quotes": [
+  {
+   "q": "何者為十？所謂：世界海起具因緣，世界海所依住，世界海形狀，世界海體性，世界海莊嚴，世界海清淨，世界海佛出興，世界海劫住，世界海劫轉變差別，世界海無差別門。",
+   "src": "pages/huayan70/jiangyi7"
+  },
+  {
+   "q": "《世界成就品》提出世界成就十種事，每一種事又分爲十個方面，綜合在一起就是一法生起十法、十法生起百法",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+  }
+ ],
+ "related": [
+  "菩提场会六品",
+  "世界成就品",
+  "华藏世界品"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi7",
+  "pages/huayan28/28jiang17",
+  "pages/huayan70/jiangyi8",
+  "pages/dayi_all/2023dy/wz/WORDbb/18. zywd-23-11-11)"
+ ],
+ "confidence": "high"
+}

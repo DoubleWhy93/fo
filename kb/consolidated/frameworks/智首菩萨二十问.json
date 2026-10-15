@@ -1,0 +1,67 @@
+{
+ "name": "智首菩薩二十問",
+ "aliases": [],
+ "summary": "智首菩薩問文殊菩薩的二十問：前十問總體身語意業，後十問各含十方面",
+ "members": [
+  {
+   "name": "前十問",
+   "note": "總體身語意業，從本體、無上正覺、根本智角度"
+  },
+  {
+   "name": "後十問",
+   "note": "差別智角度，每問十個方面共一百個細節"
+  }
+ ],
+ "order_note": "先前十問（體）後後十問（用）；單一問題的具體條目各頁皆未逐條列出",
+ "completeness": "fragmentary",
+ "views": [
+  {
+   "label": "體用二分：前十問本體、後十問差別智（一百一十方面）",
+   "members": [
+    "前十問",
+    "後十問"
+   ],
+   "pages": [
+    "pages/shixin/shixin12",
+    "pages/huayan70/jiangyi12"
+   ]
+  },
+  {
+   "label": "後十問舉例：如來十力、八部天眾供養守護",
+   "members": [
+    "前十問",
+    "後十問"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi39"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "二十個問題的具體文句各頁未逐條列出，僅舉無過失身語意業、不害身語意業、如來十力、天王龍王等守護供養為例",
+  "後十問每問十個方面的內容未列出"
+ ],
+ "source_quotes": [
+  {
+   "q": "前面十個是講身語意業的，後面十個裡面，每一個問題又分十個，這是二十個問題。",
+   "src": "pages/shixin/shixin12"
+  },
+  {
+   "q": "加起來，二十個問題，一百一十個方面，後面這十個裡面有細節，每個問題裡面有十個。",
+   "src": "pages/shixin/shixin12"
+  }
+ ],
+ "related": [
+  "身語意業",
+  "淨行品",
+  "如來地十種智"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin12",
+  "pages/huayan70/jiangyi12",
+  "pages/huayan70/jiangyi39"
+ ],
+ "confidence": "medium",
+ "key": "智首菩萨二十问"
+}

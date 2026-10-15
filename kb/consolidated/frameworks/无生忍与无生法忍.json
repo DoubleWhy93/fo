@@ -1,0 +1,82 @@
+{
+ "name": "无生忍与无生法忍",
+ "key": "无生忍与无生法忍",
+ "aliases": [],
+ "summary": "第七住证空得无生忍，第八地证有得无生法忍",
+ "members": [
+  {
+   "name": "无生忍",
+   "note": "证诸法空，得一切智，先关闭一念无明影响；第七住位"
+  },
+  {
+   "name": "无生法忍",
+   "note": "证诸法不空，得菩萨道种智，一切法对我无影响；第八地位"
+  }
+ ],
+ "order_note": "先无生忍，后无生法忍；要得无生法忍，首先要得无生忍",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "以空与不空区分",
+   "members": [
+    "无生忍：证空、得一切智",
+    "无生法忍：证有、得菩萨道种智"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang15",
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/25.wsfrypfzsygysm"
+   ]
+  },
+  {
+   "label": "以位次区分（第七住位、第八地位）",
+   "members": [
+    "第七住位：得无生忍",
+    "第八地位：得无生法忍"
+   ],
+   "pages": [
+    "pages/shixin/shixin6"
+   ]
+  },
+  {
+   "label": "以「应无所住，而生其心」的先后区分",
+   "members": [
+    "应无所住：无生忍",
+    "生一切心而无所住：无生法忍"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang15"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "第八地位得无生法忍与第八位入灭尽定行法之间的关系，各页说法不同角度，未并成统一表",
+  "jiangyi13 与 28jiang9 列为 full 但无成员，内容未入本卡"
+ ],
+ "source_quotes": [
+  {
+   "q": "無生忍是證諸法空，無生法忍是證諸法不空。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/25.wsfrypfzsygysm"
+  },
+  {
+   "q": "證無生忍是得一切智，一切智即是空智，見一切法而不住一切法。而證無生法忍是得菩薩道種智，菩薩道種智即是有智，要能生一切法而無所取著。",
+   "src": "pages/huayan28/28jiang9"
+  }
+ ],
+ "related": [
+  "四智行法",
+  "一念无明与根本无明",
+  "一切智",
+  "菩萨道种智",
+  "应无所住而生其心",
+  "有功用行与无功用行"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/25.wsfrypfzsygysm",
+  "pages/huayan28/28jiang15",
+  "pages/huayan28/28jiang9",
+  "pages/huayan70/jiangyi13",
+  "pages/shixin/shixin6"
+ ],
+ "confidence": "high"
+}

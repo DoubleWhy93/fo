@@ -1,0 +1,106 @@
+{
+ "name": "根本无明与一念无明",
+ "key": "根本无明与一念无明",
+ "aliases": [
+  "无始无明（即根本无明）"
+ ],
+ "summary": "根本无明为自性本身力量，一念无明有自我因素参与",
+ "members": [
+  {
+   "name": "根本无明",
+   "note": "无始无明；无自我因素参与，力量最大；所知障"
+  },
+  {
+   "name": "一念无明",
+   "note": "自我因素参与、可掌控；烦恼障"
+  },
+  {
+   "name": "见一处住地",
+   "note": "一念无明的住地之一"
+  },
+  {
+   "name": "欲爱住地",
+   "note": "一念无明的住地之一"
+  },
+  {
+   "name": "色爱住地",
+   "note": "一念无明的住地之一"
+  },
+  {
+   "name": "有爱住地",
+   "note": "一念无明的住地之一"
+  }
+ ],
+ "order_note": "先根本无明，关注某一法时由根本无明转到一念无明",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "力量与自我因素之别",
+   "members": [
+    "根本无明",
+    "一念无明"
+   ],
+   "pages": [
+    "pages/swxf/shizhu1",
+    "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+   ]
+  },
+  {
+   "label": "对应所知障与烦恼障",
+   "members": [
+    "根本无明=所知障",
+    "一念无明=烦恼障"
+   ],
+   "pages": [
+    "pages/swxf/shizhu15",
+    "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "shizhu1 将四种住地归于一念无明；ztjz/9 则说根本无明住地即所知障住地，把住地一词用于根本无明。两处用法不同，未见明说如何统一。",
+   "sources": [
+    {
+     "q": "有見一處住地、欲愛住地、色愛住地、有愛住地，都是基於一念無明的力量生起的。",
+     "src": "pages/swxf/shizhu1"
+    },
+    {
+     "q": "根本無明住地即「所知障」住地。",
+     "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "四种住地各自内容未在此汇总",
+  "根本无明下是否有对应的住地分类，各页未列"
+ ],
+ "source_quotes": [
+  {
+   "q": "根本無明就是無始無明。",
+   "src": "pages/swxf/shizhu1"
+  },
+  {
+   "q": "一念無明跟它相對，一念無明是需要自我因素參與的。",
+   "src": "pages/swxf/shizhu1"
+  },
+  {
+   "q": "根本無明就是所知障，一念無明就是煩惱障。",
+   "src": "pages/swxf/shizhu15"
+  }
+ ],
+ "related": [
+  "所知障",
+  "烦恼障",
+  "根本智",
+  "差别智",
+  "住行向地四位行法"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu1",
+  "pages/swxf/shizhu15",
+  "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+ ],
+ "confidence": "high"
+}

@@ -1,0 +1,91 @@
+{
+ "name": "华严四智行法",
+ "key": "华严四智行法",
+ "aliases": [
+  "四智行法",
+  "住行向地四位行法"
+ ],
+ "summary": "十住、十行、十回向、十地四位行法，对应四智",
+ "members": [
+  {
+   "name": "十住",
+   "note": "般若；一切智；得无生忍"
+  },
+  {
+   "name": "十行",
+   "note": "中观；道种智生起"
+  },
+  {
+   "name": "十回向",
+   "note": "法相；道种智明了"
+  },
+  {
+   "name": "十地",
+   "note": "密法；道种智成就；以智导行"
+  }
+ ],
+ "order_note": "依十住、十行、十回向、十地次序，由一切智到道种智成就",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四位以般若、中观、法相、密法为名",
+   "members": [
+    "十住(般若)",
+    "十行(中观)",
+    "十迴向(法相)",
+    "十地(密法)"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+   ]
+  },
+  {
+   "label": "按智的生起次第：一切智、道种智生起、明了、成就",
+   "members": [
+    "一切智",
+    "道种智生起",
+    "道种智明了",
+    "道种智成就"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+   ]
+  },
+  {
+   "label": "仅作整体论述，不列四位",
+   "members": [],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/17.fhxfyxsgypsdzzxfdcb"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "第15、17页只论四智行法整体性与道种智，未再列四位清单"
+ ],
+ "source_quotes": [
+  {
+   "q": "十住位成就一切智，得無生忍；十行位開始生起覺知思惟，道種智生起；到十迴向位，就是道種智明瞭；到十地位，就是道種智成就",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  },
+  {
+   "q": "十住(般若)(以般若智為空) | 十行(中觀)(依般若起善思惟) | 十迴向(法相)(依根本智起妙觀察) | 十地(密法)(以智導行)",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+  }
+ ],
+ "related": [
+  "转八识成四智",
+  "藏通别圆",
+  "道种智",
+  "四十位行法",
+  "七种根本作意"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/17.fhxfyxsgypsdzzxfdcb"
+ ],
+ "confidence": "high"
+}

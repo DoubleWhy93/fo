@@ -1,0 +1,129 @@
+{
+ "name": "普光明殿四個行法階段",
+ "key": "普光明殿四个行法阶段",
+ "aliases": [
+  "普光明殿行法理論的四個階段"
+ ],
+ "summary": "十信位、住行向地四位行法、等覺位、妙覺位四階段的行法理論與次第",
+ "members": [
+  {
+   "name": "十信位",
+   "note": "第一階段，以《如來名號品》起，文殊師利菩薩為法主"
+  },
+  {
+   "name": "住行向地四位行法",
+   "note": "第二階段，別教菩薩，依一一法別相、差別智"
+  },
+  {
+   "name": "等覺位",
+   "note": "第三階段，以《十定品》起，世尊入三昧、參與說法"
+  },
+  {
+   "name": "妙覺位",
+   "note": "第四階段，如來地，《離世間品》"
+  }
+ ],
+ "order_note": "依第一至第四階段次第排列，等覺位以《十定品》為首品，妙覺位以《離世間品》為終",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四階段標準列法",
+   "members": [
+    "十信位",
+    "住行向地四位行法",
+    "等覺位",
+    "妙覺位"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi9",
+    "pages/huayan70/jiangyi11",
+    "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)",
+    "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
+    "pages/swxf/shizhu17"
+   ]
+  },
+  {
+   "label": "按世尊是否動、入三昧、說法區分四階段",
+   "members": [
+    "十信位",
+    "住行向地四位行法",
+    "等覺位",
+    "妙覺位"
+   ],
+   "pages": [
+    "pages/shixin/shixin5"
+   ]
+  },
+  {
+   "label": "把四位行法拆開，以十信、十住、十行、十迴向、十地並列",
+   "members": [
+    "十信位",
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/swxf/shizhu14",
+    "pages/shixin/shixin9"
+   ]
+  },
+  {
+   "label": "只提第一、第三、第四階段及其首品",
+   "members": [
+    "十信位",
+    "等覺位",
+    "妙覺位"
+   ],
+   "pages": [
+    "pages/shixin/shixin2",
+    "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "多數頁面分四階段（十信、四位行法、等覺、妙覺）；有的列法把十住、十行、十迴向、十地各自與十信並列；也有說「四個次第加十信位共五個」",
+   "sources": [
+    {
+     "q": "華嚴行法講了四個次第，加上十信位就有五個次第。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd"
+    },
+    {
+     "q": "普光殿行法理論從大的方面分是四個階段：十信位、四位行法、等覺位、妙覺位。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "等覺位和妙覺位各自包含的品與行法，在本批頁面中只提首品（《十定品》《離世間品》）",
+  "等覺位、妙覺位的行法內容未展開"
+ ],
+ "source_quotes": [
+  {
+   "q": "普光明殿分為四個行法階段：一是十信位，依一切法總相發心；二是四位行法，依一一法別相成就無上正覺；三是消除別教菩薩行法習氣，進入等覺位根本智行法；四是破除根本無明入妙覺位。",
+   "src": "pages/huayan70/jiangyi14"
+  },
+  {
+   "q": "普光明殿闡明了華嚴行法理論和行法次第，分為四個階段：第一階段是十信位，第二階段是『住行向地』四位行法，第三階段是等覺位，第四階段是妙覺位。",
+   "src": "pages/huayan70/jiangyi9"
+  }
+ ],
+ "related": [
+  "住行向地四位行法",
+  "十信位六品",
+  "三處演說",
+  "根本智與差別智",
+  "菩提場會六品"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi9",
+  "pages/huayan70/jiangyi14",
+  "pages/shixin/shixin5",
+  "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)",
+  "pages/swxf/shizhu14",
+  "pages/shixin/shixin1"
+ ],
+ "confidence": "high"
+}

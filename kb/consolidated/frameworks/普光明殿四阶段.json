@@ -1,0 +1,87 @@
+{
+ "name": "普光明殿四阶段",
+ "key": "普光明殿四阶段",
+ "aliases": [
+  "普光明殿四个行法阶段"
+ ],
+ "summary": "普光明殿行法分四阶段：十信、住行向地、等觉、妙觉",
+ "members": [
+  {
+   "name": "十信位",
+   "note": "根本智行法的第一阶段"
+  },
+  {
+   "name": "住行向地四位行法",
+   "note": "差别智行法，含十住、十行、十回向、十地"
+  },
+  {
+   "name": "等觉位",
+   "note": "根本智行法阶段"
+  },
+  {
+   "name": "妙觉位",
+   "note": "根本智行法阶段"
+  }
+ ],
+ "order_note": "十信位、住行向地四位、等觉位、妙觉位，依行法进程",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "以四阶段列举",
+   "members": [
+    "十信位",
+    "住行向地四位行法",
+    "等觉位",
+    "妙觉位"
+   ],
+   "pages": [
+    "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-",
+    "pages/shixin/shixin4",
+    "pages/huayan70/jiangyi56",
+    "pages/shixin/shixin8",
+    "pages/shixin/shixin15"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "2024 页的口语表述把等觉与妙觉合称「等妙觉位」，说各一个阶段；shixin4 则把第一层四阶段说为根本智行法，十信、等觉、妙觉三者世尊不动，与住行向地对比。",
+   "sources": [
+    {
+     "q": "等妙覺位各一個階段",
+     "src": "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-"
+    },
+    {
+     "q": "第一層，四個階段，是講根本智行法的四個階段",
+     "src": "pages/shixin/shixin4"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各页仅在引用中提及，未单独详述每阶段内容",
+  "shixin8、shixin15 只是提及，未列成员"
+ ],
+ "source_quotes": [
+  {
+   "q": "普光明殿的行法分為四個階段：十信位一個階段、住行向地四行法一個階段，等妙覺位各一個階段。",
+   "src": "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-"
+  },
+  {
+   "q": "從十信位到等妙覺位一共三十二品，四個階段的行法理論皆有自己的演說方式",
+   "src": "pages/huayan70/jiangyi56"
+  }
+ ],
+ "related": [
+  "三处演说",
+  "根本智行法",
+  "差别智行法",
+  "住行向地四位行法"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-",
+  "pages/shixin/shixin4",
+  "pages/huayan70/jiangyi56"
+ ],
+ "confidence": "medium"
+}

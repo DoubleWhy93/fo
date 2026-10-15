@@ -1,0 +1,93 @@
+{
+ "name": "身语意入灭尽定",
+ "key": "身语意入灭尽定",
+ "aliases": [
+  "身语意入灭尽定（一生补处阶段）"
+ ],
+ "summary": "一生补处阶段第八、九、十位行法：身、语、意业入灭尽定",
+ "members": [
+  {
+   "name": "身业入灭尽定",
+   "note": "第八位；第八回向等；差别智角度"
+  },
+  {
+   "name": "语业入灭尽定",
+   "note": "第九位；对应「法」；力波罗蜜"
+  },
+  {
+   "name": "意业入灭尽定",
+   "note": "第十位；对应「佛」；智波罗蜜；根本智总持力"
+  }
+ ],
+ "order_note": "依第八、九、十位次序排列，对应一生补处阶段三位",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "按位次列身、语、意业（第八至第十位）",
+   "members": [
+    "身业（第八位）",
+    "语业（第九位）",
+    "意业（第十位）"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi60"
+   ]
+  },
+  {
+   "label": "按十回向位第八至第十回向列出",
+   "members": [
+    "第八回向：身业入灭尽定",
+    "第九回向：语业入灭尽定（法）",
+    "第十回向：意业入灭尽定（佛）"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi62",
+    "pages/huayan70/jiangyi61"
+   ]
+  },
+  {
+   "label": "意业入灭尽定指解决一切问题的能力",
+   "members": [
+    "身业入灭尽定",
+    "语业入灭尽定",
+    "意业入灭尽定"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/45.zyddyyrmjd"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "第61页仅涉及第八回向身业，未单独列三者",
+  "各页未给出身语意入灭尽定在各位的统一对照清单"
+ ],
+ "source_quotes": [
+  {
+   "q": "亦即『身語意』入滅盡定中的『語業』入滅盡定行法，對應初發心階段『佛法僧』三個因素中『法』的因素",
+   "src": "pages/huayan70/jiangyi60"
+  },
+  {
+   "q": "亦即『身語意』入滅盡定中的『意業』入滅盡定行法，對應初發心階段『佛法僧』三個因素中『佛』的因素",
+   "src": "pages/huayan70/jiangyi60"
+  },
+  {
+   "q": "亦即十迴向位『身語意』入滅盡定行法中的『身業』入滅盡定行法",
+   "src": "pages/huayan70/jiangyi61"
+  }
+ ],
+ "related": [
+  "十波罗蜜",
+  "一生补处",
+  "佛法僧三因素",
+  "根本智与差别智",
+  "金刚种性"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi60",
+  "pages/huayan70/jiangyi62",
+  "pages/huayan70/jiangyi61",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/45.zyddyyrmjd"
+ ],
+ "confidence": "high"
+}

@@ -1,0 +1,102 @@
+{
+ "name": "转八识成四智",
+ "key": "转八识成四智",
+ "aliases": [],
+ "summary": "八识转为四智，四智按东南西北对应四种识",
+ "members": [
+  {
+   "name": "大圆镜智",
+   "note": "东方；由阿赖耶识转"
+  },
+  {
+   "name": "平等性智",
+   "note": "南方；由第七识转"
+  },
+  {
+   "name": "妙观察智",
+   "note": "西方；由第六识转"
+  },
+  {
+   "name": "成所作智",
+   "note": "北方；由前五识转"
+  }
+ ],
+ "order_note": "按东、南、西、北方位排列",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四智与八识按方位对应",
+   "members": [
+    "大圆镜智（阿赖耶识）",
+    "平等性智（第七识）",
+    "妙观察智（第六识）",
+    "成所作智（前五识）"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/131.sfsblmdbwdydsdwdqwscj-"
+   ]
+  },
+  {
+   "label": "四智对应华严四十位（十住至十地）",
+   "members": [
+    "十住：大圆镜智",
+    "十行：平等性智",
+    "十回向：妙观察智",
+    "十地：成所作智"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang26"
+   ]
+  },
+  {
+   "label": "仅提及转八识成四智，不列成员",
+   "members": [],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-",
+    "pages/huayan28/28jiang14"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第131页述四智与八识对应时，一处写「北方平等性智是前五识转过来」，与前句「北方代表成所作智」及南方平等性智重复，疑为笔误，此处按成所作智计",
+   "sources": [
+    {
+     "q": "北方平等性智是前五識轉過來的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/131.sfsblmdbwdydsdwdqwscj-"
+    },
+    {
+     "q": "北方代表成所作智",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/131.sfsblmdbwdydsdwdqwscj-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各识转成各智的具体行法过程，各页未展开成清单",
+  "只有第131页完整列出四智与识的对应"
+ ],
+ "source_quotes": [
+  {
+   "q": "東邊代表大圓鏡智，南方代表平等性智，西方代表妙觀察智，北方代表成所作智。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/131.sfsblmdbwdydsdwdqwscj-"
+  },
+  {
+   "q": "十住位對應大圓鏡智，十行位對應平等性智，十迴向位對應妙觀察智，十地位對應成所作智。",
+   "src": "pages/huayan28/28jiang26"
+  }
+ ],
+ "related": [
+  "华严四智行法",
+  "第七末那识",
+  "七种根本作意",
+  "十波罗蜜"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/131.sfsblmdbwdydsdwdqwscj-",
+  "pages/huayan28/28jiang26",
+  "pages/huayan28/28jiang14",
+  "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+ ],
+ "confidence": "high"
+}

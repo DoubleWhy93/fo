@@ -1,0 +1,76 @@
+{
+ "name": "万法因缘生与一切法从心想生",
+ "key": "万法因缘生与一切法从心想生",
+ "aliases": [],
+ "summary": "两条法则:共法世间依因缘必然生,报身世间依心想生起",
+ "members": [
+  {
+   "name": "万法因缘生",
+   "note": "共法世间、本体、自然界一切法,必然的因果"
+  },
+  {
+   "name": "一切法从心想生",
+   "note": "报身世间,自我因素为第一因,解脱与无上正觉"
+  }
+ ],
+ "order_note": "sources give no fixed order; always stated as a contrasting pair",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "有法/摄论宗 vs 性宗/空宗角度",
+   "members": [
+    "万法因缘生",
+    "一切法从心想生"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/34.-wfyys-h-yqfcxxs-dcb"
+   ]
+  },
+  {
+   "label": "共法世间 vs 报身世间(第一因)",
+   "members": [
+    "万法因缘生",
+    "一切法从心想生"
+   ],
+   "pages": [
+    "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-"
+   ]
+  },
+  {
+   "label": "自然界(客观合目的性) vs 解脱与无上正觉",
+   "members": [
+    "万法因缘生",
+    "一切法从心想生"
+   ],
+   "pages": [
+    "pages/swxf/shizhu15"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "sources do not give a formal definition beyond the contrast between the two"
+ ],
+ "source_quotes": [
+  {
+   "q": "「萬法因緣生」是從有法的角度講的，攝論宗講的很多；「一切法從心想生」是從性宗、空宗的角度講的比較多。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/34.-wfyys-h-yqfcxxs-dcb"
+  },
+  {
+   "q": "共法世間的一切法是「萬法因緣生」，我們生命本身報身世間的一切法是「一切法從心想生」。",
+   "src": "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-"
+  }
+ ],
+ "related": [
+  "报身世间",
+  "共法世间",
+  "第一因",
+  "如来藏"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2024dy/2024dywd/7.dy-2024-10-26-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/34.-wfyys-h-yqfcxxs-dcb",
+  "pages/swxf/shizhu15"
+ ],
+ "confidence": "high"
+}

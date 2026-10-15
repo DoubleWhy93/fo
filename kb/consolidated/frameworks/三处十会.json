@@ -1,0 +1,77 @@
+{
+ "name": "三处十会",
+ "aliases": [
+  "三处演说"
+ ],
+ "summary": "《华严经》在菩提场、普光明殿、入法界三处演说，共十会",
+ "members": [
+  {
+   "name": "菩提场",
+   "note": "佛；菩提场会，六品经文"
+  },
+  {
+   "name": "普光明殿",
+   "note": "法；智慧光明遍照，行法理论与次第"
+  },
+  {
+   "name": "入法界",
+   "note": "僧；入世间一切法，《入法界品》"
+  }
+ ],
+ "order_note": "按演说先后：菩提场、普光明殿、入法界",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "三处演说，对应佛法僧/身语意/体相用",
+   "members": [
+    "菩提场",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi1",
+    "pages/huayan28/28jiang13",
+    "pages/huayan70/jw_jiangyi"
+   ]
+  },
+  {
+   "label": "仅提到名称、作为整体结构",
+   "members": [],
+   "pages": [
+    "pages/shixin/shixin5",
+    "pages/swxf/shizhu7"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "「十会」中十会的逐会名目，所读页面未列出",
+  "三处之下各会的数目分配，所读页面未明说"
+ ],
+ "source_quotes": [
+  {
+   "q": "八十華嚴有三十九品，在三處演說。第一處是菩提場、第二處是普光明殿、第三處是入法界。",
+   "src": "pages/huayan28/28jiang13"
+  },
+  {
+   "q": "這三個處所分別代表了生命中『佛法僧』三個根本因素。",
+   "src": "pages/huayan28/28jiang13"
+  }
+ ],
+ "related": [
+  "佛法僧",
+  "身语意",
+  "体相用",
+  "三十九品",
+  "入法界品三会",
+  "九处经首"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi1",
+  "pages/huayan28/28jiang13",
+  "pages/shixin/shixin2",
+  "pages/shixin/shixin5"
+ ],
+ "confidence": "medium",
+ "key": "三处十会"
+}

@@ -1,0 +1,123 @@
+{
+ "name": "十信位六品",
+ "key": "十信位六品",
+ "aliases": [
+  "十信位六品經文"
+ ],
+ "summary": "普光明殿十信位六品：名號、聖諦、光明覺、問明、淨行、賢首",
+ "members": [
+  {
+   "name": "如來名號品",
+   "note": "第一品；佛；演說如來名號"
+  },
+  {
+   "name": "四聖諦品",
+   "note": "第二品；法；一說稱《佛四聖諦品》"
+  },
+  {
+   "name": "光明覺品",
+   "note": "第三品；僧；世尊足下放光，文殊師利菩薩生起"
+  },
+  {
+   "name": "菩薩問明品",
+   "note": "後三品之首"
+  },
+  {
+   "name": "淨行品",
+   "note": ""
+  },
+  {
+   "name": "賢首品",
+   "note": ""
+  }
+ ],
+ "order_note": "前三品為如來名號、四聖諦、光明覺，後三品為菩薩問明、淨行、賢首",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "六品全列",
+   "members": [
+    "如來名號品",
+    "四聖諦品",
+    "光明覺品",
+    "菩薩問明品",
+    "淨行品",
+    "賢首品"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi9",
+    "pages/huayan28/28jiang20",
+    "pages/huayan28/28jiang21",
+    "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)"
+   ]
+  },
+  {
+   "label": "前三品對應佛法僧",
+   "members": [
+    "如來名號品",
+    "四聖諦品",
+    "光明覺品"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang21"
+   ]
+  },
+  {
+   "label": "逐品說明內容",
+   "members": [
+    "如來名號品",
+    "四聖諦品",
+    "光明覺品",
+    "菩薩問明品",
+    "淨行品",
+    "賢首品"
+   ],
+   "pages": [
+    "pages/shixin/shixin8"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第二品名稱有《四聖諦品》與《佛四聖諦品》兩種寫法",
+   "sources": [
+    {
+     "q": "《如來名號品》、《佛四聖諦品》、《光明覺品》",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)"
+    },
+    {
+     "q": "前三品是《如來名號品》、《四聖諦品》、《光明覺品》",
+     "src": "pages/huayan28/28jiang20"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "shixin6、shixin12 的摘要只出現五品（無《光明覺品》），應是該段只提及五品",
+  "各品與菩提場會六品的對應細節，本批只作概述"
+ ],
+ "source_quotes": [
+  {
+   "q": "十信位的六品中，前三品是《如來名號品》、《四聖諦品》、《光明覺品》，後三品是《菩薩問明品》、《淨行品》、《賢首品》。",
+   "src": "pages/huayan70/jiangyi9"
+  },
+  {
+   "q": "普光明殿十信位有六品經文：前三品是《如來名號品》、《四聖諦品》、《光明覺品》，後三品是《菩薩問明品》、《淨行品》和《賢首品》。",
+   "src": "pages/huayan28/28jiang20"
+  }
+ ],
+ "related": [
+  "普光明殿四個行法階段",
+  "菩提場會六品",
+  "三處演說",
+  "十信位"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi9",
+  "pages/huayan28/28jiang20",
+  "pages/huayan28/28jiang21",
+  "pages/shixin/shixin8",
+  "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)"
+ ],
+ "confidence": "high"
+}

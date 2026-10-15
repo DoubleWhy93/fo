@@ -1,0 +1,91 @@
+{
+ "name": "四智",
+ "key": "四智",
+ "aliases": [],
+ "summary": "大圆镜智、平等性智、妙观察智、成所作智",
+ "members": [
+  {
+   "name": "大圆镜智",
+   "note": "一切法的总相，生起一切法的能力；东方"
+  },
+  {
+   "name": "平等性智",
+   "note": ""
+  },
+  {
+   "name": "妙观察智",
+   "note": "西方成就；微细观察、胜妙思惟"
+  },
+  {
+   "name": "成所作智",
+   "note": ""
+  }
+ ],
+ "order_note": "大圆镜智、平等性智、妙观察智、成所作智，依次列出",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四智依次列出",
+   "members": [
+    "大圆镜智",
+    "平等性智",
+    "妙观察智",
+    "成所作智"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+    "pages/shixin/shixin2"
+   ]
+  },
+  {
+   "label": "只讲西方妙观察智",
+   "members": [
+    "西方：妙观察智"
+   ],
+   "pages": [
+    "pages/amtj/amtj8"
+   ]
+  },
+  {
+   "label": "在妙觉位内分别指四智的一切法",
+   "members": [
+    "妙觉位大圆镜智",
+    "妙觉位平等性智",
+    "妙觉位妙观察智"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi70"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "成所作智、平等性智在来源中缺少单独说明",
+  "四智与四位行法的配合见「四智行法」一卡，本卡页面多只点名"
+ ],
+ "source_quotes": [
+  {
+   "q": "在四智行法中，此即到達妙覺位大圓鏡智的一切法，即根本智總持力所生一切法。",
+   "src": "pages/huayan70/jiangyi70"
+  },
+  {
+   "q": "『西方』代表妙觀察智的成就，具體的行法是依於自性空法生起道種智。",
+   "src": "pages/amtj/amtj8"
+  }
+ ],
+ "related": [
+  "四智行法",
+  "四十位行法",
+  "根本智",
+  "差别智",
+  "四智十方",
+  "阿弥陀如来极乐世界"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi70",
+  "pages/amtj/amtj8",
+  "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+  "pages/shixin/shixin2"
+ ],
+ "confidence": "medium"
+}

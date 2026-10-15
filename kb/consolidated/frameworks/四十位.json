@@ -1,0 +1,102 @@
+{
+ "name": "四十位",
+ "aliases": [
+  "四十位行法"
+ ],
+ "summary": "十住、十行、十迴向、十地四位行法，各十位共四十位",
+ "members": [
+  {
+   "name": "十住",
+   "note": "四位行法之一"
+  },
+  {
+   "name": "十行",
+   "note": "四位行法之一"
+  },
+  {
+   "name": "十迴向",
+   "note": "四位行法之一"
+  },
+  {
+   "name": "十地",
+   "note": "四位行法之一；十地圓滿為道種智成就"
+  }
+ ],
+ "order_note": "十住、十行、十迴向、十地依次生起",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "四位行法（十住至十地）",
+   "members": [
+    "十住",
+    "十行",
+    "十迴向",
+    "十地"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/8.wsrywsfrdcjcb",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/10.hwjgwd-zydd-bzssm"
+   ]
+  },
+  {
+   "label": "摘要列六位（含十信、等覺）",
+   "members": [
+    "十信",
+    "十住",
+    "十行",
+    "十迴向",
+    "十地",
+    "等覺"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/4.rhcspsjqryzfj-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "摘要把十信、等覺併入列成六位，而問答原文只講四個階段、六位行法，並單說十住至十地是一個結構；四十位是否含十信與等覺各頁未明說。",
+   "sources": [
+    {
+     "q": "這裡講到的四個階段，六位行法是次第道的行法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/4.rhcspsjqryzfj-"
+    },
+    {
+     "q": "剛才您講到十住、十行、十回向、十地是一個結構。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/8.wsrywsfrdcjcb"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "每位十位的具體名稱各頁未列"
+ ],
+ "source_quotes": [
+  {
+   "q": "剛才您講到十住、十行、十回向、十地是一個結構。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/8.wsrywsfrdcjcb"
+  },
+  {
+   "q": "在四十位行法裡面就知道了，從初迴向到第七迴向，從初地到七地，還有「有法」習氣。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/10.hwjgwd-zydd-bzssm"
+  },
+  {
+   "q": "每一個階段的第八位到第十位都是那一種性的入滅盡定行法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/4.rhcspsjqryzfj-"
+  }
+ ],
+ "related": [
+  "四智法",
+  "普光明殿四個行法階段",
+  "道種智",
+  "入滅盡定行法"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/8.wsrywsfrdcjcb",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/10.hwjgwd-zydd-bzssm",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/4.rhcspsjqryzfj-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/22.hw-fscz--"
+ ],
+ "confidence": "low",
+ "key": "四十位"
+}

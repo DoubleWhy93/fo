@@ -1,0 +1,92 @@
+{
+ "name": "六波罗蜜",
+ "key": "六波罗蜜",
+ "aliases": [
+  "六波羅蜜行法"
+ ],
+ "summary": "布施等六行法;须以般若为前提,前五才成波罗蜜",
+ "members": [
+  {
+   "name": "布施",
+   "note": "前五者无般若时只是精进法"
+  },
+  {
+   "name": "持戒",
+   "note": ""
+  },
+  {
+   "name": "忍辱",
+   "note": ""
+  },
+  {
+   "name": "精进",
+   "note": ""
+  },
+  {
+   "name": "禅定",
+   "note": ""
+  },
+  {
+   "name": "般若",
+   "note": "智慧;建立后前五才是波罗蜜法"
+  }
+ ],
+ "order_note": "listed in this fixed order, 般若/智慧 last",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "佈施…智慧 (智慧 wording)",
+   "members": [
+    "布施",
+    "持戒",
+    "忍辱",
+    "精进",
+    "禅定",
+    "智慧"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/21.-gj-dzgxfyhyxfdrhwt"
+   ]
+  },
+  {
+   "label": "布施…般若 (般若 wording)",
+   "members": [
+    "布施",
+    "持戒",
+    "忍辱",
+    "精进",
+    "禅定",
+    "般若"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang5",
+    "pages/huayan28/28jiang24"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "pages do not describe each of the six individually; they stress the relation to 般若"
+ ],
+ "source_quotes": [
+  {
+   "q": "當我們看到六波羅蜜行法的時候，從佈施、持戒、忍辱、精進、禪定、智慧。世尊講在沒有到達般若波羅蜜的時候，前面這五個不能稱作是波羅蜜行法，只能叫作精進法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/21.-gj-dzgxfyhyxfdrhwt"
+  },
+  {
+   "q": "六波羅蜜行法中，只有到達般若波羅蜜的時候，也就是到達智慧開啟的時候，前面的五位行法：布施、持戒、忍辱、精進、禪定，才可能是波羅蜜行法",
+   "src": "pages/huayan28/28jiang5"
+  }
+ ],
+ "related": [
+  "般若波罗蜜",
+  "精进法",
+  "漏尽通"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/21.-gj-dzgxfyhyxfdrhwt",
+  "pages/huayan28/28jiang5",
+  "pages/huayan28/28jiang24"
+ ],
+ "confidence": "high"
+}

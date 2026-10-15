@@ -1,0 +1,88 @@
+{
+ "name": "根本智與差別智、根本無明與一念無明",
+ "aliases": [
+  "根本無明與一念無明",
+  "根本智與差別智"
+ ],
+ "summary": "兩對相配的概念：根本智生起差別智，根本無明生起一念無明",
+ "members": [
+  {
+   "name": "根本智",
+   "note": "自性本有的總體覺知力，無加行力生起"
+  },
+  {
+   "name": "差別智",
+   "note": "針對某一法的具體覺知、思惟、體驗"
+  },
+  {
+   "name": "根本無明",
+   "note": "先天能覺知一切法的力量；凡夫地的說法"
+  },
+  {
+   "name": "一念無明",
+   "note": "對某一法生起關注，表現為問問題、問法"
+  }
+ ],
+ "order_note": "先根本後差別；根本智對應根本無明，差別智對應一念無明",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "從行法角度（根本智生起差別智）",
+   "members": [
+    "根本智",
+    "差別智"
+   ],
+   "pages": [
+    "pages/shixin/shixin10",
+    "pages/swxf/shizhu3"
+   ]
+  },
+  {
+   "label": "問法與一念無明的關係",
+   "members": [
+    "根本無明",
+    "一念無明"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi33",
+    "pages/huayan70/jiangyi41"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "各頁未給出條目清單，只作概念說明",
+  "shixin12 僅預設此概念，未明說"
+ ],
+ "source_quotes": [
+  {
+   "q": "根本無明與一念無明就是根本智與差別智。",
+   "src": "pages/shixin/shixin10"
+  },
+  {
+   "q": "這就從根本無明轉變到一念無明。",
+   "src": "pages/swxf/shizhu3"
+  },
+  {
+   "q": "根本無明的具體表現即一念無明，一念無明的具體表現即對諸法差別生起關注。",
+   "src": "pages/huayan70/jiangyi33"
+  },
+  {
+   "q": "就是要從根本智轉向差別智，從根本無明轉向一念無明。",
+   "src": "pages/swxf/shizhu3"
+  }
+ ],
+ "related": [
+  "問法主與說法主",
+  "自性",
+  "天帝釋"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin10",
+  "pages/swxf/shizhu3",
+  "pages/huayan70/jiangyi33",
+  "pages/huayan70/jiangyi41"
+ ],
+ "confidence": "medium",
+ "key": "根本智与差别智根本无明与一念无明"
+}

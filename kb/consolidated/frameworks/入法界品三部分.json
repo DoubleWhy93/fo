@@ -1,0 +1,68 @@
+{
+ "key": "入法界品三部分",
+ "name": "《入法界品》三部分",
+ "summary": "逝多林本會、福城東大塔廟會、善財童子五十三參",
+ "members": [
+  {
+   "name": "世尊逝多林本會",
+   "note": "對應菩提場會；世尊角度的呈現"
+  },
+  {
+   "name": "文殊菩薩福城東大塔廟會",
+   "note": "文殊帶眾出善住樓閣至福城東演說"
+  },
+  {
+   "name": "善財童子五十三參",
+   "note": "發菩提心南行，至普賢菩薩法界"
+  }
+ ],
+ "order_note": "本會、福城東大塔廟會、五十三參，依經文次第；並對應佛法僧",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "完整展開",
+   "members": [
+    "世尊逝多林本會",
+    "文殊菩薩福城東大塔廟會",
+    "善財童子五十三參"
+   ],
+   "pages": [
+    "pages/swxf/shizhu27"
+   ]
+  },
+  {
+   "label": "簡列並對應佛法僧",
+   "members": [
+    "世尊逝多林本會",
+    "文殊菩薩福城東大塔廟會",
+    "善財童子五十三參"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/141.zyljwxcj",
+    "pages/swxf/shizhu30"
+   ]
+  }
+ ],
+ "gaps": [
+  "「世多林」與「逝多林」寫法不同，應為同一處；各部分內容細節在這幾頁未展開"
+ ],
+ "source_quotes": [
+  {
+   "q": "我們把它分成了三部分：一個是世尊的世多林本會，從世尊的角度來看在世間的呈現；然後是文殊菩薩福城東大塔廟會；第三個，善財童子五十三參。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/141.zyljwxcj"
+  }
+ ],
+ "related": [
+  "佛法僧",
+  "五十三參",
+  "菩提場會"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/141.zyljwxcj",
+  "pages/swxf/shizhu27",
+  "pages/swxf/shizhu30"
+ ],
+ "confidence": "high",
+ "aliases": [],
+ "tensions": []
+}

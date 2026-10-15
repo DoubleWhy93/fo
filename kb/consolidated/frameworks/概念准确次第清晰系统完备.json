@@ -1,0 +1,90 @@
+{
+ "name": "概念准确、次第清晰、系统完备",
+ "key": "概念准确次第清晰系统完备",
+ "aliases": [
+  "自性智慧的三种表现方式"
+ ],
+ "summary": "般若/自性智慧的三种表现：概念准确、次第清晰、系统完备",
+ "members": [
+  {
+   "name": "概念准确",
+   "note": "行法位次边界要划清，名相定义准确"
+  },
+  {
+   "name": "次第清晰",
+   "note": "行法次第要清晰；动词把名词连成生命体验"
+  },
+  {
+   "name": "系统完备",
+   "note": "行法理论完备，因素有序整合"
+  }
+ ],
+ "order_note": "固定按概念准确、次第清晰、系统完备；三者不可分离",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "三项并列直述",
+   "members": [
+    "概念准确",
+    "次第清晰",
+    "系统完备"
+   ],
+   "pages": [
+    "pages/swxf/shizhu19",
+    "pages/shixin/shixin2",
+    "pages/swxf/shizhu23",
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/22.zhmzwdrjxb-smshzxdwtm"
+   ]
+  },
+  {
+   "label": "对应三处殿：须弥山顶妙胜殿、夜摩天宫宝庄严殿、兜率天宫",
+   "members": [
+    "概念准确：须弥山顶妙胜殿",
+    "次第清晰：夜摩天宫宝庄严殿",
+    "系统完备：兜率天宫一切妙宝所庄严殿"
+   ],
+   "pages": [
+    "pages/swxf/shizhu26"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "措辞略异：一页写“概念要準確、行法次第要清晰、行法理論要完備”；多数页写“概念准确、次第清晰、系统完备”。另有页面把这三项当作般若三属性本身。",
+   "sources": [
+    {
+     "q": "第一個，概念要準確；第二個，行法次第要清晰；第三個，行法理論要完備。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/22.zhmzwdrjxb-smshzxdwtm"
+    },
+    {
+     "q": "自性智慧的表現方式有三種：一是概念準確，二是次第清晰，三是系統完備。",
+     "src": "pages/swxf/shizhu19"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "三项与三处殿的对应只在 shizhu26 出现，其他页未重复"
+ ],
+ "source_quotes": [
+  {
+   "q": "般若智慧的這三個特點：概念準確、次第清晰、系統完備。",
+   "src": "pages/swxf/shizhu19"
+  },
+  {
+   "q": "一個在須彌山頂妙勝殿，一個在夜摩天宮寶莊嚴殿，還有一個在兜率天宮一切妙寶所莊嚴殿。",
+   "src": "pages/swxf/shizhu26"
+  }
+ ],
+ "related": [
+  "般若智慧三属性",
+  "演绎与归纳"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu19",
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/22.zhmzwdrjxb-smshzxdwtm",
+  "pages/swxf/shizhu26",
+  "pages/swxf/shizhu23"
+ ],
+ "confidence": "high"
+}

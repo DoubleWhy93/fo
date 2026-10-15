@@ -1,0 +1,86 @@
+{
+ "key": "三细相",
+ "name": "三细相",
+ "summary": "業相、轉相（能見相）、境界相，一法最初生起的三者",
+ "members": [
+  {
+   "name": "業相",
+   "note": "最初生起之一；問答中被理解為業力"
+  },
+  {
+   "name": "轉相",
+   "note": "28jiang13 作能見相"
+  },
+  {
+   "name": "境界相",
+   "note": ""
+  }
+ ],
+ "order_note": "業相、轉相（能見相）、境界相，依生起次第",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "業相、轉相、境界相",
+   "members": [
+    "業相",
+    "轉相",
+    "境界相"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/128.sxxhfbhssddygx",
+    "pages/huayan70/jiangyi19"
+   ]
+  },
+  {
+   "label": "業相、能見相、境界相，對應佛法僧",
+   "members": [
+    "業相",
+    "能見相",
+    "境界相"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang13"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第二項名稱不同：多頁作「轉相」，28jiang13 作「能見相」；是否同一項，頁面未明言",
+   "sources": [
+    {
+     "q": "三細相生起，分別是業相、轉相、境界相",
+     "src": "pages/huayan70/jiangyi19"
+    },
+    {
+     "q": "最初的呈現即是業相、能見相和境界相",
+     "src": "pages/huayan28/28jiang13"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "三項各自的定義未在這些頁面逐一解釋"
+ ],
+ "source_quotes": [
+  {
+   "q": "一法生起首先是三細相生起，分別是業相、轉相、境界相。",
+   "src": "pages/huayan70/jiangyi19"
+  },
+  {
+   "q": "生命中『佛法僧』三者最初的呈現即是業相、能見相和境界相。",
+   "src": "pages/huayan28/28jiang13"
+  }
+ ],
+ "related": [
+  "六粗相",
+  "佛法僧",
+  "根本無明"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi19",
+  "pages/huayan28/28jiang13",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/128.sxxhfbhssddygx"
+ ],
+ "confidence": "medium",
+ "aliases": []
+}

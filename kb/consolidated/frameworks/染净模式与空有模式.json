@@ -1,0 +1,76 @@
+{
+ "name": "染净模式与空有模式",
+ "aliases": [],
+ "summary": "两种看待一切法的模式：染净（取舍，声闻）与空有（智慧应用，大乘）",
+ "members": [
+  {
+   "name": "染净模式",
+   "note": "去染求净、有取有舍，属声闻乘"
+  },
+  {
+   "name": "空有模式",
+   "note": "空是智慧、有是应用，属大乘菩萨行法"
+  }
+ ],
+ "order_note": "二者对举；十住位之后须由染净转入空有",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "从乘别、行法阶段对举",
+   "members": [
+    "染净：去染求净，有取有舍（声闻乘）",
+    "空有：空是智慧，有是应用（大乘）"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz",
+    "pages/huayan28/28jiang10"
+   ]
+  },
+  {
+   "label": "在华严行法、如来藏、身心一切法中的运用",
+   "members": [
+    "染净模式",
+    "空有模式"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi3",
+    "pages/huayan70/jiangyi4",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/30.rhthyqfhrlzdgx-",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/43.tyjs-btrs-dbdyybt-smsdwtm"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "jiangyi4 关键词中的「声闻模式」与染净模式的关系，页面未明说"
+ ],
+ "source_quotes": [
+  {
+   "q": "染淨理念的修行就是聲聞乘的行法，空有理念的修行纔是大乘智慧行法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz"
+  },
+  {
+   "q": "十住位之後，這種理念要從這種染淨方式，轉變成空有方式。空是智慧，有是應用。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz"
+  },
+  {
+   "q": "染淨模式的行法指向一心清淨，總體上屬於聲聞乘",
+   "src": "pages/huayan28/28jiang10"
+  }
+ ],
+ "related": [
+  "十住位",
+  "声闻乘",
+  "菩萨道种智行法",
+  "分别法与智慧法",
+  "见性位"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz",
+  "pages/huayan28/28jiang10",
+  "pages/huayan70/jiangyi3",
+  "pages/huayan70/jiangyi4"
+ ],
+ "confidence": "high",
+ "key": "染净模式与空有模式"
+}

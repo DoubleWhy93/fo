@@ -1,0 +1,115 @@
+{
+ "name": "十波罗蜜",
+ "key": "十波罗蜜",
+ "aliases": [
+  "十波罗蜜行法"
+ ],
+ "summary": "十波罗蜜行法：四十位行法所依，分四阶段十项",
+ "members": [
+  {
+   "name": "布施",
+   "note": ""
+  },
+  {
+   "name": "持戒",
+   "note": ""
+  },
+  {
+   "name": "忍辱",
+   "note": ""
+  },
+  {
+   "name": "精进",
+   "note": ""
+  },
+  {
+   "name": "方便",
+   "note": "列在“一直到”之后"
+  },
+  {
+   "name": "愿",
+   "note": ""
+  },
+  {
+   "name": "力",
+   "note": ""
+  },
+  {
+   "name": "智",
+   "note": "第十位智波罗蜜"
+  }
+ ],
+ "order_note": "shizhu25 列布施至智（中间以“一直到”省略）；另一页按阶段 3/3/1/3 分组",
+ "completeness": "fragmentary",
+ "views": [
+  {
+   "label": "名相列举（八项，中间省略）",
+   "members": [
+    "布施",
+    "持戒",
+    "忍辱",
+    "精进",
+    "方便",
+    "愿",
+    "力",
+    "智"
+   ],
+   "pages": [
+    "pages/swxf/shizhu25"
+   ]
+  },
+  {
+   "label": "按行法阶段分组：初发心3、精进修3、不退转1、灭尽定3",
+   "members": [
+    "初發心階段三個",
+    "精進修階段三個",
+    "不退轉階段一個",
+    "滅盡定三個"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "shizhu25 只列八个名相（缺禅定、般若等），33 页则说波罗蜜有十个并分四阶段；两处列法不能直接对齐。33 页还说般若从有功用行是第六个、从无功用行是第十个。",
+   "sources": [
+    {
+     "q": "十波羅蜜行法——布施、持戒、忍辱、精進、一直到方便、願、力、智。",
+     "src": "pages/swxf/shizhu25"
+    },
+    {
+     "q": "十波羅蜜分成四個階段：初發心階段有三個，精進修階段有三個，不退轉階段有一個，滅盡定有三個。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "十项的完整名单（第五至第六位间的项目）在所读页面中未逐一列出",
+  "每个阶段所含的具体波罗蜜未指明",
+  "60、71 页（住位与波罗蜜对应）仅提及，未展开"
+ ],
+ "source_quotes": [
+  {
+   "q": "十波羅蜜行法——布施、持戒、忍辱、精進、一直到方便、願、力、智。",
+   "src": "pages/swxf/shizhu25"
+  },
+  {
+   "q": "華嚴住行向地四位行法都是按照十波羅蜜去建立的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+  }
+ ],
+ "related": [
+  "四十位行法",
+  "般若波罗蜜",
+  "灭尽定"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu25",
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+ ],
+ "confidence": "low"
+}

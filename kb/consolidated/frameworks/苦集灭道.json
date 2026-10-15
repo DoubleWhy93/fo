@@ -1,0 +1,80 @@
+{
+ "key": "苦集灭道",
+ "name": "苦集灭道",
+ "summary": "四諦：苦、集、滅、道；苦是果、集是因",
+ "members": [
+  {
+   "name": "苦",
+   "note": "是果"
+  },
+  {
+   "name": "集",
+   "note": "是因"
+  },
+  {
+   "name": "滅",
+   "note": ""
+  },
+  {
+   "name": "道",
+   "note": ""
+  }
+ ],
+ "order_note": "苦、集、滅、道；苦集為因果，滅道為止息與解脫之道",
+ "completeness": "full",
+ "aliases": [
+  "四諦",
+  "四聖諦"
+ ],
+ "views": [
+  {
+   "label": "聲聞角度為四諦，菩薩種性角度為四聖諦",
+   "members": [
+    "苦",
+    "集",
+    "滅",
+    "道"
+   ],
+   "pages": [
+    "pages/swxf/shizhu10"
+   ]
+  },
+  {
+   "label": "苦是果、集是因",
+   "members": [
+    "苦",
+    "集",
+    "滅",
+    "道"
+   ],
+   "pages": [
+    "pages/swxf/shizhu9"
+   ]
+  }
+ ],
+ "gaps": [
+  "148 頁只當作已知背景提及，未列出各項"
+ ],
+ "source_quotes": [
+  {
+   "q": "苦集滅道裡面，苦是果，集是因。",
+   "src": "pages/swxf/shizhu9"
+  },
+  {
+   "q": "從聲聞種性的角度來講就是四諦，是聽佛演說生命中的苦集滅道四種法。",
+   "src": "pages/swxf/shizhu10"
+  }
+ ],
+ "related": [
+  "四聖諦品",
+  "增上慧",
+  "解脫"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu10",
+  "pages/swxf/shizhu9",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/148.cjzsfhysdbk"
+ ],
+ "confidence": "high",
+ "tensions": []
+}

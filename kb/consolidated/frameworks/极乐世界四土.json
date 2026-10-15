@@ -1,0 +1,97 @@
+{
+ "name": "极乐世界四土",
+ "key": "极乐世界四土",
+ "aliases": [
+  "四土"
+ ],
+ "summary": "阿弥陀如来极乐世界的四土，以体验标准分别说明",
+ "members": [
+  {
+   "name": "凡圣同居土",
+   "note": "依上师、亲教师或深入经藏；离师则不稳定"
+  },
+  {
+   "name": "方便有余土",
+   "note": "依经教规则，离开经教无新体验"
+  },
+  {
+   "name": "实报庄严土",
+   "note": "自我创建，经典也成束缚"
+  },
+  {
+   "name": "常寂光土",
+   "note": "常住梵行清净，入灭尽定行法阶段"
+  }
+ ],
+ "order_note": "依次由凡圣同居土至常寂光土",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "仅列四土名称",
+   "members": [
+    "凡圣同居土",
+    "方便有余土",
+    "实报庄严土",
+    "常寂光土"
+   ],
+   "pages": [
+    "pages/amtj/amtj3",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/18.jlsjyhzsj-amtfyplznf",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/52.hyxzwsdjlsjqlt-ybjltysmcb-",
+    "pages/huayan70/jiangyi11"
+   ]
+  },
+  {
+   "label": "四土各附体验标准",
+   "members": [
+    "凡圣同居土：依上师、亲教师或深入经藏",
+    "方便有余土：依经教规则，离开经教无新体验",
+    "实报庄严土：自我创建，经典也成束缚",
+    "常寂光土：常住梵行清净，入灭尽定行法阶段"
+   ],
+   "pages": [
+    "pages/dayi_all/2024dy/2024dywd/4.dy-2024-10-5-"
+   ]
+  },
+  {
+   "label": "仅列前三土",
+   "members": [
+    "凡圣同居土",
+    "方便有余土",
+    "实报庄严土"
+   ],
+   "pages": [
+    "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "第三、四土的体验标准在 2024-10-5 页之外说明很少",
+  "与「四土」一卡为同一结构，两卡来源页不同"
+ ],
+ "source_quotes": [
+  {
+   "q": "淨土宗的阿彌陀如來極樂世界有四土：凡聖同居土、方便有餘土、實報莊嚴土和常寂光土。",
+   "src": "pages/amtj/amtj3"
+  },
+  {
+   "q": "在體驗上什麼叫作凡聖同居土？比方我是依靠善知識，即依於上師，親教師，或深入經藏帶給我的體驗。",
+   "src": "pages/dayi_all/2024dy/2024dywd/4.dy-2024-10-5-"
+  }
+ ],
+ "related": [
+  "四土",
+  "阿鞞跋致",
+  "梵行清净",
+  "入灭尽定行法",
+  "十信位"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2024dy/2024dywd/4.dy-2024-10-5-",
+  "pages/amtj/amtj3",
+  "pages/huayan70/jiangyi11",
+  "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+ ],
+ "confidence": "high"
+}

@@ -1,0 +1,70 @@
+{
+ "name": "般若智慧的三个属性",
+ "key": "般若智慧的三个属性",
+ "aliases": [],
+ "summary": "般若智慧自内显发、依于本体、周遍完备",
+ "members": [
+  {
+   "name": "自内显发",
+   "note": "自发的"
+  },
+  {
+   "name": "依于本体",
+   "note": "本体的"
+  },
+  {
+   "name": "周遍完备",
+   "note": "完备的；不在染净取舍中选一"
+  }
+ ],
+ "order_note": "各页顺序略异，无固定次序",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "自发、本体、完备",
+   "members": [
+    "自发的",
+    "本体的",
+    "完备的"
+   ],
+   "pages": [
+    "pages/amtj/amtj6"
+   ]
+  },
+  {
+   "label": "自内显发、依于本体、周遍完备",
+   "members": [
+    "自內顯發",
+    "依於本體",
+    "周遍完備"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/22.zhmzwdrjxb-smshzxdwtm",
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/5.ssbmd-dyqkefwjs"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页对三属性的次序排列不同，未说明是否有固定先后"
+ ],
+ "source_quotes": [
+  {
+   "q": "前面提到般若智慧的三個屬性：第一是自發的，第二是本體的，第三是完備的。",
+   "src": "pages/amtj/amtj6"
+  },
+  {
+   "q": "出於本體的、自內顯發的、周遍完備的。「周遍完備」的意思就是說",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/22.zhmzwdrjxb-smshzxdwtm"
+  }
+ ],
+ "related": [
+  "般若智慧",
+  "本体"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/22.zhmzwdrjxb-smshzxdwtm",
+  "pages/amtj/amtj6"
+ ],
+ "confidence": "high"
+}

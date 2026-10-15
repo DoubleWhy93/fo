@@ -1,0 +1,76 @@
+{
+ "name": "知性能力、判斷能力、理性能力",
+ "aliases": [
+  "概念性思惟的三種能力"
+ ],
+ "summary": "自性提供、人天眾生特有的概念性思惟三種能力",
+ "members": [
+  {
+   "name": "知性能力",
+   "note": "直觀、直接，生起名號概念"
+  },
+  {
+   "name": "判斷能力",
+   "note": "圍繞概念生起思惟、分別、選擇、判斷"
+  },
+  {
+   "name": "理性能力",
+   "note": "統合概念與思惟，形成系統性思想體系"
+  }
+ ],
+ "order_note": "先知性（生起名號）、再判斷、後理性，由概念到思惟到思想體系",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "以三能力說自性所提供的能力與其作用",
+   "members": [
+    "知性能力",
+    "判斷能力",
+    "理性能力"
+   ],
+   "pages": [
+    "pages/shixin/shixin16",
+    "pages/swxf/shizhu16"
+   ]
+  },
+  {
+   "label": "只列三名，說十信位從能力角度講、四位行法加以運用",
+   "members": [
+    "知性能力",
+    "判斷能力",
+    "理性能力"
+   ],
+   "pages": [
+    "pages/shixin/shixin9"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "三能力與十信位六品的逐項對應，所讀頁面只說《如來名號品》對應知性能力"
+ ],
+ "source_quotes": [
+  {
+   "q": "十信位的時候他講清楚了，自性本身為我們提供知性能力、判斷能力和理性能力。",
+   "src": "pages/swxf/shizhu16"
+  },
+  {
+   "q": "判斷能力就是圍繞概念生起的思惟，理性能力就是圍繞概念、圍繞思惟形成一個總體的思想體系。",
+   "src": "pages/swxf/shizhu16"
+  }
+ ],
+ "related": [
+  "概念性思惟",
+  "根本智",
+  "十信位六品",
+  "如來名號品",
+  "是處非處智"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu16",
+  "pages/shixin/shixin16",
+  "pages/shixin/shixin9"
+ ],
+ "confidence": "high",
+ "key": "知性能力判断能力理性能力"
+}

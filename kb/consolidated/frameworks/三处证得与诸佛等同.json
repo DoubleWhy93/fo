@@ -1,0 +1,104 @@
+{
+ "name": "三处证得与诸佛等同",
+ "key": "三处证得与诸佛等同",
+ "aliases": [
+  "三个位次证得与诸佛等同"
+ ],
+ "summary": "从初发心到如来地三处证得与诸佛等同：见性位、第八地、妙觉位",
+ "members": [
+  {
+   "name": "第七住位",
+   "note": "亦作十住位；证诸法空，得无生忍，得一切智"
+  },
+  {
+   "name": "第八地位",
+   "note": "证诸法不空，得无生法忍，得菩萨道种智"
+  },
+  {
+   "name": "妙觉位",
+   "note": "亦作如来地；如来种性身语意入灭尽定行法，根本智行法"
+  }
+ ],
+ "order_note": "按位次先后：第七住位、第八地位、妙觉位",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "第七住位—第八地位—妙觉位",
+   "members": [
+    "第七住位",
+    "第八地位",
+    "妙觉位"
+   ],
+   "pages": [
+    "pages/dayi_all/ztjz/4..rldzh",
+    "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+   ]
+  },
+  {
+   "label": "十住位—第八地位—如来地",
+   "members": [
+    "十住位",
+    "第八地位",
+    "如来地"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt"
+   ]
+  },
+  {
+   "label": "十住位—第八地位以后—等妙觉位",
+   "members": [
+    "十住位",
+    "第八地位以后",
+    "等妙觉位"
+   ],
+   "pages": [
+    "pages/swxf/shizhu29"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第一处写“第七住位”或“十住位”；第二处有“第八地位”与“第八地位以后”；第三处有“妙觉位”“如来地”“等妙觉位”三种说法。",
+   "sources": [
+    {
+     "q": "第一個就是在第七住位，也就是見性位，證諸法空、得無生忍、入阿鞞跋致地、證一切智。",
+     "src": "pages/dayi_all/ztjz/4..rldzh"
+    },
+    {
+     "q": "第二處是什麼呢？第八地位以後。",
+     "src": "pages/swxf/shizhu29"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "十住位与第七住位是否指同一位次，页面只以“见性位”相联系"
+ ],
+ "source_quotes": [
+  {
+   "q": "第一個是在華嚴行法的第七住位，證諸法空得無生忍",
+   "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+  },
+  {
+   "q": "第二個是在華嚴行法的第八地位，證諸法不空得無生法忍",
+   "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+  },
+  {
+   "q": "第三個是在妙覺位，證得如來種性身語意入滅盡定行法",
+   "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+  }
+ ],
+ "related": [
+  "见性位",
+  "差别智与根本智",
+  "灭尽定行法"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/ztjz/9.zwysssmzyqfddyy",
+  "pages/dayi_all/ztjz/4..rldzh",
+  "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt",
+  "pages/swxf/shizhu29"
+ ],
+ "confidence": "high"
+}

@@ -1,0 +1,137 @@
+{
+ "name": "三處演說",
+ "key": "三处演说",
+ "aliases": [
+  "三處十會"
+ ],
+ "summary": "《華嚴經》在菩提場、普光明殿、入法界三處演說，對應佛法僧與身語意",
+ "members": [
+  {
+   "name": "菩提場",
+   "note": "第一處，摩竭提國阿蘭若法菩提場；佛；意地一切法"
+  },
+  {
+   "name": "普光明殿",
+   "note": "第二處，行法理論與行法次第；法；語業一切法"
+  },
+  {
+   "name": "入法界",
+   "note": "第三處，舍衛國祇樹給孤獨園；僧；身業一切法"
+  }
+ ],
+ "order_note": "依第一處、第二處、第三處排列，與佛、法、僧對應",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "只列三處名稱",
+   "members": [
+    "菩提場",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)",
+    "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
+    "pages/huayan70/jiangyi27",
+    "pages/huayan70/jiangyi34"
+   ]
+  },
+  {
+   "label": "對應佛法僧",
+   "members": [
+    "菩提場",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/shixin/shixin1",
+    "pages/dayi_all/2023dy/wz/WORDbb/20.xfzxdtt-23-12-23-",
+    "pages/swxf/shizhu28"
+   ]
+  },
+  {
+   "label": "對應身語意業（意、語、身）",
+   "members": [
+    "菩提場",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/shixin/shixin13"
+   ]
+  },
+  {
+   "label": "對應「生命怎樣、怎樣知道、怎樣體驗」",
+   "members": [
+    "菩提場",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/swxf/shizhu33",
+    "pages/shixin/shixin6"
+   ]
+  },
+  {
+   "label": "以品數說明（六品、三十二品、一品）",
+   "members": [
+    "菩提場",
+    "普光明殿",
+    "入法界"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi40"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第三處在多數頁稱「入法界」，也有頁面以「逝多林本會」稱入法界一會，並說菩提場會六品與它對應",
+   "sources": [
+    {
+     "q": "菩提場會的六品經文和入法界品裡逝多林本會是對應的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl"
+    },
+    {
+     "q": "《華嚴經》是在三處演說，分別是；菩提場、普光明殿和入法界。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "入法界一會與逝多林本會的關係，在本批頁面中未完整說明",
+  "「三處十會」的十會逐一名稱，本批頁面未列出"
+ ],
+ "source_quotes": [
+  {
+   "q": "第一處是在菩提場，第二處是在普光明殿，第三處是入法界。",
+   "src": "pages/shixin/shixin13"
+  },
+  {
+   "q": "菩提場會講的這一塊，就是意地一切法；普光明殿就是語業一切法；入法界就是身業一切法。",
+   "src": "pages/shixin/shixin13"
+  },
+  {
+   "q": "『三處』即生命中『佛法僧』三個因素所在，亦是『身語意』業所生一切法所在。",
+   "src": "pages/huayan70/jiangyi40"
+  }
+ ],
+ "related": [
+  "佛法僧",
+  "身語意業",
+  "普光明殿四個行法階段",
+  "菩提場會六品",
+  "入法界品",
+  "五十三參"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin13",
+  "pages/shixin/shixin1",
+  "pages/huayan70/jiangyi40",
+  "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
+  "pages/swxf/shizhu28",
+  "pages/huayan28/28jiang1"
+ ],
+ "confidence": "high"
+}

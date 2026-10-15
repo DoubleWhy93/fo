@@ -1,6 +1,6 @@
 # 跨卡检查
 
-- 卡片 323 张；`pages_consulted` 已按引文页重算（改动 1 张）
+- 卡片 323 张；`pages_consulted` 已按引文页重算（改动 0 张）
 - `related` 中无法对应到任何卡的名称：361 个（记录在各卡的 `related_unresolved`）
 
 ## 别名与另一张卡同名（0）

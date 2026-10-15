@@ -1,0 +1,95 @@
+{
+ "name": "三位童子",
+ "aliases": [],
+ "summary": "華嚴經中被稱作童子的三位：大威光、文殊師利、善財",
+ "members": [
+  {
+   "name": "大威光童子",
+   "note": "毘盧遮那品；成就後即毘盧遮那如來"
+  },
+  {
+   "name": "文殊師利童子",
+   "note": "入法界品；稱呼不變，一切智"
+  },
+  {
+   "name": "善財童子",
+   "note": "入法界品五十三參；成就後即如來地普賢菩薩"
+  }
+ ],
+ "order_note": "按經文出現先後：毘盧遮那品、入法界品文殊、入法界品善財",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "僅列名並標出處品",
+   "members": [
+    "大威光童子",
+    "文殊師利童子",
+    "善財童子"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang25",
+    "pages/huayan28/28jiang27",
+    "pages/huayan70/jiangyi8"
+   ]
+  },
+  {
+   "label": "附成就後稱呼的說明",
+   "members": [
+    "大威光童子",
+    "文殊師利童子",
+    "善財童子"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi43",
+    "pages/huayan70/jiangyi42"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "八十華嚴毘盧遮那品稱「大威光太子」，另一頁稱「大威光童子」；同一人物兩種稱呼。",
+   "sources": [
+    {
+     "q": "如何從大威光太子見第一尊佛，一直到最終成就無上正覺",
+     "src": "pages/huayan70/jiangyi8"
+    },
+    {
+     "q": "一是菩提場會《毘盧遮那品》中有『大威光童子』",
+     "src": "pages/huayan28/28jiang25"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "善財童子與文殊師利童子在入法界品中的分界各頁只作簡述"
+ ],
+ "source_quotes": [
+  {
+   "q": "華嚴經的主要人物中有三位被稱作『童子』，一是菩提場會《毘盧遮那品》中有『大威光童子』，然後是此處《入法界品》中的『文殊師利童子』和後面五十三參的修行者『善財童子』。",
+   "src": "pages/huayan28/28jiang25"
+  },
+  {
+   "q": "成就之後的大威光童子即毘盧遮那如來",
+   "src": "pages/huayan70/jiangyi43"
+  },
+  {
+   "q": "自見其身在普賢菩薩身中，成就之後的善財童子即如來地的普賢菩薩",
+   "src": "pages/huayan70/jiangyi43"
+  }
+ ],
+ "related": [
+  "入法界品",
+  "毘盧遮那品",
+  "五十三參",
+  "普賢菩薩法界"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang25",
+  "pages/huayan70/jiangyi43",
+  "pages/huayan70/jiangyi8",
+  "pages/huayan28/28jiang27",
+  "pages/huayan70/jiangyi42"
+ ],
+ "confidence": "high",
+ "key": "三位童子"
+}

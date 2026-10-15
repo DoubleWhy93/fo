@@ -1,0 +1,111 @@
+{
+ "name": "四土",
+ "key": "四土",
+ "aliases": [
+  "极乐世界四土"
+ ],
+ "summary": "凡圣同居、方便有余、实报庄严、常寂光四种净土",
+ "members": [
+  {
+   "name": "凡圣同居土",
+   "note": "依善知识、经教成就；世间法清净"
+  },
+  {
+   "name": "方便有余土",
+   "note": "依经教规则，离开经教无新体验"
+  },
+  {
+   "name": "实报庄严土",
+   "note": "以自我因素为核心，如实知如实体验；华严行法所指"
+  },
+  {
+   "name": "常寂光土",
+   "note": "华严行法八地以后；等妙觉位"
+  }
+ ],
+ "order_note": "依次由凡圣同居土至常寂光土，层次由低而高",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四土齐列",
+   "members": [
+    "凡圣同居土",
+    "方便有余土",
+    "实报庄严土",
+    "常寂光土"
+   ],
+   "pages": [
+    "pages/amtj/amtj5",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/83.jtyhydgx",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/84.fstjtysbzytdxfybzdqbm-",
+    "pages/dayi_all/2023dy/wz/WORDbb/17.pxpsfjxf-2023-11-11-"
+   ]
+  },
+  {
+   "label": "仅列三土（无实报庄严土），对应总相成就与常寂光土",
+   "members": [
+    "凡圣同居土",
+    "方便有余土",
+    "常寂光土"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/158.-pxxyp-sjlsjcjgtdxfms",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/4.-pxxyp-sjlsjcjgtdxfms"
+   ]
+  },
+  {
+   "label": "仅列前三土（无常寂光土）",
+   "members": [
+    "凡圣同居土",
+    "方便有余土",
+    "实报庄严土"
+   ],
+   "pages": [
+    "pages/dayi_all/2024dy/2024dywd/5.dy-2024-10-12-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "部分页只列三土（缺实报庄严土或缺常寂光土），属按语境省略；全列四土的页面共四个土。另有一页写作「常寂光净土」。",
+   "sources": [
+    {
+     "q": "往生阿彌陀佛極樂世界，強調的是四土成就，即凡聖同居土、方便有餘土、實報莊嚴土和常寂光淨土。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/17.pxpsfjxf-2023-11-11-"
+    },
+    {
+     "q": "而只是到達阿彌陀佛總相的成就，也就是凡聖同居土、方便有餘土。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/158.-pxxyp-sjlsjcjgtdxfms"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各土的详细标准在个别页（极乐世界四土一卡的 2024-10-5 页）才有说明",
+  "「常寂光土」是否等同「常寂光净土」未作说明，仅见写法差异"
+ ],
+ "source_quotes": [
+  {
+   "q": "往生阿彌陀佛極樂世界，強調的是四土成就，即凡聖同居土、方便有餘土、實報莊嚴土和常寂光淨土。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/17.pxpsfjxf-2023-11-11-"
+  },
+  {
+   "q": "大略來講，實報莊嚴土是華嚴行法十住位以後，乃至於到七地位之前，都可以叫作實報莊嚴土。至於淨土的常寂光土，至少要在華嚴行法八地以後。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/83.jtyhydgx"
+  }
+ ],
+ "related": [
+  "极乐世界四土",
+  "阿鞞跋致",
+  "道种智行法",
+  "十信位",
+  "四位行法"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj5",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/84.fstjtysbzytdxfybzdqbm-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/158.-pxxyp-sjlsjcjgtdxfms",
+  "pages/dayi_all/2024dy/2024dywd/5.dy-2024-10-12-"
+ ],
+ "confidence": "high"
+}

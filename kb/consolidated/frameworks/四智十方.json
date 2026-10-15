@@ -1,0 +1,118 @@
+{
+ "name": "四智十方",
+ "aliases": [
+  "四智十方（四方四智）",
+  "四智十方（一法生十法）",
+  "四方四智、四隅四用、上下"
+ ],
+ "summary": "以四智對應東南西北，加四隅四用與上下成十方，一法生十法",
+ "members": [
+  {
+   "name": "東方",
+   "note": "大圓鏡智；阿閦鞞佛、阿賴耶識；文殊師利、金色世界、不動智佛"
+  },
+  {
+   "name": "南方",
+   "note": "平等性智；覺首、妙色世界、無礙智佛"
+  },
+  {
+   "name": "西方",
+   "note": "妙觀察智；阿彌陀佛、第六識"
+  },
+  {
+   "name": "成所作智",
+   "note": "四智之一，方位對應各頁未明列"
+  },
+  {
+   "name": "四隅四用",
+   "note": "四智之用"
+  },
+  {
+   "name": "上方",
+   "note": ""
+  },
+  {
+   "name": "下方",
+   "note": ""
+  },
+  {
+   "name": "中間本體",
+   "note": "毘盧遮那佛（法身）、法界體性智（報身）、須彌山（化身）"
+  }
+ ],
+ "order_note": "四智依大圓鏡、平等性、妙觀察、成所作列為東南西北，再加四隅、上下",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "四智與方位",
+   "members": [
+    "大圓鏡智",
+    "平等性智",
+    "妙觀察智",
+    "成所作智"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+   ]
+  },
+  {
+   "label": "東西與中間本體的佛、識對應",
+   "members": [
+    "東方",
+    "西方",
+    "中間本體"
+   ],
+   "pages": [
+    "pages/amtj/amtj4"
+   ]
+  },
+  {
+   "label": "十信位十方菩薩對應",
+   "members": [
+    "東方",
+    "南方"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi9"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "北方成所作智的佛、世界、菩薩各頁未列",
+  "四隅四用的具體名稱未列出",
+  "28jiang12 只列名未列條目"
+ ],
+ "source_quotes": [
+  {
+   "q": "四智是指大圓鏡智，平等性智，妙觀察智和成所作智，用世間言語表達就是東南西北",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+  },
+  {
+   "q": "東方是阿閦鞞佛、大圓鏡智、阿賴耶識，對應生命中種性的部分",
+   "src": "pages/amtj/amtj4"
+  },
+  {
+   "q": "按東方大圓鏡智的模式來講，十信位即文殊師利菩薩從金色世界、不動智佛所而來",
+   "src": "pages/huayan70/jiangyi9"
+  },
+  {
+   "q": "從南方平等性智的角度看，即覺首菩薩從妙色世界、無礙智佛所而來。",
+   "src": "pages/huayan70/jiangyi9"
+  }
+ ],
+ "related": [
+  "四智法",
+  "十首菩薩",
+  "右旋模式",
+  "五方佛"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-",
+  "pages/huayan70/jiangyi9",
+  "pages/amtj/amtj4",
+  "pages/huayan28/28jiang12"
+ ],
+ "confidence": "medium",
+ "key": "四智十方"
+}

@@ -1,0 +1,75 @@
+{
+ "name": "十信位",
+ "aliases": [],
+ "summary": "普光明殿第一行法階段，由十色世界、十智佛、十首菩薩建立",
+ "members": [
+  {
+   "name": "十色世界",
+   "note": "建立十信位行法的因素之一"
+  },
+  {
+   "name": "十智佛",
+   "note": "建立十信位行法的因素之一"
+  },
+  {
+   "name": "十首菩薩",
+   "note": "建立十信位行法的因素之一"
+  }
+ ],
+ "order_note": "各頁未給出十信的逐位次第",
+ "completeness": "fragmentary",
+ "views": [
+  {
+   "label": "以十色世界、十智佛、十首菩薩建立",
+   "members": [
+    "十色世界",
+    "十智佛",
+    "十首菩薩"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/3.smzdyqfywyslrcyqfdgx"
+   ]
+  },
+  {
+   "label": "十信之「信」的性質",
+   "members": [],
+   "pages": [
+    "pages/dayi_all/2024dy/2024dywd/1.dy-2024-9-14-",
+    "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "十信各位的名稱及次第各頁未列",
+  "十信位對應的品目各頁僅略提"
+ ],
+ "source_quotes": [
+  {
+   "q": "說到我們就是通過十色世界、十智佛和十首菩薩來建立十信位的行法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/3.smzdyqfywyslrcyqfdgx"
+  },
+  {
+   "q": "因為華嚴行法講十信位的「信」是自性本身為我們的行法實踐做出保證",
+   "src": "pages/dayi_all/2024dy/2024dywd/1.dy-2024-9-14-"
+  },
+  {
+   "q": "《華嚴經》十信位文殊師利菩薩演說的《如來名號品》和《佛四聖諦品》全是名字",
+   "src": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy"
+  }
+ ],
+ "related": [
+  "十首菩薩",
+  "如來名號品",
+  "四智十方",
+  "普光明殿四個行法階段"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/3.smzdyqfywyslrcyqfdgx",
+  "pages/dayi_all/2024dy/2024dywd/1.dy-2024-9-14-",
+  "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/1.sxwxfscgfsjjrdbgfsj"
+ ],
+ "confidence": "low",
+ "key": "十信位"
+}

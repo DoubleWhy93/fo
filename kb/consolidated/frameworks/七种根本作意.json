@@ -1,0 +1,117 @@
+{
+ "name": "七种根本作意",
+ "key": "七种根本作意",
+ "aliases": [
+  "七种作意"
+ ],
+ "summary": "《瑜伽师地论》所列七种如理作意",
+ "members": [
+  {
+   "name": "了相作意",
+   "note": "法藏比丘「皆悉睹见」"
+  },
+  {
+   "name": "胜解作意",
+   "note": "与了相同属「起发无上殊胜之愿」"
+  },
+  {
+   "name": "远离作意",
+   "note": "「思惟究竟，便一其心」"
+  },
+  {
+   "name": "摄乐作意",
+   "note": ""
+  },
+  {
+   "name": "观察作意",
+   "note": ""
+  },
+  {
+   "name": "加行究竟作意",
+   "note": "「修习功德，满足五劫」"
+  },
+  {
+   "name": "加行究竟果作意",
+   "note": "总摄七种作意"
+  }
+ ],
+ "order_note": "依经文次序：了相、胜解、远离、摄乐、观察、加行究竟、加行究竟果",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "七种完整列法",
+   "members": [
+    "了相作意",
+    "胜解作意",
+    "远离作意",
+    "摄乐作意",
+    "观察作意",
+    "加行究竟作意",
+    "加行究竟果作意"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang19",
+    "pages/huayan70/jiangyi26",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-"
+   ]
+  },
+  {
+   "label": "讲解中加列精进作意（八项）",
+   "members": [
+    "了相作意",
+    "胜解作意",
+    "远离作意",
+    "摄乐作意",
+    "观察作意",
+    "加行究竟作意",
+    "精进作意",
+    "加行究竟果作意"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第8页在「加行究竟作意」后另列「精进作意」，成八项；第28讲19与第70讲26均为七项，不含精进作意",
+   "sources": [
+    {
+     "q": "【修習功德滿足五劫】即加行究竟作意，精進作意，加行究竟果作意。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-"
+    },
+    {
+     "q": "『了相作意、勝解作意、遠離作意、攝樂作意、觀察作意、加行究竟作意、加行究竟果作意』",
+     "src": "pages/huayan28/28jiang19"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各作意的具体定义页面称「有非常详细的解说」，但未展开",
+  "《瑜伽师地论》另有四十种作意，此处未列"
+ ],
+ "source_quotes": [
+  {
+   "q": "『了相作意、勝解作意、遠離作意、攝樂作意、觀察作意、加行究竟作意、加行究竟果作意』",
+   "src": "pages/huayan28/28jiang19"
+  },
+  {
+   "q": "七種根本作意是：了相作意、勝解作意、遠離作意、攝樂作意、觀察作意、加行究竟作意、加行究竟果作意",
+   "src": "pages/huayan70/jiangyi26"
+  }
+ ],
+ "related": [
+  "如理作意",
+  "法藏比丘",
+  "无量寿经",
+  "转八识成四智"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang19",
+  "pages/huayan70/jiangyi26",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-"
+ ],
+ "confidence": "high"
+}

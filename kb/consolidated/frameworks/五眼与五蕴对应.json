@@ -1,0 +1,74 @@
+{
+ "name": "五眼与五蕴对应",
+ "key": "五眼与五蕴对应",
+ "aliases": [
+  "五眼圆明"
+ ],
+ "summary": "肉眼至佛眼五眼，依次对应色受想行识五蕴",
+ "members": [
+  {
+   "name": "肉眼",
+   "note": "对应色"
+  },
+  {
+   "name": "天眼",
+   "note": "对应受，禅定所得"
+  },
+  {
+   "name": "慧眼",
+   "note": "对应想"
+  },
+  {
+   "name": "法眼",
+   "note": "对应行"
+  },
+  {
+   "name": "佛眼",
+   "note": "对应识"
+  }
+ ],
+ "order_note": "肉眼、天眼、慧眼、法眼、佛眼，依次对应色、受、想、行、识",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "五眼逐一对应五蕴",
+   "members": [
+    "肉眼—色",
+    "天眼—受",
+    "慧眼—想",
+    "法眼—行",
+    "佛眼—识"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/18.hw-wyym--",
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/19.-fy-dywyd-x-cj",
+    "pages/huayan28/28jiang12",
+    "pages/huayan28/28jiang20"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页未给出五眼各自的修行次第之外的更多定义"
+ ],
+ "source_quotes": [
+  {
+   "q": "與肉眼相對的就是色法，與天眼相對的是受法，與慧眼相對的是想法，與法眼相對的是行法，與佛眼相對的是識法。",
+   "src": "pages/huayan28/28jiang20"
+  },
+  {
+   "q": "肉眼是眾生報得，用來觀察揀擇色法。天眼是靠禪定所得，禪定是針對『受』法所生起。",
+   "src": "pages/huayan28/28jiang12"
+  }
+ ],
+ "related": [
+  "五眼圆明",
+  "照见五蕴皆空",
+  "五蕴"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang20",
+  "pages/huayan28/28jiang12"
+ ],
+ "confidence": "high"
+}

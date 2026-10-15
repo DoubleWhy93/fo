@@ -1,0 +1,97 @@
+{
+ "name": "佛法僧与身语意",
+ "key": "佛法僧与身语意",
+ "aliases": [],
+ "summary": "佛法僧三因素与其具体表现身语意：生起次第与体验次第",
+ "members": [
+  {
+   "name": "佛法僧",
+   "note": "生命中三个核心因素；生起一切法的顺序"
+  },
+  {
+   "name": "身语意",
+   "note": "佛法僧的具体表现；体验一切法、证得无上正觉的顺序"
+  },
+  {
+   "name": "大摩尼毘卢遮那宝莲华藏",
+   "note": "如来地无上正觉生命体验角度（仅一页）"
+  }
+ ],
+ "order_note": "佛法僧为生起一切法的顺序，身语意为体验/证得的顺序（与之相反）",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "顺序角度：生起 vs 体验/证得",
+   "members": [
+    "佛法僧",
+    "身语意"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi34",
+    "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+   ]
+  },
+  {
+   "label": "力量角度 vs 体验角度",
+   "members": [
+    "佛法僧",
+    "身语意"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/48.rldyqf-ybssjdyqfdcb",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl"
+   ]
+  },
+  {
+   "label": "三层：理论角度、众生体验、如来地体验",
+   "members": [
+    "佛法僧",
+    "身语意",
+    "大摩尼毘卢遮那宝莲华藏"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi67"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "佛法僧的角度表述不一：“生命力量角度”（48、51页）、“行法理论角度”（jiangyi67）、“生起一切法的顺序”（jiangyi34、23页）；身语意亦作“行法体验角度”或“生命体验角度”。",
+   "sources": [
+    {
+     "q": "『佛法僧』是從行法理論的角度說",
+     "src": "pages/huayan70/jiangyi67"
+    },
+    {
+     "q": "『佛法僧』的順序是生起一切法的順序，『身語意』的順序是體驗一切法的順序",
+     "src": "pages/huayan70/jiangyi34"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "佛、法、僧与身、语、意的逐项对应在所读页面中仅概括提及",
+  "48、51页内容过短，未展开"
+ ],
+ "source_quotes": [
+  {
+   "q": "『佛法僧』的順序是生起一切法的順序，『身語意』的順序是體驗一切法的順序，亦是修行者證得生命解脫與無上正覺的順序。",
+   "src": "pages/huayan70/jiangyi34"
+  },
+  {
+   "q": "「身語意」就是我們生命當中佛法僧這三個核心的生命力量的具體表現。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+  }
+ ],
+ "related": [
+  "三处演说",
+  "菩提场会六品",
+  "灭尽定行法"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi34",
+  "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
+  "pages/huayan70/jiangyi67"
+ ],
+ "confidence": "medium"
+}

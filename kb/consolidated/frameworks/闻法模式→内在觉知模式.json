@@ -1,0 +1,89 @@
+{
+ "name": "闻法模式→内在觉知模式",
+ "key": "闻法模式→内在觉知模式",
+ "aliases": [],
+ "summary": "由听闻信受转为内在觉知思惟的行法模式转变",
+ "members": [
+  {
+   "name": "持信",
+   "note": "听从他人，不任己智"
+  },
+  {
+   "name": "奉法",
+   "note": "分别观察于法后奉持"
+  },
+  {
+   "name": "身证",
+   "note": "自身作证，任己性而游"
+  },
+  {
+   "name": "见到",
+   "note": "断三结成须陀洹，见到"
+  }
+ ],
+ "order_note": "经文所列四种人顺序：持信、奉法、身证、见到",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "四种人列举",
+   "members": [
+    "持信",
+    "奉法",
+    "身证",
+    "见到"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang5"
+   ]
+  },
+  {
+   "label": "从闻法模式转入内在觉知模式的论述",
+   "members": [],
+   "pages": [
+    "pages/huayan28/28jiang23",
+    "pages/huayan28/28jiang26",
+    "pages/huayan28/28jiang9"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "28jiang5 所列四种人为持信、奉法、身证、见到；28jiang23 引上座部次第为信行、法行、信解脱、身证、见到、慧解脱、俱解脱，名目与数量不同。",
+   "sources": [
+    {
+     "q": "所謂持信、奉法、身證、見到。",
+     "src": "pages/huayan28/28jiang5"
+    },
+    {
+     "q": "第一階段即是信行，第二階段是法行，第三是信解脫，第四是身證",
+     "src": "pages/huayan28/28jiang23"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "闻法模式与内在觉知模式本身的成员未被各页列成清单"
+ ],
+ "source_quotes": [
+  {
+   "q": "爾時，世尊告諸比丘：今有四種之人可敬可貴，世之福田。云何為四？所謂持信、奉法、身證、見到。",
+   "src": "pages/huayan28/28jiang5"
+  },
+  {
+   "q": "轉入到內在覺知模式的行法，轉入到實際的大乘行法。",
+   "src": "pages/huayan28/28jiang26"
+  }
+ ],
+ "related": [
+  "十信位",
+  "信行",
+  "法行",
+  "十住位"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang5",
+  "pages/huayan28/28jiang23",
+  "pages/huayan28/28jiang26"
+ ],
+ "confidence": "medium"
+}

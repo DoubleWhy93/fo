@@ -1,0 +1,90 @@
+{
+ "name": "报身世间与共法世间",
+ "key": "报身世间与共法世间",
+ "aliases": [],
+ "summary": "一切法分两部分:报身世间心想生,共法世间因缘生",
+ "members": [
+  {
+   "name": "报身世间",
+   "note": "一切法从心想生;个体生命体验"
+  },
+  {
+   "name": "共法世间",
+   "note": "万法因缘生;本体界、普遍存在"
+  }
+ ],
+ "order_note": "sources give no fixed order; 报身 usually named first",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "共法世间=本体界",
+   "members": [
+    "报身世间",
+    "共法世间"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+   ]
+  },
+  {
+   "label": "一切法普遍存在世间",
+   "members": [
+    "报身世间",
+    "一切法普遍存在世间"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/11.zywd-2023-10-14-"
+   ]
+  },
+  {
+   "label": "共法(化身)世间",
+   "members": [
+    "报身世间",
+    "共法世间"
+   ],
+   "pages": [
+    "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "The second world is labelled 本体界共法世间, 一切法普遍存在, or 共法（化身）世间 in the digests; page j itself speaks of 法身世间 or 共法世间 resting on 万法因缘生, so the labelling is not uniform.",
+   "sources": [
+    {
+     "q": "我們談到過法身世間一切法或者共法世間一切法，都是依賴於「萬法因緣生」這個法則來建立的。",
+     "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+    },
+    {
+     "q": "另外一部分是處於本體界的，也就是共法世間的萬法因緣生。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "relation of 共法世间 to 化身世间 and 法身世间 is not settled in these pages"
+ ],
+ "source_quotes": [
+  {
+   "q": "一部分是報身世間的，一切法從心想生；另外一部分是處於本體界的，也就是共法世間的萬法因緣生。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+  },
+  {
+   "q": "一切法分兩部分，一個是報身世間的一切法，是一切法從心想生",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/11.zywd-2023-10-14-"
+  }
+ ],
+ "related": [
+  "万法因缘生",
+  "一切法从心想生",
+  "化身世间",
+  "法身世间"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
+  "pages/dayi_all/2023dy/wz/WORDbb/11.zywd-2023-10-14-",
+  "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+ ],
+ "confidence": "medium"
+}

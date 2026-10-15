@@ -1,0 +1,109 @@
+{
+ "name": "四位行法",
+ "aliases": [
+  "住行向地四位行法"
+ ],
+ "summary": "十住、十行、十迴向、十地四个行法位，由四菩萨在四天宫演说",
+ "members": [
+  {
+   "name": "十住位",
+   "note": "须弥山顶妙胜殿，六品"
+  },
+  {
+   "name": "十行位",
+   "note": "夜摩天宫宝庄严殿，四品"
+  },
+  {
+   "name": "十迴向位",
+   "note": "兜率天宫一切妙宝所庄严殿，三品"
+  },
+  {
+   "name": "十地位",
+   "note": "他化自在天王宫摩尼宝藏殿，一品"
+  }
+ ],
+ "order_note": "按住、行、向、地升进次第；每位内另有十个次第",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四位（住行向地）",
+   "members": [
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi13",
+    "pages/swxf/shizhu15"
+   ]
+  },
+  {
+   "label": "十信位与四位并说（十信、十住、十行、十迴向、十地）",
+   "members": [
+    "十信位",
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/shixin/shixin1"
+   ]
+  },
+  {
+   "label": "只是引用名称、未列成员",
+   "members": [],
+   "pages": [
+    "pages/huayan70/jiangyi53",
+    "pages/swxf/shizhu4",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/32.dzzcjyzzj-zswdjl"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "一种说法四位行法只含十住至十地（jiangyi13）；变体写法把十信位并入列表（十信、十住、十行、十迴向、十地）。shixin1 实际是把十信位作为普光明殿四个阶段的第一阶段，住行向地为第二部分。",
+   "sources": [
+    {
+     "q": "普光明殿這一塊分成四個行法階段，按照根本智的行法分成四個階段。第一個階段就是十信位",
+     "src": "pages/shixin/shixin1"
+    },
+    {
+     "q": "四位行法是完整的華嚴不共別教行法，由四菩薩在四天宮的四寶殿演說，其中十住位六品、十行位四品、十迴向位三品、十地位一品。",
+     "src": "pages/huayan70/jiangyi13"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "页面未在同一处给出各位十个次第的名目",
+  "「普光明殿四个行法阶段」（十信、四位、等觉、妙觉）与「四位行法」属不同层次，需分清"
+ ],
+ "source_quotes": [
+  {
+   "q": "四位行法是完整的華嚴不共別教行法，由四菩薩在四天宮的四寶殿演說，其中十住位六品、十行位四品、十迴向位三品、十地位一品。",
+   "src": "pages/huayan70/jiangyi13"
+  },
+  {
+   "q": "修行者必須從十信位開始，經歷別教菩薩住行向地四位行法才能到達等妙覺位",
+   "src": "pages/huayan70/jiangyi13"
+  }
+ ],
+ "related": [
+  "普光明殿四个行法阶段",
+  "十信位",
+  "等觉位",
+  "妙觉位",
+  "别教菩萨道种智行法",
+  "四智"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi13",
+  "pages/swxf/shizhu15",
+  "pages/swxf/shizhu4",
+  "pages/shixin/shixin1"
+ ],
+ "confidence": "high",
+ "key": "四位行法"
+}

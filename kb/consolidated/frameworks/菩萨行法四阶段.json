@@ -1,0 +1,92 @@
+{
+ "key": "菩萨行法四阶段",
+ "name": "菩萨行法四阶段",
+ "summary": "初發心、精進修、不退轉、一生補處（灌頂位），十波羅蜜之源",
+ "members": [
+  {
+   "name": "初發心",
+   "note": ""
+  },
+  {
+   "name": "精進修",
+   "note": "又稱久修習"
+  },
+  {
+   "name": "不退轉",
+   "note": ""
+  },
+  {
+   "name": "一生補處",
+   "note": "又稱滅盡定、灌頂位"
+  }
+ ],
+ "order_note": "由初發心至一生補處，依修行階段先後",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "第四階段稱灌頂位",
+   "members": [
+    "初發心",
+    "精進修",
+    "不退轉",
+    "灌頂位"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+   ]
+  },
+  {
+   "label": "第四階段稱一生補處（含滅盡定、灌頂位）",
+   "members": [
+    "初發心",
+    "精進修",
+    "不退轉",
+    "一生補處"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi29",
+    "pages/dayi_all/2018-2022dy/flWORD/sz/7.hysswxfdcjcd"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第四階段名稱：144 頁作「灌頂位」，jiangyi29 作「一生補處」並注明其也稱滅盡定、灌頂位，視為同一項",
+   "sources": [
+    {
+     "q": "初發心、精進修、不退轉和灌頂位",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+    },
+    {
+     "q": "初發心、精進修、不退轉、一生補處四個階段",
+     "src": "pages/huayan70/jiangyi29"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各階段下的細項（佛法僧三因素展開）在這些頁面未完整列出"
+ ],
+ "source_quotes": [
+  {
+   "q": "最早的菩薩行法就是四個階段：初發心、精進修、不退轉和灌頂位。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+  },
+  {
+   "q": "十波羅蜜是從最初菩薩行法的四個階段演變而來的，即初發心、精進修、不退轉、一生補處四個階段",
+   "src": "pages/huayan70/jiangyi29"
+  }
+ ],
+ "related": [
+  "四禪四果",
+  "十波羅蜜",
+  "滅盡定",
+  "灌頂位"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi29",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+ ],
+ "confidence": "high",
+ "aliases": []
+}

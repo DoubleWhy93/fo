@@ -1,0 +1,104 @@
+{
+ "name": "三界二十八天",
+ "aliases": [],
+ "summary": "欲界、色界、無色界共二十八天，按四法模式說生命中的一切法",
+ "members": [
+  {
+   "name": "欲界地居",
+   "note": "忉利天、四王天、四大部洲、鹹水海"
+  },
+  {
+   "name": "欲界空居四天",
+   "note": "夜摩天、兜率天、化樂天、他化自在天"
+  },
+  {
+   "name": "四禪天",
+   "note": "每禪三天，共十二天，或加無想天成十三"
+  },
+  {
+   "name": "五不還天",
+   "note": "四天加色究竟天"
+  },
+  {
+   "name": "無色界四天",
+   "note": "空無邊處、識無邊處、無所有處、非想非非想處"
+  }
+ ],
+ "order_note": "由須彌山頂上下分欲界，向上為色界、無色界",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "四法展開（地居四、空居四、禪四、無色四）",
+   "members": [
+    "欲界地居",
+    "欲界空居四天",
+    "四禪天",
+    "五不還天",
+    "無色界四天"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi2",
+    "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)"
+   ]
+  },
+  {
+   "label": "欲界六天、色界十八天說法",
+   "members": [
+    "欲界六天",
+    "色界十八天",
+    "無色界"
+   ],
+   "pages": [
+    "pages/swxf/shizhu35",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "色界天數說法不一：有說十二或十三天加五不還天，有說十八層天，並提到可能不止十八層。",
+   "sources": [
+    {
+     "q": "色界有四禪天，每一禪是三天，共十二天，但很多時候把無想天也放在四禪天，所以是十三天",
+     "src": "pages/huayan70/jiangyi2"
+    },
+    {
+     "q": "色界是十八層天，十八層天是籠統的說法，如果詳細去看，還會有更多。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各頁欲界天數說法（六天、四空加四地居）的換算未全部對齊",
+  "逐天計數表各頁未列出"
+ ],
+ "source_quotes": [
+  {
+   "q": "三界二十八天是將生命中的一切法按四法模式展開，三界諸天皆在當下的生命體驗中。",
+   "src": "pages/huayan70/jiangyi2"
+  },
+  {
+   "q": "色界有四禪天：初禪三天、二禪三天，三禪三天，四禪三天，有的把無想天也放在四禪，這都沒關係，結構上來講是四個。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)"
+  },
+  {
+   "q": "須彌山頂以上有四個天：夜摩天、兜率天、化樂天、他化天，這是在欲界。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-"
+  }
+ ],
+ "related": [
+  "須彌山",
+  "四法模式",
+  "四智法",
+  "天帝釋"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi2",
+  "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-",
+  "pages/swxf/shizhu35"
+ ],
+ "confidence": "medium",
+ "key": "三界二十八天"
+}

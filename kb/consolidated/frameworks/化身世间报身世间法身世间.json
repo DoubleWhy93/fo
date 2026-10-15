@@ -1,0 +1,99 @@
+{
+ "name": "化身世间、报身世间、法身世间",
+ "key": "化身世间报身世间法身世间",
+ "aliases": [
+  "法报化三身世间"
+ ],
+ "summary": "三种世间:化身呈现不稳定相,报身体验,法身如实知",
+ "members": [
+  {
+   "name": "化身世间",
+   "note": "不稳定的相;内容和形式呈现处"
+  },
+  {
+   "name": "报身世间",
+   "note": "个体的生命体验;思惟模式建立处"
+  },
+  {
+   "name": "法身世间",
+   "note": "个体在一切法世间如实知的行为"
+  }
+ ],
+ "order_note": "listed 化、报、法; jiangyi22 gives progress 报身→化身→法身",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "化不稳定/报体验/法如实知",
+   "members": [
+    "化身世间",
+    "报身世间",
+    "法身世间"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+   ]
+  },
+  {
+   "label": "十住=报身世间处,十地=化身乃至法身世间处",
+   "members": [
+    "报身世间",
+    "化身世间",
+    "法身世间"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi23"
+   ]
+  },
+  {
+   "label": "模式在报身建立,形式在化身呈现,到达法身",
+   "members": [
+    "报身世间",
+    "化身世间",
+    "法身世间"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi22"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "Page k characterizes 化身 as unstable image and puts implementation in 法身世间; page m has 化身世间 as where content and form appear.",
+   "sources": [
+    {
+     "q": "落實的過程就在法身世間。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+    },
+    {
+     "q": "模式在報身世間建立，內容和形式在化身世間呈現。",
+     "src": "pages/huayan70/jiangyi22"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "no page gives a full definition list of the three; only partial characterizations"
+ ],
+ "source_quotes": [
+  {
+   "q": "修行者要把化身世間、報身世間、法身世間準確分開。",
+   "src": "pages/huayan70/jiangyi23"
+  },
+  {
+   "q": "個體的生命體驗就是報身的部分，個體在一切法世間如實知的這個行爲、這個世間就是法身世間。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+  }
+ ],
+ "related": [
+  "报身世间与共法世间",
+  "极乐世界",
+  "华藏世界",
+  "普贤菩萨法界"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-",
+  "pages/huayan70/jiangyi23",
+  "pages/huayan70/jiangyi22"
+ ],
+ "confidence": "medium"
+}

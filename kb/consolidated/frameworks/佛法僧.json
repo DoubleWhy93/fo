@@ -1,0 +1,80 @@
+{
+ "name": "佛法僧",
+ "aliases": [
+  "生命中的佛法僧三個因素"
+ ],
+ "summary": "生命中一切法的三個因素：佛（總持力）、法、僧（體驗）",
+ "members": [
+  {
+   "name": "佛",
+   "note": "總持力；根本智、根本無明角度；對應意業"
+  },
+  {
+   "name": "法",
+   "note": "差別智角度；如實知、智慧成就"
+  },
+  {
+   "name": "僧",
+   "note": "差別智角度；體驗；總和前面所有力量"
+  }
+ ],
+ "order_note": "按佛法僧次序生起；十信位六品中《如來名號品》《菩薩問明品》講佛，《光明覺品》《賢首品》對應僧",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "以十信位六品配三因素並說各自角度",
+   "members": [
+    "佛",
+    "法",
+    "僧"
+   ],
+   "pages": [
+    "pages/shixin/shixin13"
+   ]
+  },
+  {
+   "label": "只說《如來名號品》《菩薩問明品》講佛",
+   "members": [
+    "佛"
+   ],
+   "pages": [
+    "pages/shixin/shixin15"
+   ]
+  },
+  {
+   "label": "僅提及",
+   "members": [],
+   "pages": [
+    "pages/shixin/shixin16"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "『法』一項的具體定義各頁只用『如實知』帶過",
+  "佛法僧與身語意的逐項對應僅 shixin13 提到佛對應意業，其餘未明說"
+ ],
+ "source_quotes": [
+  {
+   "q": "佛法僧這三個因素裡面，佛這個因素是從總持力的角度去講的，從力量的角度去講的；法和僧這兩品，是從差別智角度去講的，從如實知與如實體驗的角度去講的。",
+   "src": "pages/shixin/shixin13"
+  },
+  {
+   "q": "生命當中佛法僧這三個部分，這兩品是講佛這一部分",
+   "src": "pages/shixin/shixin15"
+  }
+ ],
+ "related": [
+  "三處",
+  "身語意業",
+  "根本智與差別智",
+  "十信位六品"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin13",
+  "pages/shixin/shixin15",
+  "pages/shixin/shixin16"
+ ],
+ "confidence": "medium",
+ "key": "佛法僧"
+}

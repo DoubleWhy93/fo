@@ -1,0 +1,84 @@
+{
+ "name": "四智法",
+ "aliases": [
+  "四智法（東南西北）"
+ ],
+ "summary": "大圓鏡、平等性、妙觀察、成所作四智，是四十位行法的核心結構",
+ "members": [
+  {
+   "name": "大圓鏡智",
+   "note": "轉第八阿賴耶識；對應十住"
+  },
+  {
+   "name": "平等性智",
+   "note": "四智之一"
+  },
+  {
+   "name": "妙觀察智",
+   "note": "四智之一；對應第六識"
+  },
+  {
+   "name": "成所作智",
+   "note": "對應十地的自所作行法"
+  }
+ ],
+ "order_note": "依大圓鏡智到成所作智；十住、十行、十迴向、十地分別繼承",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "繼承到四十位",
+   "members": [
+    "大圓鏡智",
+    "成所作智"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang14"
+   ]
+  },
+  {
+   "label": "作為預設背景（四法模式）",
+   "members": [],
+   "pages": [
+    "pages/amtj/amtj6",
+    "pages/swxf/shizhu19",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "頁面只點明首尾兩智，中間兩智與十行、十迴向的對應未細說（見四智十方卡）"
+ ],
+ "source_quotes": [
+  {
+   "q": "十住、十行、十迴向、十地，分別繼承了四智法中從大圓鏡智到成所作智的核心意義。",
+   "src": "pages/huayan28/28jiang14"
+  },
+  {
+   "q": "四十位行法是以四智法為核心的一個整體結構，是完整的別教行法理論體系。",
+   "src": "pages/huayan28/28jiang14"
+  },
+  {
+   "q": "阿賴耶識轉成大圓鏡智，一切法生起即入薩婆若海",
+   "src": "pages/huayan28/28jiang14"
+  },
+  {
+   "q": "四智是指大圓鏡智，平等性智，妙觀察智和成所作智，用世間言語表達就是東南西北",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+  }
+ ],
+ "related": [
+  "四智十方",
+  "四十位",
+  "四個行法階段",
+  "八識世間"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang14",
+  "pages/swxf/shizhu19",
+  "pages/amtj/amtj6",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb"
+ ],
+ "confidence": "medium",
+ "key": "四智法"
+}

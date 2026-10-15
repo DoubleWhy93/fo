@@ -1,0 +1,99 @@
+{
+ "name": "善财童子五十三参",
+ "key": "善财童子五十三参",
+ "aliases": [],
+ "summary": "善财童子在入法界品参访五十三位善知识的行法历程",
+ "members": [
+  {
+   "name": "最初三位比丘",
+   "note": "德云、海云、善住"
+  },
+  {
+   "name": "第四参弥伽长者",
+   "note": "第四住位"
+  },
+  {
+   "name": "十住位十参",
+   "note": "妙峰山顶至师子奋迅城慈行童女"
+  },
+  {
+   "name": "末后弥勒、文殊师利、普贤三位菩萨",
+   "note": ""
+  }
+ ],
+ "order_note": "自最初三位比丘下山，至末后三参三位菩萨，依参访先后",
+ "completeness": "fragmentary",
+ "views": [
+  {
+   "label": "整体脉络",
+   "members": [
+    "最初三位比丘",
+    "第四参弥伽长者",
+    "十住位十参",
+    "末后弥勒、文殊师利、普贤三位菩萨"
+   ],
+   "pages": [
+    "pages/swxf/shizhu28"
+   ]
+  },
+  {
+   "label": "每参过程",
+   "members": [
+    "听法",
+    "思惟",
+    "行法实践",
+    "恋德礼辞参访下一位善知识"
+   ],
+   "pages": [
+    "pages/amtj/amtj7"
+   ]
+  },
+  {
+   "label": "对应普光明殿",
+   "members": [],
+   "pages": [
+    "pages/swxf/shizhu14"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "每一参的过程，amtj7 说为听法、思惟、行法实践、恋德礼辞；huayan70/jiangyi56 说为近善知识、专心听法、起善思惟、如说修行四阶段。",
+   "sources": [
+    {
+     "q": "先聽法，後思惟，然後行法實踐，成就之後，戀德禮辭，參訪下一位善知識。",
+     "src": "pages/amtj/amtj7"
+    },
+    {
+     "q": "包括近善知識、專心聽法、起善思惟、如說修行四個階段",
+     "src": "pages/huayan70/jiangyi56"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "五十三位善知识的完整名单，各页未列"
+ ],
+ "source_quotes": [
+  {
+   "q": "善財童子的五十三參是從最前面的三位比丘下山開始，直到末後的三參，三位菩薩成就如來地解脫與無上正覺。",
+   "src": "pages/swxf/shizhu28"
+  },
+  {
+   "q": "先聽法，後思惟，然後行法實踐，成就之後，戀德禮辭，參訪下一位善知識。",
+   "src": "pages/amtj/amtj7"
+  }
+ ],
+ "related": [
+  "入法界品",
+  "普光明殿四阶段",
+  "三处演说与佛法僧",
+  "住行向地四位行法"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu28",
+  "pages/amtj/amtj7",
+  "pages/swxf/shizhu14"
+ ],
+ "confidence": "medium"
+}

@@ -1,0 +1,86 @@
+{
+ "name": "四依法",
+ "key": "四依法",
+ "aliases": [],
+ "summary": "四条行法原则:依法、依义、依智、依了义,不依人、语、识、不了义",
+ "members": [
+  {
+   "name": "依法不依人",
+   "note": "最起码的理性"
+  },
+  {
+   "name": "依义不依语",
+   "note": ""
+  },
+  {
+   "name": "依了义不依不了义",
+   "note": ""
+  },
+  {
+   "name": "依智不依识",
+   "note": ""
+  }
+ ],
+ "order_note": "order varies: 智/识 before 了义 in shizhu20 and 21, 了义 before 智 in jtl/96",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "法、义、了义、智",
+   "members": [
+    "依法不依人",
+    "依义不依语",
+    "依了义不依不了义",
+    "依智不依识"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+   ]
+  },
+  {
+   "label": "法、义、智、了义",
+   "members": [
+    "依法不依人",
+    "依义不依语",
+    "依智不依识",
+    "依了义不依不了义"
+   ],
+   "pages": [
+    "pages/swxf/shizhu20",
+    "pages/swxf/shizhu21"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "Same four items, but order of 依智不依识 and 依了义不依不了义 is swapped between pages; membership is identical.",
+   "sources": [
+    {
+     "q": "依法不依人，依義不依語，依了義不依不了義，依智不依識。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+    },
+    {
+     "q": "依法不依人，依義不依語，依智不依識，依了義不依不了義。",
+     "src": "pages/swxf/shizhu20"
+    }
+   ]
+  }
+ ],
+ "gaps": [],
+ "source_quotes": [
+  {
+   "q": "我們列出了我們認為很重要的四個。第一個就是依法不依人，依義不依語，依智不依識，依了義不依不了義。這是四依法",
+   "src": "pages/swxf/shizhu20"
+  }
+ ],
+ "related": [
+  "十住位行法的行法原则",
+  "依法不依人",
+  "訴諸權威"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu20",
+  "pages/swxf/shizhu21",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+ ],
+ "confidence": "high"
+}

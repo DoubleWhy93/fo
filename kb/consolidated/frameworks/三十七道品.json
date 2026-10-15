@@ -1,0 +1,120 @@
+{
+ "name": "三十七道品",
+ "key": "三十七道品",
+ "aliases": [],
+ "summary": "四念處、四正勤、四如意足、五根、五力、七菩提分、八正道分七組",
+ "members": [
+  {
+   "name": "四念處",
+   "note": "如觀身不淨、觀受是苦"
+  },
+  {
+   "name": "四正勤",
+   "note": ""
+  },
+  {
+   "name": "四如意足",
+   "note": ""
+  },
+  {
+   "name": "五根",
+   "note": ""
+  },
+  {
+   "name": "五力",
+   "note": ""
+  },
+  {
+   "name": "七菩提分",
+   "note": "亦稱七覺支"
+  },
+  {
+   "name": "八正道分",
+   "note": "亦稱八聖道分"
+  }
+ ],
+ "order_note": "依四念處至八正道分次第，共七組",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "七組全列（原始佛教核心行法理論）",
+   "members": [
+    "四念處",
+    "四正勤",
+    "四如意足",
+    "五根",
+    "五力",
+    "七菩提分",
+    "八正道分"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+    "pages/amtj/amtj6"
+   ]
+  },
+  {
+   "label": "只列後四組（極樂世界眾鳥演暢）",
+   "members": [
+    "五根",
+    "五力",
+    "七菩提分",
+    "八正道分"
+   ],
+   "pages": [
+    "pages/amtj/amtj1",
+    "pages/amtj/amtj7"
+   ]
+  },
+  {
+   "label": "以四念處條目舉例",
+   "members": [
+    "四念處"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "阿彌陀經相關頁面只列五根、五力、七菩提分、八聖道分四組；七組全列頁面另有四念處、四正勤、四如意足",
+   "sources": [
+    {
+     "q": "是諸眾鳥，晝夜六時，出和雅音，其音演暢五根、五力、七菩提分、八聖道分",
+     "src": "pages/amtj/amtj1"
+    },
+    {
+     "q": "即：四念處、四正勤、四如意足、五根、五力、七菩提分、八正道分",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各組內的條目在本批頁面中沒有逐項列出",
+  "不同種性（凡夫、二乘、共法別教、菩薩種性）的三十七道品體驗差別只作對比簡述"
+ ],
+ "source_quotes": [
+  {
+   "q": "三十七道品是原始佛教時期世尊宣講的核心行法理論，即：四念處、四正勤、四如意足、五根、五力、七菩提分、八正道分",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+  },
+  {
+   "q": "這是講極樂世界的一切眾鳥演說三十七道品。",
+   "src": "pages/amtj/amtj1"
+  }
+ ],
+ "related": [
+  "四聖諦",
+  "十善業道",
+  "十二因緣"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+  "pages/amtj/amtj1",
+  "pages/amtj/amtj7",
+  "pages/amtj/amtj6",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+ ],
+ "confidence": "medium"
+}

@@ -1,0 +1,108 @@
+{
+ "name": "四智行法",
+ "key": "四智行法",
+ "aliases": [],
+ "summary": "住、行、向、地四位行法，与四智相配，合成四十位行法",
+ "members": [
+  {
+   "name": "十住",
+   "note": "配大圆镜智（体上）"
+  },
+  {
+   "name": "十行",
+   "note": "配平等性智（体上）"
+  },
+  {
+   "name": "十回向",
+   "note": "配妙观察智（用上）"
+  },
+  {
+   "name": "十地",
+   "note": "配成所作智（用上）"
+  }
+ ],
+ "order_note": "住、行、向、地依次排列；每位十个次第，总成四十位行法",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "仅列四位名称",
+   "members": [
+    "十住",
+    "十行",
+    "十回向",
+    "十地"
+   ],
+   "pages": [
+    "pages/amtj/amtj3",
+    "pages/dayi/dy_apbz"
+   ]
+  },
+  {
+   "label": "四位与四智逐一相配（体上、用上）",
+   "members": [
+    "十住：大圆镜智",
+    "十行：平等性智",
+    "十回向：妙观察智",
+    "十地：成所作智"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+   ]
+  },
+  {
+   "label": "以位次点界定其范围（初住至七住、七地、八地）",
+   "members": [
+    "初住位",
+    "七住位",
+    "七地位",
+    "八地位"
+   ],
+   "pages": [
+    "pages/dayi/dy_ynwm"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "多数页把四智行法列为十住、十行、十回向、十地四位；dy_ynwm 页则以「初住、七住、七地、八地」界定其范围（无生忍至无生法忍，针对一念无明），是位次点而非四位名单。",
+   "sources": [
+    {
+     "q": "華嚴行法理論中的四智行法是從初住位、七住位一直到第七地位、第八地位",
+     "src": "pages/dayi/dy_ynwm"
+    },
+    {
+     "q": "四智行法，對應的是《華嚴經》的十住、十行、十迴向、十地四位行法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各页多只提到该名而未展开成员，约一半页面 items 为空",
+  "四位各十个次第的名称不在本卡来源内列出"
+ ],
+ "source_quotes": [
+  {
+   "q": "四智行法，對應的是《華嚴經》的十住、十行、十迴向、十地四位行法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+  },
+  {
+   "q": "體上的二十個波羅蜜，是四智中的大圓鏡智和平等性智，分別對應《華嚴經》四位行法的十住位和十行位，是正報成就。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+  }
+ ],
+ "related": [
+  "四智",
+  "四十位行法",
+  "等覺位",
+  "十信位",
+  "无生忍与无生法忍"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx",
+  "pages/dayi/dy_apbz",
+  "pages/dayi/dy_ynwm",
+  "pages/amtj/amtj3"
+ ],
+ "confidence": "high"
+}

@@ -1,0 +1,65 @@
+{
+ "name": "报身世间与化身世间",
+ "key": "报身世间与化身世间",
+ "aliases": [],
+ "summary": "报身世间依心想生，化身世间依万法因缘生",
+ "members": [
+  {
+   "name": "报身世间",
+   "note": "一切法从心想生；不共法，生命解脱依此建立"
+  },
+  {
+   "name": "化身世间",
+   "note": "万法因缘生；受时间空间因缘影响"
+  }
+ ],
+ "order_note": "sources give no fixed order",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "两世间的生起原则",
+   "members": [
+    "报身世间：一切法从心想生",
+    "化身世间：万法因缘生"
+   ],
+   "pages": [
+    "pages/dayi_all/ztjz/4..rldzh"
+   ]
+  },
+  {
+   "label": "极乐成就在报身世间",
+   "members": [],
+   "pages": [
+    "pages/amtj/amtj7",
+    "pages/huayan28/28jiang10"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "法身世间在 ztjz/4 中与二者并提，但未列为本框架成员",
+  "各页对两世间的区分处仅散见"
+ ],
+ "source_quotes": [
+  {
+   "q": "報身世間的一切法，是依於一切法從心想生的原則；而化身世間一切法是依於萬法因緣生的原則，這兩個是不一樣的。",
+   "src": "pages/dayi_all/ztjz/4..rldzh"
+  },
+  {
+   "q": "報身世間成就與化身世間成就是兩個不同的概念，我們必須看清楚。",
+   "src": "pages/amtj/amtj7"
+  }
+ ],
+ "related": [
+  "法身世间",
+  "根本智",
+  "差别智",
+  "自我因素"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/ztjz/4..rldzh",
+  "pages/amtj/amtj7",
+  "pages/huayan28/28jiang10"
+ ],
+ "confidence": "medium"
+}

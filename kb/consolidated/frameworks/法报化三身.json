@@ -1,0 +1,97 @@
+{
+ "name": "法报化三身",
+ "key": "法报化三身",
+ "aliases": [
+  "法身、报身、化身"
+ ],
+ "summary": "法身、报身、化身三身，对应三种世间与修行阶段",
+ "members": [
+  {
+   "name": "化身",
+   "note": "从相上讲，化身世间；身所在处；十信前"
+  },
+  {
+   "name": "报身",
+   "note": "不共法、智慧地世间；心所在世间；初住位后"
+  },
+  {
+   "name": "法身",
+   "note": "从本体讲，法身世间；心身合一；理性支配行为"
+  }
+ ],
+ "order_note": "第129页由化身到法身随修行渐进（化身、报身、法身）；第25、33页列序不固定",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "三身作为三种世间与修行阶段（化身世间、报身世间、法身世间）",
+   "members": [
+    "化身世间",
+    "报身世间",
+    "法身世间"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/129.fbhssddyyjhhycdddygx",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+   ]
+  },
+  {
+   "label": "引《弥陀要解》单复三身，并以身、心、灵对应三身",
+   "members": [
+    "法身",
+    "报身",
+    "化身"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/25.rhcjzjdf-b-hss"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第25页提问以「灵所在世间」为法身、心为报身、身为化身；第33页则按感性、知性、理性划分三身世间，二者表述角度不同",
+   "sources": [
+    {
+     "q": "如果簡單的說，我們的心所在世間是報身世間，對不對？身所在世間是化身世間，那麼我們的靈所在世間應該是法身世間，對不對？",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/25.rhcjzjdf-b-hss"
+    },
+    {
+     "q": "如果身的行為覺受是在理性支配下的，那麼就是在不共法的「報身」世間。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "三身各自的完整定义因页面角度不同而不统一",
+  "十信之前凡夫是否也有三身，在第129页以问题形式出现，此处未取答案"
+ ],
+ "source_quotes": [
+  {
+   "q": "所謂化身是從相上去講的，在化身世間。講到報身世間，報身是不共法的、智慧地的世間",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/129.fbhssddyyjhhycdddygx"
+  },
+  {
+   "q": "講到法身，是從本體的角度去講的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/129.fbhssddyyjhhycdddygx"
+  },
+  {
+   "q": "身所在處就是「化身」世間。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+  }
+ ],
+ "related": [
+  "共法世间与不共法世间",
+  "十信",
+  "十住",
+  "十回向",
+  "如来藏"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/129.fbhssddyyjhhycdddygx",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/25.rhcjzjdf-b-hss"
+ ],
+ "confidence": "high"
+}

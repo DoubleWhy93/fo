@@ -1,0 +1,113 @@
+{
+ "name": "根本智與差別智",
+ "key": "根本智与差别智",
+ "aliases": [],
+ "summary": "根本智是總的能力與總持力，差別智是其在一一法中的具體體現",
+ "members": [
+  {
+   "name": "根本智",
+   "note": "覺知力、思惟力，總的能力、總持力，自上而下規定"
+  },
+  {
+   "name": "差別智",
+   "note": "根本智的具體體現，一一法，因緣生法，亦稱道種智"
+  },
+  {
+   "name": "入滅盡定行法",
+   "note": "習慣的力量成為自己的根本智"
+  }
+ ],
+ "order_note": "根本智為總，差別智依根本智生起；規定性自上而下，不能反向",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "以能力與其具體表現區分",
+   "members": [
+    "根本智",
+    "差別智"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/6.zywd-2023-09-23-",
+    "pages/huayan70/jiangyi51"
+   ]
+  },
+  {
+   "label": "與位次對應：十信位為根本智、十住位為差別智",
+   "members": [
+    "根本智",
+    "差別智"
+   ],
+   "pages": [
+    "pages/swxf/shizhu20"
+   ]
+  },
+  {
+   "label": "與普光明殿階段對應：整體從根本智說，第二階段四位行法從差別智說",
+   "members": [
+    "根本智",
+    "差別智"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi9"
+   ]
+  },
+  {
+   "label": "規定性：由根本智指向差別智",
+   "members": [
+    "根本智",
+    "差別智"
+   ],
+   "pages": [
+    "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "位次對應有不同說法：一說十信位為根本智、十住位為差別智；另一說普光明殿四階段整體為根本智、其中第二階段四位行法為差別智",
+   "sources": [
+    {
+     "q": "十信位，是入阿鞞跋致性，從自性根本智有這個能力從那個角度去講；十住位，是從差別智生命體驗的角度去講。",
+     "src": "pages/swxf/shizhu20"
+    },
+    {
+     "q": "普光明殿總體的行法理論是從根本智成就的角度說，其中的第二階段『住行向地』四位行法是從差別智成就的角度説",
+     "src": "pages/huayan70/jiangyi9"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "三者並列（根本智行法、差別智行法、入滅盡定行法）只在 WORDbb/6 出現",
+  "與「體用、性相」的對應在本批頁面中未逐項展開"
+ ],
+ "source_quotes": [
+  {
+   "q": "根本智行法是指能力，差別智行法是指能力的具體表現。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/6.zywd-2023-09-23-"
+  },
+  {
+   "q": "根本智的具體體現即差別智",
+   "src": "pages/huayan70/jiangyi51"
+  },
+  {
+   "q": "『規定性』是自上而下的，從根本智指向差別智，但不能從差別智指向根本智。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  }
+ ],
+ "related": [
+  "道種智",
+  "住行向地四位行法",
+  "普光明殿四個行法階段",
+  "規定性",
+  "總持力"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi9",
+  "pages/huayan70/jiangyi51",
+  "pages/dayi_all/2023dy/wz/WORDbb/6.zywd-2023-09-23-",
+  "pages/swxf/shizhu20",
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+ ],
+ "confidence": "medium"
+}

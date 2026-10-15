@@ -1,0 +1,105 @@
+{
+ "name": "般若智慧三属性",
+ "key": "般若智慧三属性",
+ "aliases": [
+  "般若的三个属性"
+ ],
+ "summary": "般若智慧的三属性：出于本体、自内显发、周遍完备",
+ "members": [
+  {
+   "name": "出于本体",
+   "note": "亦作基于本体、依于本体；本自清净"
+  },
+  {
+   "name": "自内显发",
+   "note": "从内在生起，带来具体生命体验"
+  },
+  {
+   "name": "周遍完备",
+   "note": "可在一切法中生起，区别于零散妄想"
+  }
+ ],
+ "order_note": "多数页面按出于本体、自内显发、周遍完备；一页把自内显发排第一",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "出于本体—自内显发—周遍完备",
+   "members": [
+    "出于本体",
+    "自内显发",
+    "周遍完备"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi18",
+    "pages/dayi_all/2018-2022dy/dy/dy2",
+    "pages/dayi_all/2018-2022dy/flWORD/sz/16.rhzdsz-sxdrlsw-rlgc-"
+   ]
+  },
+  {
+   "label": "自内显发居首，依于本体居次",
+   "members": [
+    "自内显发",
+    "依于本体",
+    "周遍完备"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/19.zhhdfycb"
+   ]
+  },
+  {
+   "label": "与概念准确、次第清晰、系统完备并列",
+   "members": [
+    "概念准确",
+    "次第清晰",
+    "系统完备"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/41.swrg-gcswxyhyxfsfxt"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "第一属性用词不一（出於本體／基於本體／依於本體），且 19 页把自内显发排第一。41 页则以概念准确、次第清晰、系统完备作为三项；另有页面称这三项是“表现方式”。",
+   "sources": [
+    {
+     "q": "般若有三個屬性：是自內顯發的。般若智慧不會從外而來，一定要從內在生起的。是依於本體的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/19.zhhdfycb"
+    },
+    {
+     "q": "般若智慧有三種屬性：一是出於本體；二是自內顯發；三是周遍完備。",
+     "src": "pages/huayan70/jiangyi18"
+    },
+    {
+     "q": "自性智慧的表現方式有三種：一是概念準確，二是次第清晰，三是系統完備。",
+     "src": "pages/swxf/shizhu19"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "出于本体与依于本体是否完全同义，页面未明说"
+ ],
+ "source_quotes": [
+  {
+   "q": "般若智慧有三種屬性：一是出於本體；二是自內顯發；三是周遍完備。",
+   "src": "pages/huayan70/jiangyi18"
+  },
+  {
+   "q": "從行法理論上講，般若的三個屬性，出於本體的、自內顯發的和周遍完備的。",
+   "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+  }
+ ],
+ "related": [
+  "概念准确、次第清晰、系统完备",
+  "般若智慧",
+  "世智辩聪"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi18",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/19.zhhdfycb",
+  "pages/dayi_all/2018-2022dy/dy/dy2",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/41.swrg-gcswxyhyxfsfxt"
+ ],
+ "confidence": "high"
+}

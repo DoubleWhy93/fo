@@ -1,0 +1,88 @@
+{
+ "name": "五时说法",
+ "key": "五时说法",
+ "aliases": [],
+ "summary": "佛陀说法分华严、阿含、方等、般若、法华涅槃五时",
+ "members": [
+  {
+   "name": "华严时",
+   "note": "第一时；佛陀成就地"
+  },
+  {
+   "name": "阿含时",
+   "note": "讲修行，从清净行得解脱"
+  },
+  {
+   "name": "方等时",
+   "note": "大乘经典"
+  },
+  {
+   "name": "般若时",
+   "note": "大乘经典"
+  },
+  {
+   "name": "法华涅槃时",
+   "note": "最后阶段"
+  }
+ ],
+ "order_note": "按时间先后：华严→阿含→方等→般若→法华涅槃",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "五时依次列出",
+   "members": [
+    "华严时",
+    "阿含时",
+    "方等时",
+    "般若时",
+    "法华涅槃时"
+   ],
+   "pages": [
+    "pages/amtj/amtj1",
+    "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/3.cfskypdcjdzgm-",
+    "pages/dayi_all/2018-2022dy/flWORD/sz/15.jhxzhjlsjdgx",
+    "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-",
+    "pages/huayan28/28jiang7"
+   ]
+  },
+  {
+   "label": "只谈法华涅槃时一时",
+   "members": [
+    "法华涅槃时"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi45"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页未逐时给出所说经典的完整名单",
+  "讲者对「华严时」的理解（非天宫说法）已有说明，但五时与历史分期的对应不固定"
+ ],
+ "source_quotes": [
+  {
+   "q": "佛陀是五時說法。第一時是華嚴時，然後是阿含時、方等時、般若時和法華涅槃時。",
+   "src": "pages/amtj/amtj1"
+  },
+  {
+   "q": "大乘佛教把佛陀說法分為五個階段：華嚴時、阿含時、方等時、般若時、法華涅槃時。",
+   "src": "pages/huayan28/28jiang7"
+  }
+ ],
+ "related": [
+  "华严经",
+  "阿含经",
+  "大乘经典",
+  "法华经",
+  "涅槃经",
+  "根本佛教阶段"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj1",
+  "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/3.cfskypdcjdzgm-",
+  "pages/huayan28/28jiang7",
+  "pages/huayan70/jiangyi45"
+ ],
+ "confidence": "high"
+}

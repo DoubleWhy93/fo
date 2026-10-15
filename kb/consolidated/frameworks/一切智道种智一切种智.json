@@ -1,0 +1,89 @@
+{
+ "name": "一切智、道种智、一切种智",
+ "key": "一切智道种智一切种智",
+ "aliases": [
+  "三智"
+ ],
+ "summary": "空智、有智及二者圆满的三种智慧",
+ "members": [
+  {
+   "name": "一切智",
+   "note": "空智;证无生忍,位在第七住"
+  },
+  {
+   "name": "道种智",
+   "note": "有智;证一切有法,至第十地圆满"
+  },
+  {
+   "name": "一切种智",
+   "note": "空智与有智圆满,十地位以后"
+  }
+ ],
+ "order_note": "progressive order: 一切智, 道种智, then 一切种智 as the combination",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "按行位:十住/第十地/十地以后",
+   "members": [
+    "一切智",
+    "道种智",
+    "一切种智"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/34.hyxfybrzhcjdgx"
+   ]
+  },
+  {
+   "label": "按性质:空智/有智/二者圆满",
+   "members": [
+    "一切智",
+    "道种智",
+    "一切种智"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/12.yqz-dzz-yqzz",
+    "pages/huayan28/28jiang7"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "The same page says 一切智 is attained at 十住位 generally and then specifically at the seventh abode (七住位).",
+   "sources": [
+    {
+     "q": "十住位成就一切智，到第十地是成就圓滿道種智，十地位以後是一切種智。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/34.hyxfybrzhcjdgx"
+    },
+    {
+     "q": "所以七住位就證得一切智，證得空智，證得無生忍。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/34.hyxfybrzhcjdgx"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "一切种智 is described only as the sum of the other two"
+ ],
+ "source_quotes": [
+  {
+   "q": "總體來講，一切智是空智，道種智是有智。當弄清楚一切智和道種智之後，後面的一切種智也就明白了。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/12.yqz-dzz-yqzz"
+  },
+  {
+   "q": "一切智是空智，道種智是有智，二者圓滿證得是一切種智，之後才是到達無上正覺。",
+   "src": "pages/huayan28/28jiang7"
+  }
+ ],
+ "related": [
+  "空智",
+  "有智",
+  "无生忍",
+  "无上正觉"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/12.yqz-dzz-yqzz",
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/34.hyxfybrzhcjdgx",
+  "pages/huayan28/28jiang7"
+ ],
+ "confidence": "high"
+}

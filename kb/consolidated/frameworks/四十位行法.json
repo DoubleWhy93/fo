@@ -1,0 +1,101 @@
+{
+ "name": "四十位行法",
+ "key": "四十位行法",
+ "aliases": [
+  "住行向地四十位行法"
+ ],
+ "summary": "十住、十行、十迴向、十地各十位，共四十位行法，皆依十波羅蜜展開",
+ "members": [
+  {
+   "name": "十住位",
+   "note": "初發心住至灌頂住共十位"
+  },
+  {
+   "name": "十行位",
+   "note": "本批頁面未列各位名稱"
+  },
+  {
+   "name": "十回向位",
+   "note": "本批頁面未列各位名稱"
+  },
+  {
+   "name": "十地位",
+   "note": "歡喜地至法雲地"
+  }
+ ],
+ "order_note": "依住行向地四種性排列，各位次內以十波羅蜜形式展開，並非串行",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "只列四組名稱",
+   "members": [
+    "十住位",
+    "十行位",
+    "十回向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/70.hyymzdgx-",
+    "pages/swxf/shizhu31"
+   ]
+  },
+  {
+   "label": "逐位列出十住位名稱",
+   "members": [
+    "初發心住",
+    "治地住",
+    "修行住",
+    "生貴住",
+    "具足方便住",
+    "正心住",
+    "不退住",
+    "童真住",
+    "王子住",
+    "灌頂住"
+   ],
+   "pages": [
+    "pages/swxf/shizhu30"
+   ]
+  },
+  {
+   "label": "各組第五位對照",
+   "members": [
+    "具足方便住",
+    "無癡亂行",
+    "無量功德藏回向",
+    "難勝地"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/71.hydwzwcdblmdbsmyy"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "十行位、十迴向位、十地位各十名，本批頁面沒有逐一列出",
+  "是否含等覺位與妙覺位：變體標題寫作（住行向地、等妙覺），個別頁面把「四十位行法」與「等妙覺如來地」前後並提"
+ ],
+ "source_quotes": [
+  {
+   "q": "住行向地四十位行法，這四十位行法不是串行的。十住位從初發心住到王子住、灌頂住，這是十住位的十位行法",
+   "src": "pages/swxf/shizhu30"
+  },
+  {
+   "q": "四十位行法是按照住行向地四個種性，每個種性裡面皆是以十波羅蜜的形式展開言說的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/71.hydwzwcdblmdbsmyy"
+  }
+ ],
+ "related": [
+  "住行向地四位行法",
+  "十波羅蜜",
+  "等妙覺位",
+  "普光明殿四個行法階段"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu30",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/71.hydwzwcdblmdbsmyy",
+  "pages/swxf/shizhu31",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+ ],
+ "confidence": "medium"
+}

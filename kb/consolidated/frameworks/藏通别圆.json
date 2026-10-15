@@ -1,0 +1,92 @@
+{
+ "name": "藏通别圆",
+ "key": "藏通别圆",
+ "aliases": [
+  "藏通別圓"
+ ],
+ "summary": "藏、通、别、圆四教，各以不同方式为法",
+ "members": [
+  {
+   "name": "藏教",
+   "note": "以止为法；体空；四阿含"
+  },
+  {
+   "name": "通教",
+   "note": "以观为法；以观入空；方等"
+  },
+  {
+   "name": "别教",
+   "note": "以平等为法；平等入空；般若"
+  },
+  {
+   "name": "圆教",
+   "note": "分共圆教（以舍为法）与不共圆教（华严）"
+  }
+ ],
+ "order_note": "依藏、通、别、圆次序；第4页表中圆教再分共圆教与不共圆教",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "表格式比较：藏通别与共圆教、不共圆教",
+   "members": [
+    "藏教（以止为法）",
+    "通教（以观为法）",
+    "别教（以平等为法）",
+    "共圆教（以舍为法）",
+    "不共圆教（华严）"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+   ]
+  },
+  {
+   "label": "用于一心三观别教/圆教之别及「藏通别圆依行者」之说",
+   "members": [
+    "藏",
+    "通",
+    "别",
+    "圆"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb",
+    "pages/huayan28/28jiang11"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "第9页仅涉及金刚种性、金刚为地，未单独列四教",
+  "别教与圆教在华严行法中的关系（共法别教与不共法别教）散见他页"
+ ],
+ "source_quotes": [
+  {
+   "q": "藏教 | 以止為法 | 體空 | 見一切法空 | 不見中道 | 斷緣寂滅 | 四阿含藏教",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+  },
+  {
+   "q": "通教 | 以觀為法 | 以觀入空 | 見有不空 | 見法兩邊 | 有法捨 | 方等",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+  },
+  {
+   "q": "別教 | 以平等為法 | 平等入空 | 平等相 | 平等中道 | 平等不取 | 般若",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+  },
+  {
+   "q": "共圓教 | 以捨為法 | 捨空 | 捨假 | 捨中道 | 捨捨 | 法華涅槃",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+  }
+ ],
+ "related": [
+  "共法别教与不共法别教",
+  "一心三观",
+  "华严四智行法",
+  "金刚种性"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb",
+  "pages/huayan28/28jiang11",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/9.jgwdzhyxfzdwc"
+ ],
+ "confidence": "medium"
+}

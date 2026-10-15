@@ -1,0 +1,88 @@
+{
+ "name": "三处演说与佛法僧",
+ "key": "三处演说与佛法僧",
+ "aliases": [
+  "三处演说"
+ ],
+ "summary": "菩提场、普光明殿、入法界三处，对应佛、法、僧",
+ "members": [
+  {
+   "name": "菩提场",
+   "note": "佛；一切法本然存在、总持力"
+  },
+  {
+   "name": "普光明殿",
+   "note": "法；行法理论与行法次第，如实知"
+  },
+  {
+   "name": "入法界",
+   "note": "僧；行法实践与生命体验"
+  }
+ ],
+ "order_note": "菩提场、普光明殿、入法界，依佛、法、僧顺序生起",
+ "completeness": "full",
+ "views": [
+  {
+   "label": "处所对应佛法僧",
+   "members": [
+    "菩提场—佛",
+    "普光明殿—法",
+    "入法界—僧"
+   ],
+   "pages": [
+    "pages/huayan28/28jiang13",
+    "pages/shixin/shixin4",
+    "pages/swxf/shizhu29"
+   ]
+  },
+  {
+   "label": "以说法角度区分",
+   "members": [
+    "菩提场：一切法本然存在",
+    "普光明殿：行法理论和次第",
+    "入法界：行法实践和生命体验"
+   ],
+   "pages": [
+    "pages/huayan70/jiangyi42"
+   ]
+  }
+ ],
+ "tensions": [
+  {
+   "text": "「佛」的刻画略有不同：shixin4 称从如来地无上正觉总体成就讲，shizhu29 称是生命总持力因素。",
+   "sources": [
+    {
+     "q": "是從如來地無上正覺總體成就的角度去講的",
+     "src": "pages/shixin/shixin4"
+    },
+    {
+     "q": "生命的總持力那個因素去講的",
+     "src": "pages/swxf/shizhu29"
+    }
+   ]
+  }
+ ],
+ "gaps": [],
+ "source_quotes": [
+  {
+   "q": "八十華嚴有三十九品，在三處演說。第一處是菩提場、第二處是普光明殿、第三處是入法界。",
+   "src": "pages/huayan28/28jiang13"
+  },
+  {
+   "q": "普光明殿從行法理論和行法次第的角度說，入法界從行法實踐和生",
+   "src": "pages/huayan70/jiangyi42"
+  }
+ ],
+ "related": [
+  "普光明殿四阶段",
+  "善财童子五十三参",
+  "佛法僧"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang13",
+  "pages/shixin/shixin4",
+  "pages/huayan70/jiangyi42",
+  "pages/swxf/shizhu29"
+ ],
+ "confidence": "high"
+}

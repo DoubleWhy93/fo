@@ -1,0 +1,68 @@
+{
+ "name": "华严四十位",
+ "key": "华严四十位",
+ "aliases": [
+  "四十位行法"
+ ],
+ "summary": "十住、十行、十迴向、十地四组共四十位行法",
+ "members": [
+  {
+   "name": "十住位",
+   "note": "始于初发心住"
+  },
+  {
+   "name": "十行位",
+   "note": ""
+  },
+  {
+   "name": "十迴向位",
+   "note": ""
+  },
+  {
+   "name": "十地位",
+   "note": "终于第四十位法云地"
+  }
+ ],
+ "order_note": "progressive order 住、行、向、地; 第七位 is a structural marker with 八九十 a second stage",
+ "completeness": "partial",
+ "views": [
+  {
+   "label": "四组次第与第七位分界",
+   "members": [
+    "十住位",
+    "十行位",
+    "十迴向位",
+    "十地位"
+   ],
+   "pages": [
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+   ]
+  }
+ ],
+ "tensions": [],
+ "gaps": [
+  "the forty individual positions are not listed in the pack",
+  "other pages mention 四十位 only in passing (灌顶位, 等觉位 beyond)"
+ ],
+ "source_quotes": [
+  {
+   "q": "從初發心住一直到第十地位法雲地的四十位行法中，從結構上看第七位是一個標誌：第七位之前是一個階段，第七位之後的八、九、十是另一個階段。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  },
+  {
+   "q": "什麼時候在十住位，何時升進到十行位，十迴向位，十地位，以及後面的行法如何到達灌頂位。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  }
+ ],
+ "related": [
+  "灌顶位",
+  "等觉位",
+  "入法界品",
+  "四智行法"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/21.psdzzcjydjwdgx"
+ ],
+ "confidence": "medium"
+}
