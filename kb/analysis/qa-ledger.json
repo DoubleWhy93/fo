@@ -103,7 +103,7 @@
 },
 {
 "id": "pages/dayi_all/2018-2022dy/flWORD/jdjd/1.dcjddjdms",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.16,
 "chars": 1475
 },
@@ -163,7 +163,7 @@
 },
 {
 "id": "pages/dayi_all/2018-2022dy/flWORD/jx-br/35.-brzh-zsxhshx-sddbtxx",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.12,
 "chars": 369
 },
@@ -181,7 +181,7 @@
 },
 {
 "id": "pages/dayi_all/2018-2022dy/flWORD/sz/24.wspszhhpxpsjjdymgczhcszzm-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.16,
 "chars": 958
 },
@@ -851,19 +851,19 @@
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.15,
 "chars": 18372
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/2.zytw-2023-08-26-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.13,
 "chars": 5492
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.13,
 "chars": 17412
 },
@@ -875,49 +875,49 @@
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.11,
 "chars": 14983
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/6.zywd-2023-09-23-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.15,
 "chars": 7234
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.13,
 "chars": 14022
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.11,
 "chars": 12930
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.14,
 "chars": 8215
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.1,
 "chars": 13416
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/11.zywd-2023-10-14-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.18,
 "chars": 2647
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.1,
 "chars": 13990
 },
@@ -929,37 +929,37 @@
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/14.zywd-2023-10-28-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.13,
 "chars": 7469
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.11,
 "chars": 18090
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/17.pxpsfjxf-2023-11-11-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.09,
 "chars": 15173
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/18. zywd-23-11-11)",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.11,
 "chars": 8196
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/19.gwxfzxdwt",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.12,
 "chars": 3483
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.11,
 "chars": 4409
 },
@@ -971,7 +971,7 @@
 },
 {
 "id": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
-"status": "low_novel_pending",
+"status": "digested_round3",
 "novel": 0.15,
 "chars": 3929
 },
@@ -1511,7 +1511,7 @@
 },
 {
 "id": "pages/dayi_all/dyjx/3.rhzjjdjddzl-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.09,
 "chars": 1354
 },
@@ -1529,19 +1529,19 @@
 },
 {
 "id": "pages/dayi_all/dyjx/6.dcfjyxcfjzxflnsdcb-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.1,
 "chars": 2416
 },
 {
 "id": "pages/dayi_all/dyjx/7.-fhj-zzgfjysyjjd-ty-hyj-ysmqb-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.12,
 "chars": 2113
 },
 {
 "id": "pages/dayi_all/dyjx/8.wsmjdjjsybpsyddyybczyfz-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.11,
 "chars": 1340
 },
@@ -1565,7 +1565,7 @@
 },
 {
 "id": "pages/dayi_all/dyjx/12.smjjzxd-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.11,
 "chars": 638
 },
@@ -1583,13 +1583,13 @@
 },
 {
 "id": "pages/dayi_all/dyjx/15.-bsbx-xfwy-h-bxsbx-ddjmt-hcbkw-lzzgsdcy-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.08,
 "chars": 1775
 },
 {
 "id": "pages/dayi_all/dyjx/16.czzjmxjx-bjxxcd-hyjwssgwcdxfdqwym-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.11,
 "chars": 1502
 },
@@ -1601,13 +1601,13 @@
 },
 {
 "id": "pages/dayi_all/dyjx/18.wxd-cd-mjdszysmqb-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.11,
 "chars": 1802
 },
 {
 "id": "pages/dayi_all/dyjx/19.zwsrhjbtzlm-",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.09,
 "chars": 1686
 },
@@ -1643,19 +1643,19 @@
 },
 {
 "id": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/2.-fjzxly-dy",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.13,
 "chars": 13556
 },
 {
 "id": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/3.-fjzxly-dy",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.24,
 "chars": 13722
 },
 {
 "id": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/4.-fjzxly-dy",
-"status": "low_novel_pending",
+"status": "low_novel_skipped",
 "novel": 0.2,
 "chars": 11247
 },
