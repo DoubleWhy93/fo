@@ -69,7 +69,7 @@ def quotes_html(qs):
 
 def shell(title, body):
     return (f'<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            f"<title>{H(title)}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '经典')}<main>{body}</main></body></html>")
+            f"<title>{H(title)}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '阿弥陀经')}<main>{body}</main></body></html>")
 
 
 def paras_html(ps):
@@ -108,7 +108,7 @@ def build():
             uns = '<div class="unsure"><b>还没定论：</b><ul>' + "".join(f"<li>{H(x)}</li>" for x in d["unsure"]) + "</ul></div>"
         pager = ('<div class="pager"><span>' + (f'<a href="{prev["slug"]}.html">← 上一段</a>' if prev else "") + "</span><span>" +
                  (f'<a href="{nxt["slug"]}.html">下一段 →</a>' if nxt else "") + "</span></div>")
-        body = (f'<nav class="top"><a href="../jing.html">经典</a> · <a href="index.html">《阿弥陀经》轻松读</a><span>{p["order"]} / {len(PLAN)}</span></nav>'
+        body = (f'<nav class="top"><a href="../amituo.html">阿弥陀经</a> · <a href="index.html">《阿弥陀经》轻松读</a><span>{p["order"]} / {len(PLAN)}</span></nav>'
                 f'<h1>{H(d["title"])}</h1><p class="hook">{H(d["hook"])}</p>'
                 f'<div class="sutra"><p class="cap">经文 · 鸠摩罗什译</p>{cap}</div>'
                 f'<div class="surface"><span class="lab">字面意思（整理者的白话，不是讲者原话）</span>{H(d["surface"])}</div>'

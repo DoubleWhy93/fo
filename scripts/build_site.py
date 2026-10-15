@@ -156,6 +156,7 @@ for sid, name, desc in LECT:
     series_rows.append((sid, name, desc, len(items)))
 tiles = "".join(f'<a class="tile" href="{sid}/index.html"><b>{H(n)}</b><span>{H(d)} · 已整理 {c} 页</span></a>' for sid, n, d, c in series_rows)
 page("jiang/index.html", "讲座", "<h1>讲座</h1><p class='lead'>按讲稿系列浏览。每一讲有要点、结构、主要观点（附原文）、例子与本页概念。</p>"
+     "<p class='conf'>各系列以《华严经》为主线。《华严经》经文与讲稿的逐段对照尚在整理，只会覆盖讲稿明确引用的部分。</p>"
      f"<div class='grid'>{tiles}</div>", "讲座")
 
 # ---------- 问答
@@ -198,13 +199,22 @@ page("wen/index.html", "问答", f"<h1>问答</h1><p class='lead'>{len(all_rows)
      + "".join(f"<h2>{H(s)}</h2><div class='grid'>{''.join(v)}</div>" for s, v in secs.items())
      + "<p class='conf'>分组名称由整理者根据各组标题拟定。内容重复或已被其他页覆盖的答疑页未单独收录。</p>" + js, "问答")
 
-# ---------- 经典
-page("jing.html", "经典", """<h1>经典</h1>
-<h2>《佛说阿弥陀经》</h2><p>鸠摩罗什译。逐段列出经文，再依《佛说阿弥陀经大义》及相关讲稿、答疑讲解。</p>
+# ---------- 阿弥陀经
+PLAN = json.load(open("content/amtj/PLAN.json", encoding="utf8"))["pages"]
+psg = []
+for p in PLAN:
+    det = json.load(open(f"content/amtj/{p['slug']}.json", encoding="utf8")) if os.path.exists(f"content/amtj/{p['slug']}.json") else {}
+    easy_ok = os.path.exists(f"site/amtj-easy/{p['slug']}.html")
+    text = "".join(S(e["text"]) for e in p["sutra_excerpts"])
+    links = (f'<a href="amtj-easy/{p["slug"]}.html">轻松读</a> · ' if easy_ok else "") + f'<a href="amtj/{p["slug"]}.html">详细讲解</a>'
+    psg.append(f'<div class="sutra"><p class="cap">第 {p["order"]} 段 · {H(det.get("title", S(p["title_trad"])))}</p><p>{H(text)}</p>'
+               f'<p class="conf">{links}</p></div>')
+page("amituo.html", "佛说阿弥陀经", f"""<h1>《佛说阿弥陀经》</h1>
+<p class="lead">鸠摩罗什译。全经分 {len(PLAN)} 段，每段先列经文，再依《佛说阿弥陀经大义》及相关讲稿、答疑讲解。</p>
 <div class="grid"><a class="tile" href="amtj-easy/index.html"><b>轻松读</b><span>口语、例子、思考题；不用先懂术语</span></a>
 <a class="tile" href="amtj/index.html"><b>详细讲解</b><span>逐段对照，引文逐字可查</span></a>
-<a class="tile" href="jiang/amtj/index.html"><b>《佛说阿弥陀经大义》讲稿</b><span>按讲浏览</span></a></div>
-<h2>《华严经》</h2><p>各讲稿以《华严经》为主线，可从<a href="jiang/index.html">讲座</a>与<a href="kb/index.html">知识库</a>进入。经文与讲稿的逐段对照尚在整理中，只会覆盖讲稿明确引用的部分。</p>""", "经典")
+<a class="tile" href="jiang/amtj/index.html"><b>《佛说阿弥陀经大义》讲稿</b><span>按讲浏览原讲稿的整理</span></a></div>
+<h2>经文全文</h2><p class="conf">点每段下方的链接看这一段的讲解。经文取自 CBETA T12n0366。</p>{"".join(psg)}""", "阿弥陀经")
 
 # ---------- 关于
 n_cards, n_fw = len(cslug), len(fslug)
@@ -232,7 +242,7 @@ page("index.html", "华严讲稿学习站", f"""<div class="hero"><h1>华严讲�
 <a class="tile" href="kb/index.html"><b>查一个概念</b><span>种性、道种智、黄金为地……{n_cards} 个概念，讲者怎么说、各页怎么讲。</span></a>
 <a class="tile" href="wen/index.html"><b>找一个问题</b><span>{len(all_rows)} 篇答疑，可搜索。</span></a></div>
 <h2>全部内容</h2><div class="grid">
-<a class="tile" href="jing.html"><b>经典</b><span>《佛说阿弥陀经》逐段讲解（轻松版与详细版）</span></a>
+<a class="tile" href="amituo.html"><b>佛说阿弥陀经</b><span>经文全文，逐段讲解（轻松版与详细版）</span></a>
 <a class="tile" href="jiang/index.html"><b>讲座</b><span>{len(series_rows)} 个讲稿系列，{n_lect} 讲</span></a>
 <a class="tile" href="wen/index.html"><b>问答</b><span>{len(groups)} 组答疑</span></a>
 <a class="tile" href="kb/index.html"><b>知识库</b><span>概念卡、框架卡、讲稿内部的不同说法</span></a>

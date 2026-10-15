@@ -5,7 +5,7 @@ import opencc
 S = opencc.OpenCC("t2s").convert
 H = html.escape
 
-NAV = [("经典", "jing.html"), ("讲座", "jiang/index.html"), ("问答", "wen/index.html"), ("知识库", "kb/index.html"), ("关于", "about.html")]
+NAV = [("阿弥陀经", "amituo.html"), ("讲座", "jiang/index.html"), ("问答", "wen/index.html"), ("知识库", "kb/index.html"), ("关于", "about.html")]
 
 BAR_CSS = """.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
 justify-content:space-between;flex-wrap:wrap;padding:.5rem 1.2rem;font:15px/1.5 "Noto Sans SC","PingFang SC",sans-serif}

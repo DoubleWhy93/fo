@@ -87,7 +87,7 @@ COVER = {"lecture": "", "partial": "讲稿仅部分涉及本段", "qa": "讲稿�
 
 def shell(title, body, up=True):
     return (f'<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            f"<title>{H(title)}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '经典')}<main>{body}</main></body></html>")
+            f"<title>{H(title)}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '阿弥陀经')}<main>{body}</main></body></html>")
 
 
 def build():
@@ -110,7 +110,7 @@ def build():
             openq = "<h2>留待核对</h2><ul class=\"open\">" + "".join(f"<li>{H(x)}</li>" for x in d["open_questions"]) + "</ul>"
         pager = '<div class="pager"><span>' + (f'<a href="{prev["slug"]}.html">← {H(S(prev["title_trad"]))}</a>' if prev else "") + \
                 '</span><span>' + (f'<a href="{nxt["slug"]}.html">{H(S(nxt["title_trad"]))} →</a>' if nxt else "") + "</span></div>"
-        body = (f'<nav class="top"><a href="../jing.html">经典</a> · <a href="index.html">《佛说阿弥陀经》讲解</a><span>{p["order"]} / {len(order)}</span></nav>'
+        body = (f'<nav class="top"><a href="../amituo.html">阿弥陀经</a> · <a href="index.html">《佛说阿弥陀经》讲解</a><span>{p["order"]} / {len(order)}</span></nav>'
                 f'<p class="kicker">{H(d.get("kicker", "佛说阿弥陀经"))}</p><h1>{H(d["title"])}</h1>'
                 f'<p class="lead">{segs(d["lead"])}</p>'
                 f'<div class="sutra"><p class="cap">经文 · 鸠摩罗什译（CBETA T12n0366）</p>{cap}</div>'
