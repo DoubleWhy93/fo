@@ -1,0 +1,69 @@
+{
+ "term": "了相作意",
+ "key": "了相作意",
+ "aliases": [],
+ "summary": "《瑜伽师地论》七种根本作意之首，被讲成「了别智」、对应法藏比丘「悉皆睹见」",
+ "definition": "讲者说了相作意其实就是「了别智」，是行法实践时对经文背后意义生起好乐和胜解。它是《瑜伽师地论》七种根本作意之一；讲者把《无量寿经》法藏比丘「于一切法悉皆睹见」讲成了相作意的问题。",
+ "definition_basis": [
+  {
+   "q": "了相作意其實就是「了別智」",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/2.bfb-lbjqzzydxfyy"
+  },
+  {
+   "q": "這裡講到法藏比丘於一切法悉皆睹見，講的就是「了相作意」的問題。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "等同「了别智」",
+   "text": "讲者在问答中直接说了相作意就是了别智。",
+   "quotes": [
+    {
+     "q": "了相作意其實就是「了別智」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/2.bfb-lbjqzzydxfyy"
+    }
+   ]
+  },
+  {
+   "label": "对应法藏比丘「悉皆睹见」",
+   "text": "《无量寿经》法藏比丘于一切法悉皆睹见，讲者说讲的就是了相作意。",
+   "quotes": [
+    {
+     "q": "這裡講到法藏比丘於一切法悉皆睹見，講的就是「了相作意」的問題。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018-2022 年问答中，一处把它等同了别智，另两处把它放在法藏比丘「悉皆睹见」的讲解里。"
+  }
+ ],
+ "related": [
+  "七种根本作意",
+  "如理作意",
+  "胜解作意",
+  "了别智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "了别智与「了相作意」的关系，只在一句话里提及，未展开。",
+  "「了别智」本身在这些页面中未另作定义。",
+  "未见各系列（华严28讲、70讲等）对它单独的定义。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/2.bfb-lbjqzzydxfyy"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "如理作意",
+  "胜解作意",
+  "了别智"
+ ]
+}

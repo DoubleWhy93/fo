@@ -1,0 +1,81 @@
+{
+ "term": "演绎",
+ "key": "演绎",
+ "aliases": [],
+ "summary": "把自性的力量从总相落实为别相、转成生命体验的过程",
+ "definition": "讲者说演绎是从上往下、从总相到别相：把自性本身的力量怎样转变成生命体验的过程说清楚。它也是从名字到名字背后的行法实践、法则、体验，并用来在当下体验与如来地目标之间搭建路径。讲者特别说明这不是把故事歪曲化。",
+ "definition_basis": [
+  {
+   "q": "這種演繹就是自性本身的力量怎樣轉變成生命體驗，這個過程給他說清楚，說清楚叫演繹。",
+   "src": "pages/shixin/shixin10"
+  },
+  {
+   "q": "從上往下，從總相到別相，管這個叫演繹。",
+   "src": "pages/swxf/shizhu19"
+  },
+  {
+   "q": "住行向地四位行法，就是要在當下的體驗與那個目標之間，把這個路徑搭建起來。",
+   "src": "pages/swxf/shizhu20"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "把力量转成生命体验的说清楚",
+   "text": "shixin 讲演绎是把自性力量转变成生命体验的过程说清楚。",
+   "quotes": [
+    {
+     "q": "這種演繹就是自性本身的力量怎樣轉變成生命體驗，這個過程給他說清楚，說清楚叫演繹。",
+     "src": "pages/shixin/shixin10"
+    }
+   ]
+  },
+  {
+   "label": "从总相到别相",
+   "text": "swxf 讲演绎是从上往下、从总相到别相。",
+   "quotes": [
+    {
+     "q": "從上往下，從總相到別相，管這個叫演繹。",
+     "src": "pages/swxf/shizhu19"
+    }
+   ]
+  },
+  {
+   "label": "搭建体验与目标之间的路径",
+   "text": "swxf 讲住行向地四位行法是在当下体验与目标之间搭建路径。",
+   "quotes": [
+    {
+     "q": "住行向地四位行法，就是要在當下的體驗與那個目標之間，把這個路徑搭建起來。",
+     "src": "pages/swxf/shizhu20"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "shixin",
+   "text": "讲成把自性力量如何转成生命体验说清楚，文殊的力量通过论义落实。"
+  },
+  {
+   "series": "swxf",
+   "text": "讲成从总相到别相，并用来搭建体验与解脱目标之间的路径。"
+  }
+ ],
+ "related": [
+  "文殊师利菩萨",
+  "名相概念",
+  "法则"
+ ],
+ "tensions": [],
+ "gaps": [
+  "讲者另提到「归纳」及其陷阱，所用页上未展开。",
+  "别名未明，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin10",
+  "pages/swxf/shizhu19",
+  "pages/swxf/shizhu20"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

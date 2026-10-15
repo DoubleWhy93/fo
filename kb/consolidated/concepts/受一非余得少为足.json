@@ -1,0 +1,98 @@
+{
+ "term": "受一非余得少为足",
+ "key": "受一非余得少为足",
+ "aliases": [],
+ "summary": "只守一法、排斥其余并以少为足的取向，行法所不许",
+ "definition": "讲者所说「受一非余、得少为足」，指住在某一法、排斥其它行法，并以所得少为满足。他说这是菩萨行法所不允许的，住于一法即是退转；另一处把它归入一阐提与愚痴，认为这样的模式成就不了无上正觉。",
+ "definition_basis": [
+  {
+   "q": "受一非餘得少為足，是菩薩行法所不允許的",
+   "src": "pages/huayan28/28jiang18"
+  },
+  {
+   "q": "只要我們住在某一法，排斥其它的行法，有排斥，就叫退轉。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  },
+  {
+   "q": "像受一非餘、得少為足，這些亦都屬於一闡提和愚癡",
+   "src": "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "住一法排斥他法即退转",
+   "text": "住在某一法而排斥其它行法，讲者称为退转。",
+   "quotes": [
+    {
+     "q": "只要我們住在某一法，排斥其它的行法，有排斥，就叫退轉。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+    }
+   ]
+  },
+  {
+   "label": "菩萨行法所不许",
+   "text": "讲者说这是菩萨行法所不允许的。",
+   "quotes": [
+    {
+     "q": "受一非餘得少為足，是菩薩行法所不允許的",
+     "src": "pages/huayan28/28jiang18"
+    }
+   ]
+  },
+  {
+   "label": "一阐提种性与愚痴",
+   "text": "讲者说受一非余、得少为足受一阐提种性影响，2024 年问答也把它归入一阐提与愚痴。",
+   "quotes": [
+    {
+     "q": "受一非餘，得少為足，這些基本都有一闡提種性的影響",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf"
+    },
+    {
+     "q": "像受一非餘、得少為足，這些亦都屬於一闡提和愚癡",
+     "src": "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "说它是菩萨行法所不允许的，并联系二乘声闻种性的傲慢。"
+  },
+  {
+   "series": "huayan70",
+   "text": "把它与断灭见、无想定并列，讲真正入阿鞞跋致地要不受一非余、得少为足。"
+  },
+  {
+   "series": "amtj",
+   "text": "从阿鞞跋致不退转的体用两方面讲，在某一行法某一派别中受一非余即有所住、有退转。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答讲住一法排斥他法即退转、一阐提种性；2024 问答归入一阐提与愚痴。"
+  }
+ ],
+ "related": [
+  "一阐提",
+  "退转",
+  "阿鞞跋致",
+  "二乘声闻种性"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「受一非余」「得少为足」是否分别指不同行为，各页只作连说，未拆开解释。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
+  "pages/huayan28/28jiang18",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf",
+  "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "一阐提",
+  "退转",
+  "二乘声闻种性"
+ ]
+}

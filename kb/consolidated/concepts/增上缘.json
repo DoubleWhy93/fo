@@ -1,0 +1,59 @@
+{
+ "term": "增上缘",
+ "key": "增上缘",
+ "aliases": [],
+ "summary": "诸佛菩萨与善知识只是增上缘，核心要靠自己内在觉知力生起",
+ "definition": "讲者说诸佛菩萨对我们的成就只是加持的增上缘，核心要靠内在觉知力生起；我们对他人也只是做增上缘，启发其内在觉知力的建立。",
+ "definition_basis": [
+  {
+   "q": "諸佛菩薩只是增上緣，可以加持我們",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/73.-dzsk-dzsyq"
+  },
+  {
+   "q": "最終我們只是做他人的增上緣，啓發其內在覺知力的建立",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/74.-cbx-zbtxfmsxdjd"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "诸佛菩萨只是增上缘",
+   "text": "诸佛菩萨可以加持，但只是增上缘。",
+   "quotes": [
+    {
+     "q": "諸佛菩薩只是增上緣，可以加持我們",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/73.-dzsk-dzsyq"
+    }
+   ]
+  },
+  {
+   "label": "我们对他人也是增上缘",
+   "text": "我们最终只是做他人的增上缘，启发其内在觉知力的建立。",
+   "quotes": [
+    {
+     "q": "最終我們只是做他人的增上緣，啓發其內在覺知力的建立",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/74.-cbx-zbtxfmsxdjd"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答反复强调佛菩萨、善知识、他人成就都只是增上缘，不能替代内在觉知的行法。"
+  }
+ ],
+ "related": [
+  "诸佛加持"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据只在 2018–2022 年问答中出现，未见其他系列的定义。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/73.-dzsk-dzsyq",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/74.-cbx-zbtxfmsxdjd"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": []
+}

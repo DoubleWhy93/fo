@@ -1,0 +1,87 @@
+{
+ "term": "民间信仰",
+ "key": "民间信仰",
+ "aliases": [],
+ "summary": "把修行寄托于他人、来生或多快好省的做法，须与华严行法分开",
+ "definition": "讲者说民间信仰是寄希望于环境改变而不是自身改变：把修行任务交给别人、到庙里供养就想直接得结果，或为下辈子荣华富贵、长生不老而修，或喜欢少投入多产出。讲者说进入华严行法必须把它与民间信仰分开。",
+ "definition_basis": [
+  {
+   "q": "我們要進入華嚴行法，必須把它跟民間信仰分開",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-"
+  },
+  {
+   "q": "寄希望於環境改變而不是自身的改變",
+   "src": "pages/huayan70/jiangyi50"
+  },
+  {
+   "q": "把修行的任務交給別人，然後自己到廟裡面供養一下，直接得那個結果，這些都是民間信仰。",
+   "src": "pages/swxf/shizhu21"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "把修行交给别人／供养求结果",
+   "text": "swxf 第21讲。",
+   "quotes": [
+    {
+     "q": "把修行的任務交給別人，然後自己到廟裡面供養一下，直接得那個結果，這些都是民間信仰。",
+     "src": "pages/swxf/shizhu21"
+    }
+   ]
+  },
+  {
+   "label": "寄望环境改变而非自身改变",
+   "text": "huayan70 第50讲：寄托于异身异时异处的来生来世，被称为世间法。",
+   "quotes": [
+    {
+     "q": "寄希望於環境改變而不是自身的改變",
+     "src": "pages/huayan70/jiangyi50"
+    }
+   ]
+  },
+  {
+   "label": "须与华严行法分开",
+   "text": "2023 年问答。",
+   "quotes": [
+    {
+     "q": "我們要進入華嚴行法，必須把它跟民間信仰分開",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "举出交给别人、下辈子、多快好省三类。"
+  },
+  {
+   "series": "huayan70",
+   "text": "称为世间法，寄托异身异时异处。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答强调须与华严行法分开。"
+  }
+ ],
+ "related": [
+  "世间法",
+  "共外道行法",
+  "外道"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据页没有给出民间信仰的一个统一定义，只列举若干表现。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu21",
+  "pages/huayan70/jiangyi50",
+  "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "世间法",
+  "外道"
+ ]
+}

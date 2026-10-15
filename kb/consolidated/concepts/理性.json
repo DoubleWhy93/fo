@@ -1,0 +1,132 @@
+{
+ "term": "理性",
+ "key": "理性",
+ "aliases": [],
+ "summary": "自性智慧的表现方式：概念准确、次第清晰、系统完备，须经训练到达",
+ "definition": "讲者说理性是自性智慧的表现方式，依于道理而不依于自我经验；道理就是自性般若智慧表现出来的。它能超越感性与知性的束缚，不是与生俱来，要通过训练才能到达。讲者也把「理性思惟」说成佛教里的觉悟。",
+ "definition_basis": [
+  {
+   "q": "自性智慧的表現方式就是理性。理性是什麼？理性是依於道理的，不是依於自我經驗的。",
+   "src": "pages/swxf/shizhu5"
+  },
+  {
+   "q": "所以理性世界是需通過訓練才能到達的，不是與生俱來的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/31.hwlxsj  "
+  },
+  {
+   "q": "理性思惟在佛教中就是覚悟",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自性智慧的表现方式",
+   "text": "理性依于道理；智慧的具体表现方式有三个：概念准确、次第清晰、系统完备。",
+   "quotes": [
+    {
+     "q": "自性智慧的表現方式就是理性。理性是什麼？理性是依於道理的，不是依於自我經驗的。",
+     "src": "pages/swxf/shizhu5"
+    },
+    {
+     "q": "而智慧的具體表現方式呢？也是有三個：第一個，概念準確；第二個，次第清晰；第三個，系統完備。",
+     "src": "pages/swxf/shizhu5"
+    }
+   ]
+  },
+  {
+   "label": "超越感性与知性的阶段",
+   "text": "在感性、知性之后，理性阶段是把前两阶段建立的束缚看清楚并去掉。",
+   "quotes": [
+    {
+     "q": "而理性階段就是要把感性階段、知性階段建立的這些束縛看清楚，然後去掉，這就到達理性階段。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+    }
+   ]
+  },
+  {
+   "label": "理性思惟＝觉悟",
+   "text": "2023 问答把理性思惟说成佛教里的觉悟。",
+   "quotes": [
+    {
+     "q": "理性思惟在佛教中就是覚悟",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+    }
+   ]
+  },
+  {
+   "label": "须经训练到达",
+   "text": "理性世界依智生起，要训练才能到达。",
+   "quotes": [
+    {
+     "q": "所以理性世界是需通過訓練才能到達的，不是與生俱來的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/31.hwlxsj  "
+    }
+   ]
+  },
+  {
+   "label": "讲道理、不偏执的用法",
+   "text": "问答中也用「理性」指至少要讲道理、不偏执固守一处；或指确切知道这样做是可以的。",
+   "quotes": [
+    {
+     "q": "至少我們要講道理，而不是偏執的、固守一處的狀況",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+    },
+    {
+     "q": "「理性」的意思就是您確切知道這樣做是可以的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/20.csdcxgf-xshfxsd-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "讲成自性智慧的表现方式，依于道理，有概念准确、次第清晰、系统完备三个表现。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答讲成超越感性知性的阶段与须训练到达的世间，并在使用上指讲道理、不偏执；2023 讲成觉悟。"
+  }
+ ],
+ "related": [
+  "感性",
+  "知性",
+  "自性智慧",
+  "般若智慧",
+  "报身世间",
+  "法身世间"
+ ],
+ "tensions": [
+  {
+   "text": "理性所属的世间，两页说法不同：一页说身的行为在理性支配下属不共法的报身世间，另一页说到达理性阶段、理性能支配自己行为，就是到达法身世间。",
+   "sources": [
+    {
+     "q": "如果身的行為覺受是在理性支配下的，那麼就是在不共法的「報身」世間。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+    },
+    {
+     "q": "如果到達理性階段的時候，這種理性是可以支配自己的行為，就是到達法身世間。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "理性思惟的构建步骤在本组证据中只被概述，未逐步展开。",
+  "别名未在证据中明确出现，aliases 留空；「理性就是佛菩萨的化身」一类说法与上述定义的关系没有说明。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu5",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/31.hwlxsj  ",
+  "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+ ],
+ "pages_consulted": 7,
+ "confidence": "medium",
+ "related_unresolved": [
+  "感性",
+  "知性",
+  "自性智慧"
+ ]
+}

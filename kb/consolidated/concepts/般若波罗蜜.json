@@ -1,0 +1,63 @@
+{
+ "term": "般若波罗蜜",
+ "key": "般若波罗蜜",
+ "aliases": [],
+ "summary": "超越五蕴身一切法而离生灭、并要能在世间生起运用的智慧",
+ "definition": "讲者把般若波罗蜜讲成以超越五蕴身一切法的方式离开生灭的智慧；「般」代表超越，「若」是五蕴身一切法。又说「深般若波罗蜜」一定要能在世间生起运用。",
+ "definition_basis": [
+  {
+   "q": "以超越五蘊身一切法的方式來離生滅，就是般若波羅蜜",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy"
+  },
+  {
+   "q": "「深般若波羅蜜」就是一定要能夠到世間生起運用的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/18.hw-sbrblm--"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "超越五蕴身一切法而离生灭",
+   "text": "讲者拆字解释：般＝超越，若＝五蕴身一切法，超越它们而离生灭即般若波罗蜜。",
+   "quotes": [
+    {
+     "q": "以超越五蘊身一切法的方式來離生滅，就是般若波羅蜜",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy"
+    }
+   ]
+  },
+  {
+   "label": "要能到世间生起运用",
+   "text": "深般若波罗蜜不是停在超越，而是一定要能在世间生起运用。",
+   "quotes": [
+    {
+     "q": "「深般若波羅蜜」就是一定要能夠到世間生起運用的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/18.hw-sbrblm--"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答中的两页（jx-br 系列）分别给出超越与世间运用两层说法。"
+  }
+ ],
+ "related": [
+  "般若智慧",
+  "五蕴"
+ ],
+ "tensions": [],
+ "gaps": [
+  "两页只给出两条直接说明，未展开与其他波罗蜜的关系。",
+  "pack 中其他系列（如 huayan70 的正心住）仅在 teachings 中提到，本卡未取其原文。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy",
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/18.hw-sbrblm--"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": [
+  "五蕴"
+ ]
+}

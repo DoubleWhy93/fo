@@ -1,0 +1,63 @@
+{
+ "term": "五眼圆明",
+ "key": "五眼圆明",
+ "aliases": [],
+ "summary": "肉眼拣择、天眼通达、慧眼见真、法眼清净、佛眼具足",
+ "definition": "讲者说五眼圆明指肉眼拣择、天眼通达、慧眼见真、法眼清净、佛眼具足，针对世间一切法与身心觉知一切法，是五蕴法行法成就所得。",
+ "definition_basis": [
+  {
+   "q": "五眼圓明指的是「肉眼揀擇、天眼通達、慧眼見真、法眼清淨、佛眼具足」",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/18.hw-wyym--"
+  },
+  {
+   "q": "五眼圓明指的是『肉眼揀擇、天眼通達、慧眼見真、法眼清淨、佛眼具足』",
+   "src": "pages/huayan28/28jiang12"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "五眼各自所指",
+   "text": "肉眼拣择、天眼通达、慧眼见真、法眼清净、佛眼具足。",
+   "quotes": [
+    {
+     "q": "五眼圓明指的是『肉眼揀擇、天眼通達、慧眼見真、法眼清淨、佛眼具足』",
+     "src": "pages/huayan28/28jiang12"
+    }
+   ]
+  },
+  {
+   "label": "五蕴法成就所得",
+   "text": "五眼圆明是五蕴法行法成就所得。",
+   "quotes": [
+    {
+     "q": "五眼圓明指的是「肉眼揀擇、天眼通達、慧眼見真、法眼清淨、佛眼具足」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/18.hw-wyym--"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "把五眼圆明讲成五蕴法修行成就后所得，对应色受想行识。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲在五蕴生起时训练五眼。"
+  }
+ ],
+ "related": [
+  "般若智慧"
+ ],
+ "tensions": [],
+ "gaps": [
+  "五眼与五蕴的逐一对应主要见于 huayan28 的 teachings，此卡仅引定义。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang12",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/18.hw-wyym--"
+ ],
+ "pages_consulted": 2,
+ "confidence": "high",
+ "related_unresolved": []
+}

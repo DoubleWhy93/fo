@@ -1,0 +1,121 @@
+{
+ "term": "菩提树",
+ "key": "菩提树",
+ "aliases": [],
+ "summary": "指身心觉知的一切法；「坐菩提树下」是依这些一切法生起智慧力",
+ "definition": "讲者把「菩提树」讲成我们身心觉知的一切法，即生命中一切知识、经验、体验的总合，而不是外在的树。依身心觉知的一切法生起智慧力的运用，叫作「坐菩提树下」。世尊坐菩提树下成就无上正觉，被讲成关于生命解脱与无上正觉的密法言说。",
+ "definition_basis": [
+  {
+   "q": "『菩提樹』是指身心覺知的一切法。",
+   "src": "pages/huayan70/jiangyi15"
+  },
+  {
+   "q": "菩提樹就是我們生命中的一切法，我們回望自己，我們一切的知識、經驗、體驗總合在一起，是我們生命中的菩提樹。",
+   "src": "pages/swxf/shizhu24"
+  },
+  {
+   "q": "「菩提樹」代表我們身心覺知的一切法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "生命中的一切法",
+   "text": "swxf 讲法说菩提树是生命中的一切知识、经验、体验的总合。",
+   "quotes": [
+    {
+     "q": "菩提樹就是我們生命中的一切法，我們回望自己，我們一切的知識、經驗、體驗總合在一起，是我們生命中的菩提樹。",
+     "src": "pages/swxf/shizhu24"
+    }
+   ]
+  },
+  {
+   "label": "坐菩提树下＝依一切法生起智慧力",
+   "text": "答疑讲「坐菩提树下」是依身心觉知一切法生起智慧力的运用。",
+   "quotes": [
+    {
+     "q": "「菩提樹」代表我們身心覺知的一切法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb"
+    }
+   ]
+  },
+  {
+   "label": "不能远离一切法",
+   "text": "huayan70 说以自性觉悟建立行法实践，不能远离身心觉知的一切法。",
+   "quotes": [
+    {
+     "q": "『菩提樹』是指身心覺知的一切法。",
+     "src": "pages/huayan70/jiangyi15"
+    }
+   ]
+  },
+  {
+   "label": "密法言说与成就位次",
+   "text": "huayan70 说世尊坐菩提树下成就无上正觉是密法言说，并依根本智与差别智两个角度说到达位次。",
+   "quotes": [
+    {
+     "q": "佛教中有世尊坐菩提樹下成就無上正覺的說法，這是關於生命解脫與無上正覺、生命活動與生命體驗的說法，是一種密法言說。",
+     "src": "pages/huayan70/jiangyi21"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "把「坐菩提树下」与第七住位得无生忍联系起来，并说登地位才是到达龙宫。"
+  },
+  {
+   "series": "huayan70",
+   "text": "定义为身心觉知的一切法，并从根本智与差别智两个角度说位次。"
+  },
+  {
+   "series": "swxf",
+   "text": "说菩提树是我们生命中的一切知识、经验、体验的总合。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018-2022 答疑说它代表身心觉知的一切法。"
+  }
+ ],
+ "related": [
+  "一切法",
+  "无生忍",
+  "龙宫",
+  "密法言说",
+  "根本智",
+  "差别智"
+ ],
+ "tensions": [
+  {
+   "text": "「坐菩提树下」在不同页被连到不同位次：huayan28 说证第七住位得无生忍即坐菩提树下；huayan70 则按根本智角度说到十信位即坐菩提树下，按差别智角度说到须弥山顶见一切法证诸法空才是。",
+   "sources": [
+    {
+     "q": "修行者證到第七住位得無生忍，即是坐於菩提樹下",
+     "src": "pages/huayan28/28jiang12"
+    },
+    {
+     "q": "從根本智成就的角度講，修行者到達十信位即是坐菩提樹下",
+     "src": "pages/huayan70/jiangyi21"
+    },
+    {
+     "q": "修行者到達須彌山頂、見一切法證諸法空才是坐菩提樹下",
+     "src": "pages/huayan70/jiangyi21"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "证据包没有说明 huayan28 与 huayan70 的位次说法如何调和。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi15",
+  "pages/swxf/shizhu24",
+  "pages/huayan70/jiangyi21",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb",
+  "pages/huayan28/28jiang12"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "related_unresolved": []
+}

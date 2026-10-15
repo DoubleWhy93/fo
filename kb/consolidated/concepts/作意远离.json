@@ -1,0 +1,76 @@
+{
+ "term": "作意远离",
+ "key": "作意远离",
+ "aliases": [],
+ "summary": "想远离世间因缘、远离一切法的作意，本身就是束缚",
+ "definition": "讲者说想远离世间因缘、远离一切法的作意，本身即是束缚，本身不出生死。他举例说，越憎恨一个人一件事、念念作意，距离这件事越近。",
+ "definition_basis": [
+  {
+   "q": "這種想逺離世間因緣、逺離一切法的作意本身即是束縛",
+   "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+  },
+  {
+   "q": "作意遠離本身即是受其束縛，本身即不出生死",
+   "src": "pages/huayan28/28jiang9"
+  },
+  {
+   "q": "這種想逺離世間因緣、逺離一切法的作意本身即是束縛",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/71.rhbthylsf"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "作意远离即束缚",
+   "text": "想远离世间因缘、远离一切法的作意本身是束缚。",
+   "quotes": [
+    {
+     "q": "這種想逺離世間因緣、逺離一切法的作意本身即是束縛",
+     "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+    },
+    {
+     "q": "這種想逺離世間因緣、逺離一切法的作意本身即是束縛",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/71.rhbthylsf"
+    }
+   ]
+  },
+  {
+   "label": "在染著法中生起",
+   "text": "此类修行者于染著法中生起作意远离，作意远离本身受其束缚，不出生死。",
+   "quotes": [
+    {
+     "q": "作意遠離本身即是受其束縛，本身即不出生死",
+     "src": "pages/huayan28/28jiang9"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "把作意远离列为生死法能束缚凡夫外道、二乘声闻、权教别教修行者的原因之一。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年 dy2 与 jtl 页重复这句话。"
+  }
+ ],
+ "related": [
+  "作意",
+  "生死法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页只给出这一论断，未说明如何超越作意远离的具体行法。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/dy/dy2",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/71.rhbthylsf",
+  "pages/huayan28/28jiang9"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "作意",
+  "生死法"
+ ]
+}

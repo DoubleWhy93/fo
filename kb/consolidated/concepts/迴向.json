@@ -1,0 +1,113 @@
+{
+ "term": "迴向",
+ "key": "迴向",
+ "aliases": [],
+ "summary": "智慧力从一切法生起、再回到一切法中生起应用与体验的力量",
+ "definition": "讲者说「迴向」代表一种力量：「向」是力量，「回」是智慧力能到达世间一切法。自性智慧从一切法中生起，最终再回到一切法中，这个过程就是迴向，即以智慧力回到一切法中生起具体的身心体验。huayan28 则说它是从报身般若智慧回到世间一切法生起应用的力量。",
+ "definition_basis": [
+  {
+   "q": "「向」是一種力量，「回」是智慧力能夠到達世間的一切法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb"
+  },
+  {
+   "q": "自性智慧從一切法中生起，最終再回到一切法中，這個過程就是迴向。",
+   "src": "pages/huayan70/jiangyi21"
+  },
+  {
+   "q": "『迴向』是指以智慧力回到一切法中生起具體的身心體驗",
+   "src": "pages/huayan70/jiangyi55"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "向是力量、回是到达一切法",
+   "text": "答疑中把「向」讲成力量，「回」讲成智慧力能到达世间一切法。",
+   "quotes": [
+    {
+     "q": "「向」是一種力量，「回」是智慧力能夠到達世間的一切法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb"
+    }
+   ]
+  },
+  {
+   "label": "从一切法生起再回到一切法",
+   "text": "huayan70 说自性智慧从一切法中生起、最终回到一切法，这个过程是迴向。",
+   "quotes": [
+    {
+     "q": "自性智慧從一切法中生起，最終再回到一切法中，這個過程就是迴向。",
+     "src": "pages/huayan70/jiangyi21"
+    }
+   ]
+  },
+  {
+   "label": "回到身心体验",
+   "text": "huayan70 另一讲把迴向说成以智慧力回到一切法中生起具体的身心体验，并用数学公式与具体计算作比喻。",
+   "quotes": [
+    {
+     "q": "『迴向』是指以智慧力回到一切法中生起具體的身心體驗",
+     "src": "pages/huayan70/jiangyi55"
+    }
+   ]
+  },
+  {
+   "label": "报身般若智回到世间应用",
+   "text": "huayan28 说它是一种从报身般若智慧回到世间一切法生起应用的力量。",
+   "quotes": [
+    {
+     "q": "『迴向』代表一種從報身般若智慧回到世間一切法生起應用的力量",
+     "src": "pages/huayan28/28jiang22"
+    }
+   ]
+  },
+  {
+   "label": "依自性无为法生起世间法界智用",
+   "text": "答疑中说迴向是依于自性无为法而生起世间法界智用。",
+   "quotes": [
+    {
+     "q": "所言迴向，即是依於自性無為法而生起世間法界智用",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/12.stgbfypgmddgx"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "把迴向说成从报身般若智慧回到世间一切法生起应用的力量。"
+  },
+  {
+   "series": "huayan70",
+   "text": "说成自性智慧从一切法生起再回到一切法，生起具体身心体验的过程。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018-2022 答疑从「向」「回」两字及依自性无为法生起世间智用来解释。"
+  }
+ ],
+ "related": [
+  "十迴向位",
+  "自性智慧",
+  "般若",
+  "一切法",
+  "报身"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据包未区分「迴向」作为一般概念与作为十迴向位位次的不同说法。",
+  "没有说明与佛教常见的「回向功德」用法的关系。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi21",
+  "pages/huayan70/jiangyi55",
+  "pages/huayan28/28jiang22",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/12.stgbfypgmddgx"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "related_unresolved": [
+  "十迴向位",
+  "自性智慧",
+  "报身"
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "term": "名相言说",
+ "key": "名相言说",
+ "aliases": [],
+ "summary": "成就无上正觉所需的名相与言说，被讲成菩提义",
+ "definition": "讲者说名相言说是成就无上正觉必须的条件，无上正觉的表现方式就是名相言说。见性位之前以为名相言说皆是虚妄，见性位之后名相言说是菩提义。它也被说成自性般若智慧在知识经验体验中的呈现：言说、思惟、分别、选择、判断，以及衡量一切法的尺子。",
+ "definition_basis": [
+  {
+   "q": "名相言說是成就無上正覺必須的條件。無上正覺的表現方式，就是名相言說",
+   "src": "pages/shixin/shixin16"
+  },
+  {
+   "q": "見性位之前，名相言說皆是虛妄；見性位之後，名相言說是菩提義，沒有名相言說就沒有無上正覺。",
+   "src": "pages/swxf/shizhu32"
+  },
+  {
+   "q": "名相言說即菩提義。",
+   "src": "pages/swxf/shizhu4"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "无上正觉的条件与表现方式",
+   "text": "shixin 讲名相言说是成就无上正觉必须的条件与表现方式。",
+   "quotes": [
+    {
+     "q": "名相言說是成就無上正覺必須的條件。無上正覺的表現方式，就是名相言說",
+     "src": "pages/shixin/shixin16"
+    }
+   ]
+  },
+  {
+   "label": "见性位前后的不同",
+   "text": "swxf32 讲见性位之前名相言说皆虚妄，之后是菩提义。",
+   "quotes": [
+    {
+     "q": "見性位之前，名相言說皆是虛妄；見性位之後，名相言說是菩提義，沒有名相言說就沒有無上正覺。",
+     "src": "pages/swxf/shizhu32"
+    }
+   ]
+  },
+  {
+   "label": "名相言说即菩提义",
+   "text": "swxf4 讲名相言说即菩提义，并说开启自性智慧的标志是能准确言说。",
+   "quotes": [
+    {
+     "q": "名相言說即菩提義。",
+     "src": "pages/swxf/shizhu4"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "shixin",
+   "text": "讲成成就无上正觉必须的条件，也是其表现方式。"
+  },
+  {
+   "series": "swxf",
+   "text": "讲成见性位前后不同，并说名相言说即菩提义。"
+  }
+ ],
+ "related": [
+  "名相概念",
+  "概念准确",
+  "十信位",
+  "自性智慧"
+ ],
+ "tensions": [],
+ "gaps": [
+  "与已有卡「名相概念」的关系未在所用页上说明。",
+  "别名未明，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin16",
+  "pages/swxf/shizhu32",
+  "pages/swxf/shizhu4"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自性智慧"
+ ]
+}

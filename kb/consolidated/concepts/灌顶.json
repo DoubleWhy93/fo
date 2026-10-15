@@ -1,0 +1,95 @@
+{
+ "term": "灌顶",
+ "key": "灌顶",
+ "aliases": [],
+ "summary": "一个种性的行法到达成就地、升到下一种性；或身语意入灭尽定",
+ "definition": "讲者说灌顶是一个种性的行法到达成就地时，改变当前种性、上升到下一个种性。huayan70 讲法则说灌顶指身语意入灭尽定行法、证无余涅槃，「灌」是圆满到达，「顶」是诸法边际。十住、十行、十迴向、十地的灌顶位对应四大菩萨。",
+ "definition_basis": [
+  {
+   "q": "「灌頂」是一個種性的行法到達成就地時，要改變當前種性，上升到下一個種性。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  },
+  {
+   "q": "『灌頂』是指身語意入滅盡定行法，證無餘涅槃，『灌』是指圓滿到達，『頂』是指諸法邊際",
+   "src": "pages/huayan70/jiangyi27"
+  },
+  {
+   "q": "這四大菩薩就是十住、十行、十迴向、十地的灌頂位。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "种性升级",
+   "text": "一个种性的行法到达成就地时，改变当前种性，上升到下一个种性。",
+   "quotes": [
+    {
+     "q": "「灌頂」是一個種性的行法到達成就地時，要改變當前種性，上升到下一個種性。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+    }
+   ]
+  },
+  {
+   "label": "入灭尽定、诸法边际",
+   "text": "灌顶指身语意入灭尽定行法，证无余涅槃；灌是圆满到达，顶是诸法边际。",
+   "quotes": [
+    {
+     "q": "『灌頂』是指身語意入滅盡定行法，證無餘涅槃，『灌』是指圓滿到達，『頂』是指諸法邊際",
+     "src": "pages/huayan70/jiangyi27"
+    }
+   ]
+  },
+  {
+   "label": "四位的灌顶位",
+   "text": "四大菩萨就是十住、十行、十迴向、十地的灌顶位。",
+   "quotes": [
+    {
+     "q": "這四大菩薩就是十住、十行、十迴向、十地的灌頂位。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "从入灭尽定行法、证无余涅槃讲，并列出四位的灌顶位。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（swms-dzz）讲种性升级与四大菩萨为各位灌顶位。"
+  }
+ ],
+ "related": [
+  "入灭尽定行法",
+  "四大菩萨"
+ ],
+ "tensions": [
+  {
+   "text": "对灌顶的说法不同：一处讲成种性行法到成就地而升入下一种性，另一处讲成身语意入灭尽定行法、证无余涅槃。",
+   "sources": [
+    {
+     "q": "「灌頂」是一個種性的行法到達成就地時，要改變當前種性，上升到下一個種性。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+    },
+    {
+     "q": "『灌頂』是指身語意入滅盡定行法，證無餘涅槃，『灌』是指圓滿到達，『頂』是指諸法邊際",
+     "src": "pages/huayan70/jiangyi27"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「灌顶」两种讲法之间的关系证据中未说明。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
+  "pages/huayan70/jiangyi27",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "四大菩萨"
+ ]
+}

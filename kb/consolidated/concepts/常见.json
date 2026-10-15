@@ -1,0 +1,66 @@
+{
+ "term": "常见",
+ "key": "常见",
+ "aliases": [],
+ "summary": "认为生命或一切法中有不灭、始终不变的东西",
+ "definition": "讲者说常见是认为生命当中有一个不灭的东西，如外道所讲的灵魂；与断见相反，认为一切法中有个始终不变、不可分割的东西，例如神我不灭，或烦恼永远不能断除。",
+ "definition_basis": [
+  {
+   "q": "「常見」就是生命當中有那麼一個東西是不滅的",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+  },
+  {
+   "q": "認為一切法中有個始終不變的東西",
+   "src": "pages/huayan70/jiangyi35"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不灭的东西／灵魂",
+   "text": "2024 年初的问答把常见讲成生命中有不灭的东西，能离开色身到下一辈子。",
+   "quotes": [
+    {
+     "q": "「常見」就是生命當中有那麼一個東西是不滅的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+    }
+   ]
+  },
+  {
+   "label": "与断见相反，始终不变",
+   "text": "huayan70 讲法把常见说成认为一切法中有始终不变之物，经历行法实践也不变。",
+   "quotes": [
+    {
+     "q": "認為一切法中有個始終不變的東西",
+     "src": "pages/huayan70/jiangyi35"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "定义为与断见相反的始终不变之见。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答以灵魂不灭为例。"
+  }
+ ],
+ "related": [
+  "断见",
+  "一念无明"
+ ],
+ "tensions": [],
+ "gaps": [
+  "已读页未对「断见」另立详细定义。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-",
+  "pages/huayan70/jiangyi35"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": [
+  "断见"
+ ]
+}

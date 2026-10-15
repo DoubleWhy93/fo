@@ -1,0 +1,100 @@
+{
+ "term": "芥子纳须弥",
+ "key": "芥子纳须弥",
+ "aliases": [],
+ "summary": "一念（芥子）与其所生无量法（须弥）非一非异",
+ "definition": "讲者说：每一个念头里都可以生起无量世界，这在佛经里叫「芥子纳须弥」。芥子是最初关注一法的一念（讲者也说它代表无为法），须弥是围绕这一法生起的无量法的总合（有为法）。二者是性与相、体与用的关系，并非芥子之外另有须弥。",
+ "definition_basis": [
+  {
+   "q": "每個念頭裡面都可以生起無量世界。這在我們佛教裡面也叫作什麼呢？叫作『芥子納須彌』。",
+   "src": "pages/swxf/shizhu26"
+  },
+  {
+   "q": "實際上，芥子就是那個須彌山，須彌山就是那個芥子",
+   "src": "pages/huayan70/jiangyi7"
+  },
+  {
+   "q": "芥子代表無為法。須彌代表有為法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/15.-jznxm-ypsst"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "念头与围绕它的无量法",
+   "text": "最初关注这一法的一念无明是芥子，围绕这一法生起的无量法是须弥山。",
+   "quotes": [
+    {
+     "q": "這個在佛經裡面叫什麼呢？叫『芥子納須彌』。",
+     "src": "pages/swxf/shizhu12"
+    }
+   ]
+  },
+  {
+   "label": "能力为芥子、一法为须弥",
+   "text": "从能关注这一法的「能力」讲，这个能力是芥子；这一法本身是须弥山。",
+   "quotes": [
+    {
+     "q": "從能夠關注這一法的「能力」角度講，這個能力是芥子",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/108.yyhmy"
+    }
+   ]
+  },
+  {
+   "label": "无为与有为",
+   "text": "芥子代表无为法，须弥代表有为法。",
+   "quotes": [
+    {
+     "q": "芥子代表無為法。須彌代表有為法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/15.-jznxm-ypsst"
+    }
+   ]
+  },
+  {
+   "label": "性相体用，芥子之外无须弥",
+   "text": "huayan70 讲法强调芥子就是须弥山，是性与相、体与用的关系。",
+   "quotes": [
+    {
+     "q": "實際上，芥子就是那個須彌山，須彌山就是那個芥子",
+     "src": "pages/huayan70/jiangyi7"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲一念微细相当于芥子，其无量演说总合为须弥山，二者性相体用不二。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲说每个念头都能生起无量世界，并联系一念无明。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲芥子为无为法、须弥为有为法，及能力与一法的对应。"
+  }
+ ],
+ "related": [
+  "一念无明",
+  "无为法",
+  "有为法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「一瞬间生起的体验分成四十、五十三个位次」只在 swxf 一页点到，未展开。",
+  "别名「须弥藏芥子」只作为同一对句出现，证据较少，未列为别名。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu26",
+  "pages/swxf/shizhu12",
+  "pages/huayan70/jiangyi7",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/15.-jznxm-ypsst",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/108.yyhmy"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "related_unresolved": [
+  "无为法",
+  "有为法"
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "term": "以果为因",
+ "key": "以果为因",
+ "aliases": [],
+ "summary": "以最终成就地为起点与核心的行法模式",
+ "definition": "讲者说以果为因，是最初生起的修行力量就是最终要证得的所在；问法是从未来成就地生起的力量；行法理论与实践从如来地一切法生起，最终又回到如来地一切法中。",
+ "definition_basis": [
+  {
+   "q": "就是我們最初生起的修行的力量就是我們最終要證得的所在，就是以果為因。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-"
+  },
+  {
+   "q": "問法是一種力量，是從未來成就地生起的，所以是『以果為因』。",
+   "src": "pages/huayan70/jiangyi32"
+  },
+  {
+   "q": "這在佛教中即是『以果為因』的行法模式",
+   "src": "pages/huayan70/jiangyi37"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "起点与终点同处",
+   "text": "最初的修行力量就是最终要证得之处。",
+   "quotes": [
+    {
+     "q": "就是我們最初生起的修行的力量就是我們最終要證得的所在，就是以果為因。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-"
+    }
+   ]
+  },
+  {
+   "label": "问法从未来成就地生起",
+   "text": "问法被说成从未来成就地生起的力量，因为以果为因。",
+   "quotes": [
+    {
+     "q": "問法是一種力量，是從未來成就地生起的，所以是『以果為因』。",
+     "src": "pages/huayan70/jiangyi32"
+    }
+   ]
+  },
+  {
+   "label": "行法模式：回到最终成就地",
+   "text": "善财所问，最终成就地亦回到这些问题，被说成以果为因的行法模式。",
+   "quotes": [
+    {
+     "q": "這在佛教中即是『以果為因』的行法模式",
+     "src": "pages/huayan70/jiangyi37"
+    },
+    {
+     "q": "最終成就地亦是回到這些問題，此即佛教『以果為因』的行法模式",
+     "src": "pages/huayan70/jiangyi45"
+    }
+   ]
+  },
+  {
+   "label": "住行向地四位以如来地为目标",
+   "text": "十住讲中说以如来地为目标、核心生起四位行法，称为以果为因。",
+   "quotes": [
+    {
+     "q": "在我們佛教裡面叫作『以果為因』。",
+     "src": "pages/swxf/shizhu20"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "结合问法与善财五十三参，强调行法最终回到成就地。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中说以如来地为目标、核心生起住行向地四位行法。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答说最初生起的修行力量即最终要证得之处。"
+  }
+ ],
+ "related": [
+  "问法",
+  "如来地",
+  "行法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「因果同质」的含义除盖大楼之喻外未有更多说明。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi32",
+  "pages/huayan70/jiangyi37",
+  "pages/swxf/shizhu20",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-",
+  "pages/huayan70/jiangyi45"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "related_unresolved": [
+  "行法"
+ ]
+}

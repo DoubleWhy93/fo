@@ -1,0 +1,64 @@
+{
+ "term": "经行",
+ "key": "经行",
+ "aliases": [],
+ "summary": "昼夜六时梵行清净、思惟妙法",
+ "definition": "讲者说「经行」总体代表昼夜六时思惟妙法；是昼夜六时梵行清净、思惟妙法，能除去一切法的束缚和影响。具体方式可以是见一切妙法、构建成就模式、思惟法义或专注身心觉受。",
+ "definition_basis": [
+  {
+   "q": "『經行』是指晝夜六時梵行清淨，思惟妙法",
+   "src": "pages/huayan70/jiangyi45"
+  },
+  {
+   "q": "總體來說，「經行」代表晝夜六時思惟妙法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "昼夜六时思惟妙法",
+   "text": "总体上代表昼夜六时思惟妙法，具体方式因人而异。",
+   "quotes": [
+    {
+     "q": "總體來說，「經行」代表晝夜六時思惟妙法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+    }
+   ]
+  },
+  {
+   "label": "梵行清净（huayan70）",
+   "text": "huayan70 讲法强调梵行清净，于一切时一切处能主动生起善观察、善用心、善思惟，即不失经行。",
+   "quotes": [
+    {
+     "q": "『經行』是指晝夜六時梵行清淨，思惟妙法",
+     "src": "pages/huayan70/jiangyi45"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "联系梵行清净与除去束缚影响。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑：总体代表昼夜六时思惟妙法，列举具体方式。"
+  }
+ ],
+ "related": [
+  "梵行清净",
+  "善思惟"
+ ],
+ "tensions": [],
+ "gaps": [
+  "已读页未说明与实际行走经行的关系。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm",
+  "pages/huayan70/jiangyi45"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": []
+}

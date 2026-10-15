@@ -1,0 +1,46 @@
+{
+ "term": "四智",
+ "key": "四智",
+ "aliases": [],
+ "summary": "大圆镜智、平等性智、妙观察智、成所作智，世间言语表达为东南西北",
+ "definition": "讲者列出四智为大圆镜智、平等性智、妙观察智、成所作智，并说用世间言语表达就是东南西北。",
+ "definition_basis": [
+  {
+   "q": "用世間言語表達就是東南西北",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "四智用方位表达",
+   "text": "四智用世间语言说就是东南西北。",
+   "quotes": [
+    {
+     "q": "用世間言語表達就是東南西北",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（sz 系列）中直接定义。"
+  }
+ ],
+ "related": [
+  "四智行法",
+  "十方",
+  "南方"
+ ],
+ "tensions": [],
+ "gaps": [
+  "只有一条定义；四智与四十位行法次第、十方的关系在 teachings 中提到，本卡未引其原文。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+ ],
+ "pages_consulted": 1,
+ "confidence": "low",
+ "related_unresolved": []
+}

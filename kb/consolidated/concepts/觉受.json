@@ -1,0 +1,78 @@
+{
+ "term": "觉受",
+ "key": "觉受",
+ "aliases": [],
+ "summary": "身心觉受，修行成就在体验上的呈现",
+ "definition": "讲者说「觉受」就是成就；「受」是色受想行识的受。住和行要能生起身心觉受，觉受到达相应时，就有欢喜行和欢喜地。",
+ "definition_basis": [
+  {
+   "q": "「覺受」就是成就",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/19.rhjjwzcxf"
+  },
+  {
+   "q": "「受」就是覺受，即色受想行識的「受」。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/3.cjdjddxfls"
+  },
+  {
+   "q": "當「覺受」能夠到達「相應」的時候，就有歡喜行和歡喜地",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/44.rhsqhbcxxdhxx-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "觉受即成就",
+   "text": "答疑中直接说觉受就是成就。",
+   "quotes": [
+    {
+     "q": "「覺受」就是成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/19.rhjjwzcxf"
+    }
+   ]
+  },
+  {
+   "label": "五蕴之受",
+   "text": "受即色受想行识的受。",
+   "quotes": [
+    {
+     "q": "「受」就是覺受，即色受想行識的「受」。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/3.cjdjddxfls"
+    }
+   ]
+  },
+  {
+   "label": "相应时有欢喜行与欢喜地",
+   "text": "觉受到达相应时，就有欢喜行和欢喜地。",
+   "quotes": [
+    {
+     "q": "當「覺受」能夠到達「相應」的時候，就有歡喜行和歡喜地",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/44.rhsqhbcxxdhxx-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑（jdjd、jtl）。"
+  }
+ ],
+ "related": [
+  "成就",
+  "欢喜地"
+ ],
+ "tensions": [],
+ "gaps": [
+  "已读页中「觉受」与「证量」的关系未直接说明。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/19.rhjjwzcxf",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/3.cjdjddxfls",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/44.rhsqhbcxxdhxx-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "成就",
+  "欢喜地"
+ ]
+}

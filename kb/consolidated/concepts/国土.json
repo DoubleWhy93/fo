@@ -1,0 +1,119 @@
+{
+ "term": "国土",
+ "key": "国土",
+ "aliases": [],
+ "summary": "每位行者身心觉知的一切法的总合",
+ "definition": "讲者说「国土」是每位行者建立的身心觉知，即其身心觉知的一切法；五蕴身、六入处的一切法总合起来是自己的「国」，「土」是一切有法或每一法的微细。因此每个众生就是一个国土，国土随个体的知识经验体验与文化背景而不同。",
+ "definition_basis": [
+  {
+   "q": "『土』是一切有法，『國土』是每一位行者建立的身心覺知。",
+   "src": "pages/amtj/amtj5"
+  },
+  {
+   "q": "身心覺知的一切法，用經的語言來說，就是「土地」，就是「國土」",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/52.hyxzwsdjlsjqlt-ybjltysmcb-"
+  },
+  {
+   "q": "『國土』是指身心覺知的一切法，此一切法以用心思惟形成基於個體的知識、經驗和體驗",
+   "src": "pages/huayan70/jiangyi55"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "身心觉知的一切法",
+   "text": "国土就是每个人身心觉知的一切法，是自己的国土。",
+   "quotes": [
+    {
+     "q": "身心覺知的一切法，用經的語言來說，就是「土地」，就是「國土」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/52.hyxzwsdjlsjqlt-ybjltysmcb-"
+    },
+    {
+     "q": "『國土』是我們身心覺知的一切法",
+     "src": "pages/amtj/amtj6"
+    }
+   ]
+  },
+  {
+   "label": "个体知识经验体验的总合",
+   "text": "huayan70 讲成基于个体知识经验体验的一切法总合，随文化背景等而不同。",
+   "quotes": [
+    {
+     "q": "『國土』是指身心覺知的一切法，此一切法以用心思惟形成基於個體的知識、經驗和體驗",
+     "src": "pages/huayan70/jiangyi55"
+    }
+   ]
+  },
+  {
+   "label": "「国」与「土」分开讲",
+   "text": "amtj7 说五蕴身、六入处总合为「国」，「土」代表每一法的微细。",
+   "quotes": [
+    {
+     "q": "生命當中五蘊身、六入處的一切法，總和在一起，就是我們自己的『國』，『土』代表每一法的微細",
+     "src": "pages/amtj/amtj7"
+    }
+   ]
+  },
+  {
+   "label": "每个众生就是一个国土",
+   "text": "十方国中每个众生各为一国土。",
+   "quotes": [
+    {
+     "q": "實際上，我們每一個眾生就是一個國土",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/20.zswyamtfs,ybfssm"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "讲成身心觉知的一切法，并分说「国」「土」，联系报身世间与五蕴身一切法。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成个体知识经验体验形成的一切法总合，即自住国土。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 jtl 讲国土即身心觉知的一切法，每个众生就是一个国土。"
+  }
+ ],
+ "related": [
+  "身心觉知",
+  "有法",
+  "报身世间",
+  "极乐世界",
+  "五蕴身"
+ ],
+ "tensions": [
+  {
+   "text": "「国」「土」的分法不同：一页说「土」是一切有法、「国土」是行者建立的身心觉知；另一页说五蕴身六入处总合是「国」、「土」代表每一法的微细。",
+   "sources": [
+    {
+     "q": "『土』是一切有法，『國土』是每一位行者建立的身心覺知。",
+     "src": "pages/amtj/amtj5"
+    },
+    {
+     "q": "生命當中五蘊身、六入處的一切法，總和在一起，就是我們自己的『國』，『土』代表每一法的微細",
+     "src": "pages/amtj/amtj7"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "证据包的变体名提到「自住国土、自成就国土」，本卡未将其列为别名。"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj5",
+  "pages/amtj/amtj7",
+  "pages/amtj/amtj6",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/52.hyxzwsdjlsjqlt-ybjltysmcb-",
+  "pages/huayan70/jiangyi55"
+ ],
+ "pages_consulted": 6,
+ "confidence": "high",
+ "related_unresolved": [
+  "身心觉知",
+  "五蕴身"
+ ]
+}

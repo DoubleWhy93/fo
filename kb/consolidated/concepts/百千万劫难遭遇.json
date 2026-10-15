@@ -1,0 +1,96 @@
+{
+ "term": "百千万劫难遭遇",
+ "key": "百千万劫难遭遇",
+ "aliases": [],
+ "summary": "指完备的行法理论与次第难遇，而非能否遇到佛法",
+ "definition": "讲者说『百千万劫难遭遇』不是指能否遇到佛法或这部经，而是指佛教提供了从凡夫地到自在解脱、无上正觉的完备行法理论与行法次第，每步有理论依据和成就标准，这套理论与过程难遭遇。讲者也说这句话本是为华严经而说，但不掌握解读方法仍不能真正走入。",
+ "definition_basis": [
+  {
+   "q": "難遭遇不是指能否遇到佛法",
+   "src": "pages/huayan28/28jiang5"
+  },
+  {
+   "q": "能夠找到一條適合自己的行法次第，按照這樣的行法次第，能一步一步從凡夫地到達生命的自在解脫",
+   "src": "pages/huayan28/28jiang6"
+  },
+  {
+   "q": "這個行法理論和行法次第，對於我們來說即是『百千萬劫難遭遇』。",
+   "src": "pages/huayan28/28jiang21"
+  },
+  {
+   "q": "【百千萬劫難遭遇】是指行法模式是百千萬劫難遭遇",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/8.yzjwfz-wfzdfsljdjddrxf"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不是遇不遇到佛法",
+   "text": "『难遭遇』不是指能否遇到佛法。",
+   "quotes": [
+    {
+     "q": "難遭遇不是指能否遇到佛法",
+     "src": "pages/huayan28/28jiang5"
+    }
+   ]
+  },
+  {
+   "label": "完备的行法理论与次第",
+   "text": "能找到适合自己的行法次第，一步步从凡夫地到自在解脱。",
+   "quotes": [
+    {
+     "q": "能夠找到一條適合自己的行法次第，按照這樣的行法次第，能一步一步從凡夫地到達生命的自在解脫",
+     "src": "pages/huayan28/28jiang6"
+    },
+    {
+     "q": "這個行法理論和行法次第，對於我們來說即是『百千萬劫難遭遇』。",
+     "src": "pages/huayan28/28jiang21"
+    }
+   ]
+  },
+  {
+   "label": "指行法模式（答疑）",
+   "text": "答疑说它指行法模式难遭遇，而非见不见自性、认不认识华严经。",
+   "quotes": [
+    {
+     "q": "【百千萬劫難遭遇】是指行法模式是百千萬劫難遭遇",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/8.yzjwfz-wfzdfsljdjddrxf"
+    },
+    {
+     "q": "這個行法理論和行法過程，是百千萬劫難遭遇！",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/75.dexwytlbz-qhwr-ydjzwd-zz-yhbt "
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "反复解释『难遭遇』指完备行法理论与次第，类比工厂流程。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答：指行法模式与成就模式的建立过程难遭遇。"
+  }
+ ],
+ "related": [
+  "行法模式",
+  "行法次第",
+  "行法理论"
+ ],
+ "gaps": [
+  "资料未明确说明开经偈该句在经文中的出处细节。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang5",
+  "pages/huayan28/28jiang6",
+  "pages/huayan28/28jiang21",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/75.dexwytlbz-qhwr-ydjzwd-zz-yhbt ",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/8.yzjwfz-wfzdfsljdjddrxf"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "tensions": [],
+ "related_unresolved": [
+  "行法理论"
+ ]
+}

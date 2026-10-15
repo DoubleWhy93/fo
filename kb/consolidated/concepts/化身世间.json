@@ -1,0 +1,124 @@
+{
+ "term": "化身世间",
+ "key": "化身世间",
+ "aliases": [],
+ "summary": "身所在、因缘生法的世间，一切法有生有灭，相上不稳定",
+ "definition": "讲者把化身世间说成身（色身）所在的因缘生法世间，一切法有生有灭，遵循万法因缘生的规定性。化身世间佛陀说法是世间发生的事件，有地点处所人物，经典以文字记录。生命解脱要依报身世间成就，而色身在化身世间。",
+ "definition_basis": [
+  {
+   "q": "化身世間是因緣生法世間，一切法有生有滅",
+   "src": "pages/huayan28/28jiang7"
+  },
+  {
+   "q": "從身的角度講，身所在處就是「化身」世間。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+  },
+  {
+   "q": "色身在化身世間要依賴於化身世間一切法的規定性",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "因缘生法、有生有灭的世间",
+   "text": "化身世间一切法有生灭；佛陀在化身世间说法指世间发生的事件，有地点处所人物。",
+   "quotes": [
+    {
+     "q": "化身世間是因緣生法世間，一切法有生有滅",
+     "src": "pages/huayan28/28jiang7"
+    },
+    {
+     "q": "化身世間佛陀說法指的是世間發生的事件，有地點處所和人物，有因緣相、有生滅相。",
+     "src": "pages/huayan28/28jiang7"
+    }
+   ]
+  },
+  {
+   "label": "身所在处",
+   "text": "2018–2022 答疑从身的角度讲，身所在处即化身世间；是从相上讲的。",
+   "quotes": [
+    {
+     "q": "從身的角度講，身所在處就是「化身」世間。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+    },
+    {
+     "q": "化身是從相上去講的，在化身世間。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/129.fbhssddyyjhhycdddygx"
+    }
+   ]
+  },
+  {
+   "label": "色身遵循化身世间的规定性",
+   "text": "2023 年答疑说色身依赖化身世间一切法的规定性（万法因缘生），不依赖报身世间的规定性，生命解脱则依赖报身世间成就。",
+   "quotes": [
+    {
+     "q": "色身在化身世間要依賴於化身世間一切法的規定性",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-"
+    },
+    {
+     "q": "所以生命解脫是依賴於報身世間去成就的，而色身是在化身世間的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-"
+    }
+   ]
+  },
+  {
+   "label": "呈现个体、相上不稳定",
+   "text": "化身世间的呈现是个体的，一个因缘下只现一个身；见悬空放光之相是化身世间，不稳定。",
+   "quotes": [
+    {
+     "q": "如果是在化身世間呈現的，在某一個因緣下只是現一個身",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/36.zyljzfpszsjdcx"
+    },
+    {
+     "q": "化身世間的是不穩定的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+    }
+   ]
+  },
+  {
+   "label": "听闻、文字记录的说法形式",
+   "text": "化身佛说法由经典文字记录，修行者听闻信行或深入经藏可得。",
+   "quotes": [
+    {
+     "q": "化身世間是化身佛說法，經典以文字形式記錄下來，修行者聽聞善知識教誨聞法信行，或者深入經藏依照經典就可以獲得。",
+     "src": "pages/huayan28/28jiang7"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成因缘生法世间，佛陀说法有生灭相，并与报身世间修行作根本区分。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022：身所在处、相上讲、个体呈现；2023：色身遵循化身世间规定性，相不稳定。"
+  }
+ ],
+ "related": [
+  "报身世间",
+  "法身世间",
+  "因缘生法",
+  "共法世间",
+  "色身"
+ ],
+ "tensions": [],
+ "gaps": [
+  "化身世间与法身世间、「如来地共法世间」的关系只被并提，未逐一说明。",
+  "一页（hyxf/35）列入该术语但此卡未采用。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang7",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
+  "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/36.zyljzfpszsjdcx",
+  "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+ ],
+ "confidence": "medium",
+ "pages_consulted": 6,
+ "related_unresolved": [
+  "因缘生法",
+  "色身"
+ ]
+}

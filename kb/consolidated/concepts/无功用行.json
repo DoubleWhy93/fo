@@ -1,0 +1,84 @@
+{
+ "term": "无功用行",
+ "key": "无功用行",
+ "aliases": [],
+ "summary": "出于自觉与法则力量、不是不作意的行法",
+ "definition": "讲者说无功用行不是不作意，而是行法实践出于自觉、出于法则的力量，即便作意也会符合法则；问答中说它是把自我参与逐渐变成一种力量，拓展到一切法中。第三阶段以无功用行的行法到达，所以不能直接关注如来地种性的成就。",
+ "definition_basis": [
+  {
+   "q": "無功用行不是不作意的意思，它即便是作意，它也會符合法則的力量。",
+   "src": "pages/swxf/shizhu12"
+  },
+  {
+   "q": "無功用行則是要將自我參與逐漸變成一種力量，拓展到一切法中。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/132.sfcfxjdscbtjdjd"
+  },
+  {
+   "q": "因為它是以無功用行的行法到達的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/97.dsjdzdyzfdt-szydxfty-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不是不作意",
+   "text": "无功用行不是不作意，作意也符合法则的力量。",
+   "quotes": [
+    {
+     "q": "無功用行不是不作意的意思，它即便是作意，它也會符合法則的力量。",
+     "src": "pages/swxf/shizhu12"
+    }
+   ]
+  },
+  {
+   "label": "把自我参与变成力量",
+   "text": "要把自我参与逐渐变成一种力量，拓展到一切法中。",
+   "quotes": [
+    {
+     "q": "無功用行則是要將自我參與逐漸變成一種力量，拓展到一切法中。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/132.sfcfxjdscbtjdjd"
+    }
+   ]
+  },
+  {
+   "label": "到达的途径",
+   "text": "第三阶段是以无功用行的行法到达的。",
+   "quotes": [
+    {
+     "q": "因為它是以無功用行的行法到達的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/97.dsjdzdyzfdt-szydxfty-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "在十住讲中说无功用行出于法则，从上往下进入知识经验体验。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（hyxf）讲自我参与变成力量，并联系第三阶段与如来地种性。"
+  }
+ ],
+ "related": [
+  "有功用行",
+  "法则",
+  "自我参与",
+  "灭尽定"
+ ],
+ "tensions": [],
+ "gaps": [
+  "教学摘要说第八位以后是无功用行，同时「第七位」界线有不同说法，本卡未在定义页中看到核对。",
+  "「第三阶段」所指未在引文页中解释。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu12",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/132.sfcfxjdscbtjdjd",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/97.dsjdzdyzfdt-szydxfty-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自我参与"
+ ]
+}

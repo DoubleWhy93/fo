@@ -1,0 +1,66 @@
+{
+ "term": "一切种智",
+ "key": "一切种智",
+ "aliases": [],
+ "summary": "诸佛所成就之智；在一切智、道种智之后成就",
+ "definition": "讲者把一切种智说成诸佛所成就的智慧，并与一切智、道种智对举：第七住位证诸法空得无生忍成就一切智，第八地位证诸法不空得无生法忍成就道种智。第八到第十地是别教行者的一切种智成就。",
+ "definition_basis": [
+  {
+   "q": "『一切種智』是諸佛所成就",
+   "src": "pages/huayan70/jiangyi23"
+  },
+  {
+   "q": "從第八地到第十地，是別教行者的一切種智成就",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "诸佛所成",
+   "text": "一切种智是诸佛所成就。",
+   "quotes": [
+    {
+     "q": "『一切種智』是諸佛所成就",
+     "src": "pages/huayan70/jiangyi23"
+    }
+   ]
+  },
+  {
+   "label": "别教阶位",
+   "text": "第八地到第十地是别教行者的一切种智成就。",
+   "quotes": [
+    {
+     "q": "從第八地到第十地，是別教行者的一切種智成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "jiangyi23 相对一切智和道种智来定义。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年 swms-dzz 页把别教第八到第十地说成一切种智成就。"
+  }
+ ],
+ "related": [
+  "一切智",
+  "道种智",
+  "无生法忍"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「一切种智」本身内容的正面描述较少，多靠与一切智、道种智的对照。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/118.dhsdbdyqyym-hsgbqy-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
+  "pages/huayan70/jiangyi23"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

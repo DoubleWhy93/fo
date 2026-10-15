@@ -1,0 +1,94 @@
+{
+ "term": "共法别教",
+ "key": "共法别教",
+ "aliases": [],
+ "summary": "依共法世间因缘、靠外在诸佛菩萨加持成就的别教行法",
+ "definition": "讲者说共法别教是依照共法世间建立的行法模式，按次第生起；它要依靠身心之外的诸佛菩萨帮忙、加持才能成就，并依前五识（眼耳鼻舌身）所在的五蕴世间建立。讲者又说它的行法理论把住行向地合在一起不分开。",
+ "definition_basis": [
+  {
+   "q": "共法別教是要依靠外在的諸佛菩薩幫忙、加持，才能使我們成就。",
+   "src": "pages/amtj/amtj4"
+  },
+  {
+   "q": "「共法別教」是依照共法世間來建立的行法模式",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-"
+  },
+  {
+   "q": "共法別教就是要依靠我們身心之外的這些諸佛菩薩幫忙、加持，我們才能成就。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "依外在诸佛菩萨帮忙、加持",
+   "text": "成就要靠身心之外的诸佛菩萨；amtj 讲成通过五蕴身觉知模式成就诸佛国土（眼见、耳闻阿弥陀佛）。",
+   "quotes": [
+    {
+     "q": "共法別教是要依靠外在的諸佛菩薩幫忙、加持，才能使我們成就。",
+     "src": "pages/amtj/amtj4"
+    },
+    {
+     "q": "共法別教就是要依靠我們身心之外的這些諸佛菩薩幫忙、加持，我們才能成就。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+    }
+   ]
+  },
+  {
+   "label": "依共法世间建立的行法模式",
+   "text": "按共法世间的因缘建立次第行法。",
+   "quotes": [
+    {
+     "q": "「共法別教」是依照共法世間來建立的行法模式",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-"
+    }
+   ]
+  },
+  {
+   "label": "行法理论把住行向地混在一起",
+   "text": "2018–2022 问答中，讲者说其理论不分住行向地，证诸法空与证诸法不空也讲得模糊，缺少详细行法理论支持。",
+   "quotes": [
+    {
+     "q": "共法別教行法理論是把住行向地合在一起不分開的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+    },
+    {
+     "q": "他是把「住行向地」混在一起來講的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/139.btcddpxpsfj"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "讲成要靠外在诸佛菩萨加持，并通过五蕴身的觉知模式成就诸佛国土。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答（jtl、wm-lb、hyxf）：说它依共法世间、依前五识，并说其理论把住行向地混在一起；2023 问答也有提及。"
+  }
+ ],
+ "related": [
+  "不共法别教",
+  "五蕴身",
+  "住行向地"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据包中未给出与「不共法别教」逐项对照的完整说明。",
+  "没有别名的明确证据，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj4",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/139.btcddpxpsfj"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "related_unresolved": [
+  "不共法别教",
+  "五蕴身",
+  "住行向地"
+ ]
+}

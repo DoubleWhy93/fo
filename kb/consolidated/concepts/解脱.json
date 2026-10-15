@@ -1,0 +1,88 @@
+{
+ "term": "解脱",
+ "key": "解脱",
+ "aliases": [
+  "解脱（菩萨行法）"
+ ],
+ "summary": "自我因素成为一切法生起的第一因，能主动决定并承担，自在喜悦",
+ "definition": "讲者说解脱是某一法对我们造成束缚和影响时，经行法实践去除这种束缚；进一步说是自我因素成为生命中一切法生起的第一因。swxf 讲法说是我有决定的权力和能力来选择一法的走向；huayan70 讲法说是自在、喜悦，止息一切法的束缚和困扰。",
+ "definition_basis": [
+  {
+   "q": "解脫是指自我因素成爲生命當中一切法生起的第一因",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+  },
+  {
+   "q": "『解脫』是指自在、喜悅，止息一切法的束縛和困擾",
+   "src": "pages/huayan70/jiangyi68"
+  },
+  {
+   "q": "是我有決定的權力和能力，來決定我是如何選擇這一法的走向。",
+   "src": "pages/swxf/shizhu6"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自我因素为第一因",
+   "text": "2023 年问答。",
+   "quotes": [
+    {
+     "q": "解脫是指自我因素成爲生命當中一切法生起的第一因",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+    }
+   ]
+  },
+  {
+   "label": "自在、喜悦",
+   "text": "huayan70 第68讲。",
+   "quotes": [
+    {
+     "q": "『解脫』是指自在、喜悅，止息一切法的束縛和困擾",
+     "src": "pages/huayan70/jiangyi68"
+    }
+   ]
+  },
+  {
+   "label": "有决定的权力和能力",
+   "text": "swxf 第6讲。",
+   "quotes": [
+    {
+     "q": "是我有決定的權力和能力，來決定我是如何選擇這一法的走向。",
+     "src": "pages/swxf/shizhu6"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲自在、喜悦，止息束缚。"
+  },
+  {
+   "series": "swxf",
+   "text": "讲有决定权力与能力选择一法走向。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答讲自我因素为第一因。"
+  }
+ ],
+ "related": [
+  "无上正觉",
+  "自我因素",
+  "行法实践"
+ ],
+ "tensions": [],
+ "gaps": [
+  "三个讲法的相互关系，证据页中未进一步统合。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
+  "pages/swxf/shizhu6",
+  "pages/huayan70/jiangyi68"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "行法实践"
+ ]
+}

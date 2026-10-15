@@ -1,0 +1,82 @@
+{
+ "term": "证量",
+ "key": "证量",
+ "aliases": [],
+ "summary": "如实知与如实体验两方面；确定的身心体验",
+ "definition": "讲者说证量包括如实知和如实体验两个方面；是听闻佛说后在行法中建立的确定身心体验。答疑中也有「证量就是认知」的说法。",
+ "definition_basis": [
+  {
+   "q": "『證量』包括如實知和如實體驗兩個方面。",
+   "src": "pages/huayan70/jiangyi14"
+  },
+  {
+   "q": "這個確定的身心體驗就是證量。",
+   "src": "pages/huayan70/jiangyi17"
+  },
+  {
+   "q": "所謂證量，就是認知。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/12.wsmxyxxjl-jy-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "如实知与如实体验",
+   "text": "huayan70：证量包括如实知和如实体验。",
+   "quotes": [
+    {
+     "q": "『證量』包括如實知和如實體驗兩個方面。",
+     "src": "pages/huayan70/jiangyi14"
+    }
+   ]
+  },
+  {
+   "label": "确定的身心体验",
+   "text": "听闻佛说后在行法中建立的确定身心体验，即证量。",
+   "quotes": [
+    {
+     "q": "這個確定的身心體驗就是證量。",
+     "src": "pages/huayan70/jiangyi17"
+    }
+   ]
+  },
+  {
+   "label": "认知途径之一",
+   "text": "答疑中在三种认知途径里，证量被说成认知。",
+   "quotes": [
+    {
+     "q": "所謂證量，就是認知。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/12.wsmxyxxjl-jy-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "如实知与如实体验两方面，并联系确定身心体验。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑（jdjd）：三种认知途径中的第三种。"
+  }
+ ],
+ "related": [
+  "如实知",
+  "如实体验",
+  "自知不受后有"
+ ],
+ "tensions": [],
+ "gaps": [
+  "已读页未列出三种认知途径的全部内容。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/12.wsmxyxxjl-jy-",
+  "pages/huayan70/jiangyi14",
+  "pages/huayan70/jiangyi17"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "如实体验"
+ ]
+}

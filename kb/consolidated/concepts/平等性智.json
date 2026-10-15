@@ -1,0 +1,70 @@
+{
+ "term": "平等性智",
+ "key": "平等性智",
+ "aliases": [],
+ "summary": "第七意识在四智行法中的显现；见一切法而不执取",
+ "definition": "讲者说平等性智是第七意识在四智行法中的显现；凡夫种性的第七意识见一切法起分别，到十住位证般若得无生忍时到达平等性智。另有一页把「平等」解作见一切法而于一切法不执取。",
+ "definition_basis": [
+  {
+   "q": "「平等」就是見一切法而於一切法不執取",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+  },
+  {
+   "q": "四智中有『平等性智』，即是第七意識在四智行法中的顯現。",
+   "src": "pages/huayan28/28jiang22"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "见一切法而不执取",
+   "text": "「平等」就是见一切法而于一切法不执取。",
+   "quotes": [
+    {
+     "q": "「平等」就是見一切法而於一切法不執取",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+    }
+   ]
+  },
+  {
+   "label": "第七意识在四智中的显现",
+   "text": "平等性智是第七意识在四智行法中的显现。",
+   "quotes": [
+    {
+     "q": "四智中有『平等性智』，即是第七意識在四智行法中的顯現。",
+     "src": "pages/huayan28/28jiang22"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "说它是第七意识在四智行法中的显现。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（sz）把「平等」解作见一切法而不执取。"
+  }
+ ],
+ "related": [
+  "第七意识",
+  "四智",
+  "大圆镜智",
+  "妙观察智",
+  "成所作智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "本包定义页未说明它在四智方位上的配置，此卡未逐页引用。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang22",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": [
+  "大圆镜智",
+  "成所作智"
+ ]
+}

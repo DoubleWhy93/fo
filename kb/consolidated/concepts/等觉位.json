@@ -1,0 +1,62 @@
+{
+ "term": "等觉位",
+ "key": "等觉位",
+ "aliases": [],
+ "summary": "住在凡夫世间不受束缚；要再回到世间一切法的位次",
+ "definition": "讲者说等觉位是指住在凡夫世间而不受凡夫世间一切法束缚，也说是要再回到世间一切法、回到染著世间，完全是无加行力的行法。",
+ "definition_basis": [
+  {
+   "q": "等覺位是指住在凡夫世間，而不受凡夫世間一切法束縛",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb"
+  },
+  {
+   "q": "等覺位的意思是指要再回到世間一切法，回到染著世間。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不受世间束缚",
+   "text": "等觉位是住在凡夫世间而不受凡夫世间一切法束缚。",
+   "quotes": [
+    {
+     "q": "等覺位是指住在凡夫世間，而不受凡夫世間一切法束縛",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb"
+    }
+   ]
+  },
+  {
+   "label": "回到染著世间",
+   "text": "等觉位的意思是要再回到世间一切法，回到染著世间。",
+   "quotes": [
+    {
+     "q": "等覺位的意思是指要再回到世間一切法，回到染著世間。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "仅见于 2018–2022 年 jtl 与 wm-lb 页，两页分别讲不受束缚与回到世间。"
+  }
+ ],
+ "related": [
+  "如来藏",
+  "普贤菩萨法界"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据只有两页的定义，其他提及为用例。",
+  "各页未说明等觉位在整部经中的具体品目。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/148.cjzsfhysdbk",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb"
+ ],
+ "pages_consulted": 3,
+ "confidence": "low",
+ "related_unresolved": []
+}

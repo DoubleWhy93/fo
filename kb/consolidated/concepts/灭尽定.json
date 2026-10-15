@@ -1,0 +1,78 @@
+{
+ "term": "灭尽定",
+ "key": "灭尽定",
+ "aliases": [],
+ "summary": "第六识观察分别、第七识不参与，无加行力的自然生起",
+ "definition": "讲者说灭尽定是打开第六识观察、辨别、分别一切法，同时息灭第七识作用（不参与、不执取），有智慧力、自知。另一说法是所有有加行力、所有作意生起都已止息，完全自然而然生起。",
+ "definition_basis": [
+  {
+   "q": "我們打開第六識，讓它能夠觀察一切法、辨別一切法、分別一切法，但同時息滅第七識的作用",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/57.dl-dqsdzyywxd-mjddgx"
+  },
+  {
+   "q": "「滅盡定」是指所有的有加行力，所有的作意生起都已止息，完全是自然而然生起的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/7.hysswxfdcjcd"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "第六识观察、第七识止息",
+   "text": "第六识打开观察分别一切法，同时第七识不参与、不执取。",
+   "quotes": [
+    {
+     "q": "我們打開第六識，讓它能夠觀察一切法、辨別一切法、分別一切法，但同時息滅第七識的作用",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/57.dl-dqsdzyywxd-mjddgx"
+    }
+   ]
+  },
+  {
+   "label": "无加行力的自然生起",
+   "text": "所有加行力与作意都已止息，完全自然生起。",
+   "quotes": [
+    {
+     "q": "「滅盡定」是指所有的有加行力，所有的作意生起都已止息，完全是自然而然生起的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/7.hysswxfdcjcd"
+    }
+   ]
+  },
+  {
+   "label": "在行法次第中加入",
+   "text": "因不退转是刚进入还是拓展到一切法需分辨，由此加进来灭尽定。",
+   "quotes": [
+    {
+     "q": "由此這時就加進來一個滅盡定",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "仅见于 2018–2022 问答（hyxf、sz 等）；说成第六识观察、第七识不参与，以及无加行力的自然生起。"
+  }
+ ],
+ "related": [
+  "第六识",
+  "第七识",
+  "不退转",
+  "无功用行",
+  "如来地"
+ ],
+ "tensions": [],
+ "gaps": [
+  "仅 2018–2022 问答出现，没有讲座系列的直接定义。",
+  "证据中另有「十迴向位身口意入灭尽定」「第七位以后入灭尽定才是真正不退」等说法，本卡未取其引文，未展开。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/57.dl-dqsdzyywxd-mjddgx",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/7.hysswxfdcjcd",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "第六识",
+  "第七识"
+ ]
+}

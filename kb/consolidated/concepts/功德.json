@@ -1,0 +1,87 @@
+{
+ "term": "功德",
+ "key": "功德",
+ "aliases": [],
+ "summary": "智慧力作用现前，以身心觉受显现；也讲成五蕴身一切法",
+ "definition": "讲者说功德是智慧力的作用现前，以具体身心觉受的形式显现。在阿弥陀经讲中，功德被讲成五蕴身一切法，即五蕴功德庄严。另有问答说功德是从本体角度说，境界相的部分由本体生起，庄严则从觉受角度说。",
+ "definition_basis": [
+  {
+   "q": "『功德』是指智慧力的作用現前，以具體的身心覺受的形式顯現。",
+   "src": "pages/huayan70/jiangyi37"
+  },
+  {
+   "q": "佛在經典上講，『功德』是五蘊身一切法，即五蘊功德莊嚴，即是一切樹林。",
+   "src": "pages/amtj/amtj6"
+  },
+  {
+   "q": "功德是從本體的角度說，莊嚴是從覺受的角度說。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/133.gdyzydgx-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "智慧力作用的显现",
+   "text": "功德是智慧力作用现前，以身心觉受显现。",
+   "quotes": [
+    {
+     "q": "『功德』是指智慧力的作用現前，以具體的身心覺受的形式顯現。",
+     "src": "pages/huayan70/jiangyi37"
+    }
+   ]
+  },
+  {
+   "label": "五蕴身一切法",
+   "text": "功德是五蕴身一切法，即五蕴功德庄严。",
+   "quotes": [
+    {
+     "q": "佛在經典上講，『功德』是五蘊身一切法，即五蘊功德莊嚴，即是一切樹林。",
+     "src": "pages/amtj/amtj6"
+    }
+   ]
+  },
+  {
+   "label": "本体角度，与庄严相对",
+   "text": "功德从本体角度说，庄严从觉受角度说。",
+   "quotes": [
+    {
+     "q": "功德是從本體的角度說，莊嚴是從覺受的角度說。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/133.gdyzydgx-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "定义为智慧力作用现前的身心觉受。"
+  },
+  {
+   "series": "amtj",
+   "text": "讲成五蕴身一切法、五蕴功德庄严。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答：功德从本体角度说，庄严从觉受角度说。"
+  }
+ ],
+ "related": [
+  "庄严",
+  "五蕴",
+  "智慧"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各讲法之间的关系，各页未直接说明。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi37",
+  "pages/amtj/amtj6",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/133.gdyzydgx-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "五蕴",
+  "智慧"
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "term": "神通",
+ "key": "神通",
+ "aliases": [],
+ "summary": "分业用神通与智慧神通；佛教所重是无碍的智慧",
+ "definition": "讲者把神通分为业用神通与智慧神通两类：业用神通共外道，佛教所讲的神通是智慧，即依根本智生起、无碍的智慧应用，以智慧力降伏烦恼、得梵行清净与解脱。「神」代表不依个人知识经验生起的力量，「通」指没有障碍。",
+ "definition_basis": [
+  {
+   "q": "可以分為兩類：業用神通和智慧神通",
+   "src": "pages/dayi/dy_psst"
+  },
+  {
+   "q": "佛教中講的神通即無礙智慧，非是指共外道業用神通。",
+   "src": "pages/huayan70/jiangyi49"
+  },
+  {
+   "q": "『神』代表力量，因為不依人的個別知識、經驗、體驗生起，所以稱為神。",
+   "src": "pages/huayan70/jiangyi30"
+  },
+  {
+   "q": "『神通』是指依根本智生起的智慧應用，能平等普遍覺知觀察、思惟體驗一切法",
+   "src": "pages/huayan70/jiangyi56"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "两类：业用神通与智慧神通",
+   "text": "业用神通共外道；智慧神通是佛教行法的核心，业用神通不出生死。",
+   "quotes": [
+    {
+     "q": "神通有兩種：一種是業用神通，一種是智慧神通。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/15.-jznxm-ypsst"
+    },
+    {
+     "q": "佛教中講的神通即無礙智慧，非是指共外道業用神通。",
+     "src": "pages/huayan70/jiangyi49"
+    }
+   ]
+  },
+  {
+   "label": "神通即智慧",
+   "text": "神通是以智慧力降伏烦恼、得生命解脱，不是长生不老或上天入地。",
+   "quotes": [
+    {
+     "q": "神通就是智慧。",
+     "src": "pages/swxf/shizhu23"
+    },
+    {
+     "q": "『神通』是指以智慧力降伏煩惱，得梵行清淨，得生命解脫。",
+     "src": "pages/huayan70/jiangyi53"
+    }
+   ]
+  },
+  {
+   "label": "「神」是力量与驱使",
+   "text": "神是不依个别知识、经验、体验生起的力量；这种力量驱使的行为在世间的显现就是神通。",
+   "quotes": [
+    {
+     "q": "『神』代表力量，因為不依人的個別知識、經驗、體驗生起，所以稱為神。",
+     "src": "pages/huayan70/jiangyi30"
+    },
+    {
+     "q": "所謂「神通」，就是「神」這種力量會驅使一種行為，這個行為在世間的顯現就是神通。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt"
+    }
+   ]
+  },
+  {
+   "label": "依根本智的智慧应用",
+   "text": "huayan70 说神通依根本智生起，能平等普遍觉知观察一切法；众生因「自我」因素不如理作意而不能如实见。",
+   "quotes": [
+    {
+     "q": "『神通』是指依根本智生起的智慧應用，能平等普遍覺知觀察、思惟體驗一切法",
+     "src": "pages/huayan70/jiangyi56"
+    }
+   ]
+  },
+  {
+   "label": "菩萨、阿罗汉神通",
+   "text": "2023–24 问答说菩萨神通是以智慧力明了一切法流转，不是看人前世明天。",
+   "quotes": [
+    {
+     "q": "菩薩神通指的是這個，不是指我能看到您的前世、明天、後天",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "多页界定：神通即无碍智慧，依根本智生起，以智慧力降伏烦恼。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲《十神通品》：神通就是智慧，不是色身神通。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 wm-lb 与 dayi 分业用、智慧两类；2023 问答否定看前世明天的理解。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "如实知"
+ ],
+ "tensions": [],
+ "gaps": [
+  "业用神通的具体内容在本卡所用页面中只说共外道、不出生死。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi49",
+  "pages/dayi/dy_psst",
+  "pages/huayan70/jiangyi30",
+  "pages/swxf/shizhu23",
+  "pages/huayan70/jiangyi56"
+ ],
+ "pages_consulted": 9,
+ "confidence": "high",
+ "related_unresolved": []
+}

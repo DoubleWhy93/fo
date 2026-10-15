@@ -1,0 +1,107 @@
+{
+ "term": "不共别教",
+ "key": "不共别教",
+ "aliases": [],
+ "summary": "依个体自身知识经验体验建立、他人不能代替的差别智行法",
+ "definition": "讲者把不共别教说成华严经的行法：依修行者自身力量在报身世间建立，别人不能替代；『不共』指与个体具体的知识、经验、体验相关，所以不能分享。它被等同于差别智行法，也被说成依华严四智行法以内在觉知模式建立的行法，且后面的行法依前面的成就建立。",
+ "definition_basis": [
+  {
+   "q": "這是華嚴經行法的不共別教，跟十住位之前的共法別教是有差別的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/45.zyddyyrmjd"
+  },
+  {
+   "q": "不共別教首先是指要依修行者自身的力量在報身世間建立，別人不能替代",
+   "src": "pages/huayan70/jiangyi21"
+  },
+  {
+   "q": "不共別教就是差別智行法，不共的意思就是和具體體驗相關的，跟個體的體驗相關的，跟個體的知識、經驗、體驗相關的。",
+   "src": "pages/shixin/shixin2"
+  },
+  {
+   "q": "「不共別教」就是依照華嚴四智行法，以內在覺知模式建立的行法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不共＝个体体验、不可分享",
+   "text": "shixin 讲：不共别教就是差别智行法，不共指与个体的知识、经验、体验相关。",
+   "quotes": [
+    {
+     "q": "不共別教就是差別智行法，不共的意思就是和具體體驗相關的，跟個體的體驗相關的，跟個體的知識、經驗、體驗相關的。",
+     "src": "pages/shixin/shixin2"
+    }
+   ]
+  },
+  {
+   "label": "自身力量、不能替代，且依次第",
+   "text": "huayan70 讲首先是靠自身力量在报身世间建立；其次行法依次第，前面是后面的基础。",
+   "quotes": [
+    {
+     "q": "不共別教首先是指要依修行者自身的力量在報身世間建立，別人不能替代",
+     "src": "pages/huayan70/jiangyi21"
+    }
+   ]
+  },
+  {
+   "label": "内在觉知模式的四智行法",
+   "text": "答疑中讲成依华严四智行法、以内在觉知模式建立的行法。",
+   "quotes": [
+    {
+     "q": "「不共別教」就是依照華嚴四智行法，以內在覺知模式建立的行法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-"
+    }
+   ]
+  },
+  {
+   "label": "区别于十住位前的共法别教",
+   "text": "华严不共别教不同于十住位之前的共法别教；十住位以后的菩萨道种智行法属不共别教。",
+   "quotes": [
+    {
+     "q": "這是華嚴經行法的不共別教，跟十住位之前的共法別教是有差別的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/45.zyddyyrmjd"
+    },
+    {
+     "q": "屬於不共別教行法，即後面的行法一定要依於前面的行法成就來建立",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/16.rhzdsz-sxdrlsw-rlgc-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "强调靠自身力量在报身世间建立、不可替代，并依次第生起。"
+  },
+  {
+   "series": "shixin",
+   "text": "直接说不共别教就是差别智行法，不共指个体体验。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答：与内在觉知模式、四智行法及共法别教的区别相联系，说明后面行法依前面成就。"
+  }
+ ],
+ "related": [
+  "差别智",
+  "共法别教",
+  "四智行法",
+  "内在觉知模式",
+  "菩萨道种智行法",
+  "报身世间"
+ ],
+ "gaps": [
+  "资料未说明『共法别教』的完整内容，只用作对照。"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin2",
+  "pages/huayan70/jiangyi21",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/45.zyddyyrmjd",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/16.rhzdsz-sxdrlsw-rlgc-"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "tensions": [],
+ "related_unresolved": []
+}

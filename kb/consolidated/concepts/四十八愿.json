@@ -1,0 +1,60 @@
+{
+ "term": "四十八愿",
+ "key": "四十八愿",
+ "aliases": [],
+ "summary": "一个完整的行法，不是可挑一条的合同",
+ "definition": "讲者说四十八愿不要当作阿弥陀佛与我们签的合同、选一条就中标；四十八愿本身是一个完整的行法，不能只取其中一个。每个修行者自己的极乐世界依此建立。",
+ "definition_basis": [
+  {
+   "q": "我們不要把「四十八願」當作阿彌陀佛的願，不要當作阿彌陀佛跟我們簽的合同，我們選一條就可以中標",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/24.-wlsj-jdssbyzsyy"
+  },
+  {
+   "q": "四十八願本身是一個完整的行法，所以不能只取其中一個",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/59.-hcsj-dyws-zhyxfzrhtx-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不是合同",
+   "text": "不要把四十八愿当作阿弥陀佛的合同。",
+   "quotes": [
+    {
+     "q": "我們不要把「四十八願」當作阿彌陀佛的願，不要當作阿彌陀佛跟我們簽的合同，我們選一條就可以中標",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/24.-wlsj-jdssbyzsyy"
+    }
+   ]
+  },
+  {
+   "label": "完整的行法",
+   "text": "四十八愿本身是一个完整的行法，不能只取其一。",
+   "quotes": [
+    {
+     "q": "四十八願本身是一個完整的行法，所以不能只取其中一個",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/59.-hcsj-dyws-zhyxfzrhtx-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑（jtl 系列）。"
+  }
+ ],
+ "related": [
+  "阿弥陀佛",
+  "极乐世界"
+ ],
+ "tensions": [],
+ "gaps": [
+  "已读页未逐条解释四十八愿内容。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/24.-wlsj-jdssbyzsyy",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/59.-hcsj-dyws-zhyxfzrhtx-"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": []
+}

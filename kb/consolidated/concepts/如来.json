@@ -1,0 +1,124 @@
+{
+ "term": "如来",
+ "key": "如来",
+ "aliases": [],
+ "summary": "一切法的本然、普遍存在；约等于自性本能的力量",
+ "definition": "讲者把如来讲成一切法的本然存在与普遍存在，与个体的知识经验体验无关。多处又说如来约等于本能，是自性本身提供的力量、能力和保证。swxf 把如来分成两种：基于自性本能的如来，与行法实践后成就的如来种性解脱与无上正觉。",
+ "definition_basis": [
+  {
+   "q": "『如來』是指一切法的本然存在和普遍存在",
+   "src": "pages/huayan70/jiangyi37"
+  },
+  {
+   "q": "如來就是我們的本能的力量，就是生命的力量。",
+   "src": "pages/shixin/shixin10"
+  },
+  {
+   "q": "我們要用兩種方式去認識『如來』這兩個字。",
+   "src": "pages/swxf/shizhu32"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "一切法的本然、普遍存在",
+   "text": "如来指一切法如其所是的存在，不讲觉知问题，也不是某一法的特别体验。",
+   "quotes": [
+    {
+     "q": "「如來」的意思就是跟我們個體的知識、經驗、體驗沒關係，它本來就在這兒",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl"
+    },
+    {
+     "q": "如來只講祂的存在，不講覺知的問題",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/54.wspszhgszzhdllyqbm"
+    },
+    {
+     "q": "「如」是指如其所是，指這一法當下的存在",
+     "src": "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+    }
+   ]
+  },
+  {
+   "label": "自性本能的力量",
+   "text": "shixin 与 swxf 说如来约等于本能，是自性本身提供的力量，人天众生本能的力量就是如来。",
+   "quotes": [
+    {
+     "q": "如來就約等於本能，基於本體的、基於本能的、基於根本智的那一塊就是如來。",
+     "src": "pages/shixin/shixin2"
+    },
+    {
+     "q": "自性本身本能地給我提供這種力量，人天眾生本能的那種力量就是如來。",
+     "src": "pages/swxf/shizhu13"
+    }
+   ]
+  },
+  {
+   "label": "两种如来",
+   "text": "swxf 说一种是自性本能的如来，一种是经差别智行法、道种智行法之后归汇自性能力的如来；成就如来只有等妙觉位。",
+   "quotes": [
+    {
+     "q": "我們要用兩種方式去認識『如來』這兩個字。",
+     "src": "pages/swxf/shizhu32"
+    },
+    {
+     "q": "如來就是自性本身他有這個能力。依於自性本身提供的這個能力就是如來威神力。",
+     "src": "pages/swxf/shizhu3"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲成一切法的本然、普遍存在，并联系对一切法的平等觉知观察能力与根本智总持力。"
+  },
+  {
+   "series": "shixin",
+   "text": "简单理解为本能的力量、生命的力量，约等于本能。"
+  },
+  {
+   "series": "swxf",
+   "text": "讲成自性本能提供的力量，并分为本能的如来与行法成就的如来。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 强调一切法普遍存在、与个体经验无关；2024 以「如其所是」解说。"
+  }
+ ],
+ "related": [
+  "自性",
+  "本能",
+  "根本智",
+  "差别智",
+  "道种智"
+ ],
+ "tensions": [
+  {
+   "text": "有的页把如来讲成一切法的普遍存在，不讲觉知；有的页把如来讲成自性本能的力量或能力。",
+   "sources": [
+    {
+     "q": "如來只講祂的存在，不講覺知的問題",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/54.wspszhgszzhdllyqbm"
+    },
+    {
+     "q": "如來就是我們的本能的力量，就是生命的力量。",
+     "src": "pages/shixin/shixin10"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「如来」与佛、如来地在各页中的关系只零散提到。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu32",
+  "pages/huayan70/jiangyi37",
+  "pages/shixin/shixin10",
+  "pages/swxf/shizhu3",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl"
+ ],
+ "pages_consulted": 9,
+ "confidence": "medium",
+ "related_unresolved": [
+  "本能"
+ ]
+}

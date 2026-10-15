@@ -1,0 +1,81 @@
+{
+ "term": "凡夫种性",
+ "key": "凡夫种性",
+ "aliases": [],
+ "summary": "凡夫种性：自我因素依本能和欲求编织一切法，生起习气",
+ "definition": "讲者说凡夫种性是从报身世界一切法生起处说的：自我因素按自己的欲求、喜好定义、编织一切法，娑婆世界由此编织而成。生命中的自我力量没有经过学习训练，依本能生起知识、经验、体验，零散、依感性而不依理性。其中许多习气自性本来就是这样，不明了其生起才会有后有。",
+ "definition_basis": [
+  {
+   "q": "是自我因素在編織這一切法的時候，他編織出來的。",
+   "src": "pages/swxf/shizhu4"
+  },
+  {
+   "q": "其特點就是零散的、不依於理性的而是依於感性的",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+  },
+  {
+   "q": "因為是不明瞭這個習氣的生起，才會有後有的產生",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/98.wxzydsxnqd "
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自我因素的编织",
+   "text": "自我因素按欲求、喜好编织一切法，娑婆世界即由此编织。",
+   "quotes": [
+    {
+     "q": "是自我因素在編織這一切法的時候，他編織出來的。",
+     "src": "pages/swxf/shizhu4"
+    }
+   ]
+  },
+  {
+   "label": "未经训练、依感性",
+   "text": "自我力量未经学习训练，依本能生起知识经验体验，零散而依感性。",
+   "quotes": [
+    {
+     "q": "其特點就是零散的、不依於理性的而是依於感性的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+    }
+   ]
+  },
+  {
+   "label": "习气与后有",
+   "text": "不明了习气的生起才会有后有，生起时不一定处在凡夫地。",
+   "quotes": [
+    {
+     "q": "因為是不明瞭這個習氣的生起，才會有後有的產生",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/98.wxzydsxnqd "
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "从报身世界一切法生起处讲凡夫种性与自我因素编织。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲习气与后有；2023 年问答讲未经训练、依感性。"
+  }
+ ],
+ "related": [
+  "自我因素",
+  "报身世界"
+ ],
+ "tensions": [],
+ "gaps": [
+  "与声闻种性、菩萨种性的划分在其他页说明，此处只取凡夫种性。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu4",
+  "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/98.wxzydsxnqd "
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "报身世界"
+ ]
+}

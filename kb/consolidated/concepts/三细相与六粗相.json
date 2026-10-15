@@ -1,0 +1,91 @@
+{
+ "term": "三细相与六粗相",
+ "key": "三细相与六粗相",
+ "aliases": [],
+ "summary": "三细相是根本无明的存在形式，六粗相是一念无明的存在形式",
+ "definition": "讲者说三细相是根本无明的存在形式（业相、见相、境界相），六粗相是一念无明的存在形式；粗相以有功用行的差别智行法到达，细相以无功用行的根本智行法到达。不能直接破三细相，要在六粗相里修。",
+ "definition_basis": [
+  {
+   "q": "三細相就是根本無明的存在形式，一念無明的存在形式是六粗相。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+  },
+  {
+   "q": "『粗相』是一念無明所生，以有功用行的差別智行法可以到達；『細相』是根本無明所生，以無功用行的根本智行法可以到達",
+   "src": "pages/huayan70/jiangyi39"
+  },
+  {
+   "q": "三細相只是一個名字，這個三細相就是從佛法僧、體相用，從這個角度去講的。",
+   "src": "pages/swxf/shizhu8"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "无明的两种存在形式",
+   "text": "三细相是根本无明的存在形式，一念无明的存在形式是六粗相。",
+   "quotes": [
+    {
+     "q": "三細相就是根本無明的存在形式，一念無明的存在形式是六粗相。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+    }
+   ]
+  },
+  {
+   "label": "对应的行法",
+   "text": "粗相以有功用行的差别智行法到达，细相以无功用行的根本智行法到达。",
+   "quotes": [
+    {
+     "q": "『粗相』是一念無明所生，以有功用行的差別智行法可以到達；『細相』是根本無明所生，以無功用行的根本智行法可以到達",
+     "src": "pages/huayan70/jiangyi39"
+    }
+   ]
+  },
+  {
+   "label": "三细相只是名字",
+   "text": "三细相是从佛法僧、体相用的角度讲的先天那一块，不是念头特别细。",
+   "quotes": [
+    {
+     "q": "三細相只是一個名字，這個三細相就是從佛法僧、體相用，從這個角度去講的。",
+     "src": "pages/swxf/shizhu8"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "jiangyi39 说道种智行法破六粗相，入灭尽定行法破三细相。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲 shizhu8 说六粗相是念头生起，三细相不在时间空间体验里。"
+  },
+  {
+   "series": "答疑",
+   "text": "hyxf 页：不能直接破三细相，要在六粗相里修，形成力量影响三细相。"
+  }
+ ],
+ "related": [
+  "根本无明",
+  "一念无明",
+  "三细相",
+  "六粗相",
+  "差别智",
+  "根本智",
+  "道种智",
+  "灭尽定"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页未逐一列出六粗相的名目。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys",
+  "pages/huayan70/jiangyi39",
+  "pages/swxf/shizhu8"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "六粗相"
+ ]
+}

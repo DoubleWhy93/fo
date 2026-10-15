@@ -1,0 +1,77 @@
+{
+ "term": "问题",
+ "key": "问题",
+ "aliases": [],
+ "summary": "生命力量以无明形式现前的问题，经行法解决即智慧种子",
+ "definition": "讲者说生命力量以无明的形式生起、以问题的形式现前；不能解决则成束缚困扰，经智慧与行法实践解决，问题就变成智慧种子。对菩萨而言，问题是觉悟力的表现，是智慧种子，也是行法实践的力量。",
+ "definition_basis": [
+  {
+   "q": "如果通過智慧與行法實踐得以解決，問題就變成智慧種子",
+   "src": "pages/huayan70/jiangyi34"
+  },
+  {
+   "q": "問題就是智慧的種子，問題是行法實踐的力量。",
+   "src": "pages/shixin/shixin12"
+  },
+  {
+   "q": "但對菩薩來說，問題即是覺悟力的表現，是智慧種子",
+   "src": "pages/huayan70/jiangyi36"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "问题经解决成智慧种子",
+   "text": "问题解决后变为智慧种子，解决不了则成束缚。",
+   "quotes": [
+    {
+     "q": "如果通過智慧與行法實踐得以解決，問題就變成智慧種子",
+     "src": "pages/huayan70/jiangyi34"
+    }
+   ]
+  },
+  {
+   "label": "行法实践的力量",
+   "text": "没有问题就没有智慧，也无法生起行法实践。",
+   "quotes": [
+    {
+     "q": "問題就是智慧的種子，問題是行法實踐的力量。",
+     "src": "pages/shixin/shixin12"
+    }
+   ]
+  },
+  {
+   "label": "对菩萨是觉悟力的表现",
+   "text": "对凡夫种性问题生起即一念无明，对菩萨则是觉悟力的表现。",
+   "quotes": [
+    {
+     "q": "但對菩薩來說，問題即是覺悟力的表現，是智慧種子",
+     "src": "pages/huayan70/jiangyi36"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "问题由无明形式生起，解决后成智慧种子；对菩萨是觉悟力。"
+  },
+  {
+   "series": "shixin",
+   "text": "问题就是智慧种子和行法实践的力量，华严行法看重问问题。"
+  }
+ ],
+ "related": [
+  "一念无明",
+  "根本无明"
+ ],
+ "tensions": [],
+ "gaps": [],
+ "where_to_read": [
+  "pages/huayan70/jiangyi34",
+  "pages/shixin/shixin12",
+  "pages/huayan70/jiangyi36"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

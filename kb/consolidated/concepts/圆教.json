@@ -1,0 +1,92 @@
+{
+ "term": "圆教",
+ "key": "圆教",
+ "aliases": [],
+ "summary": "讲者所说的圆教：目标与起点直接在一心成就，要取消能所自他对立",
+ "definition": "讲者把圆教讲成把修行目标和起点直接放在一心成就上的修行；其特色是需要取消能所自他的对立，而别教行者仍有自他、能所和染净的差别。2024 年问答中又说必须到入灭尽定行法以后、根本智行法阶段才叫圆教，最低要到华严行法十信位入阿鞞跋致性。",
+ "definition_basis": [
+  {
+   "q": "圓教是把修行的目標和起點直接放在一心成就上",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+  },
+  {
+   "q": "「圓教」必須要到入滅盡定行法以後，到根本智行法階段時才叫「圓教」",
+   "src": "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+  },
+  {
+   "q": "圓教修行的特色就是需要取消能所自他的對立",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "目标与起点在一心成就",
+   "text": "圆教把修行的目标和起点直接放在一心成就上。",
+   "quotes": [
+    {
+     "q": "圓教是把修行的目標和起點直接放在一心成就上",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+    }
+   ]
+  },
+  {
+   "label": "取消能所自他对立",
+   "text": "圆教修行的特色是取消能所自他的对立，别教行者则仍有这些差别。",
+   "quotes": [
+    {
+     "q": "圓教修行的特色就是需要取消能所自他的對立",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz"
+    }
+   ]
+  },
+  {
+   "label": "阶位门槛（2024 问答）",
+   "text": "2024 年问答说入灭尽定行法之后、根本智行法阶段才叫圆教。",
+   "quotes": [
+    {
+     "q": "「圓教」必須要到入滅盡定行法以後，到根本智行法階段時才叫「圓教」",
+     "src": "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答从一心成就与取消对立讲；2024 年问答给出入灭尽定、根本智行法阶段的门槛。"
+  }
+ ],
+ "related": [
+  "别教",
+  "入灭尽定行法",
+  "根本智",
+  "阿鞞跋致"
+ ],
+ "tensions": [
+  {
+   "text": "对圆教的界定方式不同：一页从目标与起点直接放在一心成就讲，另一页给出必须到入灭尽定行法、根本智行法阶段的阶位条件。",
+   "sources": [
+    {
+     "q": "圓教是把修行的目標和起點直接放在一心成就上",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+    },
+    {
+     "q": "「圓教」必須要到入滅盡定行法以後，到根本智行法階段時才叫「圓教」",
+     "src": "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各页对圆教与别教的阶位界线未统一说明。",
+  "「一心成就」在此处未进一步展开。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz",
+  "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

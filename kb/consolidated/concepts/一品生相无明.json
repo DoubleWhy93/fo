@@ -1,0 +1,104 @@
+{
+ "term": "一品生相无明",
+ "key": "一品生相无明",
+ "aliases": [],
+ "summary": "等觉与妙觉之差，根本无明的作用习气",
+ "definition": "讲者说一品生相无明是等觉位与妙觉位的差别，是根本无明的作用习气，也是一切法总持力的作用习气，与四位行法中的一念无明不同类。别教菩萨行法不能破，须在等觉位普贤菩萨法界以根本智行法破除，破除即到妙觉位。",
+ "definition_basis": [
+  {
+   "q": "等覺位與妙覺位的差別在於一品生相無明",
+   "src": "pages/huayan70/jiangyi28"
+  },
+  {
+   "q": "這一品生相無明是什麼？是根本無明的作用習氣，亦即一切法總持力的作用習氣",
+   "src": "pages/huayan70/jiangyi34"
+  },
+  {
+   "q": "一念無明以有功用行可以破除，根本無明則必須以無功用行才可以破除",
+   "src": "pages/huayan70/jiangyi35"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "等觉与妙觉的差别",
+   "text": "等觉位与妙觉位的差别在一品生相无明。",
+   "quotes": [
+    {
+     "q": "等覺位與妙覺位的差別在於一品生相無明",
+     "src": "pages/huayan70/jiangyi28"
+    },
+    {
+     "q": "一念無明以有功用行可以破除，根本無明則必須以無功用行才可以破除",
+     "src": "pages/huayan70/jiangyi35"
+    }
+   ]
+  },
+  {
+   "label": "根本无明的作用习气",
+   "text": "是根本无明的作用习气、一切法总持力的作用习气，与一念无明不同类。",
+   "quotes": [
+    {
+     "q": "這一品生相無明是什麼？是根本無明的作用習氣，亦即一切法總持力的作用習氣",
+     "src": "pages/huayan70/jiangyi34"
+    }
+   ]
+  },
+  {
+   "label": "「生相」之意（hyxf 问答）",
+   "text": "问答说生相的意思代表虽然不是一切处一切法，但可无障碍到达任何一法。",
+   "quotes": [
+    {
+     "q": "生相的意思代表雖然他不是一切處一切法，但他可無障礙的到達任何一法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "联系根本无明、总持力、根本智行法与普贤法界讲等觉到妙觉。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（hyxf）从善财五十一参角度讲「生相」。"
+  }
+ ],
+ "related": [
+  "根本无明",
+  "一念无明",
+  "根本智",
+  "普贤菩萨法界",
+  "等觉位",
+  "妙觉位"
+ ],
+ "tensions": [
+  {
+   "text": "对「生相」的解释，问答页从无障碍到达任何一法来说，华严70 页从根本无明的作用习气来说。",
+   "sources": [
+    {
+     "q": "生相的意思代表雖然他不是一切處一切法，但他可無障礙的到達任何一法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+    },
+    {
+     "q": "這一品生相無明是什麼？是根本無明的作用習氣，亦即一切法總持力的作用習氣",
+     "src": "pages/huayan70/jiangyi34"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「一品」的含义证据中未直接解释。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi28",
+  "pages/huayan70/jiangyi34",
+  "pages/huayan70/jiangyi35",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "妙觉位"
+ ]
+}

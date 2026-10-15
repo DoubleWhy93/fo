@@ -1,0 +1,75 @@
+{
+ "term": "楞伽",
+ "key": "楞伽",
+ "aliases": [],
+ "summary": "非大神通或大智慧力难以到达之处，指善住比丘住处",
+ "definition": "讲者说「楞伽」代表非大神通力不能到达的地方，源于斯里兰卡的「兰卡」，两千多年前印度人需跨海才能到。经中用它表达善住比丘住处是世间人难到、要靠智慧增胜与行法精进才能往诣之处。",
+ "definition_basis": [
+  {
+   "q": "『楞伽』一詞即代表非大神通力不能到達之地",
+   "src": "pages/huayan28/28jiang27"
+  },
+  {
+   "q": "所以稱其為『難以到達』之地，只有具備大神通的人才能往詣",
+   "src": "pages/huayan70/jiangyi47"
+  },
+  {
+   "q": "在經典中『楞伽』代表沒有神通無法到達之處",
+   "src": "pages/huayan70/jiangyi49"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "难以到达之地",
+   "text": "代表非大神通力不能到达之处。",
+   "quotes": [
+    {
+     "q": "『楞伽』一詞即代表非大神通力不能到達之地",
+     "src": "pages/huayan28/28jiang27"
+    },
+    {
+     "q": "在經典中『楞伽』代表沒有神通無法到達之處",
+     "src": "pages/huayan70/jiangyi49"
+    }
+   ]
+  },
+  {
+   "label": "善住比丘住处",
+   "text": "用以表达善住比丘住处世间人难到，要靠大智慧力才能往诣。",
+   "quotes": [
+    {
+     "q": "所以稱其為『難以到達』之地，只有具備大神通的人才能往詣",
+     "src": "pages/huayan70/jiangyi47"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "楞伽即非大神通力不能到达之地，修行者转八识成四智后业力须弥山即楞伽山。"
+  },
+  {
+   "series": "huayan70",
+   "text": "是善住比丘住处，代表要靠智慧增胜才能到达。"
+  }
+ ],
+ "related": [
+  "善住比丘",
+  "四智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「楞伽山」与「楞伽」是否同一说法，只在 huayan28 一页点到，未列为别名。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang27",
+  "pages/huayan70/jiangyi47",
+  "pages/huayan70/jiangyi49"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "善住比丘"
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "term": "治地住",
+ "key": "治地住",
+ "aliases": [],
+ "summary": "十住位第二住，以自性智慧在一切法中管理、开疆拓土",
+ "definition": "讲者说治地住是十住位的第二住位。「地」是生命中一切法的生起处、所依处；治地就是在一切生命体验里管理一切法，使一切法不再束缚、影响自己，比喻为开疆拓土。管理得到的才是自己的国土。",
+ "definition_basis": [
+  {
+   "q": "『地』即生命中一切法的生起處、所依處",
+   "src": "pages/huayan70/jiangyi48"
+  },
+  {
+   "q": "治地的意思，就是在一切生命體驗裡面去管理這一切法，管理就叫治地住。",
+   "src": "pages/swxf/shizhu26"
+  },
+  {
+   "q": "這個開疆拓土就是治地住。",
+   "src": "pages/swxf/shizhu25"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "「地」＝一切法的生起处与所依处",
+   "text": "huayan70 讲「地」是生命中一切法的生起处、所依处。",
+   "quotes": [
+    {
+     "q": "『地』即生命中一切法的生起處、所依處",
+     "src": "pages/huayan70/jiangyi48"
+    }
+   ]
+  },
+  {
+   "label": "管理一切法、开疆拓土",
+   "text": "swxf 讲治地住是在生命体验中管理一切法，开疆拓土。",
+   "quotes": [
+    {
+     "q": "治地的意思，就是在一切生命體驗裡面去管理這一切法，管理就叫治地住。",
+     "src": "pages/swxf/shizhu26"
+    },
+    {
+     "q": "這個開疆拓土就是治地住。",
+     "src": "pages/swxf/shizhu25"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "从「地」是法的生起处、所依处讲，并联系第二参海云比丘。"
+  },
+  {
+   "series": "swxf",
+   "text": "讲成在十住位以智慧力管理一切法、开疆拓土，管理不到的是荒芜之地。"
+  }
+ ],
+ "related": [
+  "自性智慧",
+  "一念无明"
+ ],
+ "tensions": [],
+ "gaps": [
+  "十种心如何具体对应治地的工作，所引页只列名称。",
+  "别名未明，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi48",
+  "pages/swxf/shizhu25",
+  "pages/swxf/shizhu26"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自性智慧"
+ ]
+}

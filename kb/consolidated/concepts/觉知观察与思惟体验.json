@@ -1,0 +1,77 @@
+{
+ "term": "觉知观察与思惟体验",
+ "key": "觉知观察与思惟体验",
+ "aliases": [],
+ "summary": "觉知观察依根本智、人人具备；思惟体验在差别智中建立",
+ "definition": "讲者把「觉知观察」说成依根本智的力量生起，一切有情时刻具备、不需作意；「思惟体验」则要对诸法生起关注才有，在不共法报身世间建立，是成就般若智慧的最初力量。",
+ "definition_basis": [
+  {
+   "q": "覺知與觀察實際上是生命力量",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd"
+  },
+  {
+   "q": "『思惟體驗』是在不共法報身世間建立，是成就般若智慧的最初力量",
+   "src": "pages/huayan70/jiangyi41"
+  },
+  {
+   "q": "有情眾生對一切法的『覺知觀察』是依根本智的力量生起的，一切有情眾生皆悉具備，並且時刻具備，不需作意即能生起。",
+   "src": "pages/huayan70/jiangyi24"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "觉知观察：生命力量",
+   "text": "觉知与观察实际上是生命力量，一切有情皆具备。",
+   "quotes": [
+    {
+     "q": "覺知與觀察實際上是生命力量",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd"
+    },
+    {
+     "q": "有情眾生對一切法的『覺知觀察』是依根本智的力量生起的，一切有情眾生皆悉具備，並且時刻具備，不需作意即能生起。",
+     "src": "pages/huayan70/jiangyi24"
+    }
+   ]
+  },
+  {
+   "label": "思惟体验：差别智角度",
+   "text": "思惟体验在不共法报身世间建立，是成就般若智慧的最初力量。",
+   "quotes": [
+    {
+     "q": "『思惟體驗』是在不共法報身世間建立，是成就般若智慧的最初力量",
+     "src": "pages/huayan70/jiangyi41"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "jiangyi41 区分根本智与差别智两个角度；jiangyi24 说觉知观察不需作意。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年 hyxf 页说觉知观察是生命力量，思惟和体验是人类才有的行法实践。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "差别智",
+  "般若智慧",
+  "作意"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页未说明两者如何衔接成具体训练步骤。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/100.wxdrzhyd",
+  "pages/huayan70/jiangyi24",
+  "pages/huayan70/jiangyi41"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "作意"
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "term": "他化自在天",
+ "key": "他化自在天",
+ "aliases": [
+  "他化天"
+ ],
+ "summary": "眼耳鼻舌身一切法所在处，十地位演说处，也是诸魔居处",
+ "definition": "讲者说他化自在天就是我们现在身心觉知一切法所在处，即眼耳鼻舌身的一切法。《十地品》在此演说，这里既是成就无上正觉的地方，也是诸魔所在处。讲者又说「他化」是从外向内的。",
+ "definition_basis": [
+  {
+   "q": "他化天就是我們現在身心覺知一切法所在處。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-"
+  },
+  {
+   "q": "『他化自在天』即眼、耳、鼻、舌、身的一切法所在處",
+   "src": "pages/huayan70/jiangyi2"
+  },
+  {
+   "q": "他化自在天在哪兒呢？就是我們眼耳鼻舌身的一切法。",
+   "src": "pages/swxf/shizhu25"
+  },
+  {
+   "q": "『他化』的意思就是從外向內的。",
+   "src": "pages/swxf/shizhu5"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "眼耳鼻舌身一切法所在处",
+   "text": "即当下身心觉知的一切法所在处；huayan70 说在四智行法中是「北方」成所作智成就处。",
+   "quotes": [
+    {
+     "q": "他化天就是我們現在身心覺知一切法所在處。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-"
+    },
+    {
+     "q": "『他化自在天』即眼、耳、鼻、舌、身的一切法所在處",
+     "src": "pages/huayan70/jiangyi2"
+    }
+   ]
+  },
+  {
+   "label": "成就无上正觉处，也是诸魔居处",
+   "text": "诸魔通过眼耳鼻舌身令人生起觉受与我执，这里也是十地位演说处。",
+   "quotes": [
+    {
+     "q": "他化自在天在哪兒呢？就是我們眼耳鼻舌身的一切法。",
+     "src": "pages/swxf/shizhu25"
+    },
+    {
+     "q": "他化自在天是眼、耳、鼻、舌、身一切法所在處",
+     "src": "pages/huayan70/jiangyi23"
+    }
+   ]
+  },
+  {
+   "label": "「他化」从外向内",
+   "text": "swxf 说他化是从外向内，眼耳鼻舌身所见所体验的一切法带来解脱与无上正觉的体验。",
+   "quotes": [
+    {
+     "q": "『他化』的意思就是從外向內的。",
+     "src": "pages/swxf/shizhu5"
+    }
+   ]
+  },
+  {
+   "label": "全依自性地智慧",
+   "text": "在 sz 专题中，说它全依自性地智慧而生起世间行法，非从外得。",
+   "quotes": [
+    {
+     "q": "全依自性地智慧而生起世間行法，全依根本智慧，非從外得",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/12.stgbfypgmddgx"
+    }
+   ]
+  },
+  {
+   "label": "加工结果回到一切法",
+   "text": "2024 问答说加工结果再回到眼耳鼻舌身一切法时就是他化天。",
+   "quotes": [
+    {
+     "q": "《華嚴經》的十地位就是在他化天演說的",
+     "src": "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲成眼耳鼻舌身一切法所在处，也是魔所居处与十地行法说法处。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中讲成十地位演说处、从外向内之义。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 与 2024 问答：讲成当下觉知一切法所在处，并联系十地位演说、诸魔与世尊成佛。"
+  }
+ ],
+ "related": [
+  "十地位",
+  "成所作智",
+  "四智行法",
+  "普光明殿"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据中未详述须弥山以上各天与他化自在天的关系，只在教导中顺带提到。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi2",
+  "pages/swxf/shizhu25",
+  "pages/swxf/shizhu5",
+  "pages/huayan70/jiangyi23",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/110.sjztysdxfdgx-"
+ ],
+ "pages_consulted": 7,
+ "confidence": "high",
+ "related_unresolved": [
+  "十地位",
+  "成所作智"
+ ]
+}

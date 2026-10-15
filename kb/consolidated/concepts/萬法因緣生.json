@@ -1,0 +1,87 @@
+{
+ "term": "萬法因緣生",
+ "key": "萬法因緣生",
+ "aliases": [
+  "萬法因緣生（共法世间）"
+ ],
+ "summary": "共法世间、如来藏本体界的一切法，不因我想让它怎样就怎样",
+ "definition": "讲者说「万法因缘生」讲的是如来藏一切法、本体界的一切法，不因我想让它怎样就怎样，与报身世间的「一切法从心想生」相对照。huayan28 讲法从众生如来藏共法世间说；swxf 讲法称自然界一切法符合万法因缘生。",
+ "definition_basis": [
+  {
+   "q": "如果從眾生如來藏共法世間來說即是萬法因緣生",
+   "src": "pages/huayan28/28jiang24"
+  },
+  {
+   "q": "當我們講萬法因緣生的時候，是在講如來藏一切法、本體界的一切法",
+   "src": "pages/dayi_all/2024dy/2024dywd/6.dy-2024-10-19-"
+  },
+  {
+   "q": "自然界的這一切法符合『萬法因緣生』",
+   "src": "pages/swxf/shizhu15"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "如来藏共法世间",
+   "text": "huayan28 第24讲。",
+   "quotes": [
+    {
+     "q": "如果從眾生如來藏共法世間來說即是萬法因緣生",
+     "src": "pages/huayan28/28jiang24"
+    }
+   ]
+  },
+  {
+   "label": "本体界一切法",
+   "text": "2024 年 10 月 19 日问答。",
+   "quotes": [
+    {
+     "q": "當我們講萬法因緣生的時候，是在講如來藏一切法、本體界的一切法",
+     "src": "pages/dayi_all/2024dy/2024dywd/6.dy-2024-10-19-"
+    }
+   ]
+  },
+  {
+   "label": "自然界一切法",
+   "text": "swxf 第15讲。",
+   "quotes": [
+    {
+     "q": "自然界的這一切法符合『萬法因緣生』",
+     "src": "pages/swxf/shizhu15"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲从共法世间说。"
+  },
+  {
+   "series": "swxf",
+   "text": "用于自然界一切法，色身世间所面对。"
+  },
+  {
+   "series": "答疑",
+   "text": "2024 年问答与报身世间「从心想生」对照。"
+  }
+ ],
+ "related": [
+  "如来藏",
+  "共法世间",
+  "报身世间",
+  "本体"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「如来藏一切法」与「自然界一切法」的关系，证据页未说明。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang24",
+  "pages/dayi_all/2024dy/2024dywd/6.dy-2024-10-19-",
+  "pages/swxf/shizhu15"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

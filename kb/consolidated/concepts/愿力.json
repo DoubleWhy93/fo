@@ -1,0 +1,80 @@
+{
+ "term": "愿力",
+ "key": "愿力",
+ "aliases": [],
+ "summary": "主动的、依根本智属性自觉生起的力量，与被动的业力相对",
+ "definition": "讲者说愿力是能自觉主动地生起、依根本智属性生起的力量；业力是被动的，愿力是主动的。初住位以后行法精进的力量自己生起，用经的语言叫愿力。愿力要到菩萨道种智行法时才能定向。",
+ "definition_basis": [
+  {
+   "q": "『願力』是指能自覺主動地生起，依根本智的屬性生起。",
+   "src": "pages/huayan70/jiangyi14"
+  },
+  {
+   "q": "業力是被動的，願力是主動的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/67.bckyxyhgbwmdswmsm-"
+  },
+  {
+   "q": "行法精進的力量是自己生起的，用經的語言就是「願力」生起",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/95.yqjkhfydbx"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自觉主动、依根本智",
+   "text": "愿力是能自觉主动地生起，依根本智的属性生起。",
+   "quotes": [
+    {
+     "q": "『願力』是指能自覺主動地生起，依根本智的屬性生起。",
+     "src": "pages/huayan70/jiangyi14"
+    }
+   ]
+  },
+  {
+   "label": "业力被动、愿力主动",
+   "text": "业力是被动的，愿力是主动的。",
+   "quotes": [
+    {
+     "q": "業力是被動的，願力是主動的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/67.bckyxyhgbwmdswmsm-"
+    }
+   ]
+  },
+  {
+   "label": "行法精进的力量",
+   "text": "初住位以后行法精进的力量自己生起，经的语言叫愿力生起。",
+   "quotes": [
+    {
+     "q": "行法精進的力量是自己生起的，用經的語言就是「願力」生起",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/95.yqjkhfydbx"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "把愿力讲成能自觉主动、依根本智属性生起。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲业力被动愿力主动，及初住位以后行法精进力量自己生起。"
+  }
+ ],
+ "related": [
+  "业力",
+  "根本智",
+  "菩萨道种智行法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "愿力与「往昔愿力」「大愿」等经文用法的关系只在其他页说明。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi14",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/67.bckyxyhgbwmdswmsm-",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/95.yqjkhfydbx"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": []
+}

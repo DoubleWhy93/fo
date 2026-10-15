@@ -1,0 +1,81 @@
+{
+ "term": "阿罗汉",
+ "key": "阿罗汉",
+ "aliases": [],
+ "summary": "华严行法里第七位之称，出离有法束缚、不受一切法",
+ "definition": "讲者说，在华严行法里凡第七位（七信、七住、七行、七回向、七地）都叫阿罗汉。阿罗汉是出离有法的束缚，与是否法身大士无关；阿罗汉也有声闻、缘觉、别教菩萨等多种。讲者又把它讲成以如实知去除一法对自己的影响、不受一切法。",
+ "definition_basis": [
+  {
+   "q": "在華嚴行法裡凡第七位全叫阿羅漢，即七信、七住、七行、七迴向、七地都叫阿羅漢",
+   "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+  },
+  {
+   "q": "阿羅漢是出離有法的束縛，與是不是法身大士沒關係",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/84.qdalhg-rgptxbtjnrbddm-"
+  },
+  {
+   "q": "阿羅漢有很多種，聲聞阿羅漢，緣覺阿羅漢，別教菩薩阿羅漢等等",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/21.alhgsmypfbfzm"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "华严行法中的第七位",
+   "text": "每一组行法的第七位都称阿罗汉。",
+   "quotes": [
+    {
+     "q": "在華嚴行法裡凡第七位全叫阿羅漢",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/80.rhljdalhgdxzrswecsw"
+    }
+   ]
+  },
+  {
+   "label": "出离有法、多种阿罗汉",
+   "text": "阿罗汉被说成出离有法的束缚，并有声闻、缘觉、别教菩萨之分。",
+   "quotes": [
+    {
+     "q": "阿羅漢是出離有法的束縛，與是不是法身大士沒關係",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/84.qdalhg-rgptxbtjnrbddm-"
+    },
+    {
+     "q": "阿羅漢有很多種，聲聞阿羅漢，緣覺阿羅漢，別教菩薩阿羅漢等等",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/21.alhgsmypfbfzm"
+    }
+   ]
+  },
+  {
+   "label": "心不被所转：不受一切法",
+   "text": "不是身不觉疼痛，而是心不被疼痛所转；息灭这一法对我的影响，叫阿罗汉不受一切法、不受生死法。",
+   "quotes": [
+    {
+     "q": "不是身不感覺疼痛，而是心不被疼痛所轉，管這個叫息滅這一法對我的影響，管這個叫阿羅漢不受一切法，不受生死法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/148.cjzsfhysdbk"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "主要见于 2018–2022 年问答（hyxf、jtl、wm-lb、dy），说第七位叫阿罗汉、出离有法；2023 年问答仅提及，未单独界定。"
+  }
+ ],
+ "related": [
+  "入灭尽定",
+  "如实知之",
+  "有法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "这些页面未说明第七位为何称阿罗汉；与声闻乘阿罗汉果位的具体对应未展开。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/dy/dy2",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/84.qdalhg-rgptxbtjnrbddm-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/148.cjzsfhysdbk",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/21.alhgsmypfbfzm"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "related_unresolved": []
+}

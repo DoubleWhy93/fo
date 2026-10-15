@@ -1,0 +1,121 @@
+{
+ "term": "极乐世界",
+ "key": "极乐世界",
+ "aliases": [],
+ "summary": "一种在有法中成就的生命成就模式，而非世间处所",
+ "definition": "讲者说阿弥陀如来的极乐世界是一种生命成就模式，不是世间处所或宇宙深处，而是在有法中、以西方过十万亿佛土的成就模式建立，可在生命中体验。它依赖修行者的种性因素与行法因素，以及对一切法生起觉知观察的行法实践。",
+ "definition_basis": [
+  {
+   "q": "阿彌陀如來極樂世界是一種生命成就模式，並非一個世間處所",
+   "src": "pages/huayan70/jiangyi31"
+  },
+  {
+   "q": "極樂世界是有的，是以西方過十萬億佛土的成就模式建立的，是在我們生命當中能夠體驗的。",
+   "src": "pages/amtj/amtj4"
+  },
+  {
+   "q": "往生極樂世界依賴於行法實踐，依賴於善根福德因緣",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "生命成就模式，非处所",
+   "text": "极乐世界不是世间处所，不同修行者的极乐成就模式各不相同。",
+   "quotes": [
+    {
+     "q": "阿彌陀如來極樂世界是一種生命成就模式，並非一個世間處所",
+     "src": "pages/huayan70/jiangyi31"
+    }
+   ]
+  },
+  {
+   "label": "在有法中、在生命中体验",
+   "text": "以西方过十万亿佛土的成就模式建立，可在生命中体验。",
+   "quotes": [
+    {
+     "q": "極樂世界是有的，是以西方過十萬億佛土的成就模式建立的，是在我們生命當中能夠體驗的。",
+     "src": "pages/amtj/amtj4"
+    }
+   ]
+  },
+  {
+   "label": "需修行者种性与行法因素",
+   "text": "世间一切法加上修行者的种性因素与行法因素才成为极乐世界。",
+   "quotes": [
+    {
+     "q": "一定要有修行者的兩樣因素參與才會成為極樂世界。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-"
+    }
+   ]
+  },
+  {
+   "label": "成就的三个要素",
+   "text": "成就须如来呈现一切法、内在觉醒反观、落实到身心觉知。",
+   "quotes": [
+    {
+     "q": "第一個要有世間自在王如來呈現一切法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/23.sfdzzcjzhchyffjxq-"
+    }
+   ]
+  },
+  {
+   "label": "转凡入如来种性过程中最基础的成就",
+   "text": "一页说它是修行者从凡夫种性转到如来种性中最核心、最基础的成就。",
+   "quotes": [
+    {
+     "q": "極樂世界是所有修行者的成就最核心，最基礎的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/18.jlsjyhzsj-amtfyplznf"
+    }
+   ]
+  },
+  {
+   "label": "往生依赖行法实践",
+   "text": "2023 问答说不是宇宙深处的某处，往生依赖行法实践与善根福德因缘。",
+   "quotes": [
+    {
+     "q": "往生極樂世界依賴於行法實踐，依賴於善根福德因緣",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "讲成在有法中以西方过十万亿佛土模式建立、可在生命中体验。"
+  },
+  {
+   "series": "huayan70",
+   "text": "是生命成就模式，不是世间处所；不同人的极乐成就模式不同。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 swms-dzz、jtl 讲种性与行法因素及三要素，是最核心基础的成就；2023 问答强调往生依赖行法实践。"
+  }
+ ],
+ "related": [
+  "西方",
+  "国土",
+  "种性",
+  "有法",
+  "阿弥陀如来"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「实报庄严土」「常寂光净土」与极乐世界的关系，证据包中只有零散提及，本卡未展开。",
+  "别名不明确，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi31",
+  "pages/amtj/amtj4",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/23.sfdzzcjzhchyffjxq-",
+  "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+ ],
+ "pages_consulted": 6,
+ "confidence": "medium",
+ "related_unresolved": [
+  "阿弥陀如来"
+ ]
+}

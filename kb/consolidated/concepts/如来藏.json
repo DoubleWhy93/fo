@@ -1,0 +1,119 @@
+{
+ "term": "如来藏",
+ "key": "如来藏",
+ "aliases": [],
+ "summary": "生命中一切法的普遍存在；不离烦恼，证得须到更高行位",
+ "definition": "讲者说如来藏指生命中一切法的普遍存在，是从本体角度说；如来法身不离烦恼，烦恼相也是如来藏的一部分。身心觉知的一切法所在之处，从显相角度可称如来藏，但「证得」如来藏是另一回事，讲者把真正证得放在较后的行位。",
+ "definition_basis": [
+  {
+   "q": "佛教中講的『如來藏』即是指生命中一切法的普遍存在，『普遍存在』是從本體的角度說",
+   "src": "pages/huayan70/jiangyi64"
+  },
+  {
+   "q": "如來法身不離煩惱，名為「如來藏」。煩惱相是如來藏的一部分",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/77.ss-xsysmjtdgx "
+  },
+  {
+   "q": "從一切法顯相處的角度來講，這個地方就是「如來藏」；但是，從證得「如來藏」的角度來講，則還沒到達。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/28.rhysxjzdyqfzdrlz"
+  },
+  {
+   "q": "如來藏是不離眾生煩惱的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/11.rhjdfjzdbtmx-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "本体角度：一切法的普遍存在",
+   "text": "huayan70 讲法从本体角度说如来藏，并说从出于本体的一切法普遍存在角度，如来藏一切法即阿赖耶识中的一切法。",
+   "quotes": [
+    {
+     "q": "佛教中講的『如來藏』即是指生命中一切法的普遍存在，『普遍存在』是從本體的角度說",
+     "src": "pages/huayan70/jiangyi64"
+    }
+   ]
+  },
+  {
+   "label": "不离烦恼",
+   "text": "如来法身不离烦恼，烦恼相、烦恼法是如来藏的一部分，也是建立无上正觉与华藏世界的种子。",
+   "quotes": [
+    {
+     "q": "如來法身不離煩惱，名為「如來藏」。煩惱相是如來藏的一部分",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/77.ss-xsysmjtdgx "
+    },
+    {
+     "q": "如來藏是不離眾生煩惱的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/11.rhjdfjzdbtmx-"
+    }
+   ]
+  },
+  {
+   "label": "显相处与证得的区别",
+   "text": "身心觉知的一切法处可说是如来藏，但证得如来藏要另论；十住十行虽能如实见，也不算实际证得。",
+   "quotes": [
+    {
+     "q": "從一切法顯相處的角度來講，這個地方就是「如來藏」；但是，從證得「如來藏」的角度來講，則還沒到達。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/28.rhysxjzdyqfzdrlz"
+    },
+    {
+     "q": "不共別教菩薩真正證得如來藏一切法要在十迴向位以後",
+     "src": "pages/huayan70/jiangyi23"
+    }
+   ]
+  },
+  {
+   "label": "等觉位的一切法",
+   "text": "jtl 一页把等觉位行者不住不离凡夫世间与四智法清净世间时的一切法称为如来藏。",
+   "quotes": [
+    {
+     "q": "所以這時的一切法就叫「如來藏」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "从本体角度讲普遍存在，并说不共别教菩萨真正证得要在十回向位以后。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022（hyxf、jdjd、jtl）讲不离烦恼、显相处与证得之别及入灭尽定行法的见证。"
+  }
+ ],
+ "related": [
+  "一切法",
+  "阿赖耶识",
+  "报身世间",
+  "灭尽定"
+ ],
+ "tensions": [
+  {
+   "text": "关于真正证得（见证）如来藏所在的位置，不同页面给出不同说法。",
+   "sources": [
+    {
+     "q": "不共別教菩薩真正證得如來藏一切法要在十迴向位以後",
+     "src": "pages/huayan70/jiangyi23"
+    },
+    {
+     "q": "準確來講，只有到達入滅盡定行法時，纔是真正見證到生命當中的如來藏。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/22.hw-fscz--"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "如来藏与阿赖耶识、本体的关系在本卡所用定义中只有 huayan70 一页明说。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi64",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/77.ss-xsysmjtdgx ",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/28.rhysxjzdyqfzdrlz",
+  "pages/huayan70/jiangyi23",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/22.hw-fscz--"
+ ],
+ "pages_consulted": 7,
+ "confidence": "medium",
+ "related_unresolved": []
+}

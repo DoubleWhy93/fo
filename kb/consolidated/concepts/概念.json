@@ -1,0 +1,77 @@
+{
+ "term": "概念",
+ "key": "概念",
+ "aliases": [],
+ "summary": "对一法给出的名称与界限，人类知识的基础和衡量尺子",
+ "definition": "讲者说关注某一法是共一切有情的能力，人天众生关注之后能给这一法一个概念，由概念生起思惟、分别、选择、判断。概念是在现象界、报身世间里与这一法的存在本身对等的一个实体，是智慧的种子，也是人类知识的基础、衡量一切法的尺子。",
+ "definition_basis": [
+  {
+   "q": "人天眾生能給這一法一個概念",
+   "src": "pages/swxf/shizhu13"
+  },
+  {
+   "q": "概念，是我們在現象界、報身世間，與這一法的存在本身去做對等的一個實體。",
+   "src": "pages/swxf/shizhu22"
+  },
+  {
+   "q": "概念是所有人類知識的基礎，是人類衡量一切法的尺子。",
+   "src": "pages/swxf/shizhu24"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "人天众生特有的能力",
+   "text": "swxf13 讲人天众生关注一法后能给它一个概念，概念性思惟由此生起。",
+   "quotes": [
+    {
+     "q": "人天眾生能給這一法一個概念",
+     "src": "pages/swxf/shizhu13"
+    }
+   ]
+  },
+  {
+   "label": "与存在本身对等的实体",
+   "text": "swxf22 讲概念是与这一法存在本身对等的一个实体。",
+   "quotes": [
+    {
+     "q": "概念，是我們在現象界、報身世間，與這一法的存在本身去做對等的一個實體。",
+     "src": "pages/swxf/shizhu22"
+    }
+   ]
+  },
+  {
+   "label": "知识的基础与尺子",
+   "text": "swxf24 讲概念是人类知识的基础和衡量一切法的尺子。",
+   "quotes": [
+    {
+     "q": "概念是所有人類知識的基礎，是人類衡量一切法的尺子。",
+     "src": "pages/swxf/shizhu24"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "讲成人天众生特有的能力，是知识的基础和衡量一切法的尺子。"
+  }
+ ],
+ "related": [
+  "概念性思惟",
+  "名相言说",
+  "概念准确"
+ ],
+ "tensions": [],
+ "gaps": [
+  "与已有卡「名相概念」的关系页上未说明。",
+  "别名未明，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu13",
+  "pages/swxf/shizhu22",
+  "pages/swxf/shizhu24"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

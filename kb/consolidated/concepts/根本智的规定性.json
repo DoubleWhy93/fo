@@ -1,0 +1,84 @@
+{
+ "term": "根本智的规定性",
+ "key": "根本智的规定性",
+ "aliases": [],
+ "summary": "根本智本身具备的力量，具普遍性与必然性",
+ "definition": "讲者说根本智的规定性是指生命中具有一种力量，也就是根本智是有力量的；这个能力呈现出来就是规定性，具有普遍性和必然性。依自我经验的定义至多有经验性的普遍性，没有必然性。",
+ "definition_basis": [
+  {
+   "q": "而根本智的規定性是指，生命當中具有一種力量，也就是根本智是有力量的",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)"
+  },
+  {
+   "q": "根本智的規定性是具有普遍性、具有必然性",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+  },
+  {
+   "q": "這個能力呈現出來，就是根本智的規定性",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "根本智自身的力量",
+   "text": "给根本智这一块力量一个名字叫规定性。",
+   "quotes": [
+    {
+     "q": "而根本智的規定性是指，生命當中具有一種力量，也就是根本智是有力量的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)"
+    }
+   ]
+  },
+  {
+   "label": "普遍性与必然性",
+   "text": "规定性具有普遍性、必然性；根本智行法的特点之一是普遍性。",
+   "quotes": [
+    {
+     "q": "根本智的規定性是具有普遍性、具有必然性",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+    },
+    {
+     "q": "根本智行法的另一特點就是具普遍性",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/18. zywd-23-11-11)"
+    }
+   ]
+  },
+  {
+   "label": "生命解脱的规则",
+   "text": "生命解脱基于严格准确的规则，这能力呈现出来就是规定性。",
+   "quotes": [
+    {
+     "q": "這個能力呈現出來，就是根本智的規定性",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2023 年问答（WORDbb 系列）反复讲规定性的力量与普遍必然性。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "差别智",
+  "一念无明",
+  "普遍性"
+ ],
+ "tensions": [],
+ "gaps": [
+  "与差别智行法如何具体落实，pack 只在 teachings 中提到，本卡未引其原文。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)",
+  "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
+  "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt",
+  "pages/dayi_all/2023dy/wz/WORDbb/18. zywd-23-11-11)"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "普遍性"
+ ]
+}

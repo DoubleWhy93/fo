@@ -1,0 +1,121 @@
+{
+ "term": "内在觉知模式",
+ "key": "内在觉知模式",
+ "aliases": [
+  "法行模式"
+ ],
+ "summary": "以自己的觉知为核心、把经典言说转为行法证量的修行模式",
+ "definition": "讲者说内在觉知模式是以自己的觉知为核心，以善知识与经典的教诲为辅助，来完成自己的觉知过程；经典上佛陀称之为「法行」模式。它是把经典的言说转化为修行者自觉证量、再指导行为的模式，也被讲成华严行法的核心，常与「闻法模式」对照。",
+ "definition_basis": [
+  {
+   "q": "是以自己的覺知為核心，以善知識的教誨，經典的教誨為輔助，來完成自己的覺知過程。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms"
+  },
+  {
+   "q": "在經典上，佛陀稱之為『法行』模式，我們稱其為內在覺知模式。",
+   "src": "pages/huayan28/28jiang1"
+  },
+  {
+   "q": "內在覺知的修行模式是要將經典的言說，轉化為修行人的自覺證量，然後指導實際的行為。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/2.hw-hyj-nzjzxxms"
+  },
+  {
+   "q": "首先要有內在覺知模式的行法建立",
+   "src": "pages/huayan70/jiangyi1"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "以自己的觉知为核心",
+   "text": "自己的觉知为主，善知识与经典教诲为辅。",
+   "quotes": [
+    {
+     "q": "是以自己的覺知為核心，以善知識的教誨，經典的教誨為輔助，來完成自己的覺知過程。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms"
+    }
+   ]
+  },
+  {
+   "label": "法行模式",
+   "text": "huayan28 讲法说佛陀称之为法行模式，将逐渐成为学习华严经的主要模式。",
+   "quotes": [
+    {
+     "q": "在經典上，佛陀稱之為『法行』模式，我們稱其為內在覺知模式。",
+     "src": "pages/huayan28/28jiang1"
+    }
+   ]
+  },
+  {
+   "label": "转化经典言说为证量",
+   "text": "把经典的言说转化为自觉证量，再指导实际行为；并包括反省、内观的能力。",
+   "quotes": [
+    {
+     "q": "內在覺知的修行模式是要將經典的言說，轉化為修行人的自覺證量，然後指導實際的行為。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/2.hw-hyj-nzjzxxms"
+    },
+    {
+     "q": "內在覺知模式就是要生起反省的能力、內觀的能力、內在覺知的能力",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/58.fxxzwsjlsjh-ynsqdzhyxqdxfm"
+    }
+   ]
+  },
+  {
+   "label": "圆教初住的核心与解经的前提",
+   "text": "圆教初住以其生起为核心；先建立此模式的行法，再学经、明了集结者的种性，经典的机关法义才会打开。",
+   "quotes": [
+    {
+     "q": "圓教初住是以內在覺知模式行法的生起為核心",
+     "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+    },
+    {
+     "q": "首先要有內在覺知模式的行法建立",
+     "src": "pages/huayan70/jiangyi1"
+    }
+   ]
+  },
+  {
+   "label": "每个行法的呈现",
+   "text": "jdjd 问答说它讲的是每一个行法的呈现。",
+   "quotes": [
+    {
+     "q": "內在覺知模式的行法，講的就是我們每一個行法的呈現。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "定义为法行模式，将成为学习华严经的主要模式。"
+  },
+  {
+   "series": "huayan70",
+   "text": "首先要有此模式的行法建立，才能读开经典的机关法义。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 swms-dzz、jdjd、jtl 等：以觉知为核心、转化经典言说、与解经和圆教初住联系。"
+  }
+ ],
+ "related": [
+  "闻法模式",
+  "根本智",
+  "报身世间"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「利根模式」一词只在一页定义中出现。",
+  "具体修习步骤在本卡所用页面中未细讲。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms",
+  "pages/huayan28/28jiang1",
+  "pages/huayan70/jiangyi1",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/2.hw-hyj-nzjzxxms",
+  "pages/dayi_all/2018-2022dy/dy/dy2"
+ ],
+ "pages_consulted": 7,
+ "confidence": "high",
+ "related_unresolved": []
+}

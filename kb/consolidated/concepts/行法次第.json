@@ -1,0 +1,67 @@
+{
+ "term": "行法次第",
+ "key": "行法次第",
+ "aliases": [],
+ "summary": "修行不同阶段的次序，次第间知见不能相互影响",
+ "definition": "讲者说修行必须按行法次第，不同行法次第之间的知见不能相互影响，相互干扰即使是佛讲的也是邪知见。又以《楞严经》六结须依次解开为喻，说没有一法能同时解决所有问题。",
+ "definition_basis": [
+  {
+   "q": "不同行法次第之間的知見不能相互影響",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+  },
+  {
+   "q": "也就是說，沒有一法能同時解決所有問題。",
+   "src": "pages/huayan28/28jiang11"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "次第之间知见不互相影响",
+   "text": "不同次第的知见相互干扰就是邪知见。",
+   "quotes": [
+    {
+     "q": "不同行法次第之間的知見不能相互影響",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+    }
+   ]
+  },
+  {
+   "label": "六结之喻",
+   "text": "劫波罗巾六结须依次第解开，不能同时除。",
+   "quotes": [
+    {
+     "q": "也就是說，沒有一法能同時解決所有問題。",
+     "src": "pages/huayan28/28jiang11"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2023 年问答强调次第之间知见不混。"
+  },
+  {
+   "series": "huayan28",
+   "text": "以《楞严经》六结为喻。"
+  }
+ ],
+ "related": [
+  "行法理论",
+  "种性",
+  "差别智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "pack 的定义只两条；《华严经》整体行法次第的说法仅在 teachings 中。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-",
+  "pages/huayan28/28jiang11"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": [
+  "行法理论"
+ ]
+}

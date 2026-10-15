@@ -1,0 +1,98 @@
+{
+ "term": "般若智慧的三个属性",
+ "key": "般若智慧的三个属性",
+ "aliases": [],
+ "summary": "般若智慧的三个属性：本体的、自内显发的、周遍完备的",
+ "definition": "讲者说般若智慧有三个属性：出于生命本体而非外来、自内显发、周遍完备。依此可以衡量生起的觉知思惟是凡夫地思惟，还是般若本体生起的智慧。",
+ "definition_basis": [
+  {
+   "q": "般若智慧一定是出自生命本體的，不是外來的；二、般若智慧一定是自發的，是從內生起而顯發的；三、般若智慧一定是完備的，包含一切覺知法。",
+   "src": "pages/amtj/amtj5"
+  },
+  {
+   "q": "般若智慧有三個屬性：出於本體的、自內顯發的、周遍完備的。",
+   "src": "pages/huayan70/jiangyi14"
+  },
+  {
+   "q": "般若智慧的三個屬性是：本體的、自內顯發的、周遍完備的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/10.ffyfpsdbssjcb"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "本体的、自内显发的、周遍完备的",
+   "text": "三项各页用词略有不同（出自本体、自发、完备/周遍），但都列同样三项。",
+   "quotes": [
+    {
+     "q": "般若智慧有三個屬性：出於本體的、自內顯發的、周遍完備的。",
+     "src": "pages/huayan70/jiangyi14"
+    },
+    {
+     "q": "般若智慧的三個屬性是：本體的、自內顯發的、周遍完備的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/10.ffyfpsdbssjcb"
+    },
+    {
+     "q": "前面提到般若智慧的三個屬性：第一是自發的，第二是本體的，第三是完備的。",
+     "src": "pages/amtj/amtj6"
+    }
+   ]
+  },
+  {
+   "label": "依内在觉知模式建立",
+   "text": "swms-dzz 说本体的这一项，是依身心觉知一切法、依内在觉知模式建立的。",
+   "quotes": [
+    {
+     "q": "一是般若智慧一定是依於本體生起的，是依於身心覺知一切法，依於內在覺知模式建立的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "把三个属性用作衡量觉知思惟是否出自般若的尺度，并讲内在觉知行法中的运用。"
+  },
+  {
+   "series": "huayan70",
+   "text": "直接列出三个属性。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答（jtl、swms-dzz）同样列出并解释。"
+  }
+ ],
+ "related": [
+  "般若智慧",
+  "内在觉知行法"
+ ],
+ "tensions": [
+  {
+   "text": "三项的排列顺序与措辞各页不同：有的先说出自本体，有的先说自发。",
+   "sources": [
+    {
+     "q": "般若智慧一定是出自生命本體的，不是外來的；二、般若智慧一定是自發的，是從內生起而顯發的；三、般若智慧一定是完備的，包含一切覺知法。",
+     "src": "pages/amtj/amtj5"
+    },
+    {
+     "q": "前面提到般若智慧的三個屬性：第一是自發的，第二是本體的，第三是完備的。",
+     "src": "pages/amtj/amtj6"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「完备」的细分（概念准确、次第清晰、系统完备）见于 teachings，本卡未取得其逐字引文。"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj5",
+  "pages/amtj/amtj6",
+  "pages/huayan70/jiangyi14",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "related_unresolved": [
+  "内在觉知行法"
+ ]
+}

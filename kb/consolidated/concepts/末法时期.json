@@ -1,0 +1,84 @@
+{
+ "term": "末法时期",
+ "key": "末法时期",
+ "aliases": [],
+ "summary": "行法理念出现错谬的时期，不是时间造成的",
+ "definition": "讲者说末法时期是行者对佛教的普遍认知出现问题的时候，是行法理念出现错谬造成的，不是时间造成的。其特征是佛法真实道理不再显现，大家以世间法、相似法为佛法。",
+ "definition_basis": [
+  {
+   "q": "當這個時代的行者對佛教的普遍認知存在問題的時候，就是末法時期",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/11.zcmfdyy"
+  },
+  {
+   "q": "末法時期是行法理念出現錯謬造成的，不是時間造成的",
+   "src": "pages/huayan70/jiangyi41"
+  },
+  {
+   "q": "是講佛教、佛法的真實道理不再顯現，大家都在以世間法為佛法，在宣講這一個，這個就是末法時期的特徵。",
+   "src": "pages/shixin/shixin12"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "认知出问题即末法",
+   "text": "行者对佛教普遍认知有问题的时候。",
+   "quotes": [
+    {
+     "q": "當這個時代的行者對佛教的普遍認知存在問題的時候，就是末法時期",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/11.zcmfdyy"
+    }
+   ]
+  },
+  {
+   "label": "不是时间造成",
+   "text": "行法理念出现错谬所致，佛陀在世时也有。",
+   "quotes": [
+    {
+     "q": "末法時期是行法理念出現錯謬造成的，不是時間造成的",
+     "src": "pages/huayan70/jiangyi41"
+    }
+   ]
+  },
+  {
+   "label": "袈裟褪色等的解读",
+   "text": "shixin：说的是真实道理不再显现，大家以世间法为佛法。",
+   "quotes": [
+    {
+     "q": "是講佛教、佛法的真實道理不再顯現，大家都在以世間法為佛法，在宣講這一個，這個就是末法時期的特徵。",
+     "src": "pages/shixin/shixin12"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "强调不是时间造成。"
+  },
+  {
+   "series": "shixin",
+   "text": "解读袈裟褪色、经文变白纸为真实道理不再显现。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑：认知出问题即末法。"
+  }
+ ],
+ "related": [
+  "不正知见",
+  "自性智慧"
+ ],
+ "tensions": [],
+ "gaps": [],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/11.zcmfdyy",
+  "pages/huayan70/jiangyi41",
+  "pages/shixin/shixin12"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "不正知见",
+  "自性智慧"
+ ]
+}

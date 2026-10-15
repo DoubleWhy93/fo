@@ -1,0 +1,70 @@
+{
+ "term": "第二本能",
+ "key": "第二本能",
+ "aliases": [],
+ "summary": "经训练后得、好像来自本能的自觉，区别于与生俱来的第一本能",
+ "definition": "讲者说第二本能是修行者经过学习与有功用行的训练之后才有的自觉，自觉到好像天生就有，但不是天生就有的。它与第一本能相对：第一本能是与生俱来的觉知观察一切法的能力和贪嗔痴慢的能力。讲者说证得如来地解脱与无上正觉时的力量，就好像天生一样。",
+ "definition_basis": [
+  {
+   "q": "我們把這一塊可以稱為第二本能。第一本能是什麼呢？就是與生俱來的",
+   "src": "pages/swxf/shizhu26"
+  },
+  {
+   "q": "我們管那個叫第二本能，那是要經過學習和訓練才有的，不是天生就有的。",
+   "src": "pages/swxf/shizhu32"
+  },
+  {
+   "q": "這個能力，我們可以簡單地認為是第二本能。",
+   "src": "pages/swxf/shizhu1"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "训练后得、似来自本能",
+   "text": "swxf26 与 swxf32 讲第二本能要经学习训练才有，不是天生就有。",
+   "quotes": [
+    {
+     "q": "我們把這一塊可以稱為第二本能。第一本能是什麼呢？就是與生俱來的",
+     "src": "pages/swxf/shizhu26"
+    },
+    {
+     "q": "我們管那個叫第二本能，那是要經過學習和訓練才有的，不是天生就有的。",
+     "src": "pages/swxf/shizhu32"
+    }
+   ]
+  },
+  {
+   "label": "等觉妙觉位的转化能力",
+   "text": "swxf1 把普光明殿将一切法转成解脱与无上正觉的能力称为第二本能。",
+   "quotes": [
+    {
+     "q": "這個能力，我們可以簡單地認為是第二本能。",
+     "src": "pages/swxf/shizhu1"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "讲成训练后得的自觉，与生俱来的第一本能相对。"
+  }
+ ],
+ "related": [
+  "十信位",
+  "普光明殿行法理论"
+ ],
+ "tensions": [],
+ "gaps": [
+  "别名未明，aliases 留空。",
+  "仅见于 swxf 讲法，其他系列未提。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu1",
+  "pages/swxf/shizhu26",
+  "pages/swxf/shizhu32"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

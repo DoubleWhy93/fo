@@ -1,0 +1,96 @@
+{
+ "term": "东方",
+ "key": "东方",
+ "aliases": [],
+ "summary": "一切法与菩提心的生起处，对应大圆镜智，是密法言说的方位",
+ "definition": "讲者说「东方」代表一切法生起处，也是修行者行法模式建立处、种性成就处；对应大圆镜智，是生起菩提心的地方。方位属密法言说，不是时空中的东南西北，也不是固定处所，每一位次的行法乃至每一法都需从「东方」生起。",
+ "definition_basis": [
+  {
+   "q": "『東方』代表一切法生起處，代表修行者行法模式建立處、種性成就處",
+   "src": "pages/huayan70/jiangyi43"
+  },
+  {
+   "q": "東方是大圓鏡智所在處，這是一切法的生起處。",
+   "src": "pages/shixin/shixin12"
+  },
+  {
+   "q": "東方是修行者生起菩提心的那個地方，是生命中一切法的生起處",
+   "src": "pages/swxf/shizhu4"
+  },
+  {
+   "q": "『東方』並非固定處所，亦非一蹴而就",
+   "src": "pages/huayan70/jiangyi44"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "一切法与菩提心生起处",
+   "text": "东方是一切法生起处，也是修行者发菩提心的地方，如早晨太阳从东方升起。",
+   "quotes": [
+    {
+     "q": "東方是大圓鏡智所在處，這是一切法的生起處。",
+     "src": "pages/shixin/shixin12"
+    },
+    {
+     "q": "東方是修行者生起菩提心的那個地方，是生命中一切法的生起處",
+     "src": "pages/swxf/shizhu4"
+    }
+   ]
+  },
+  {
+   "label": "行法模式与种性成就处",
+   "text": "东方代表行法模式建立处、种性成就处。",
+   "quotes": [
+    {
+     "q": "『東方』代表一切法生起處，代表修行者行法模式建立處、種性成就處",
+     "src": "pages/huayan70/jiangyi43"
+    }
+   ]
+  },
+  {
+   "label": "非固定处所",
+   "text": "东方不是固定处所，也非一蹴而就，每一法的生起都要从东方来。",
+   "quotes": [
+    {
+     "q": "『東方』並非固定處所，亦非一蹴而就",
+     "src": "pages/huayan70/jiangyi44"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "说东方是种性成就、光明和一切法生起处，并非固定处所。"
+  },
+  {
+   "series": "shixin",
+   "text": "联系大圆镜智，修行者须先从东方发菩提心才能向南。"
+  },
+  {
+   "series": "swxf",
+   "text": "说方位是密法言说，不是世间东南西北。"
+  }
+ ],
+ "related": [
+  "大圆镜智",
+  "菩提心",
+  "密法言说"
+ ],
+ "tensions": [],
+ "gaps": [
+  "东方与五方佛、四智其他方位的整体配置，在本卡证据中未完整展开。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi43",
+  "pages/shixin/shixin12",
+  "pages/swxf/shizhu4",
+  "pages/huayan70/jiangyi44"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": [
+  "大圆镜智",
+  "菩提心"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "term": "藏通别圆",
+ "key": "藏通别圆",
+ "aliases": [],
+ "summary": "天台宗依藏通别圆判为四教，出自智顗；行者不必固定属于某一种",
+ "definition": "讲者说天台宗依「藏通别圆」把佛教判为四教，出自智顗。",
+ "definition_basis": [
+  {
+   "q": "天臺宗是依『藏通別圓』判為四教",
+   "src": "pages/huayan28/28jiang4"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "天台四教判",
+   "text": "天台宗依藏通别圆判为四教，出自智顗。",
+   "quotes": [
+    {
+     "q": "天臺宗是依『藏通別圓』判為四教",
+     "src": "pages/huayan28/28jiang4"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "介绍天台依藏通别圆判四教，并把它与华严宗五教判相提并论。"
+  }
+ ],
+ "related": [
+  "圆教",
+  "别教"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据中对藏教、通教的具体内容没有展开。",
+  "「四教」只作为变体出现，未作为别名处理。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang4"
+ ],
+ "pages_consulted": 1,
+ "confidence": "low",
+ "related_unresolved": []
+}

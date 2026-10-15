@@ -1,0 +1,132 @@
+{
+ "term": "转八识成四智",
+ "key": "转八识成四智",
+ "aliases": [],
+ "summary": "经训练把八识生起一切法的方式转为依理性的四智",
+ "definition": "讲者说八识是与生俱来的，四智要经过训练才能到达；转八识成四智就是这一训练过程，用经典语言说即入萨婆若海。他说它在住行向地四位行法处转，主要是第六、第七识的转变，并非除灭八识的作用，四智世间不在八识世间之外。",
+ "definition_basis": [
+  {
+   "q": "「八識」是與生俱來的，「四智」是要經過訓練才能到達",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/104.rhjsyqzsjyfx-jkcf-"
+  },
+  {
+   "q": "佛教中說到轉八識成四智、轉凡夫地一切法到諸佛世間一切法即在此處轉",
+   "src": "pages/huayan70/jiangyi11"
+  },
+  {
+   "q": "修行者能轉八識成四智，用經典語言來講就是入薩婆若海",
+   "src": "pages/huayan70/jiangyi3"
+  },
+  {
+   "q": "八識世間之外，沒有另外一個四智世間",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "八识与生俱来，四智要训练",
+   "text": "八识世间是与生俱来的，转成四智不是与生俱来而要训练。",
+   "quotes": [
+    {
+     "q": "「八識」是與生俱來的，「四智」是要經過訓練才能到達",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/104.rhjsyqzsjyfx-jkcf-"
+    },
+    {
+     "q": "而轉八識成四智這個過程則不是與生俱來的，是要訓練的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/34.jlsjcxdswmbljydm-"
+    }
+   ]
+  },
+  {
+   "label": "转的位置与次第",
+   "text": "在住行向地四位行法处转；第六、七识可由行法促成，第八识与前五识随之转，要无功用行与灭尽定行法才到。",
+   "quotes": [
+    {
+     "q": "佛教中說到轉八識成四智、轉凡夫地一切法到諸佛世間一切法即在此處轉",
+     "src": "pages/huayan70/jiangyi11"
+    },
+    {
+     "q": "第八識和前五識，是隨著第六識和第七識的轉變而轉變的，是行法實踐不能直接到達的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/62.yddmjwczdyjzm"
+    },
+    {
+     "q": "其實前五識和第八識不用轉，它本來就是果地。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/3.smzdyqfywyslrcyqfdgx"
+    }
+   ]
+  },
+  {
+   "label": "具体对应",
+   "text": "第八阿赖耶识转大圆镜智，末那识转平等性智；四智按东南西北配置。",
+   "quotes": [
+    {
+     "q": "就是第八阿賴耶識轉到大圓鏡智，末那識轉到平等性智",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+    },
+    {
+     "q": "東邊代表大圓鏡智，南方代表平等性智，西方代表妙觀察智，北方代表成所作智。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/131.sfsblmdbwdydsdwdqwscj-"
+    }
+   ]
+  },
+  {
+   "label": "不是灭除八识",
+   "text": "从闻法模式进入觉知模式，不是完全除灭八识的作用；四智世间不在八识世间之外。",
+   "quotes": [
+    {
+     "q": "並非要完全除滅八識的作用而生起四智",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/4.hysswxfyszxfdgx"
+    },
+    {
+     "q": "八識世間之外，沒有另外一個四智世間",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "说转八识成四智即入萨婆若海，在住行向地四位行法处转。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答多讲八识与四智的对应和训练；2023 问答讲以理性智慧方式取代本能生起一切法。"
+  }
+ ],
+ "related": [
+  "入萨婆若海",
+  "四智"
+ ],
+ "tensions": [
+  {
+   "text": "一页说前五识与第八识本来就是果地、不用转，只转第六第七识；另一页说第八阿赖耶识转大圆镜智。",
+   "sources": [
+    {
+     "q": "其實前五識和第八識不用轉，它本來就是果地。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/3.smzdyqfywyslrcyqfdgx"
+    },
+    {
+     "q": "就是第八阿賴耶識轉到大圓鏡智，末那識轉到平等性智",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "证据中未解释「萨婆若海」本身，也未给出四智各自的完整行法内容。",
+  "huayan28 虽列入页面，但未见其明确定义。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/104.rhjsyqzsjyfx-jkcf-",
+  "pages/huayan70/jiangyi11",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz",
+  "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/62.yddmjwczdyjzm"
+ ],
+ "pages_consulted": 11,
+ "confidence": "medium",
+ "related_unresolved": [
+  "入萨婆若海"
+ ]
+}

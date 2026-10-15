@@ -1,0 +1,62 @@
+{
+ "term": "权教",
+ "key": "权教",
+ "aliases": [],
+ "summary": "修行进入下一阶段时前面理念需调整甚至改变",
+ "definition": "讲者在问答中说，进入下一阶段修行时，前面所修的很多理念甚至成果需要调整乃至改变，这就是权教。例如极乐成就后到华藏时，要把极乐世界的理念舍弃。",
+ "definition_basis": [
+  {
+   "q": "需要做調整，甚至改變，這就是權教",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+  },
+  {
+   "q": "要把極樂世界的理念捨棄",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/19.wsmpxpsysdywdgjl"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "随阶段需调整的理念",
+   "text": "权教指下一阶段修行中前面的理念、成果要做调整甚至改变。",
+   "quotes": [
+    {
+     "q": "需要做調整，甚至改變，這就是權教",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+    }
+   ]
+  },
+  {
+   "label": "极乐到华藏的舍弃",
+   "text": "极乐成就后到华藏时要把极乐世界的理念舍弃。",
+   "quotes": [
+    {
+     "q": "要把極樂世界的理念捨棄",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/19.wsmpxpsysdywdgjl"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（jtl）中给出这一界定并以极乐、华藏为例。"
+  }
+ ],
+ "related": [
+  "极乐世界",
+  "华藏世界"
+ ],
+ "tensions": [],
+ "gaps": [
+  "教学条目中另把「今天念佛明天成佛」等称为权教，本包定义页未直接引用，此卡未采用。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/19.wsmpxpsysdywdgjl"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": [
+  "华藏世界"
+ ]
+}

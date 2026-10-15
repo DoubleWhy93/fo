@@ -1,0 +1,80 @@
+{
+ "term": "一时",
+ "key": "一时",
+ "aliases": [],
+ "summary": "经首「一时」，指当下依一切法生起身心觉受之时，与时间无关",
+ "definition": "讲者说经首的「一时」不是历史时间：huayan70 讲法称它是当下依普遍存在的一切法生起身心觉受的时候，并代表报身成就地是可以到达的。2018-2022 年问答则说，修行到「模式」的时候就是「一时」，它跟时间没关系。",
+ "definition_basis": [
+  {
+   "q": "『一時』是指當下這個時候，指依普遍存在的一切法生起身心覺受的時候。",
+   "src": "pages/huayan70/jiangyi23"
+  },
+  {
+   "q": "『一時』代表報身成就地是可以到達的。",
+   "src": "pages/huayan70/jiangyi1"
+  },
+  {
+   "q": "真正到模式的時候就是「一時」，它跟時間沒關係。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/40.jzzh-mltdscsjyqfsyscjm-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "当下依一切法生起身心觉受",
+   "text": "huayan70 第23讲的解释。",
+   "quotes": [
+    {
+     "q": "『一時』是指當下這個時候，指依普遍存在的一切法生起身心覺受的時候。",
+     "src": "pages/huayan70/jiangyi23"
+    }
+   ]
+  },
+  {
+   "label": "代表报身成就地可到达",
+   "text": "huayan70 第1讲的解释。",
+   "quotes": [
+    {
+     "q": "『一時』代表報身成就地是可以到達的。",
+     "src": "pages/huayan70/jiangyi1"
+    }
+   ]
+  },
+  {
+   "label": "行法到「模式」时",
+   "text": "问答：修行有内容、觉受、模式三层，到模式时即「一时」。",
+   "quotes": [
+    {
+     "q": "真正到模式的時候就是「一時」，它跟時間沒關係。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/40.jzzh-mltdscsjyqfsyscjm-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "两处解释：当下身心觉受之时，以及报身成就地可到达。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018-2022 年问答把它与行法修到「模式」联系起来。"
+  }
+ ],
+ "related": [
+  "报身世间",
+  "经首",
+  "模式"
+ ],
+ "tensions": [],
+ "gaps": [
+  "三个说法之间的关系，讲者未在这些页面中统合。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi23",
+  "pages/huayan70/jiangyi1",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/40.jzzh-mltdscsjyqfsyscjm-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

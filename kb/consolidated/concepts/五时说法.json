@@ -1,0 +1,85 @@
+{
+ "term": "五时说法",
+ "key": "五时说法",
+ "aliases": [],
+ "summary": "佛陀说法分五阶段，华严时为第一",
+ "definition": "讲者说佛陀说法分五个时期：华严时、阿含时、方等时、般若时、法华涅槃时。华严时被排在第一，讲佛陀圆满自证、成就地的部分，其余各时从此生起到世间。",
+ "definition_basis": [
+  {
+   "q": "佛陀是五時說法。第一時是華嚴時，然後是阿含時、方等時、般若時和法華涅槃時。",
+   "src": "pages/amtj/amtj1"
+  },
+  {
+   "q": "第一是華嚴時，是講佛陀圓滿自證的部分",
+   "src": "pages/huayan70/jiangyi2"
+  },
+  {
+   "q": "華嚴時、阿含時、方等時、般若時、法華涅槃時",
+   "src": "pages/huayan28/28jiang7"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "五时的名称与次序",
+   "text": "华严时、阿含时、方等时、般若时、法华涅槃时。",
+   "quotes": [
+    {
+     "q": "佛陀是五時說法。第一時是華嚴時，然後是阿含時、方等時、般若時和法華涅槃時。",
+     "src": "pages/amtj/amtj1"
+    },
+    {
+     "q": "即華嚴時、阿含時、方等時、般若時、法華涅槃時",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/3.cfskypdcjdzgm-"
+    }
+   ]
+  },
+  {
+   "label": "华严时为第一，讲圆满自证",
+   "text": "讲者说华严时讲佛陀圆满自证的部分，后四时依此生起。",
+   "quotes": [
+    {
+     "q": "第一是華嚴時，是講佛陀圓滿自證的部分",
+     "src": "pages/huayan70/jiangyi2"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "说明华严时列第一，是因为华严讲最本体、最圆满的成就。"
+  },
+  {
+   "series": "huayan28",
+   "text": "把五时说成大乘佛教对佛陀说法的分期。"
+  },
+  {
+   "series": "huayan70",
+   "text": "说华严时是佛陀圆满自证，后四时由此生起。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答中仅把五时作为汉地所讲分期罗列。"
+  }
+ ],
+ "related": [
+  "华严时",
+  "龙树菩萨",
+  "登地位"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页对五时之间的衔接与各时经典的详细归属仅在 teachings 中提及，本卡未逐页展开。"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj1",
+  "pages/huayan70/jiangyi2",
+  "pages/huayan28/28jiang7"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": [
+  "华严时",
+  "龙树菩萨"
+ ]
+}

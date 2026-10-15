@@ -1,0 +1,88 @@
+{
+ "term": "边界",
+ "key": "边界",
+ "aliases": [],
+ "summary": "边界就是条件、因缘；智慧的作用是划分边界",
+ "definition": "讲者说边界就是条件、因缘，是我们生起个体知识经验的边界。智慧的作用是划分边界，有边界才有生命解脱与无上正觉；划得不准、越过边界会形成幻相烦恼。",
+ "definition_basis": [
+  {
+   "q": "邊界是什麼意思？邊界就是條件。",
+   "src": "pages/swxf/shizhu18"
+  },
+  {
+   "q": "邊界就是條件，邊界就是因緣。",
+   "src": "pages/shixin/shixin8"
+  },
+  {
+   "q": "智慧的作用就是要劃分邊界，邊界劃分清楚了，有邊界纔有生命解脫，纔有無上正覺",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "边界即条件、因缘",
+   "text": "给某一法一个边界，就是给它条件，使它凸显而成独特一法。",
+   "quotes": [
+    {
+     "q": "邊界是什麼意思？邊界就是條件。",
+     "src": "pages/swxf/shizhu18"
+    },
+    {
+     "q": "邊界就是條件，邊界就是因緣。",
+     "src": "pages/shixin/shixin8"
+    }
+   ]
+  },
+  {
+   "label": "智慧划分边界",
+   "text": "般若／自性智慧的作用是给诸法划分边界，边界是生命解脱的保证。",
+   "quotes": [
+    {
+     "q": "智慧的作用就是要劃分邊界，邊界劃分清楚了，有邊界纔有生命解脫，纔有無上正覺",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+    },
+    {
+     "q": "自性智慧起什麼作用？就是給諸法劃分邊界",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/26.zywd-24-01-13-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "十住讲：边界就是条件，无礙智、无著智没有边界。"
+  },
+  {
+   "series": "shixin",
+   "text": "十信讲用「石头」概念说明边界即条件、因缘。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答：智慧划分边界与生命解脱。"
+  }
+ ],
+ "related": [
+  "条件",
+  "因缘",
+  "智慧",
+  "无上正觉"
+ ],
+ "tensions": [],
+ "gaps": [
+  "pack 中还有总相无边界、第七位为边界等用法，本卡未引其原文。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu18",
+  "pages/shixin/shixin8",
+  "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
+  "pages/dayi_all/2023dy/wz/WORDbb/26.zywd-24-01-13-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "条件",
+  "因缘",
+  "智慧"
+ ]
+}

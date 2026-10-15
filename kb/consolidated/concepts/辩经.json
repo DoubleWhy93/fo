@@ -1,0 +1,80 @@
+{
+ "term": "辩经",
+ "key": "辩经",
+ "aliases": [],
+ "summary": "印度的辩经是对修行者微细智的精密校验，不是讨论问题",
+ "definition": "讲者说辩经不是一般的讨论，而是知见上精密严格的校验，辨析的是修行者的微细智。行者方向基本一致，辩的是细节是否准确、是否符合成就者所说的意义。证量不够，演说上就会有偏差。",
+ "definition_basis": [
+  {
+   "q": "辯經並不是討論，而是知見上的一種精密而嚴格的校驗",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/7.jlzzjdyzzzssm-"
+  },
+  {
+   "q": "辯經不是討論問題，而是辯析修行者的微細智",
+   "src": "pages/huayan28/28jiang24"
+  },
+  {
+   "q": "辯經不是從方向上去辨別，行者的方向基本是一致的",
+   "src": "pages/amtj/amtj7"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不是讨论而是校验",
+   "text": "辩经不是讨论问题，而是对知见与微细智的精密严格辨析。",
+   "quotes": [
+    {
+     "q": "辯經並不是討論，而是知見上的一種精密而嚴格的校驗",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/7.jlzzjdyzzzssm-"
+    },
+    {
+     "q": "辯經不是討論問題，而是辯析修行者的微細智",
+     "src": "pages/huayan28/28jiang24"
+    }
+   ]
+  },
+  {
+   "label": "辨细节而非辨方向",
+   "text": "行者方向基本一致（出世间、出三界），辩的是细节是否准确、是否符合成就者所说的意义。",
+   "quotes": [
+    {
+     "q": "辯經不是從方向上去辨別，行者的方向基本是一致的",
+     "src": "pages/amtj/amtj7"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "说印度辩经辨的是行者的微细智，不辨方向而辨细节。"
+  },
+  {
+   "series": "huayan28",
+   "text": "说辩经不是讨论问题，证量不够则演说上存在偏差。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年 swms-dzz 专题称其为知见上精密而严格的校验。"
+  }
+ ],
+ "related": [
+  "微细智",
+  "证量"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页只在印度辩经的语境下讲，未说明汉传如何操作的细节。",
+  "「辩经（印度）」只是变体标注，未并入别名。"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj7",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/7.jlzzjdyzzzssm-",
+  "pages/huayan28/28jiang24"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "微细智"
+ ]
+}

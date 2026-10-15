@@ -1,0 +1,109 @@
+{
+ "term": "佛法僧与身语意",
+ "key": "佛法僧与身语意",
+ "aliases": [
+  "佛、法、僧与身语意"
+ ],
+ "summary": "佛法僧是生命力量的三因素，身语意是它们在体验中的表现",
+ "definition": "讲者说「佛法僧」是佛教思想的核心三要素，是从生命力量（理论）角度讲；「身语意」是同一力量在生命体验、行法实践中的具体表现。佛法僧的顺序是生起一切法的顺序，身语意的顺序是体验一切法、证得解脱与正觉的顺序。",
+ "definition_basis": [
+  {
+   "q": "『佛法僧』的順序是生起一切法的順序，『身語意』的順序是體驗一切法的順序",
+   "src": "pages/huayan70/jiangyi34"
+  },
+  {
+   "q": "身語意是從「生命體驗」的角度去說的，而佛法僧是從「生命力量」的角度去說的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl"
+  },
+  {
+   "q": "佛、法、僧這三個生命力量，從我們生命體驗的角度去講，就是身、語、意一切法。",
+   "src": "pages/swxf/shizhu2"
+  },
+  {
+   "q": "「身語意」就是我們生命當中佛法僧這三個核心的生命力量的具體表現",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "力量角度与体验角度",
+   "text": "佛法僧从「生命力量」角度说，身语意从「生命体验」角度说，讲者称实际是一个力量。",
+   "quotes": [
+    {
+     "q": "身語意是從「生命體驗」的角度去說的，而佛法僧是從「生命力量」的角度去說的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl"
+    },
+    {
+     "q": "佛、法、僧這三個生命力量，從我們生命體驗的角度去講，就是身、語、意一切法。",
+     "src": "pages/swxf/shizhu2"
+    }
+   ]
+  },
+  {
+   "label": "两个顺序",
+   "text": "生起一切法按佛法僧的顺序，体验、证得一切法按身语意的顺序；对应皈依佛、法、僧。",
+   "quotes": [
+    {
+     "q": "『佛法僧』的順序是生起一切法的順序，『身語意』的順序是體驗一切法的順序",
+     "src": "pages/huayan70/jiangyi34"
+    },
+    {
+     "q": "「身語意」就是我們生命當中佛法僧這三個核心的生命力量的具體表現",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-"
+    }
+   ]
+  },
+  {
+   "label": "「意」的内容",
+   "text": "hyxf 问答把「意」讲成身业入灭尽定、语业入灭尽定的总和。",
+   "quotes": [
+    {
+     "q": "「意」的部分是身業入滅盡定、語業入滅盡定的總和",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/48.rldyqf-ybssjdyqfdcb"
+    }
+   ]
+  },
+  {
+   "label": "佛法僧对应身语意",
+   "text": "hyxf 问答说佛法僧对应身语意，具体的身心实践就是身语意三个力量生起的所有法。",
+   "quotes": [
+    {
+     "q": "佛法僧對應的就是身語意。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/75.dexwytlbz-qhwr-ydjzwd-zz-yhbt "
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "明确两个顺序：佛法僧为生起顺序，身语意为体验与证得顺序。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中六品经文围绕佛法僧三力量生起，从体验角度即身语意一切法。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 hyxf 系列从力量与体验两个角度反复解释，并讲到「意」是灭尽定行法的总和；2023 问答联系皈依佛法僧。"
+  }
+ ],
+ "related": [
+  "一切法",
+  "灭尽定"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据包未展开「佛」「法」「僧」各自的具体内涵，只在个别页面说「佛」从总体、原则、力量、种性说。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi34",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/51.cjsyy-ycqqdxw-tyqjl",
+  "pages/swxf/shizhu2",
+  "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/48.rldyqf-ybssjdyqfdcb"
+ ],
+ "pages_consulted": 6,
+ "confidence": "high",
+ "related_unresolved": []
+}

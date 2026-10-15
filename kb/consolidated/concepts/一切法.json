@@ -1,0 +1,61 @@
+{
+ "term": "一切法",
+ "key": "一切法",
+ "aliases": [],
+ "summary": "念头生起后真正运用、生起思惟、行者能明了的「法」",
+ "definition": "讲者说「法」是念头生起之后真正开始运用、真正开始生起思惟、行者能明了的东西。大乘十住位以后，一切法生起皆是清净法、一切法都是实际法，这是肯定一切法的阶段。",
+ "definition_basis": [
+  {
+   "q": "「法」是念頭生起之後，真正開始運用，真正開始生起思惟，行者能明瞭，這叫「法」。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/16.yqzhyqf"
+  },
+  {
+   "q": "一切法生起皆是清淨法，一切法都是實際法，這就是肯定一切法的階段",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "「法」的定义",
+   "text": "法是念头生起之后真正开始运用、生起思惟、行者能明了。",
+   "quotes": [
+    {
+     "q": "「法」是念頭生起之後，真正開始運用，真正開始生起思惟，行者能明瞭，這叫「法」。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/16.yqzhyqf"
+    }
+   ]
+  },
+  {
+   "label": "十住位以后肯定一切法",
+   "text": "一切法生起皆是清净法、一切法都是实际法。",
+   "quotes": [
+    {
+     "q": "一切法生起皆是清淨法，一切法都是實際法，這就是肯定一切法的階段",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "仅 2018–2022 年 swms-dzz、hyxf 页给出定义与阶段说法。"
+  }
+ ],
+ "related": [
+  "有法",
+  "道种智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页未单独区分「一切法」与「有法」。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/48.rldyqf-ybssjdyqfdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/16.yqzhyqf"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

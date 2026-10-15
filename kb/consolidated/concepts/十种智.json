@@ -1,0 +1,110 @@
+{
+ "term": "十种智",
+ "key": "十种智",
+ "aliases": [],
+ "summary": "初住位依之发心、终成如来地十种力的十项智",
+ "definition": "十种智是《华严经》初住位法慧菩萨所讲的十项智：是处非处智、善恶业报智等。讲者说行者最初要依它发心，它是一种力量，贯穿华严行法始终，到如来地成为十种力。",
+ "definition_basis": [
+  {
+   "q": "是處非處智、善惡業報智、諸根勝劣智、種種解差別智、種種界差別智、一切至處道智、諸禪解脫三昧智、宿命無礙智、天眼無礙智、三世漏普盡智。",
+   "src": "pages/swxf/shizhu20"
+  },
+  {
+   "q": "行者最初要依照十種智發心",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/18.szz-szlydzzdgx"
+  },
+  {
+   "q": "這十種智即是未來如來地十種力。",
+   "src": "pages/huayan70/jiangyi17"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "十项内容",
+   "text": "十项依次为是处非处智、善恶业报智、诸根胜劣智、种种解差别智、种种界差别智、一切至处道智、诸禅解脱三昧智、宿命无碍智、天眼无碍智、三世漏普尽智。",
+   "quotes": [
+    {
+     "q": "是處非處智、善惡業報智、諸根勝劣智、種種解差別智、種種界差別智、一切至處道智、諸禪解脫三昧智、宿命無礙智、天眼無礙智、三世漏普盡智",
+     "src": "pages/huayan28/28jiang20"
+    }
+   ]
+  },
+  {
+   "label": "初住位发心所依",
+   "text": "初住位行者依这十种智发心。",
+   "quotes": [
+    {
+     "q": "行者最初要依照十種智發心",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/18.szz-szlydzzdgx"
+    }
+   ]
+  },
+  {
+   "label": "力量性、贯穿始终",
+   "text": "讲者说十种智是一种力量，在整个华严行法中贯穿始终。",
+   "quotes": [
+    {
+     "q": "那個十種智是一種力量",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/50.pgmdxfllrhyydwsscxfsjz"
+    },
+    {
+     "q": "「十種智」在整個華嚴行法中是貫穿始終的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/17.sxwrhmlszz-"
+    }
+   ]
+  },
+  {
+   "label": "转为如来地十种力",
+   "text": "十种智即未来如来地的十种力。",
+   "quotes": [
+    {
+     "q": "這十種智即是未來如來地十種力。",
+     "src": "pages/huayan70/jiangyi17"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "列出十项，并说到如来地成十种力。"
+  },
+  {
+   "series": "huayan70",
+   "text": "说十种智即未来如来地十种力，从智到力经普光明殿四个行法阶段。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中把十项列为初发心住的十种难得法，到第十行位得知一切众生十种智。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答讲它是力量性的东西，贯穿始终，在初住位依之发心。"
+  }
+ ],
+ "related": [
+  "是处非处智",
+  "十种力",
+  "如来地",
+  "初发心住",
+  "法眼"
+ ],
+ "tensions": [],
+ "gaps": [
+  "十项各自的具体内容，本卡所依页面只列名，未逐项解释。",
+  "没有说明「十种智」与「十种力」是否同一概念，只说前者变成后者。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu20",
+  "pages/huayan70/jiangyi17",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/17.sxwrhmlszz-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/18.szz-szlydzzdgx",
+  "pages/huayan28/28jiang20"
+ ],
+ "pages_consulted": 6,
+ "confidence": "medium",
+ "related_unresolved": [
+  "十种力",
+  "初发心住"
+ ]
+}

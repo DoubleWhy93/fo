@@ -1,0 +1,87 @@
+{
+ "term": "婆罗门",
+ "key": "婆罗门",
+ "aliases": [],
+ "summary": "即波罗蜜，指离生灭、到彼岸的智慧成就者",
+ "definition": "讲者说婆罗门就是波罗蜜，指离生灭、到彼岸、得解脱，是以智慧力得生命解脱的智慧成就者。印度称其「从口而生」，佛教中证得法自在的成就者亦可称婆罗门、从佛口生；不能简单理解为外道，要看具体经文环境。",
+ "definition_basis": [
+  {
+   "q": "『婆羅門』即『波羅蜜』，是指離生滅、到彼岸、得解脫。",
+   "src": "pages/huayan70/jiangyi53"
+  },
+  {
+   "q": "因為婆羅門就是從波羅蜜這三個字來的，所以證得法自在的人，在佛教裡也可以稱為婆羅門。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/136.cz-plmddbcjz-lzdcbssm-"
+  },
+  {
+   "q": "『婆羅門』是指智慧成就者，即以智慧力得生命解脫者",
+   "src": "pages/huayan70/jiangyi60"
+  },
+  {
+   "q": "『婆羅門』即『波羅蜜』，是指於一切法中而超越一切法，意為到彼岸、離生滅",
+   "src": "pages/huayan70/jiangyi69"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "即波罗蜜",
+   "text": "婆罗门即波罗蜜，指离生灭、到彼岸、得解脱。",
+   "quotes": [
+    {
+     "q": "『婆羅門』即『波羅蜜』，是指離生滅、到彼岸、得解脫。",
+     "src": "pages/huayan70/jiangyi53"
+    },
+    {
+     "q": "『婆羅門』即『波羅蜜』，是指於一切法中而超越一切法，意為到彼岸、離生滅",
+     "src": "pages/huayan70/jiangyi69"
+    }
+   ]
+  },
+  {
+   "label": "智慧成就者",
+   "text": "指以智慧力得生命解脱者，证得法自在者在佛教里也可称婆罗门。",
+   "quotes": [
+    {
+     "q": "『婆羅門』是指智慧成就者，即以智慧力得生命解脫者",
+     "src": "pages/huayan70/jiangyi60"
+    },
+    {
+     "q": "因為婆羅門就是從波羅蜜這三個字來的，所以證得法自在的人，在佛教裡也可以稱為婆羅門。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/136.cz-plmddbcjz-lzdcbssm-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲婆罗门即波罗蜜、智慧成就者，从口而生，五十三参中两位婆罗门在第九位。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（hyxf）讲婆罗门来自波罗蜜三字，证得法自在者可称婆罗门。"
+  }
+ ],
+ "related": [
+  "波罗蜜",
+  "法自在",
+  "智慧成就者",
+  "五十三参"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「婆罗门」与外道、种姓说法的关系只在教学摘要中，未在定义页展开。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi53",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/136.cz-plmddbcjz-lzdcbssm-",
+  "pages/huayan70/jiangyi60",
+  "pages/huayan70/jiangyi69"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": [
+  "法自在",
+  "智慧成就者"
+ ]
+}

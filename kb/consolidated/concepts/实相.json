@@ -1,0 +1,97 @@
+{
+ "term": "实相",
+ "key": "实相",
+ "aliases": [],
+ "summary": "一切法的本然存在，或对一法的准确描述；随行法次第而有不同说法",
+ "definition": "讲者说存在即是实相，一切法的本然存在、普遍存在即真如、如来地、一真法界或诸法实相。另一些页中，实相被说成对一法的准确描述，且随行法次第不同。",
+ "definition_basis": [
+  {
+   "q": "存在即是『實相』",
+   "src": "pages/huayan70/jiangyi42"
+  },
+  {
+   "q": "『實相』是指對於一法的準確描述",
+   "src": "pages/huayan70/jiangyi20"
+  },
+  {
+   "q": "比如《十行位》的時候，我們看到蘋果不是香蕉就是實相。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/140.-sx-yxfcddbtebt"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "存在即是实相",
+   "text": "一切法的本然存在即实相，不在分别法中建立。",
+   "quotes": [
+    {
+     "q": "存在即是『實相』",
+     "src": "pages/huayan70/jiangyi42"
+    }
+   ]
+  },
+  {
+   "label": "对一法的准确描述",
+   "text": "实相是对一法的准确描述；十行位善思惟中符合实际的判断皆是实相。",
+   "quotes": [
+    {
+     "q": "『實相』是指對於一法的準確描述",
+     "src": "pages/huayan70/jiangyi20"
+    }
+   ]
+  },
+  {
+   "label": "随行法次第不同",
+   "text": "十行位看到苹果不是香蕉就是实相。",
+   "quotes": [
+    {
+     "q": "比如《十行位》的時候，我們看到蘋果不是香蕉就是實相。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/140.-sx-yxfcddbtebt"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "jiangyi42 说存在即是实相；jiangyi20 说实相是对一法的准确描述。"
+  },
+  {
+   "series": "答疑",
+   "text": "hyxf 页：随行法次第不同，实相有不同的说法。"
+  }
+ ],
+ "related": [
+  "诸法空",
+  "无生法忍",
+  "真如"
+ ],
+ "tensions": [
+  {
+   "text": "实相被说成一切法的存在本身，也被说成对一法的准确描述，各页并列。",
+   "sources": [
+    {
+     "q": "存在即是『實相』",
+     "src": "pages/huayan70/jiangyi42"
+    },
+    {
+     "q": "『實相』是指對於一法的準確描述",
+     "src": "pages/huayan70/jiangyi20"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各页未把两种用法统一成一个说法。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/140.-sx-yxfcddbtebt",
+  "pages/huayan70/jiangyi20",
+  "pages/huayan70/jiangyi42"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "诸法空",
+  "真如"
+ ]
+}

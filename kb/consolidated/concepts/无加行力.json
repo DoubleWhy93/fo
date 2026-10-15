@@ -1,0 +1,95 @@
+{
+ "term": "无加行力",
+ "key": "无加行力",
+ "aliases": [
+  "无加行力生起"
+ ],
+ "summary": "不需作意、生命本有而自然生起的力量",
+ "definition": "讲者说无加行力就是生命本身有这个能力，它就会生起，不需要作意。2023 年问答说它有两层：依于根本智的自觉生起，以及依于差别智、到入灭尽定行法时的生起。习性形成后不作意也会生起，讲者说这在经典上叫无加行力生起，是最可靠的。",
+ "definition_basis": [
+  {
+   "q": "無加行力的意思就是生命本身有這個能力，它就會生起。",
+   "src": "pages/swxf/shizhu1"
+  },
+  {
+   "q": "無加行力是指不需要作意就能生起，是依於自性本有的力量生起，依於根本智的",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+  },
+  {
+   "q": "這在經典上，就叫「無加行力生起」，這是最可靠的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/56.wssqzysdbsm-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "生命本有、自性的规定",
+   "text": "一切法生起不需作意，是生命本有、自性本身的规定。",
+   "quotes": [
+    {
+     "q": "無加行力生起的意思就是這是生命本有的",
+     "src": "pages/swxf/shizhu34"
+    }
+   ]
+  },
+  {
+   "label": "觉知与不觉知都可到自性",
+   "text": "2018–2022 年问答的界定：觉知它和不觉知它都可到达自性。",
+   "quotes": [
+    {
+     "q": "「無加行力」就是你覺知它和不覺知它，都可以到達自性。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/11.-bd-zgfsjhbgfsjdcb"
+    }
+   ]
+  },
+  {
+   "label": "习性熏成后的生起",
+   "text": "习性形成后不作意也会生起。",
+   "quotes": [
+    {
+     "q": "這在經典上，就叫「無加行力生起」，這是最可靠的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/56.wssqzysdbsm-"
+    }
+   ]
+  },
+  {
+   "label": "不能刻意到达",
+   "text": "不要刻意去确认自己是否知道无加行力的生起，刻意是到不了的。",
+   "quotes": [
+    {
+     "q": "不要刻意到這，刻意是到不了的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/132.sfcfxjdscbtjdjd"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "十住讲中说它是生命本有、不需作意的生起。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲习性熏成后的可靠生起及不可刻意到达；2023 年问答分根本智与差别智两层说。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "差别智",
+  "入灭尽定",
+  "一念无明"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「不可刻意」与「觉知与否皆可到自性」两种说法之间的关系页面未直接说明。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu1",
+  "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+  "pages/swxf/shizhu34",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/56.wssqzysdbsm-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/132.sfcfxjdscbtjdjd"
+ ],
+ "pages_consulted": 6,
+ "confidence": "high",
+ "related_unresolved": []
+}

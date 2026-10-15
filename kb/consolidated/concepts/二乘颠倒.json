@@ -1,0 +1,71 @@
+{
+ "term": "二乘颠倒",
+ "key": "二乘颠倒",
+ "aliases": [],
+ "summary": "二乘在无常之外寻常、在不净之外寻净的颠倒，与凡夫颠倒相反",
+ "definition": "讲者说二乘颠倒与凡夫颠倒相反，是在无常之外要寻找一个常法，在不净之外要寻找一个净法。这种颠倒不容易去除，因为二乘认为确实有一个叫「无我」的存在。",
+ "definition_basis": [
+  {
+   "q": "因為二乘顛倒認為確實有一個叫「無我」的存在",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+  },
+  {
+   "q": "是在無常之外要尋找一個常法，在不淨之外要尋找一個淨法",
+   "src": "pages/dayi/dy_ylsj"
+  },
+  {
+   "q": "另一種就是二乘顛倒，它與凡夫顛倒相反，是在無常之外要尋找一個常法，在不淨之外要尋找一個淨法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/34.whecswdrjfbncss"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "在无常外寻常、不净外寻净",
+   "text": "二乘颠倒是在无常之外寻找常法、不净之外寻找净法。",
+   "quotes": [
+    {
+     "q": "是在無常之外要尋找一個常法，在不淨之外要尋找一個淨法",
+     "src": "pages/dayi/dy_ylsj"
+    },
+    {
+     "q": "另一種就是二乘顛倒，它與凡夫顛倒相反，是在無常之外要尋找一個常法，在不淨之外要尋找一個淨法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/34.whecswdrjfbncss"
+    }
+   ]
+  },
+  {
+   "label": "不易去除的原因",
+   "text": "二乘颠倒认为确有「无我」的存在，所以不容易去除。",
+   "quotes": [
+    {
+     "q": "因為二乘顛倒認為確實有一個叫「無我」的存在",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "dayi 短文与 2018–2022 年 swms-dzz、sz 页对二乘颠倒的定义一致，并与凡夫颠倒对举。"
+  }
+ ],
+ "related": [
+  "凡夫颠倒",
+  "无我"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「凡夫颠倒」只在对举时出现，没有独立的页面证据。"
+ ],
+ "where_to_read": [
+  "pages/dayi/dy_ylsj",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/34.whecswdrjfbncss",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/22.rhjmnszdpdxz"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "凡夫颠倒"
+ ]
+}

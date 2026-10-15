@@ -1,0 +1,75 @@
+{
+ "term": "不共法世间",
+ "key": "不共法世间",
+ "aliases": [],
+ "summary": "报身世间：依各人种性建立、他人无法进入的身心觉受",
+ "definition": "讲者把不共法世间说成报身世间的一切法：一切法从心想生，依不同众生的种性建立身心觉受。它由修行者自己的行法生起；例如每个人的意法只有他自己知道，别人无法进入。",
+ "definition_basis": [
+  {
+   "q": "不共法世間一切法，是「一切法從心想生」，即是依照不同眾生的種性而建立的身心覺受。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+  },
+  {
+   "q": "就是修行者一定要依於不共法世間，也就是報身世間的行法生起",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-"
+  },
+  {
+   "q": "每個人的意法只有他自己知道，別人是無法進入的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "依种性建立的身心觉受",
+   "text": "不共法世间的一切法从心想生，依众生种性建立。",
+   "quotes": [
+    {
+     "q": "不共法世間一切法，是「一切法從心想生」，即是依照不同眾生的種性而建立的身心覺受。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-"
+    }
+   ]
+  },
+  {
+   "label": "即报身世间，须依之起行法",
+   "text": "讲者说修行者一定要依于不共法世间即报身世间的行法生起。",
+   "quotes": [
+    {
+     "q": "就是修行者一定要依於不共法世間，也就是報身世間的行法生起",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-"
+    }
+   ]
+  },
+  {
+   "label": "他人无法进入",
+   "text": "例如意这一法是不共的，只有本人知道。",
+   "quotes": [
+    {
+     "q": "每個人的意法只有他自己知道，別人是無法進入的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答中，在 hyxf、jtl、wm-lb 等系列里分别从心想生、报身世间、意法不共三个角度说明。"
+  }
+ ],
+ "related": [
+  "报身世间",
+  "共法世间"
+ ],
+ "tensions": [],
+ "gaps": [
+  "本包定义页均为 2018–2022 年问答；其他系列只在教学条目中使用，此卡未逐页引用。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/29.fbhssy-gx--zx-h-lx-",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

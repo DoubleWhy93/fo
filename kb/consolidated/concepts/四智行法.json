@@ -1,0 +1,100 @@
+{
+ "term": "四智行法",
+ "key": "四智行法",
+ "aliases": [],
+ "summary": "对应十住、十行、十回向、十地四位的有法行法",
+ "definition": "讲者说四智行法对应《华严经》十住、十行、十迴向、十地四位行法，完全是「有法」生起，是依根本智生起的入世间道种智行法，不能离开根本智而运行。它在言说上一个完成再进入下一个，实际是在一切法中综合反复训练的整体。",
+ "definition_basis": [
+  {
+   "q": "四智行法，對應的是《華嚴經》的十住、十行、十迴向、十地四位行法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+  },
+  {
+   "q": "四智行法完全是「有法」生起的，按照住行向地四個次第來言說",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb"
+  },
+  {
+   "q": "四智行法是依根本智所生起的入世間道種智行法，道種智不能離開根本智而運行",
+   "src": "pages/huayan28/28jiang19"
+  },
+  {
+   "q": "四智行法是一個整體，雖然在言說上是一個完成了，再進入到下一個；但實際上是在一切法中綜合反覆訓練的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "对应住行向地四位",
+   "text": "四智行法对应十住、十行、十迴向、十地四位行法，按住行向地四个次第言说。",
+   "quotes": [
+    {
+     "q": "四智行法，對應的是《華嚴經》的十住、十行、十迴向、十地四位行法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+    },
+    {
+     "q": "四智行法完全是「有法」生起的，按照住行向地四個次第來言說",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb"
+    }
+   ]
+  },
+  {
+   "label": "依根本智的入世间道种智行法",
+   "text": "huayan28 说它是依普光明殿根本智生起的入世间道种智行法，道种智不能离开根本智。",
+   "quotes": [
+    {
+     "q": "四智行法是依根本智所生起的入世間道種智行法，道種智不能離開根本智而運行",
+     "src": "pages/huayan28/28jiang19"
+    }
+   ]
+  },
+  {
+   "label": "一个整体，综合反复训练",
+   "text": "言说上有先后，实际在一切法中综合反复训练。",
+   "quotes": [
+    {
+     "q": "四智行法是一個整體，雖然在言說上是一個完成了，再進入到下一個；但實際上是在一切法中綜合反覆訓練的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成依根本智生起的入世间道种智行法，对应四十位行法。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答（sz、swms-dzz 等）：说它完全是有法生起、对应住行向地，言说有先后但实际是整体训练。"
+  }
+ ],
+ "related": [
+  "道种智",
+  "根本智",
+  "有法",
+  "十住位",
+  "十行位",
+  "十回向位",
+  "十地位",
+  "菩萨道种智行法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据包未列出四智各自的名称与内容。",
+  "「菩萨道种智行法」只在变体标注里与四智行法并列，作别名保留。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang19",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "十住位",
+  "十行位",
+  "十回向位",
+  "十地位"
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "term": "三细相",
+ "key": "三细相",
+ "aliases": [],
+ "summary": "业相、转相（能见相）、境界相：一切法生起的最初呈现",
+ "definition": "讲者说三细相是业相、转相（或能见相）、境界相，是一法生起的最初呈现，针对所有众生，成就无上正觉也是如此。它由无为法生起，众生的思惟行为不能到达也不能掌控；此后才依凡夫种性生起八识世间，依菩萨种性生起四智法世间。huayan70 又把菩提场会前三品对应三细相。",
+ "definition_basis": [
+  {
+   "q": "生命中『佛法僧』三者最初的呈現即是業相、能見相和境界相。",
+   "src": "pages/huayan28/28jiang13"
+  },
+  {
+   "q": "三細相是無為法生起的，眾生思惟、行為不能到達、不能掌控",
+   "src": "pages/huayan70/jiangyi19"
+  },
+  {
+   "q": "三細相的生起，確切講一切眾生都是這樣的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/128.sxxhfbhssddygx"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "佛法僧的最初呈现",
+   "text": "huayan28 说生命中佛法僧三者最初的呈现即业相、能见相、境界相。",
+   "quotes": [
+    {
+     "q": "生命中『佛法僧』三者最初的呈現即是業相、能見相和境界相。",
+     "src": "pages/huayan28/28jiang13"
+    }
+   ]
+  },
+  {
+   "label": "无为法所生、不能到达",
+   "text": "三细相由无为法生起，众生思惟行为不能到达也不能掌控。",
+   "quotes": [
+    {
+     "q": "三細相是無為法生起的，眾生思惟、行為不能到達、不能掌控",
+     "src": "pages/huayan70/jiangyi19"
+    }
+   ]
+  },
+  {
+   "label": "针对一切众生",
+   "text": "三细相的生起确切讲一切众生都是这样。",
+   "quotes": [
+    {
+     "q": "三細相的生起，確切講一切眾生都是這樣的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/128.sxxhfbhssddygx"
+    }
+   ]
+  },
+  {
+   "label": "对应菩提场会前三品",
+   "text": "讲者说前三品即佛教所讲的三细相。",
+   "quotes": [
+    {
+     "q": "總體來說，這三品就是佛教裡講的三細相：業相、轉相、境界相。",
+     "src": "pages/huayan70/jiangyi7"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成佛法僧最初呈现：业相、能见相、境界相。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成一法生起之始，无为法所生，对应菩提场会前三品。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲三细相针对所有众生。"
+  }
+ ],
+ "related": [
+  "无为法",
+  "八识",
+  "四智行法"
+ ],
+ "tensions": [
+  {
+   "text": "三细相的第二项名称不同：有的页作「能见相」，有的页作「转相」。",
+   "sources": [
+    {
+     "q": "生命中『佛法僧』三者最初的呈現即是業相、能見相和境界相。",
+     "src": "pages/huayan28/28jiang13"
+    },
+    {
+     "q": "總體來說，這三品就是佛教裡講的三細相：業相、轉相、境界相。",
+     "src": "pages/huayan70/jiangyi7"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "与「六粗相」的对照只出现在 teachings 中，本卡未逐页核对。",
+  "别名：未能确认「能见相／转相」是否同一，故不列别名，见 tensions。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/128.sxxhfbhssddygx",
+  "pages/huayan70/jiangyi19",
+  "pages/huayan70/jiangyi7",
+  "pages/huayan28/28jiang13"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "无为法",
+  "八识"
+ ]
+}

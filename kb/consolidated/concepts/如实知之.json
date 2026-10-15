@@ -1,0 +1,79 @@
+{
+ "term": "如实知之",
+ "key": "如实知之",
+ "aliases": [],
+ "summary": "佛陀授阿罗汉记时的要求：对法与自身修行如实知",
+ "definition": "讲者说如实知之是佛陀对每位修行者提出的要求，既对一切法的观察思惟，也对自己的修行状况。世尊最后一定要加一句「如实知之」，或叫「自知不受后有」。在阿罗汉成就的四句中，如实知之就是解脱知见的部分。",
+ "definition_basis": [
+  {
+   "q": "『如實知之』是佛陀對每一位修行者提出的要求。",
+   "src": "pages/huayan28/28jiang1"
+  },
+  {
+   "q": "所以世尊最後一定要加一句「如實知之」，或者叫「自知不受後有」。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/58.zylj-wsyj-fxyl-szyb-zzbshy-"
+  },
+  {
+   "q": "其中的「如實知之」就是解脫知見的部分。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/26.hwjtzj-ydzzyhcb-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "佛陀对修行者的要求",
+   "text": "佛陀对每位修行者提出的要求。",
+   "quotes": [
+    {
+     "q": "『如實知之』是佛陀對每一位修行者提出的要求。",
+     "src": "pages/huayan28/28jiang1"
+    }
+   ]
+  },
+  {
+   "label": "解脱知见",
+   "text": "属阿罗汉成就四句之一，被说成解脱知见。",
+   "quotes": [
+    {
+     "q": "其中的「如實知之」就是解脫知見的部分。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/26.hwjtzj-ydzzyhcb-"
+    }
+   ]
+  },
+  {
+   "label": "自知不受后有",
+   "text": "世尊最后一定要加的一句，也叫自知不受后有。",
+   "quotes": [
+    {
+     "q": "所以世尊最後一定要加一句「如實知之」，或者叫「自知不受後有」。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/58.zylj-wsyj-fxyl-szyb-zzbshy-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成佛陀对修行者的要求。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答把它放在阿罗汉成就的句子中，说是解脱知见、自知不受后有。"
+  }
+ ],
+ "related": [
+  "阿罗汉",
+  "自知不受后有"
+ ],
+ "tensions": [],
+ "gaps": [
+  "四句中其他三句的完整界定不在本卡所用页面内。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang1",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/26.hwjtzj-ydzzyhcb-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/58.zylj-wsyj-fxyl-szyb-zzbshy-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

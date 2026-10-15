@@ -1,0 +1,86 @@
+{
+ "term": "勾索",
+ "key": "勾索",
+ "aliases": [],
+ "summary": "《华严经》经文之间的结构、内容、密法对应关联，用来区分次第、显整体性",
+ "definition": "讲者说勾索是经文各部分相互对应关联的方式，用来表明整部经的整体性、统一性，并区分行法次第之间的差别。swxf 讲法说有结构勾索、内容勾索、密法勾索三种。只读某一品就失去勾索，勾索必须相应，否则经文意义混乱。",
+ "definition_basis": [
+  {
+   "q": "勾索是為了表明這部經的整體性、統一性。",
+   "src": "pages/swxf/shizhu14"
+  },
+  {
+   "q": "經文勾索一定要相應，不相應的勾索，經文意義就會混亂。",
+   "src": "pages/huayan28/28jiang13"
+  },
+  {
+   "q": "《華嚴經》以大量的勾索來表達行法次第之間的差別",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "表明整体性、统一性",
+   "text": "swxf 第14讲：龙树菩萨用来区分次第、表明整体性，分三种。",
+   "quotes": [
+    {
+     "q": "勾索是為了表明這部經的整體性、統一性。",
+     "src": "pages/swxf/shizhu14"
+    }
+   ]
+  },
+  {
+   "label": "六品结构对应、须相应",
+   "text": "huayan28 第13讲：各六品结构相同，对照可明差别，勾索须相应。",
+   "quotes": [
+    {
+     "q": "經文勾索一定要相應，不相應的勾索，經文意義就會混亂。",
+     "src": "pages/huayan28/28jiang13"
+    }
+   ]
+  },
+  {
+   "label": "判断行法次第的差别",
+   "text": "2023 年问答：据此判断自己所处的位次；只读一品就失去勾索。",
+   "quotes": [
+    {
+     "q": "《華嚴經》以大量的勾索來表達行法次第之間的差別",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "强调六品对应与勾索须相应。"
+  },
+  {
+   "series": "swxf",
+   "text": "给出三种勾索，并说是龙树菩萨所用。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答强调不能单读一品。"
+  }
+ ],
+ "related": [
+  "密法言说",
+  "经首",
+  "六品"
+ ],
+ "tensions": [],
+ "gaps": [
+  "三种勾索的具体例子，证据页中未逐一说明。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu14",
+  "pages/huayan28/28jiang13",
+  "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "六品"
+ ]
+}

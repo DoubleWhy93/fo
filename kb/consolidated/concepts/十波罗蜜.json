@@ -1,0 +1,120 @@
+{
+ "term": "十波罗蜜",
+ "key": "十波罗蜜",
+ "aliases": [],
+ "summary": "《华严经》的核心行法理论与演说方法，四十位行法都依它建立",
+ "definition": "讲者说十波罗蜜是华严中生起法界的最初、核心行法，本身是一个行法理论。四十位行法的核心是对它的体现，四位行法各自的十个位次是它的相应成就。huayan70 还说它从初发心、精进修、不退转、一生补处四个阶段演变而来。",
+ "definition_basis": [
+  {
+   "q": "十波羅蜜是《華嚴經》中生起法界的最初行法，亦是核心行法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/146.hw-hyj-dsblmyesblm"
+  },
+  {
+   "q": "十波羅蜜本身就是一個行法理論",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+  },
+  {
+   "q": "四十位行法的核心是對十波羅蜜行法的體現。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "生起法界的最初、核心行法",
+   "text": "问答说它是《华严经》中生起法界的最初行法，也是核心行法。",
+   "quotes": [
+    {
+     "q": "十波羅蜜是《華嚴經》中生起法界的最初行法，亦是核心行法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/146.hw-hyj-dsblmyesblm"
+    }
+   ]
+  },
+  {
+   "label": "行法理论与四阶段来源",
+   "text": "十波罗蜜本身是一个行法理论；huayan70 说它从四个行法阶段演变而来。",
+   "quotes": [
+    {
+     "q": "十波羅蜜本身就是一個行法理論",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+    },
+    {
+     "q": "十波羅蜜是從最初菩薩行法的四個階段演變而來的，即初發心、精進修、不退轉、一生補處四個階段",
+     "src": "pages/huayan70/jiangyi29"
+    }
+   ]
+  },
+  {
+   "label": "四十位行法的核心",
+   "text": "住行向地四位行法都按十波罗蜜建立；四位中各自十个位次是十波罗蜜的相应成就。",
+   "quotes": [
+    {
+     "q": "四十位行法的核心是對十波羅蜜行法的體現。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm"
+    },
+    {
+     "q": "四位行法中各自的十位行法成就，即是十波羅蜜的相應成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/9.sswxfysz-sblmdgx"
+    }
+   ]
+  },
+  {
+   "label": "有法种子的加行",
+   "text": "讲者把佛法僧说成本体，十波罗蜜是有法种子的加行。",
+   "quotes": [
+    {
+     "q": "佛法僧是本體，十波羅蜜是有法種子的加行",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲成完整的行法理论与次第，也是核心演说方法，来自初发心、精进修、不退转、一生补处四阶段。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答（hyxf、sz 等）强调它是核心行法与理论，四位行法的十位次都是其体现。"
+  }
+ ],
+ "related": [
+  "四十位行法",
+  "佛法僧",
+  "四智行法",
+  "行法理论",
+  "有法"
+ ],
+ "tensions": [
+  {
+   "text": "一页称十波罗蜜是华严中生起法界的最初行法，另一页说上座部经典里最多只找到六波罗蜜，十波罗蜜是后来的。",
+   "sources": [
+    {
+     "q": "十波羅蜜是《華嚴經》中生起法界的最初行法，亦是核心行法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/146.hw-hyj-dsblmyesblm"
+    },
+    {
+     "q": "最多能找到六波羅蜜，而且也是很少說的，十波羅蜜是後來的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/144.rhljsblmbsjsxfll"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "十个波罗蜜各自的名目与含义，本组证据中没有逐一列出。",
+  "别名未在证据中明确出现，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi29",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/146.hw-hyj-dsblmyesblm",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/9.sswxfysz-sblmdgx",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+ ],
+ "pages_consulted": 6,
+ "confidence": "medium",
+ "related_unresolved": [
+  "四十位行法",
+  "行法理论"
+ ]
+}

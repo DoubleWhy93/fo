@@ -1,0 +1,91 @@
+{
+ "term": "作礼而去",
+ "key": "作礼而去",
+ "aliases": [],
+ "summary": "经末由闻法信解转入具体行法实践，密法言说上指种性改变",
+ "definition": "讲者说经末的「作礼而去」不是散去，也不是弃舍善知识，而是从「如是我闻」的闻法信解转入具体行法实践；在密法言说上代表修行者种性的改变。huayan70 把诸佛菩萨「论义」讲成自我反省、自我觉悟、自我对话的过程。",
+ "definition_basis": [
+  {
+   "q": "而是代表從『如是我聞』的聞法信解轉入到具體的行法實踐。",
+   "src": "pages/huayan28/28jiang19"
+  },
+  {
+   "q": "「作禮而去」代表的是種性的改變",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+  },
+  {
+   "q": "在密法言說來看，這一句是講修行者到達種性上的改變。",
+   "src": "pages/huayan28/28jiang3"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "从闻法信解转入行法实践",
+   "text": "经末依教奉行、作礼而去，代表由闻法信解转入具体行法实践。",
+   "quotes": [
+    {
+     "q": "而是代表從『如是我聞』的聞法信解轉入到具體的行法實踐。",
+     "src": "pages/huayan28/28jiang19"
+    }
+   ]
+  },
+  {
+   "label": "密法言说：种性改变",
+   "text": "把生命体验转成经典文字时，作礼而去代表种性改变。",
+   "quotes": [
+    {
+     "q": "「作禮而去」代表的是種性的改變",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+    },
+    {
+     "q": "在密法言說來看，這一句是講修行者到達種性上的改變。",
+     "src": "pages/huayan28/28jiang3"
+    }
+   ]
+  },
+  {
+   "label": "论义＝自我反省",
+   "text": "huayan70 把诸佛菩萨「论义」讲成自我反省、自我觉悟、自我对话的过程。",
+   "quotes": [
+    {
+     "q": "自我反省、自我覺悟、自我對話的過程，即諸佛菩薩『論義』",
+     "src": "pages/huayan70/jiangyi45"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2023 年问答：从密法言说讲种性的改变。"
+  },
+  {
+   "series": "huayan28",
+   "text": "经末一句的两种说法：行法实践与种性改变。"
+  },
+  {
+   "series": "huayan70",
+   "text": "与现前、论义、远离、入灭连用。"
+  }
+ ],
+ "related": [
+  "种性",
+  "密法言说",
+  "如是我闻"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「现前、论义、远离、入灭」与作礼而去的完整对应只在一页中点到。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang19",
+  "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-",
+  "pages/huayan28/28jiang3",
+  "pages/huayan70/jiangyi45"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "如是我闻"
+ ]
+}

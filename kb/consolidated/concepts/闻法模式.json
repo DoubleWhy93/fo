@@ -1,0 +1,84 @@
+{
+ "term": "闻法模式",
+ "key": "闻法模式",
+ "aliases": [],
+ "summary": "依善知识与经典的教诲而修行的模式，对学华严经只是过渡",
+ "definition": "讲者说闻法模式是依听闻而修行：善知识讲、修行者听，以善知识与经典的教诲为第一因素，与钝根模式相匹配。它与消文模式同属信行模式，入门快、进步快，但对学华严经只能作过渡；若直接拿经文去成就而没有演算过程是做不到的。",
+ "definition_basis": [
+  {
+   "q": "聞法的意思是指依聽聞而修行，善知識講，修行者聽。",
+   "src": "pages/huayan28/28jiang1"
+  },
+  {
+   "q": "那麼這種修行模式本身是和鈍根模式相匹配的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms"
+  },
+  {
+   "q": "這就是聞法模式。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "依听闻而修行",
+   "text": "huayan28 的定义：善知识讲、修行者听。",
+   "quotes": [
+    {
+     "q": "聞法的意思是指依聽聞而修行，善知識講，修行者聽。",
+     "src": "pages/huayan28/28jiang1"
+    }
+   ]
+  },
+  {
+   "label": "与钝根模式相匹配",
+   "text": "以善知识与经典教诲为第一因素再实践。",
+   "quotes": [
+    {
+     "q": "那麼這種修行模式本身是和鈍根模式相匹配的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms"
+    }
+   ]
+  },
+  {
+   "label": "缺少演算过程",
+   "text": "直接把经文拿来成就而无演算过程，做不到。",
+   "quotes": [
+    {
+     "q": "這就是聞法模式。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "定义为依听闻而修行，并说对学华严经只能作过渡。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答：与钝根模式匹配，直接以经文成就无演算过程是做不到的。"
+  }
+ ],
+ "related": [
+  "消文模式",
+  "信行模式",
+  "内在觉知模式",
+  "行法模式"
+ ],
+ "gaps": [
+  "资料未在此处完整说明『钝根模式』的含义。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang1",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "tensions": [],
+ "related_unresolved": [
+  "消文模式",
+  "信行模式"
+ ]
+}

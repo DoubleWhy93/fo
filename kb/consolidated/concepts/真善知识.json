@@ -1,0 +1,95 @@
+{
+ "term": "真善知识",
+ "key": "真善知识",
+ "aliases": [],
+ "summary": "令觉悟心生起、智慧增长的因素；经论与自内觉悟力",
+ "definition": "讲者说真善知识是能令生起觉悟心、令智慧增长、行法精进的因素。就二乘声闻、共法别教说，是佛菩萨经论；从华严行法理论角度讲，真善知识即修行者自内显发的觉悟力，深入经藏、起善思惟、依教奉行即是求真善知识。",
+ "definition_basis": [
+  {
+   "q": "『真善知識』是指能令生起覺悟心，能令智慧增長、行法精進",
+   "src": "pages/huayan70/jiangyi45"
+  },
+  {
+   "q": "佛經和菩薩論即是文殊菩薩所說的『真善知識』。",
+   "src": "pages/huayan28/28jiang26"
+  },
+  {
+   "q": "真善知識即修行者自內顯發的覺悟力",
+   "src": "pages/huayan70/jiangyi52"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "令觉悟与智慧增长的因素",
+   "text": "能令生起觉悟心、智慧增长、行法精进。",
+   "quotes": [
+    {
+     "q": "『真善知識』是指能令生起覺悟心，能令智慧增長、行法精進",
+     "src": "pages/huayan70/jiangyi45"
+    }
+   ]
+  },
+  {
+   "label": "佛经与菩萨论",
+   "text": "佛经和菩萨论即是文殊菩萨所说的真善知识。",
+   "quotes": [
+    {
+     "q": "佛經和菩薩論即是文殊菩薩所說的『真善知識』。",
+     "src": "pages/huayan28/28jiang26"
+    }
+   ]
+  },
+  {
+   "label": "自内显发的觉悟力",
+   "text": "从华严行法理论角度讲，真善知识即修行者自内显发的觉悟力。",
+   "quotes": [
+    {
+     "q": "真善知識即修行者自內顯發的覺悟力",
+     "src": "pages/huayan70/jiangyi52"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "说佛经和菩萨论即是文殊所说的真善知识。"
+  },
+  {
+   "series": "huayan70",
+   "text": "说是令觉悟与智慧增长的因素，并按二乘与华严角度分别说为经论与自内觉悟力。"
+  }
+ ],
+ "related": [
+  "善思惟",
+  "深入经藏"
+ ],
+ "tensions": [
+  {
+   "text": "真善知识被说成佛经与菩萨论，也被说成修行者自内显发的觉悟力；huayan70 一页自己区分了对象不同的说法。",
+   "sources": [
+    {
+     "q": "佛經和菩薩論即是文殊菩薩所說的『真善知識』。",
+     "src": "pages/huayan28/28jiang26"
+    },
+    {
+     "q": "真善知識即修行者自內顯發的覺悟力",
+     "src": "pages/huayan70/jiangyi52"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "与「善知识」（人）的关系，本包定义页未展开。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi45",
+  "pages/huayan70/jiangyi52",
+  "pages/huayan28/28jiang26"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "深入经藏"
+ ]
+}

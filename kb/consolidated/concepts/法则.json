@@ -1,0 +1,76 @@
+{
+ "term": "法则",
+ "key": "法则",
+ "aliases": [],
+ "summary": "必然、普遍而稳定的力量，不论凡夫圣者皆须遵守",
+ "definition": "讲者说法则就是必然的，谁来了都要遵守，不论是凡夫还是圣者，像数学、物理公式，不因知不知道它而不起作用。自性根本智提供的能力就是法则，具有普遍性，与知识、经验不同。进入法则领域才是出世间法。",
+ "definition_basis": [
+  {
+   "q": "法則的意思就是必然的，誰來了都要遵守，不論是凡夫還是聖者，這就是法則。",
+   "src": "pages/swxf/shizhu18"
+  },
+  {
+   "q": "法則具有普遍性。",
+   "src": "pages/swxf/shizhu21"
+  },
+  {
+   "q": "進入到法則領域的時候才是出世間法。",
+   "src": "pages/swxf/shizhu25"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "必然、人人须遵守",
+   "text": "swxf18 讲法则是必然的，凡夫圣者皆须遵守。",
+   "quotes": [
+    {
+     "q": "法則的意思就是必然的，誰來了都要遵守，不論是凡夫還是聖者，這就是法則。",
+     "src": "pages/swxf/shizhu18"
+    }
+   ]
+  },
+  {
+   "label": "根本智提供的普遍性",
+   "text": "swxf21 讲自性根本智提供的能力就是法则，具有普遍性。",
+   "quotes": [
+    {
+     "q": "法則具有普遍性。",
+     "src": "pages/swxf/shizhu21"
+    }
+   ]
+  },
+  {
+   "label": "出世间法的领域",
+   "text": "swxf25 讲进入法则领域才是出世间法。",
+   "quotes": [
+    {
+     "q": "進入到法則領域的時候才是出世間法。",
+     "src": "pages/swxf/shizhu25"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "讲成必然、普遍、稳定的力量，与知识经验相对，并联系根本智。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "法则与经验",
+  "普光明殿行法理论"
+ ],
+ "tensions": [],
+ "gaps": [
+  "别名未明，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu18",
+  "pages/swxf/shizhu21",
+  "pages/swxf/shizhu25"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

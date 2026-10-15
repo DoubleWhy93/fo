@@ -1,0 +1,67 @@
+{
+ "term": "正知见、正思惟",
+ "key": "正知见正思惟",
+ "aliases": [],
+ "summary": "与诸法实相相应的知见与思惟，其「正」基于梵行清净而平等普见",
+ "definition": "讲者说，凡与诸法实相相应的知见与思惟都叫正知见、正思惟，不以某宗某派某种性为标准。2024 年问答进一步说，这个「正」基于根本智的梵行清净，特点是平等普见一切法，具体表现是依于理性。",
+ "definition_basis": [
+  {
+   "q": "只要是與諸法實相相應的知見與思惟，都叫正知見、正思惟。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/32.dzzcjyzzj-zswdjl"
+  },
+  {
+   "q": "正知見、正思惟的「正」是基於根本智梵行清淨的，特點是平等普見一切法",
+   "src": "pages/dayi_all/2024dy/2024dywd/5.dy-2024-10-12-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "以与诸法实相相应为准",
+   "text": "不以宗派或种性为标准。",
+   "quotes": [
+    {
+     "q": "只要是與諸法實相相應的知見與思惟，都叫正知見、正思惟。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/32.dzzcjyzzj-zswdjl"
+    }
+   ]
+  },
+  {
+   "label": "「正」基于梵行清净",
+   "text": "2024 年问答：「正」的特点是平等普见一切法。",
+   "quotes": [
+    {
+     "q": "正知見、正思惟的「正」是基於根本智梵行清淨的，特點是平等普見一切法",
+     "src": "pages/dayi_all/2024dy/2024dywd/5.dy-2024-10-12-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018-2022 年问答与 2024 年问答各给出一个定义；还说十信十住行法依赖它。"
+  }
+ ],
+ "related": [
+  "梵行清净",
+  "根本智",
+  "如理作意",
+  "七种根本作意",
+  "差别智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据页中的两个定义未被讲者自己对照，本卡不作调和。",
+  "未见 huayan28/70 讲法对它的专门定义。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/32.dzzcjyzzj-zswdjl",
+  "pages/dayi_all/2024dy/2024dywd/5.dy-2024-10-12-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/28.zzj-zswdsqjsyfnf"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "如理作意"
+ ]
+}

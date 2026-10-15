@@ -1,0 +1,98 @@
+{
+ "term": "十万亿佛土",
+ "summary": "极乐与娑婆之间种性上、行法实践上的距离，不是空间距离",
+ "definition": "讲者说《阿弥陀经》里「十万亿佛土」不是世间或时空的距离，而是种性上、觉知观察与思惟体验上的距离。要跨越它，须调整当下思惟模式、经历无量行法实践与生命体验。讲者也简单地说它「代表行法」。",
+ "definition_basis": [
+  {
+   "q": "『十萬億佛土』是指極樂淨土和娑婆世界在種性上的距離，並不是空間上的距離。",
+   "src": "pages/huayan28/28jiang23"
+  },
+  {
+   "q": "極樂世界距此『十萬億佛土』，不是指世間距離，而是指眾生種性上、行法實踐上的距離。",
+   "src": "pages/huayan70/jiangyi55"
+  },
+  {
+   "q": "「十萬億佛土」代表行法",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/4.fs-mfyszjjzdzyx"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "种性上的距离，非空间距离",
+   "text": "极乐净土与娑婆世界的距离是种性上的、行法实践上的距离。",
+   "quotes": [
+    {
+     "q": "『十萬億佛土』是指極樂淨土和娑婆世界在種性上的距離，並不是空間上的距離。",
+     "src": "pages/huayan28/28jiang23"
+    },
+    {
+     "q": "極樂世界距此『十萬億佛土』，不是指世間距離，而是指眾生種性上、行法實踐上的距離。",
+     "src": "pages/huayan70/jiangyi55"
+    }
+   ]
+  },
+  {
+   "label": "以方位和数字代表行法",
+   "text": "huayan28 把「西方」讲成妙观察智，「十万亿」讲成当下微细的妙观察智，「佛国土」为种性的改变或超越；这是用方位代表行法。",
+   "quotes": [
+    {
+     "q": "『西方』代表妙觀察智，這是用方位來代表行法",
+     "src": "pages/huayan28/28jiang8"
+    },
+    {
+     "q": "「十萬億佛土」代表行法",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/4.fs-mfyszjjzdzyx"
+    }
+   ]
+  },
+  {
+   "label": "东方十万亿佛土与琉璃世界",
+   "text": "答疑中把药师佛琉璃世界所在的东方十万亿佛土，讲成以此模式在一切法中建立无上正觉行法所到之处。",
+   "quotes": [
+    {
+     "q": "代表在我們身心覺知的一切法中，以東方十萬億佛土的模式，建立起一切法的這種無上正覺行法，就到達藥師佛所在的琉璃世界。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/29.amtfssbyyysfsedymsyhbt-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "明确说是种性距离而非时空距离，并把西方、十万亿、佛国土分别对应妙观察智与种性改变。"
+  },
+  {
+   "series": "huayan70",
+   "text": "说是觉知观察和思惟体验上的距离，需调整思惟模式并经历无量行法实践。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答说它代表行法，并把东方十万亿佛土与药师佛琉璃世界相联系。"
+  }
+ ],
+ "related": [
+  "阿弥陀佛",
+  "极乐世界",
+  "妙观察智",
+  "种性",
+  "行法"
+ ],
+ "gaps": [
+  "「十万亿」这个数字本身的意义各页只说成「法数」或微细妙观察智，未进一步展开。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang23",
+  "pages/huayan70/jiangyi55",
+  "pages/huayan28/28jiang8",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/29.amtfssbyyysfsedymsyhbt-",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/4.fs-mfyszjjzdzyx"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "key": "十万亿佛土",
+ "aliases": [],
+ "tensions": [],
+ "related_unresolved": [
+  "行法"
+ ]
+}

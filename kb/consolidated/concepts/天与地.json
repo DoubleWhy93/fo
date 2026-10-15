@@ -1,0 +1,96 @@
+{
+ "term": "天与地",
+ "key": "天与地",
+ "aliases": [],
+ "summary": "天指不同的思惟方式（复数），地指眼耳鼻舌身的体验（单数）",
+ "definition": "讲者在密法言说里说，「天」是不同的思惟方式，「地」是眼耳鼻舌身的体验。地是单数，当下存在的某一法；天是复数，是对这一法的不同思惟方式、阶段，「诸善集故，即为诸天」。",
+ "definition_basis": [
+  {
+   "q": "『天』是指不同的思惟方式，『地』是指眼耳鼻舌身的體驗，就是天地。",
+   "src": "pages/swxf/shizhu2"
+  },
+  {
+   "q": "天是複數，地是單數，為什麼是這樣？普光明殿的這個行法理論，它講的就是諸天成就。",
+   "src": "pages/shixin/shixin6"
+  },
+  {
+   "q": "不同的思惟方式、不同的思惟階段，形成諸天。這是佛在經典上也談到，『諸善集故，即為諸天。』",
+   "src": "pages/swxf/shizhu3"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "天为思惟方式、地为体验",
+   "text": "天是不同思惟方式，地是眼耳鼻舌身的体验。",
+   "quotes": [
+    {
+     "q": "『天』是指不同的思惟方式，『地』是指眼耳鼻舌身的體驗，就是天地。",
+     "src": "pages/swxf/shizhu2"
+    }
+   ]
+  },
+  {
+   "label": "天复数地单数",
+   "text": "地是眼耳鼻舌身接触的每一法，天是复数，指诸天成就。",
+   "quotes": [
+    {
+     "q": "天是複數，地是單數，為什麼是這樣？普光明殿的這個行法理論，它講的就是諸天成就。",
+     "src": "pages/shixin/shixin6"
+    },
+    {
+     "q": "不同的思惟方式、不同的思惟階段，形成諸天。這是佛在經典上也談到，『諸善集故，即為諸天。』",
+     "src": "pages/swxf/shizhu3"
+    }
+   ]
+  },
+  {
+   "label": "地与诸天的另一说",
+   "text": "地是出生、总持、成就一切法之处，诸天是众生集一切法的不同模式。",
+   "quotes": [
+    {
+     "q": "『諸天』是眾生集一切法的不同模式",
+     "src": "pages/huayan28/28jiang22"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "十住讲：天是思惟方式、地是体验。"
+  },
+  {
+   "series": "shixin",
+   "text": "十信讲：天复数地单数。"
+  },
+  {
+   "series": "huayan28",
+   "text": "地为总持一切法处。"
+  }
+ ],
+ "related": [
+  "诸天",
+  "须弥山",
+  "知性能力",
+  "密法言说",
+  "天",
+  "地"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「天与地相对时的天」与单独说的天含义不同，pack 只在 teachings 点到。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu2",
+  "pages/shixin/shixin6",
+  "pages/swxf/shizhu3",
+  "pages/huayan28/28jiang22"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "诸天",
+  "天",
+  "地"
+ ]
+}

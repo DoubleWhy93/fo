@@ -1,0 +1,92 @@
+{
+ "term": "消文",
+ "key": "消文",
+ "aliases": [
+  "销文"
+ ],
+ "summary": "依文字逐句解经的方法，被讲者定位为技术而非入门",
+ "definition": "讲者说消文是一门技术，解决文字「在说什么」的问题，但不能给出整体性、结构性的理解。依文字逐句解释，往往是闻法模式的修行方法，所以讲者主张先把握结构与解读方法，消文放在最后做。",
+ "definition_basis": [
+  {
+   "q": "消文是一門技術，解決文字『在說什麼』的問題",
+   "src": "pages/huayan70/jiangyi22"
+  },
+  {
+   "q": "消文是最後要做的，而不是最初要做的。",
+   "src": "pages/huayan70/jiangyi1"
+  },
+  {
+   "q": "不要依照消文形式，從文字入手，因為從文字入手所得來的，往往是聞法模式的修行方法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/13.xx-yjsdl-zjy"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "解决字面意思的技术",
+   "text": "消文只解决文字在说什么，只要掌握经典演说方法和密法言说的解读模式就能做到。",
+   "quotes": [
+    {
+     "q": "消文是一門技術，解決文字『在說什麼』的問題",
+     "src": "pages/huayan70/jiangyi22"
+    }
+   ]
+  },
+  {
+   "label": "应在结构之后做",
+   "text": "消文耗时且易忽略结构，应是最后做；不把偈颂放进整体结构中，容易生起各种不同解读。",
+   "quotes": [
+    {
+     "q": "消文是最後要做的，而不是最初要做的。",
+     "src": "pages/huayan70/jiangyi1"
+    },
+    {
+     "q": "如果按消文的方法，而不是把四句偈放在整體的結構中，對這四句就容易生起各種不同的解讀。",
+     "src": "pages/huayan70/jiangyi5"
+    }
+   ]
+  },
+  {
+   "label": "闻法模式的学习形式",
+   "text": "依文字入手所得往往是闻法模式；传统销文模式学《华严经》，一千多年实践基本可断定很难复制。",
+   "quotes": [
+    {
+     "q": "不要依照消文形式，從文字入手，因為從文字入手所得來的，往往是聞法模式的修行方法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/13.xx-yjsdl-zjy"
+    },
+    {
+     "q": "如果按照傳統的销文模式學習《華嚴經》",
+     "src": "pages/dayi/dy_zyxx"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "明确说这次学习不是消文，而是先从结构入手，消文放最后。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 与 2023 把消文与闻法模式、从文字入手联系；dayi 短篇说传统消文模式难以复制《华严经》。"
+  }
+ ],
+ "related": [
+  "闻法模式",
+  "行法模式",
+  "密法言说"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页没有给出消文的完整操作步骤，也没有说明它与注疏传统的具体关系。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi22",
+  "pages/huayan70/jiangyi1",
+  "pages/huayan70/jiangyi5",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/13.xx-yjsdl-zjy",
+  "pages/dayi/dy_zyxx"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "related_unresolved": []
+}

@@ -1,0 +1,80 @@
+{
+ "term": "法眼",
+ "key": "法眼",
+ "aliases": [],
+ "summary": "明了诸行生灭、诸法实际与法则，用法则甄别的能力",
+ "definition": "讲者说法眼是明了诸行生灭、诸法实际的能力；在 shixin 讲法里则是明了事物背后的法则并用法则去甄别。弄清《华严经》从初发心到如来地的行法次第，就成就法眼，不会盲目追求民间信仰或外道宗教。",
+ "definition_basis": [
+  {
+   "q": "法眼是指明瞭諸行生滅、明瞭諸法實際的能力",
+   "src": "pages/huayan28/28jiang20"
+  },
+  {
+   "q": "法眼就是明瞭事物背後的法則，我們用法則去甄別。",
+   "src": "pages/shixin/shixin14"
+  },
+  {
+   "q": "成就法眼是什麼呢？就不會盲目地追求民間信仰、追求民間宗教、追求外道宗教",
+   "src": "pages/shixin/shixin5"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "明了诸行生灭、诸法实际的能力",
+   "text": "huayan28 讲成明了一切法性相体用、因果生灭的能力。",
+   "quotes": [
+    {
+     "q": "法眼是指明瞭諸行生滅、明瞭諸法實際的能力",
+     "src": "pages/huayan28/28jiang20"
+    }
+   ]
+  },
+  {
+   "label": "明了法则、用法则甄别",
+   "text": "shixin 讲成明了事物背后的法则，并用法则去甄别。",
+   "quotes": [
+    {
+     "q": "法眼就是明瞭事物背後的法則，我們用法則去甄別。",
+     "src": "pages/shixin/shixin14"
+    }
+   ]
+  },
+  {
+   "label": "成就法眼的表现",
+   "text": "弄清行法次第后，不会盲目追求民间信仰、民间宗教与外道宗教。",
+   "quotes": [
+    {
+     "q": "成就法眼是什麼呢？就不會盲目地追求民間信仰、追求民間宗教、追求外道宗教",
+     "src": "pages/shixin/shixin5"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "明了诸行生灭、诸法实际的能力。"
+  },
+  {
+   "series": "shixin",
+   "text": "明了法则并用来甄别；明了行法次第即成就法眼。"
+  }
+ ],
+ "related": [
+  "五眼"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「菩萨法眼」只以括注形式出现，是否完全同义证据有限。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang20",
+  "pages/shixin/shixin14",
+  "pages/shixin/shixin5"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "五眼"
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "term": "普眼法门",
+ "key": "普眼法门",
+ "aliases": [],
+ "summary": "海云比丘所成就、观察思惟一切法的行法与成就模式",
+ "definition": "讲者说普眼法门是观察与思惟一切法的行法模式与成就模式，而不是观察思惟行法的具体内容；它是海云比丘行法实践的「果」，在第二住位治地住的前提下解读。问答页则说其内容是面向大海住十二年、以大海为境界而生起思惟。",
+ "definition_basis": [
+  {
+   "q": "『普眼法門』是觀察與思惟一切法的行法模式與成就模式，而不是觀察、思惟行法的具體內容",
+   "src": "pages/huayan70/jiangyi48"
+  },
+  {
+   "q": "『普眼法門』即海雲比丘行法實踐的『果』",
+   "src": "pages/huayan70/jiangyi49"
+  },
+  {
+   "q": "「普眼法門」的內容就是面向大海住十二年，以大海為其境界，然後生起思惟",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/26.zypyjdhyjdnl-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "观察思惟一切法的行法模式",
+   "text": "是模式，而非具体内容。",
+   "quotes": [
+    {
+     "q": "『普眼法門』是觀察與思惟一切法的行法模式與成就模式，而不是觀察、思惟行法的具體內容",
+     "src": "pages/huayan70/jiangyi48"
+    }
+   ]
+  },
+  {
+   "label": "海云比丘行法实践的果",
+   "text": "在当下一切法中生起行法实践，于如实思惟中呈现。",
+   "quotes": [
+    {
+     "q": "『普眼法門』即海雲比丘行法實踐的『果』",
+     "src": "pages/huayan70/jiangyi49"
+    }
+   ]
+  },
+  {
+   "label": "面向大海住十二年",
+   "text": "问答页说普眼法门的内容是以大海为境界生起思惟。",
+   "quotes": [
+    {
+     "q": "「普眼法門」的內容就是面向大海住十二年，以大海為其境界，然後生起思惟",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/26.zypyjdhyjdnl-"
+    }
+   ]
+  },
+  {
+   "label": "第六行位的普眼长者",
+   "text": "第六行位的普眼长者从道种智行法中以善思惟见一切法的角度说。",
+   "quotes": [
+    {
+     "q": "第六行位普眼長者則是從道種智行法中以善思惟見一切法的角度說",
+     "src": "pages/huayan70/jiangyi57"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "多页讲第二住位海云比丘的普眼法门是果与模式，并区别第六行位普眼长者。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（jdjd）说它是面向大海、以大海为境界生起思惟。"
+  }
+ ],
+ "related": [
+  "差别智",
+  "道种智",
+  "善思惟",
+  "陀罗尼"
+ ],
+ "tensions": [
+  {
+   "text": "普眼法门在第二住位（海云比丘）与第六行位（普眼长者）两处出现，huayan70 两页各自从不同角度讲。",
+   "sources": [
+    {
+     "q": "『普眼法門』即海雲比丘行法實踐的『果』",
+     "src": "pages/huayan70/jiangyi49"
+    },
+    {
+     "q": "第六行位普眼長者則是從道種智行法中以善思惟見一切法的角度說",
+     "src": "pages/huayan70/jiangyi57"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「十二年」「大海」的意义在问答页只简述，详细见 huayan70 相关讲次。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi48",
+  "pages/huayan70/jiangyi49",
+  "pages/huayan70/jiangyi57",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/26.zypyjdhyjdnl-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": []
+}

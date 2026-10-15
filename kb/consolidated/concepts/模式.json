@@ -1,0 +1,132 @@
+{
+ "term": "模式",
+ "key": "模式",
+ "aliases": [],
+ "summary": "行法实践与生命体验呈现的方式、法则；修行要改的是模式而非内容",
+ "definition": "讲者用「模式」指行法实践、生命体验呈现的方式，也指解读的法则、原则和方法。他说修行不是修行内容，而是修改模式；掌握了某个模式，就能以它应对同一类的所有法。",
+ "definition_basis": [
+  {
+   "q": "模式是指行法實踐、生命體驗呈現的方式",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  },
+  {
+   "q": "『模式』代表法則，代表解讀的原則和方法。",
+   "src": "pages/huayan70/jiangyi2"
+  },
+  {
+   "q": "是指「模式」上的不一樣，不是「內容」上不一樣。我們要修行不是修行內容，而是修改模式。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/43.tyjs-btrs-dbdyybt-smsdwtm"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "体验呈现的方式",
+   "text": "2023 问答说模式是行法实践、生命体验呈现的方式。",
+   "quotes": [
+    {
+     "q": "模式是指行法實踐、生命體驗呈現的方式",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    }
+   ]
+  },
+  {
+   "label": "解读的法则与原则",
+   "text": "huayan70 说模式代表法则，是解读的原则和方法；huayan28 说它是讲者现在的说法，不同模式对应不同行法次第。",
+   "quotes": [
+    {
+     "q": "『模式』代表法則，代表解讀的原則和方法。",
+     "src": "pages/huayan70/jiangyi2"
+    },
+    {
+     "q": "『模式』是我們現在的說法，在佛教理論中，不同模式對應不同的行法次第。",
+     "src": "pages/huayan28/28jiang2"
+    }
+   ]
+  },
+  {
+   "label": "像公式，应对同类所有法",
+   "text": "讲者把模式比作数学公式 y=2x；也说模式就是智慧，以它应对同类所有法。",
+   "quotes": [
+    {
+     "q": "模式的意思其實就像我們講過的數學公式y=2x",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/149.rhddsmjt-"
+    },
+    {
+     "q": "模式就是智慧，然後以這種模式來應對這一類的所有法",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/14.zywd-2023-10-28-"
+    }
+   ]
+  },
+  {
+   "label": "修行改的是模式不是内容",
+   "text": "凡夫种性与菩萨道种智行法的差别在模式，不在内容。",
+   "quotes": [
+    {
+     "q": "是指「模式」上的不一樣，不是「內容」上不一樣。我們要修行不是修行內容，而是修改模式。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/43.tyjs-btrs-dbdyybt-smsdwtm"
+    }
+   ]
+  },
+  {
+   "label": "经的模式",
+   "text": "掌握一部经的模式，这部经的机关就都会打开。",
+   "quotes": [
+    {
+     "q": "因為一旦掌握了一部經的模式，這部經的所有的機關就都會打開",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/14.xx-hyj-dynxckjl"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "说模式是讲者现在的说法，不同模式对应不同的行法次第。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成法则、解读的原则和方法。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 用公式、经的模式、凡夫与菩萨的模式差别讲；2023 讲成体验呈现的方式，并说模式就是智慧。"
+  }
+ ],
+ "related": [
+  "行法次第",
+  "菩萨道种智行法",
+  "智慧",
+  "凡夫种性"
+ ],
+ "tensions": [
+  {
+   "text": "一页说模式代表法则、解读的原则和方法；另一页说模式就是智慧，以它应对同类所有法。两处的说法不同，页面未说明如何衔接。",
+   "sources": [
+    {
+     "q": "『模式』代表法則，代表解讀的原則和方法。",
+     "src": "pages/huayan70/jiangyi2"
+    },
+    {
+     "q": "模式就是智慧，然後以這種模式來應對這一類的所有法",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/14.zywd-2023-10-28-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "别名未在证据中明确出现，aliases 留空；「行法模式」「用心模式」等与「模式」的关系未逐一界定。",
+  "具体如何「修改模式」的步骤在本组证据中没有展开。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi2",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/43.tyjs-btrs-dbdyybt-smsdwtm",
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/149.rhddsmjt-",
+  "pages/huayan28/28jiang2"
+ ],
+ "pages_consulted": 7,
+ "confidence": "medium",
+ "related_unresolved": [
+  "智慧"
+ ]
+}

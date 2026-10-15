@@ -1,0 +1,108 @@
+{
+ "term": "菩萨道种智行法",
+ "key": "菩萨道种智行法",
+ "aliases": [],
+ "summary": "梵行清净之后，在无量法中反复训练、建立的差别智行法",
+ "definition": "讲者说菩萨道种智行法是梵行清净成就之后，从空法生起无量世界无量法的行法，不靠一法可成就。它即差别智行法，基于身心觉知一切法，要在五蕴身、六入处的一一法中建立，是一个反复训练的过程。",
+ "definition_basis": [
+  {
+   "q": "梵行清淨成就之後，要從空法生起無量世界無量法，卻不是靠一法可以成就的，這就是菩薩道種智行法。",
+   "src": "pages/huayan28/28jiang25"
+  },
+  {
+   "q": "菩薩的道種智行法即差別智行法，由於菩薩道種智基於身心覺知一切法",
+   "src": "pages/huayan70/jiangyi13"
+  },
+  {
+   "q": "因為菩薩道種智行法是一個反覆訓練的過程",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/159.xbwszdqqdy"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "无量法成就（相对一法成就）",
+   "text": "梵行清净成就之后，要从空法生起无量世界无量法，不靠一法成就；一法成就与无量法成就的差别在是否到内在觉知模式。",
+   "quotes": [
+    {
+     "q": "梵行清淨成就之後，要從空法生起無量世界無量法，卻不是靠一法可以成就的，這就是菩薩道種智行法。",
+     "src": "pages/huayan28/28jiang25"
+    }
+   ]
+  },
+  {
+   "label": "差别智行法，在身心一切法中建立",
+   "text": "huayan70 把它说成差别智行法，基于身心觉知，在不共法报身世间中、五蕴身六入处的一一法里建立。",
+   "quotes": [
+    {
+     "q": "菩薩的道種智行法即差別智行法，由於菩薩道種智基於身心覺知一切法",
+     "src": "pages/huayan70/jiangyi13"
+    }
+   ]
+  },
+  {
+   "label": "反复磨练、训练的过程",
+   "text": "答疑说它是反复训练的过程，强调在起心动念处反复磨练。",
+   "quotes": [
+    {
+     "q": "因為菩薩道種智行法是一個反覆訓練的過程",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/159.xbwszdqqdy"
+    },
+    {
+     "q": "菩薩道種智行法強調要在起心動念處反覆磨練",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/5.jdjddgcbjggzy"
+    }
+   ]
+  },
+  {
+   "label": "拣别与主动学习",
+   "text": "答疑中说它要拣别清楚（如一加一等于二），并说它是自己愿意学习、在学习中有快乐的主动训练。",
+   "quotes": [
+    {
+     "q": "菩薩道種智行法，就是一定要揀別出它等於二，才符合我們人類世間的理性所定義的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/43.tyjs-btrs-dbdyybt-smsdwtm"
+    },
+    {
+     "q": "菩薩道種智行法是自己願意去學習，在學習當中能夠有快樂、有樂趣。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/28.cfhhhzyynwmm-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "在梵行清净之后讲从空法生起无量法，不靠一法可成就。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成差别智行法，在五蕴身、六入处的一一法中建立。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑讲其为反复训练的过程，需要拣别，是自己愿意学、有乐趣的主动训练。"
+  }
+ ],
+ "related": [
+  "道种智",
+  "差别智",
+  "梵行清净",
+  "性宗类行法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「性宗类行法」与它不同的具体内容，在这些页上只被点到。",
+  "各页对它在哪个阶位建立的说法，本卡未逐页核对。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang25",
+  "pages/huayan70/jiangyi13",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/159.xbwszdqqdy",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/5.jdjddgcbjggzy",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/28.cfhhhzyynwmm-"
+ ],
+ "pages_consulted": 6,
+ "confidence": "medium",
+ "related_unresolved": [
+  "性宗类行法"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "term": "阿赖耶识",
+ "key": "阿赖耶识",
+ "aliases": [],
+ "summary": "第八识；自性在凡夫种性中的称呼",
+ "definition": "讲者说第八识也称阿赖耶识。它是自性在凡夫种性中的称呼，自性所生起的零散材料给一个名字叫阿赖耶识；呈现庄严法界时称作大圆镜智或如来藏，本体一样，显相有差别。",
+ "definition_basis": [
+  {
+   "q": "第八識也稱作阿賴耶識",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/4.bsdyz"
+  },
+  {
+   "q": "盡管自性在凡夫種性中是阿賴耶識，可是自性還可以呈現出莊嚴法界",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "第八识",
+   "text": "第八识也称阿赖耶识。",
+   "quotes": [
+    {
+     "q": "第八識也稱作阿賴耶識",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/4.bsdyz"
+    }
+   ]
+  },
+  {
+   "label": "自性在凡夫种性中的称呼",
+   "text": "自性在凡夫种性中是阿赖耶识，还可以呈现出庄严法界。",
+   "quotes": [
+    {
+     "q": "盡管自性在凡夫種性中是阿賴耶識，可是自性還可以呈現出莊嚴法界",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年 wm-lb 页给出别称；2023 年 WORDbb 页说是自性在凡夫种性中的称呼。"
+  }
+ ],
+ "related": [
+  "自性",
+  "大圆镜智",
+  "如来藏"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各页未展开阿赖耶识的完整结构。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/157.nzjzmsdsq",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/4.bsdyz",
+  "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "大圆镜智"
+ ]
+}

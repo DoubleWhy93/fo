@@ -1,0 +1,81 @@
+{
+ "term": "出世间",
+ "key": "出世间",
+ "aliases": [],
+ "summary": "远离一念无明束缚、用心不被一切法束缚的世间",
+ "definition": "讲者说出世间是远离一念无明造成的困扰和束缚的过程；是心出世间，即用心模式不被一切法所束缚；也说是以智慧力息灭世间一切生死染著的束缚和影响。",
+ "definition_basis": [
+  {
+   "q": "遠離一念無明給我們造成的困擾和束縛的這個過程叫出世間",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/95.sxwsswsfswcsjdxf-"
+  },
+  {
+   "q": "出世間指的是心出世間，也就是用心模式不被一切法所束縛",
+   "src": "pages/huayan28/28jiang7"
+  },
+  {
+   "q": "『出世間』是指以智慧力息滅世間一切生死染著的束縛和影響。",
+   "src": "pages/huayan70/jiangyi50"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "远离一念无明的过程",
+   "text": "答疑中把出世间说成远离一念无明所造成困扰和束缚的过程。",
+   "quotes": [
+    {
+     "q": "遠離一念無明給我們造成的困擾和束縛的這個過程叫出世間",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/95.sxwsswsfswcsjdxf-"
+    }
+   ]
+  },
+  {
+   "label": "心出世间",
+   "text": "huayan28 讲法：指心出世间，用心模式不被一切法束缚。",
+   "quotes": [
+    {
+     "q": "出世間指的是心出世間，也就是用心模式不被一切法所束縛",
+     "src": "pages/huayan28/28jiang7"
+    }
+   ]
+  },
+  {
+   "label": "以智慧力息灭束缚",
+   "text": "huayan70 讲法：以智慧力息灭世间一切生死染著的束缚和影响。",
+   "quotes": [
+    {
+     "q": "『出世間』是指以智慧力息滅世間一切生死染著的束縛和影響。",
+     "src": "pages/huayan70/jiangyi50"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "心出世间，于一切法无所住。"
+  },
+  {
+   "series": "huayan70",
+   "text": "以智慧力息灭染著束缚，联系皈依佛法僧与十住位。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑：远离一念无明束缚的过程。"
+  }
+ ],
+ "related": [
+  "一念无明",
+  "梵行清净"
+ ],
+ "tensions": [],
+ "gaps": [],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/95.sxwsswsfswcsjdxf-",
+  "pages/huayan28/28jiang7",
+  "pages/huayan70/jiangyi50"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": []
+}

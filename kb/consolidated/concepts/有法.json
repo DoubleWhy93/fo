@@ -1,0 +1,66 @@
+{
+ "term": "有法",
+ "key": "有法",
+ "aliases": [],
+ "summary": "对某一法生起的具体生命体验；凡夫种性与菩萨种性的有法不同",
+ "definition": "讲者说「有法」是指对某一法生起的具体生命体验。凡夫种性的有法是第七意识分别取著下的染著有法、生死法；菩萨种性的有法则是道种智成就，先证「应无所住」、得无生忍，再在一切法中成就「而生其心」。",
+ "definition_basis": [
+  {
+   "q": "『有法』是指對某一法生起的具體生命體驗。",
+   "src": "pages/huayan70/jiangyi3"
+  },
+  {
+   "q": "凡夫種性的有法是分別取著，是入生死界、入六道輪回的",
+   "src": "pages/amtj/amtj8"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "具体生命体验",
+   "text": "有法指对某一法生起的具体生命体验。",
+   "quotes": [
+    {
+     "q": "『有法』是指對某一法生起的具體生命體驗。",
+     "src": "pages/huayan70/jiangyi3"
+    }
+   ]
+  },
+  {
+   "label": "凡夫种性的有法",
+   "text": "凡夫种性的有法是分别取著、入生死界入六道轮回。",
+   "quotes": [
+    {
+     "q": "凡夫種性的有法是分別取著，是入生死界、入六道輪回的",
+     "src": "pages/amtj/amtj8"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "给出「有法」的定义，并说第七住位以后别教金刚种性的一切有法对修行者来说就是道种智。"
+  },
+  {
+   "series": "amtj",
+   "text": "区分凡夫种性与菩萨种性的有法，联系应无所住、无生忍与而生其心。"
+  }
+ ],
+ "related": [
+  "道种智",
+  "无生法忍",
+  "一切法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "菩萨种性有法一面主要依 amtj8 的定义概述，未另有更短的直接引文。"
+ ],
+ "where_to_read": [
+  "pages/amtj/amtj8",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/10.hwjgwd-zydd-bzssm",
+  "pages/huayan70/jiangyi3"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

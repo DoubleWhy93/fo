@@ -1,0 +1,66 @@
+{
+ "term": "共法世间与不共法世间",
+ "key": "共法世间与不共法世间",
+ "aliases": [],
+ "summary": "共业所成、依因缘生的世间，与别业所成、依心想生的世间",
+ "definition": "讲者说共法世间是如来藏共业所成，按「万法因缘生」生起；不共法报身世间是如来藏别业所成，按「一切法从心想生」生起。不共法的理性世界要在共法世间的时间空间里反复训练，才知是否相应。",
+ "definition_basis": [
+  {
+   "q": "共法世間共業所成的一切法，按『萬法因緣生』的模式生起",
+   "src": "pages/huayan70/jiangyi10"
+  },
+  {
+   "q": "一定要在共法世間，在時間與空間裡面去反覆訓練纔行",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/10.bgfsjlxsdzzxfm-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "共业与别业",
+   "text": "共法世间共业所成，按万法因缘生；不共报身世间别业所成，按一切法从心想生。",
+   "quotes": [
+    {
+     "q": "共法世間共業所成的一切法，按『萬法因緣生』的模式生起",
+     "src": "pages/huayan70/jiangyi10"
+    }
+   ]
+  },
+  {
+   "label": "在共法世间训练",
+   "text": "不共法的理性世界要在共法世间的时间与空间里反复训练。",
+   "quotes": [
+    {
+     "q": "一定要在共法世間，在時間與空間裡面去反覆訓練纔行",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/10.bgfsjlxsdzzxfm-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲成共业所成与别业所成两类世间及其生起模式。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲不共法要在共法世间中训练。"
+  }
+ ],
+ "related": [
+  "共法世间",
+  "不共法世间",
+  "报身世间",
+  "如来藏"
+ ],
+ "tensions": [],
+ "gaps": [
+  "huayan28 也出现该对词，但证据中无定义性说明。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi10",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/10.bgfsjlxsdzzxfm-"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": []
+}

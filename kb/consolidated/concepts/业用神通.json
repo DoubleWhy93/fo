@@ -1,0 +1,104 @@
+{
+ "term": "业用神通",
+ "key": "业用神通",
+ "aliases": [
+  "共外道神通"
+ ],
+ "summary": "身所作为，共外道的世间神通，不解决生死",
+ "definition": "讲者说从佛教究竟成就角度讲，身所作为就是业用神通：业生起后、诸法显相之前，在特定方向上的力量驱使行为，其在世间的显现就是神通。它是共外道神通，基于有法、不出三界，靠世间禅定可得；没有智慧作先导，不解决生死问题，与智慧神通（不共外道）不同。",
+ "definition_basis": [
+  {
+   "q": "從佛教究竟成就的角度講，身所作為就是業用神通",
+   "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+  },
+  {
+   "q": "業用神通是共外道神通",
+   "src": "pages/huayan28/28jiang9"
+  },
+  {
+   "q": "業用神通是共外道神通，智慧神通是不共外道神通。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/13.psstyzxcj"
+  },
+  {
+   "q": "從佛教究竟成就的角度講，身所作為就是業用神通。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "身所作为",
+   "text": "身所作为即业用神通，有情生命皆具备。",
+   "quotes": [
+    {
+     "q": "從佛教究竟成就的角度講，身所作為就是業用神通",
+     "src": "pages/dayi_all/2018-2022dy/dy/dy2"
+    },
+    {
+     "q": "從佛教究竟成就的角度講，身所作為就是業用神通。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt"
+    }
+   ]
+  },
+  {
+   "label": "共外道神通",
+   "text": "业用神通共外道，智慧神通不共外道；前者不出三界，由共外道禅定即可获得。",
+   "quotes": [
+    {
+     "q": "業用神通是共外道神通，智慧神通是不共外道神通。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/13.psstyzxcj"
+    },
+    {
+     "q": "業用神通是共外道神通",
+     "src": "pages/huayan28/28jiang9"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "说业用神通依智慧生起时也是菩萨业用神通，但共外道，无智慧先导不解决生死。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（dy、wm-lb）讲身所作为即业用神通，并与智慧神通对照。"
+  }
+ ],
+ "related": [
+  "智慧神通",
+  "共外道",
+  "有法",
+  "漏尽通"
+ ],
+ "tensions": [
+  {
+   "text": "一页把依智慧生起的世间神通显相称为菩萨业用神通且共外道，另几页只说业用神通是共外道神通、基于有法。",
+   "sources": [
+    {
+     "q": "業用神通是共外道神通",
+     "src": "pages/huayan28/28jiang9"
+    },
+    {
+     "q": "業用神通是共外道神通，智慧神通是不共外道神通。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/13.psstyzxcj"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「神」「神通」的细部定义只在 dy2 一页给出。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/dy/dy2",
+  "pages/huayan28/28jiang9",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/13.psstyzxcj",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "智慧神通",
+  "共外道",
+  "漏尽通"
+ ]
+}

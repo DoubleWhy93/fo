@@ -1,0 +1,96 @@
+{
+ "term": "海潮处",
+ "key": "海潮处",
+ "aliases": [],
+ "summary": "第七、八住善知识所住处，即身心觉知的一切法，当下一切法存在处",
+ "definition": "讲者说海潮处就是身心觉知的一切法，即生命的大海；也说成当下一切法普遍存在处。十住位第七住休舍优婆夷与第八住童真住大威猛仙人都住在海潮处，靠近大海而不进入大海。",
+ "definition_basis": [
+  {
+   "q": "『海潮處』即是身心覺知的一切法",
+   "src": "pages/huayan70/jiangyi52"
+  },
+  {
+   "q": "『海潮處』即當下的一切法普遍存在處。",
+   "src": "pages/huayan70/jiangyi53"
+  },
+  {
+   "q": "十住位善知識住在海潮處，不入大海。但是這個海潮處很重要",
+   "src": "pages/swxf/shizhu27"
+  },
+  {
+   "q": "「海潮」首先它是跟大海相關的，身心覺知的一切法，總體來說就是我們生命的大海，這是世尊定義的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/59.szsszzhcc-sfzlncglwc"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "身心觉知的一切法",
+   "text": "海潮处即身心觉知的一切法；海是这些法，潮表示其运转有因缘规律。",
+   "quotes": [
+    {
+     "q": "『海潮處』即是身心覺知的一切法",
+     "src": "pages/huayan70/jiangyi52"
+    },
+    {
+     "q": "「海潮」首先它是跟大海相關的，身心覺知的一切法，總體來說就是我們生命的大海，這是世尊定義的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/59.szsszzhcc-sfzlncglwc"
+    }
+   ]
+  },
+  {
+   "label": "当下一切法普遍存在处",
+   "text": "huayan70 另说成当下的一切法普遍存在处，第七、八住善知识皆住此。",
+   "quotes": [
+    {
+     "q": "『海潮處』即當下的一切法普遍存在處。",
+     "src": "pages/huayan70/jiangyi53"
+    }
+   ]
+  },
+  {
+   "label": "不入大海、解脱之处",
+   "text": "swxf 讲十住位善知识住海潮处而不入大海，这里是得解脱与无上正觉的地方。",
+   "quotes": [
+    {
+     "q": "十住位善知識住在海潮處，不入大海。但是這個海潮處很重要",
+     "src": "pages/swxf/shizhu27"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "定义为身心觉知的一切法、当下一切法普遍存在处，并与第六住海幢比丘的住处比较。"
+  },
+  {
+   "series": "swxf",
+   "text": "讲十住位善知识住海潮处、不入大海，靠近眼耳鼻舌身一切法边上。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答：海是身心觉知一切法，潮表示有因缘、有规律。"
+  }
+ ],
+ "related": [
+  "十住位",
+  "一切法",
+  "休舍优婆夷"
+ ],
+ "gaps": [
+  "资料未说明『海潮处』与『大海』（进入大海）在后续位次中的关系。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi52",
+  "pages/huayan70/jiangyi53",
+  "pages/swxf/shizhu27",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/59.szsszzhcc-sfzlncglwc"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "tensions": [],
+ "related_unresolved": [
+  "十住位",
+  "休舍优婆夷"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "term": "编织",
+ "key": "编织",
+ "aliases": [],
+ "summary": "自我因素给一一法赋予意义，把一切法总合成世界",
+ "definition": "讲者说编织就是给一一法赋予意义：让眼耳鼻舌身面对的一切法有意义，给它一个意义就叫编织。有了意义就有清净与染著、娑婆世界、极乐世界、华藏世界的分别。凡夫种性编织成贪嗔痴慢的娑婆世界，学习后可重新编织成极乐世界、华藏世界。",
+ "definition_basis": [
+  {
+   "q": "編織的意思就是我要讓眼耳鼻舌身面對的這一切法有意義，給它一個意義就叫編織。",
+   "src": "pages/swxf/shizhu18"
+  },
+  {
+   "q": "編織是什麼意思？就是給一一法賦予意義。",
+   "src": "pages/swxf/shizhu30"
+  },
+  {
+   "q": "編織是什麼意思？就是給它一個意義。",
+   "src": "pages/swxf/shizhu6"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "赋予意义",
+   "text": "讲者在三页都把编织说成给一一法一个意义。",
+   "quotes": [
+    {
+     "q": "編織的意思就是我要讓眼耳鼻舌身面對的這一切法有意義，給它一個意義就叫編織。",
+     "src": "pages/swxf/shizhu18"
+    },
+    {
+     "q": "編織是什麼意思？就是給一一法賦予意義。",
+     "src": "pages/swxf/shizhu30"
+    }
+   ]
+  },
+  {
+   "label": "意义决定世界的分别",
+   "text": "swxf6 讲有了意义就有清净与染著、不同的世界。",
+   "quotes": [
+    {
+     "q": "編織是什麼意思？就是給它一個意義。",
+     "src": "pages/swxf/shizhu6"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "讲成自我因素赋予一一法意义的能力，凡夫与学习后编织出不同世界。"
+  }
+ ],
+ "related": [
+  "根本无明",
+  "一念无明",
+  "自性智慧"
+ ],
+ "tensions": [],
+ "gaps": [
+  "别名未明，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu18",
+  "pages/swxf/shizhu30",
+  "pages/swxf/shizhu6"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自性智慧"
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "term": "十方",
+ "key": "十方",
+ "aliases": [],
+ "summary": "智慧（般若智慧）的呈现方式与结构，也代表行法模式",
+ "definition": "讲者说十方是智慧（般若智慧）的表现方式、呈现形式：自性根本智在差别智、知识经验里呈现时，不是无标准地直接呈现，而是有规则、有次第地以十方的结构呈现。经典里「十方诸佛」的言说，讲者说代表行法模式；在较晚期的大乘佛教里，讲者又说十方就是曼陀罗的结构、实际上是一种行法。",
+ "definition_basis": [
+  {
+   "q": "從十方雲集，十方就是智慧的表現方式。",
+   "src": "pages/swxf/shizhu12"
+  },
+  {
+   "q": "『十方』就是般若智慧的呈現方式、呈現形式，這個結構就是形式。",
+   "src": "pages/swxf/shizhu7"
+  },
+  {
+   "q": "『十方』是自性智慧的表現形式，涵蓋普遍存在的一切法",
+   "src": "pages/huayan70/jiangyi46"
+  },
+  {
+   "q": "到晚期大乘佛教的時候，十方就是曼陀羅的這個結構，實際上它是一種行法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/14.sfjgyzhxf"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "智慧的表现方式／呈现形式",
+   "text": "十方被讲成般若智慧、自性智慧的表现形式，有规则、有次第、有系统；swxf、huayan70、shixin 都这样讲。",
+   "quotes": [
+    {
+     "q": "從十方雲集，十方就是智慧的表現方式。",
+     "src": "pages/swxf/shizhu12"
+    },
+    {
+     "q": "『十方』就是般若智慧的呈現方式、呈現形式，這個結構就是形式。",
+     "src": "pages/swxf/shizhu7"
+    },
+    {
+     "q": "『十方』是自性智慧的表現形式，涵蓋普遍存在的一切法",
+     "src": "pages/huayan70/jiangyi46"
+    },
+    {
+     "q": "十方是智慧的表現方式，是智慧的呈現方式。",
+     "src": "pages/shixin/shixin14"
+    }
+   ]
+  },
+  {
+   "label": "行法模式（十方诸佛）",
+   "text": "经典里「十方诸佛」的言说，讲者说代表行法模式；把生命一切法分类后，每类法的觉悟模式即十方诸佛。",
+   "quotes": [
+    {
+     "q": "經典中「十方諸佛」的言說，代表行法模式",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/30.rhljxfamtfhdfysfd-zflx--"
+    },
+    {
+     "q": "某一類法使用的模式，就是您剛才提到的問題，即十方諸佛的那種模式。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/23.sfzfyamtfszydgx-"
+    }
+   ]
+  },
+  {
+   "label": "曼陀罗结构（晚期大乘）",
+   "text": "一页答疑说，到晚期大乘佛教，十方就是曼陀罗的结构，是一种行法。",
+   "quotes": [
+    {
+     "q": "到晚期大乘佛教的時候，十方就是曼陀羅的這個結構，實際上它是一種行法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/14.sfjgyzhxf"
+    }
+   ]
+  },
+  {
+   "label": "八方加上下（十方的构成）",
+   "text": "答疑中把十方说成八方再加上方与下方，下方与上方各有所指。",
+   "quotes": [
+    {
+     "q": "其中下方代表根本智的成就，上方代表法界整體圓滿的成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+    },
+    {
+     "q": "下方代表種性成就，或者法性成就；上方則代表法界成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/3.szsfjgdysyq"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "在十住讲中把十方说成般若智慧的呈现形式与结构，差别智里的呈现按此规则。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成自性智慧的表现形式，涵盖一切法，是一念无明、差别智的具体表现。"
+  },
+  {
+   "series": "shixin",
+   "text": "讲成智慧的呈现方式，使自性觉悟力现前，具有普遍性。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑把十方诸佛讲成行法模式、曼陀罗结构，并讲八方与上下方的成就所指。"
+  }
+ ],
+ "related": [
+  "般若智慧",
+  "自性智慧",
+  "差别智",
+  "行法模式",
+  "曼陀罗"
+ ],
+ "tensions": [
+  {
+   "text": "下方与上方的所指在两页答疑的说法不同：一页说下方是根本智的成就，另一页说下方是种性成就或法性成就。",
+   "sources": [
+    {
+     "q": "其中下方代表根本智的成就，上方代表法界整體圓滿的成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+    },
+    {
+     "q": "下方代表種性成就，或者法性成就；上方則代表法界成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/sz/3.szsfjgdysyq"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各页没有逐一列出十个方位。",
+  "「十」作为数字与「十方」的关系，以及曼陀罗结构的细节，在这些页上只被点到。",
+  "未说明十方诸佛各自对应的具体行法。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu12",
+  "pages/swxf/shizhu7",
+  "pages/huayan70/jiangyi46",
+  "pages/shixin/shixin14",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/30.rhljxfamtfhdfysfd-zflx--",
+  "pages/dayi_all/2018-2022dy/flWORD/sz/3.szsfjgdysyq"
+ ],
+ "pages_consulted": 9,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自性智慧",
+  "曼陀罗"
+ ]
+}

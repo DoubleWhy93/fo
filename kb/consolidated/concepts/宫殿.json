@@ -1,0 +1,80 @@
+{
+ "term": "宫殿",
+ "key": "宫殿",
+ "aliases": [],
+ "summary": "喻行法理论与行法次第的整体性、结构性",
+ "definition": "讲者说经典中的「宫殿」代表般若智慧在一切法中完整性、系统性、稳定性的呈现；行法理论和行法次第像一座宫殿，是整体性、结构性的。某一类法的集合就是一个宫殿。",
+ "definition_basis": [
+  {
+   "q": "經典中的『宮殿』皆代表般若智慧在一切法中完整性、系統性、穩定性的呈現",
+   "src": "pages/huayan70/jiangyi14"
+  },
+  {
+   "q": "《華嚴經》就是這樣一座宮殿，解讀這部經不但消文要準確，同時行法理論和行法次第也要準確",
+   "src": "pages/huayan70/jiangyi22"
+  },
+  {
+   "q": "某一類法的集合就是一個宮殿",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/79.tdsyfrmsdh-whzgdzsyylzrzxn"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "般若智慧的完整呈现",
+   "text": "huayan70 讲法：宫殿代表般若智慧在一切法中的完整性、系统性、稳定性。",
+   "quotes": [
+    {
+     "q": "經典中的『宮殿』皆代表般若智慧在一切法中完整性、系統性、穩定性的呈現",
+     "src": "pages/huayan70/jiangyi14"
+    }
+   ]
+  },
+  {
+   "label": "行法理论与次第",
+   "text": "《华严经》像一座宫殿，消文与理论次第都要准确。",
+   "quotes": [
+    {
+     "q": "《華嚴經》就是這樣一座宮殿，解讀這部經不但消文要準確，同時行法理論和行法次第也要準確",
+     "src": "pages/huayan70/jiangyi22"
+    }
+   ]
+  },
+  {
+   "label": "一类法的集合",
+   "text": "答疑中说某一类法的集合就是一个宫殿。",
+   "quotes": [
+    {
+     "q": "某一類法的集合就是一個宮殿",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/79.tdsyfrmsdh-whzgdzsyylzrzxn"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "以宫殿喻般若智慧的整体呈现和行法理论次第。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑：一类法的集合即宫殿。"
+  }
+ ],
+ "related": [
+  "般若智慧",
+  "行法理论",
+  "行法次第"
+ ],
+ "tensions": [],
+ "gaps": [],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/79.tdsyfrmsdh-whzgdzsyylzrzxn",
+  "pages/huayan70/jiangyi14",
+  "pages/huayan70/jiangyi22"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "行法理论"
+ ]
+}

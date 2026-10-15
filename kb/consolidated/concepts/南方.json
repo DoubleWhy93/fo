@@ -1,0 +1,93 @@
+{
+ "term": "南方",
+ "key": "南方",
+ "aliases": [],
+ "summary": "自我因素所在与光明炽盛之处；南行代表智慧增胜、行法精进",
+ "definition": "讲者说南方是「自我」因素所在处，凡夫种性以自我为核心生起的一切法称南阎浮提一切法；南方同时是光明炽盛的方向，南行代表智慧增胜、行法精进。",
+ "definition_basis": [
+  {
+   "q": "南方即『自我』因素所在處，凡夫種性以『自我』為核心生起的一切法即稱作『南閻浮提』一切法",
+   "src": "pages/huayan70/jiangyi43"
+  },
+  {
+   "q": "『南方』是光明熾盛的方向",
+   "src": "pages/huayan28/28jiang26"
+  },
+  {
+   "q": "『南方』是指智慧增勝、行法精進",
+   "src": "pages/huayan70/jiangyi58"
+  },
+  {
+   "q": "『南方』代表智慧增勝、行法精進。",
+   "src": "pages/huayan70/jiangyi53"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自我因素所在处",
+   "text": "南方即「自我」因素所在，凡夫以自我为核心生起的一切法称南阎浮提。",
+   "quotes": [
+    {
+     "q": "南方即『自我』因素所在處，凡夫種性以『自我』為核心生起的一切法即稱作『南閻浮提』一切法",
+     "src": "pages/huayan70/jiangyi43"
+    }
+   ]
+  },
+  {
+   "label": "光明炽盛的方向",
+   "text": "一路向南代表智慧光明之下的无量行法精进。",
+   "quotes": [
+    {
+     "q": "『南方』是光明熾盛的方向",
+     "src": "pages/huayan28/28jiang26"
+    }
+   ]
+  },
+  {
+   "label": "智慧增胜、行法精进",
+   "text": "从一念到具体身心作为的过程即一路向南。",
+   "quotes": [
+    {
+     "q": "『南方』是指智慧增勝、行法精進",
+     "src": "pages/huayan70/jiangyi58"
+    },
+    {
+     "q": "『南方』代表智慧增勝、行法精進。",
+     "src": "pages/huayan70/jiangyi53"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "光明炽盛的方向。"
+  },
+  {
+   "series": "huayan70",
+   "text": "自我因素所在，及智慧增胜、行法精进。"
+  }
+ ],
+ "related": [
+  "自我因素",
+  "南阎浮提",
+  "精进",
+  "四智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "南方作为四智中平等性智的说法在 teachings 中，本卡未引其原文。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi43",
+  "pages/huayan28/28jiang26",
+  "pages/huayan70/jiangyi58",
+  "pages/huayan70/jiangyi53"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "南阎浮提",
+  "精进"
+ ]
+}

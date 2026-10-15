@@ -1,0 +1,76 @@
+{
+ "term": "行法精进",
+ "key": "行法精进",
+ "aliases": [],
+ "summary": "大乘两条根本戒律之一，是智慧增胜的同时展开，不是苦行劳作",
+ "definition": "讲者说行法精进并非起早贪黑或劳作苦行，而是与智慧增胜同时展开：觉知观察、思惟体验越来越微细准确。它与梵行清净并列，是大乘菩萨的两条根本戒律。",
+ "definition_basis": [
+  {
+   "q": "『行法精進』並非指起早貪黑或勞作苦行",
+   "src": "pages/huayan70/jiangyi19"
+  },
+  {
+   "q": "行法精進一定與智慧增勝同時展開",
+   "src": "pages/huayan70/jiangyi4"
+  },
+  {
+   "q": "第一個梵行清淨；第二個行法精進。梵行清淨包括諸法平等。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "不是苦行，与智慧增胜同时",
+   "text": "huayan70 的两处讲解。",
+   "quotes": [
+    {
+     "q": "『行法精進』並非指起早貪黑或勞作苦行",
+     "src": "pages/huayan70/jiangyi19"
+    },
+    {
+     "q": "行法精進一定與智慧增勝同時展開",
+     "src": "pages/huayan70/jiangyi4"
+    }
+   ]
+  },
+  {
+   "label": "与梵行清净并列的戒律",
+   "text": "2023 年问答：两条根本戒律之一。",
+   "quotes": [
+    {
+     "q": "第一個梵行清淨；第二個行法精進。梵行清淨包括諸法平等。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲它不是苦行，须与智慧增胜同时。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答把它与梵行清净并列为两条戒律。"
+  }
+ ],
+ "related": [
+  "梵行清净",
+  "智慧增胜",
+  "一心清净"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据页没有给出行法精进的具体操作步骤。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi4",
+  "pages/huayan70/jiangyi19",
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "智慧增胜"
+ ]
+}

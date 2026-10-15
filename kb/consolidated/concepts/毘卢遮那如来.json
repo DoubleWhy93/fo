@@ -1,0 +1,106 @@
+{
+ "term": "毘卢遮那如来",
+ "key": "毘卢遮那如来",
+ "aliases": [],
+ "summary": "生命本有的根本觉悟力、自性最核心的生命因素",
+ "definition": "讲者说毘卢遮那如来是生命本有的根本的觉悟力，是自性本身最核心的生命因素。2018–2022 年问答把它说成心体验与身体验合在一起的中心力量；十住讲说如来是自性本能的能力，毘卢遮那是种种光明。",
+ "definition_basis": [
+  {
+   "q": "『毘盧遮那如來』是指生命本有的根本的覺悟力",
+   "src": "pages/huayan70/jiangyi27"
+  },
+  {
+   "q": "毘盧遮那如來就是我們自性本身最核心的那個生命因素，就是毘盧遮那如來。",
+   "src": "pages/shixin/shixin2"
+  },
+  {
+   "q": "如來是代表自性本身的、本能的那個能力就是如來。毘盧遮那是什麼？就是種種光明。",
+   "src": "pages/swxf/shizhu16"
+  },
+  {
+   "q": "這兩個合在一起的中心力量就是毘盧遮那如來",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "根本觉悟力",
+   "text": "生命本有的根本觉悟力。",
+   "quotes": [
+    {
+     "q": "『毘盧遮那如來』是指生命本有的根本的覺悟力",
+     "src": "pages/huayan70/jiangyi27"
+    }
+   ]
+  },
+  {
+   "label": "自性核心因素",
+   "text": "自性最核心的生命因素。",
+   "quotes": [
+    {
+     "q": "毘盧遮那如來就是我們自性本身最核心的那個生命因素，就是毘盧遮那如來。",
+     "src": "pages/shixin/shixin2"
+    }
+   ]
+  },
+  {
+   "label": "种种光明",
+   "text": "如来是自性本能的能力，毘卢遮那是种种光明。",
+   "quotes": [
+    {
+     "q": "如來是代表自性本身的、本能的那個能力就是如來。毘盧遮那是什麼？就是種種光明。",
+     "src": "pages/swxf/shizhu16"
+    }
+   ]
+  },
+  {
+   "label": "心身体验合一的中心力量",
+   "text": "心体验与身体验合在一起的中心力量。",
+   "quotes": [
+    {
+     "q": "這兩個合在一起的中心力量就是毘盧遮那如來",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "说是生命本有的根本觉悟力。"
+  },
+  {
+   "series": "shixin",
+   "text": "说是自性最核心的生命因素。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲说如来是自性本能的能力，毘卢遮那是种种光明。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答说是心体验与身体验合在一起的中心力量。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "差别智",
+  "文殊师利菩萨",
+  "普贤菩萨"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「中心力量」与「根本觉悟力」是否同一说法，页面未明确说明。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi27",
+  "pages/shixin/shixin2",
+  "pages/swxf/shizhu16",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": [
+  "普贤菩萨"
+ ]
+}

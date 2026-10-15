@@ -1,0 +1,115 @@
+{
+ "term": "授记",
+ "key": "授记",
+ "aliases": [
+  "得佛授记"
+ ],
+ "summary": "世尊对某种行法模式、种性的印证，并指向未来成就",
+ "definition": "讲者说授记是诸佛对行法模式的肯定：修行者具有相应的行法模式、种性，就是得佛授记，而不是对某一个人的预言。授记总说在未来，用来鉴别种性距离；多页把得佛授记与十住位第六、七住位证无生忍相联系。",
+ "definition_basis": [
+  {
+   "q": "『授記』是指諸佛對行法模式的肯定",
+   "src": "pages/huayan70/jiangyi38"
+  },
+  {
+   "q": "所以，授記意味著世尊對行法模式的印證，修行者具有相應的行法模式，即是得佛授記。",
+   "src": "pages/huayan28/28jiang26"
+  },
+  {
+   "q": "這種確切相應叫得佛授記。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/125.dfsjdbgtjdbknx-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "对行法模式的印证",
+   "text": "授记确认某一种性的行法模式；建立这样的模式、成就这样的种性即是得佛授记。",
+   "quotes": [
+    {
+     "q": "『授記』是對某一種性行法模式的確認",
+     "src": "pages/huayan70/jiangyi18"
+    },
+    {
+     "q": "所以那個未來也是一種法數，代表一種菩薩道種智生起的模式。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/5.hkjfdsjysfsm-"
+    }
+   ]
+  },
+  {
+   "label": "为什么总在未来",
+   "text": "授记都是未来，未来是成就地，从现在到未来有过程，用来鉴别种性距离；多少劫是时间，某方位某世界是空间，意味着无上正觉要在行法实践和生命体验中呈现。",
+   "quotes": [
+    {
+     "q": "您會發現佛陀給所有的行者授記都是「未來」，不管未來多遠都是未來。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/8.rhj-fsamtj-lsdxf-   "
+    },
+    {
+     "q": "授記意味著無上正覺必須在行法實踐和生命體驗中呈現出來",
+     "src": "pages/dayi_all/2024dy/2024dywd/1.dy-2024-9-14-"
+    }
+   ]
+  },
+  {
+   "label": "与住位及条件的联系",
+   "text": "第六、七住位证阿鞞跋致地、无生忍、般若波罗蜜即得佛授记；授记另说要具备八个条件，最重要的是女转男身。",
+   "quotes": [
+    {
+     "q": "到第六、第七住位的時候，修行者證得阿鞞跋致地，證得無生忍，證得般若波羅蜜。換句話講，就是「得佛授記」。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/24.-wlsj-jdssbyzsyy"
+    },
+    {
+     "q": "「授記」要具備八個條件，其中最重要的一個就是「女轉男身」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/11.mxjxhdxfshydpsdzzxfm-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成世尊对行法模式的印证，真实授记是见性后生起的无量道种智行法。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成诸佛对行法模式的肯定，须得佛种性，十住位才能得佛授记。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 讲授记总在未来、与住位及八个条件联系；2024 讲劫数是时间、世界是空间。"
+  }
+ ],
+ "related": [
+  "无生法忍",
+  "道种智",
+  "种性",
+  "女转男身"
+ ],
+ "tensions": [
+  {
+   "text": "一处说第六、七住位证无生忍等即得佛授记；另一处说授记要具备八个条件，女转男身最重要。",
+   "sources": [
+    {
+     "q": "到第六、第七住位的時候，修行者證得阿鞞跋致地，證得無生忍，證得般若波羅蜜。換句話講，就是「得佛授記」。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/24.-wlsj-jdssbyzsyy"
+    },
+    {
+     "q": "「授記」要具備八個條件，其中最重要的一個就是「女轉男身」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/11.mxjxhdxfshydpsdzzxfm-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "八个条件的具体内容在所读页中没有逐项列出。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi38",
+  "pages/huayan28/28jiang26",
+  "pages/huayan70/jiangyi18",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/125.dfsjdbgtjdbknx-",
+  "pages/huayan28/28jiang25"
+ ],
+ "pages_consulted": 10,
+ "confidence": "high",
+ "related_unresolved": []
+}

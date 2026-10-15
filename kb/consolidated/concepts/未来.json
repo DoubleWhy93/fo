@@ -1,0 +1,83 @@
+{
+ "term": "未来",
+ "key": "未来",
+ "aliases": [],
+ "summary": "不由时间而由行法模式决定的距离，即因地所望的果地",
+ "definition": "讲者说「未来」不只是时间上的距离：站在因地看果地，果地就在未来，与未来的距离由行法模式决定而非时间。把当下体验当作因地，期待它呈现极乐世界、华藏世界，那个世界所在就叫未来；它也指生命从目前处不断升进才能到达之处。",
+ "definition_basis": [
+  {
+   "q": "『未來』是指從生命目前所居住處，不斷升進不斷提髙",
+   "src": "pages/huayan28/28jiang25"
+  },
+  {
+   "q": "我們與未來距離有多遠是由行法模式決定，而不是由時間決定。",
+   "src": "pages/huayan70/jiangyi3"
+  },
+  {
+   "q": "那個極樂世界、華藏世界在哪呢？就叫未來",
+   "src": "pages/swxf/shizhu17"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "从目前处不断升进",
+   "text": "未来是生命从目前居住处不断升进、依自性智慧力才能到达之处。",
+   "quotes": [
+    {
+     "q": "『未來』是指從生命目前所居住處，不斷升進不斷提髙",
+     "src": "pages/huayan28/28jiang25"
+    }
+   ]
+  },
+  {
+   "label": "距离由行法模式决定",
+   "text": "因地看果地，果地即未来，距离由行法模式而非时间决定。",
+   "quotes": [
+    {
+     "q": "我們與未來距離有多遠是由行法模式決定，而不是由時間決定。",
+     "src": "pages/huayan70/jiangyi3"
+    }
+   ]
+  },
+  {
+   "label": "极乐／华藏世界所在",
+   "text": "以当下体验为因去呈现极乐世界、华藏世界，其所在叫未来。",
+   "quotes": [
+    {
+     "q": "那個極樂世界、華藏世界在哪呢？就叫未來",
+     "src": "pages/swxf/shizhu17"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "未来是不断升进才到达之处。"
+  },
+  {
+   "series": "huayan70",
+   "text": "距离由行法模式决定而非时间。"
+  },
+  {
+   "series": "swxf",
+   "text": "极乐世界、华藏世界所在即未来，不是明年或无量劫后。"
+  }
+ ],
+ "related": [
+  "时间与空间",
+  "行法模式"
+ ],
+ "tensions": [],
+ "gaps": [
+  "未来与过去、现在三际的整体关系，不在这几页定义中。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu17",
+  "pages/huayan70/jiangyi3",
+  "pages/huayan28/28jiang25"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

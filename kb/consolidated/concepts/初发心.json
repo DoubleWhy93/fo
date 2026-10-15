@@ -1,0 +1,112 @@
+{
+ "term": "初发心",
+ "key": "初发心",
+ "aliases": [],
+ "summary": "《华严经》行法里到见性位（或十住位）才算的发心",
+ "definition": "讲者说在《华严经》行法标准里，初发心不是在见性位之前烧香发心就与佛同等，而是与见性、智慧生起相关。huayan28 说大乘理论中初发心即般若智慧生起；swxf 的两页分别把它放在见性位和十住位（见 tensions）。",
+ "definition_basis": [
+  {
+   "q": "在《華嚴經》裡面，到見性位叫作初發心。",
+   "src": "pages/swxf/shizhu32"
+  },
+  {
+   "q": "在大乘佛教理論中，初發心即是般若智慧生起",
+   "src": "pages/huayan28/28jiang13"
+  },
+  {
+   "q": "在《華嚴經》裡面，初發心是指到華嚴行法的十住位。",
+   "src": "pages/swxf/shizhu31"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "般若智慧生起",
+   "text": "初发心即般若智慧生起；没有般若智慧的行法只是世间精进法，不是大乘行法。",
+   "quotes": [
+    {
+     "q": "在大乘佛教理論中，初發心即是般若智慧生起",
+     "src": "pages/huayan28/28jiang13"
+    }
+   ]
+  },
+  {
+   "label": "到见性位",
+   "text": "讲者说在《华严经》里到见性位叫初发心。",
+   "quotes": [
+    {
+     "q": "在《華嚴經》裡面，到見性位叫作初發心。",
+     "src": "pages/swxf/shizhu32"
+    }
+   ]
+  },
+  {
+   "label": "十住位",
+   "text": "讲者说初发心指到华严行法的十住位。",
+   "quotes": [
+    {
+     "q": "在《華嚴經》裡面，初發心是指到華嚴行法的十住位。",
+     "src": "pages/swxf/shizhu31"
+    }
+   ]
+  },
+  {
+   "label": "生起模式的首阶段",
+   "text": "另一页把初发心当作四个阶段之首，代表从本体生起一切法的模式，顺序为意、法、身。",
+   "quotes": [
+    {
+     "q": "初發心代表從本體生起一切法的模式，這個模式的順序是按照意先生起，然後法生起，身生起。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/126.zxxdszxfjtdmywzjysmqb-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "把初发心讲成般若智慧生起，如同种子。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中放在见性位或十住位，并与见性位之前的发心区分。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答把初发心当作生起一切法模式（意、法、身）的首阶段。"
+  }
+ ],
+ "related": [
+  "见性位",
+  "十住位",
+  "般若智慧"
+ ],
+ "tensions": [
+  {
+   "text": "初发心被放在不同位置：一页说到见性位，另一页说指十住位；讲者在这些页上未统一说法。",
+   "sources": [
+    {
+     "q": "在《華嚴經》裡面，到見性位叫作初發心。",
+     "src": "pages/swxf/shizhu32"
+    },
+    {
+     "q": "在《華嚴經》裡面，初發心是指到華嚴行法的十住位。",
+     "src": "pages/swxf/shizhu31"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「初发心」与见性位、十住位的关系各页说法不一，未见明确衔接。",
+  "别名：「初发心（华严行法）」仅为变体标注，未列为别名。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu31",
+  "pages/swxf/shizhu32",
+  "pages/huayan28/28jiang13",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/126.zxxdszxfjtdmywzjysmqb-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "十住位"
+ ]
+}

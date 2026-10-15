@@ -1,0 +1,77 @@
+{
+ "term": "所知障",
+ "key": "所知障",
+ "aliases": [],
+ "summary": "即根本无明，妨碍了知一切法的力量，不是读书多带来的障碍",
+ "definition": "讲者说所知障就是根本无明：对一切法总体的不明了的力量，它妨碍我们了知一切法。因为我们生来只有直观观察体验的能力，不学习就不知道一切法。讲者明确说它不是「读书太多妨碍智慧」；进入菩萨道种智行法时，所知障慢慢去掉。",
+ "definition_basis": [
+  {
+   "q": "對一切法總體的不明瞭的力量，就是根本無明，這個力量阻礙我們明瞭一切法，就是所知障。",
+   "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+  },
+  {
+   "q": "所知障是什麼？就是根本無明，妨礙你了知一切法的那一個力量叫所知障。",
+   "src": "pages/swxf/shizhu8"
+  },
+  {
+   "q": "進入到菩薩道種智行法時，所知障慢慢就去掉了。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/9.jyqfypszz"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "等同根本无明",
+   "text": "两页都把所知障讲成根本无明的力量。",
+   "quotes": [
+    {
+     "q": "所知障是什麼？就是根本無明，妨礙你了知一切法的那一個力量叫所知障。",
+     "src": "pages/swxf/shizhu8"
+    },
+    {
+     "q": "對一切法總體的不明瞭的力量，就是根本無明，這個力量阻礙我們明瞭一切法，就是所知障。",
+     "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+    }
+   ]
+  },
+  {
+   "label": "在菩萨道种智行法中去除",
+   "text": "2018-2022 年问答：进入菩萨道种智行法时逐渐去掉。",
+   "quotes": [
+    {
+     "q": "進入到菩薩道種智行法時，所知障慢慢就去掉了。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/9.jyqfypszz"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "第8讲：所知障即根本无明，不是读书太多妨碍智慧。"
+  },
+  {
+   "series": "答疑",
+   "text": "ztjz 问答同样讲它是根本无明住地；2018-2022 年问答讲其去除。"
+  }
+ ],
+ "related": [
+  "根本无明",
+  "一念无明",
+  "烦恼障",
+  "菩萨道种智行法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "根本无明与所知障在证据页中被等同使用，没有再分层说明。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu8",
+  "pages/dayi_all/ztjz/9.zwysssmzyqfddyy",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/9.jyqfypszz"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "烦恼障"
+ ]
+}

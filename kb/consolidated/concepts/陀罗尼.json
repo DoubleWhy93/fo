@@ -1,0 +1,88 @@
+{
+ "term": "陀罗尼",
+ "key": "陀罗尼",
+ "aliases": [],
+ "summary": "总持：把某一类法合在一起给一个名字",
+ "definition": "讲者说陀罗尼是总持，把某一类法合在一起给一个名字，类似现代学科中的集合、关键字；名字、言说、思惟皆是陀罗尼光明的具体显现。问答页另说陀罗尼的出现代表佛教理论化形式的生起。",
+ "definition_basis": [
+  {
+   "q": "『陀羅尼』是總持，把某一類法合在一起給一個名字叫總持",
+   "src": "pages/huayan70/jiangyi22"
+  },
+  {
+   "q": "『陀羅尼』是指總持，類似於現代學科中的集合、關鍵字。",
+   "src": "pages/huayan70/jiangyi50"
+  },
+  {
+   "q": "『陀羅尼』是指某一類法的總合",
+   "src": "pages/huayan70/jiangyi54"
+  },
+  {
+   "q": "所以，陀羅尼的出現代表了佛教理論化形式的生起。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/100.rhj-fsamtj-lsdxf-  "
+  }
+ ],
+ "aspects": [
+  {
+   "label": "总持、关键字",
+   "text": "把某一类法合在一起给一个名字；可代表任何法；从诸法言说角度建立。",
+   "quotes": [
+    {
+     "q": "『陀羅尼』是總持，把某一類法合在一起給一個名字叫總持",
+     "src": "pages/huayan70/jiangyi22"
+    },
+    {
+     "q": "『陀羅尼』是指總持，類似於現代學科中的集合、關鍵字。",
+     "src": "pages/huayan70/jiangyi50"
+    }
+   ]
+  },
+  {
+   "label": "某一类法的总合",
+   "text": "八十华严列百一十八种陀罗尼门，四十华严百四十六种。",
+   "quotes": [
+    {
+     "q": "『陀羅尼』是指某一類法的總合",
+     "src": "pages/huayan70/jiangyi54"
+    }
+   ]
+  },
+  {
+   "label": "佛教理论化形式的生起",
+   "text": "弟子渐渐知道佛陀所讲后出现的讲法，代表理论化形式生起。",
+   "quotes": [
+    {
+     "q": "所以，陀羅尼的出現代表了佛教理論化形式的生起。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/100.rhj-fsamtj-lsdxf-  "
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "多页说它是总持，类似集合、关键字，并与三昧、须弥山对比。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（jtl）把陀罗尼的出现说成佛教理论化形式的生起。"
+  }
+ ],
+ "related": [
+  "三昧",
+  "须弥山"
+ ],
+ "tensions": [],
+ "gaps": [
+  "陀罗尼与三昧的区别，本包定义页只提到另在 huayan70 他讲讲过。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi22",
+  "pages/huayan70/jiangyi50",
+  "pages/huayan70/jiangyi54",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/100.rhj-fsamtj-lsdxf-  "
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": []
+}

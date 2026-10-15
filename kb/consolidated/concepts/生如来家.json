@@ -1,0 +1,104 @@
+{
+ "term": "生如来家",
+ "key": "生如来家",
+ "aliases": [],
+ "summary": "住行向地四位的成就称谓，行法实践回到普遍存在的一切法",
+ "definition": "讲者说住行向地四位行法只能称生如来家，不能称如来。huayan70 讲成安住普遍存在的一切法、止息异身异时异处的行法理念；swxf 说在思辩领域得解脱与无上正觉也称生如来家。",
+ "definition_basis": [
+  {
+   "q": "在住行向地四位行法，僅可以稱作生如來家，但不能稱爲如來。",
+   "src": "pages/dayi_all/ztjz/4..rldzh"
+  },
+  {
+   "q": "修行者安住普遍存在的一切法，止息異身、異時、異處的行法理念，即可稱為『生如來家』。",
+   "src": "pages/huayan70/jiangyi48"
+  },
+  {
+   "q": "『生如來家』是指行法實踐回到普遍存在的一切法中",
+   "src": "pages/huayan70/jiangyi25"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "只称生如来家，不称如来",
+   "text": "住行向地四位只能称生如来家，到第七住位可说生如来家，不说证得如来智慧。",
+   "quotes": [
+    {
+     "q": "在住行向地四位行法，僅可以稱作生如來家，但不能稱爲如來。",
+     "src": "pages/dayi_all/ztjz/4..rldzh"
+    }
+   ]
+  },
+  {
+   "label": "回到普遍存在的一切法",
+   "text": "行法实践回到普遍存在的一切法，安住其中、止息异身异时异处理念。",
+   "quotes": [
+    {
+     "q": "『生如來家』是指行法實踐回到普遍存在的一切法中",
+     "src": "pages/huayan70/jiangyi25"
+    },
+    {
+     "q": "修行者安住普遍存在的一切法，止息異身、異時、異處的行法理念，即可稱為『生如來家』。",
+     "src": "pages/huayan70/jiangyi48"
+    }
+   ]
+  },
+  {
+   "label": "思辩领域的解脱",
+   "text": "在思辩领域得解脱与无上正觉也称生如来家。",
+   "quotes": [
+    {
+     "q": "這一塊在經典中也稱作『生如來家』。",
+     "src": "pages/swxf/shizhu24"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "专题系列（ztjz）讲不能称如来。"
+  },
+  {
+   "series": "huayan70",
+   "text": "行法回到一切法；十信位准确讲还不算。"
+  },
+  {
+   "series": "swxf",
+   "text": "思辩领域与十地位的两层说法。"
+  }
+ ],
+ "related": [
+  "如来",
+  "无生忍",
+  "无生法忍",
+  "阿鞞跋致"
+ ],
+ "tensions": [
+  {
+   "text": "生如来家的位次说法：swxf 一页说思辩领域即称，huayan70 一页说十信位准确讲还不算。",
+   "sources": [
+    {
+     "q": "這一塊在經典中也稱作『生如來家』。",
+     "src": "pages/swxf/shizhu24"
+    },
+    {
+     "q": "修行者安住普遍存在的一切法，止息異身、異時、異處的行法理念，即可稱為『生如來家』。",
+     "src": "pages/huayan70/jiangyi48"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "「生如来家」与「得佛种性」的区分只在 teachings 中点到。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/ztjz/4..rldzh",
+  "pages/huayan70/jiangyi25",
+  "pages/huayan70/jiangyi48",
+  "pages/swxf/shizhu24"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": []
+}

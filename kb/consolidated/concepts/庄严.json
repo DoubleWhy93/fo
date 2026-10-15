@@ -1,0 +1,99 @@
+{
+ "term": "庄严",
+ "key": "庄严",
+ "aliases": [],
+ "summary": "智慧力如实知一切法所带来的必然、稳定的觉受与体验",
+ "definition": "讲者把「庄严」讲成与智慧力相关的体验：智慧力参与、超越以往知识经验体验所带来的觉受叫庄严；它是自性智慧总体性、系统性、理论性的呈现，也指一切法存在的必然性与稳定性。极乐世界、华藏世界的庄严来自菩萨思惟与行法实践中对一切法的如实知，不是一切法的本然存在。",
+ "definition_basis": [
+  {
+   "q": "由它帶來的覺受叫作莊嚴。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/133.gdyzydgx-"
+  },
+  {
+   "q": "這種自性智慧的總體性、系統性、理論性的呈現即是『莊嚴』",
+   "src": "pages/huayan70/jiangyi61"
+  },
+  {
+   "q": "「莊嚴」是指一切法存在的必然性",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "智慧力带来的觉受",
+   "text": "庄严一定与觉受相关，由智慧力参与、超越以往知识经验体验所带来。",
+   "quotes": [
+    {
+     "q": "由它帶來的覺受叫作莊嚴。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/133.gdyzydgx-"
+    }
+   ]
+  },
+  {
+   "label": "自性智慧的总体呈现",
+   "text": "自性智慧总体性、系统性、理论性的呈现即庄严。",
+   "quotes": [
+    {
+     "q": "這種自性智慧的總體性、系統性、理論性的呈現即是『莊嚴』",
+     "src": "pages/huayan70/jiangyi61"
+    }
+   ]
+  },
+  {
+   "label": "一切法存在的必然性",
+   "text": "2023 年问答把庄严讲成一切法存在的必然性、稳定性。",
+   "quotes": [
+    {
+     "q": "「莊嚴」是指一切法存在的必然性",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+    },
+    {
+     "q": "管這種必然性和穩定性，叫作莊嚴。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/17.pxpsfjxf-2023-11-11-"
+    }
+   ]
+  },
+  {
+   "label": "来自智慧应用",
+   "text": "庄严来自智慧应用，把身心体验的所有法经分别乃至取舍，成为总合、清净安稳的生命体验。",
+   "quotes": [
+    {
+     "q": "『莊嚴』來自於智慧應用，來自於將身心體驗的所有法，經過分別乃至取捨，最終成為總合的、清淨安穩的生命體驗",
+     "src": "pages/huayan70/jiangyi48"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲成自性智慧总体呈现，来自智慧应用的清净安稳生命体验。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年讲与觉受相关；2023 年讲一切法存在的必然性与稳定性。"
+  }
+ ],
+ "related": [
+  "自性智慧",
+  "觉受",
+  "如实知"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「宝庄严」「实报庄严土」等复合用法只在 teachings 中出现，本卡未展开。",
+  "别名：未见确定同义词，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/133.gdyzydgx-",
+  "pages/huayan70/jiangyi61",
+  "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+  "pages/dayi_all/2023dy/wz/WORDbb/17.pxpsfjxf-2023-11-11-",
+  "pages/huayan70/jiangyi48"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自性智慧"
+ ]
+}

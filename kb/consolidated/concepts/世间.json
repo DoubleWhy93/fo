@@ -1,0 +1,97 @@
+{
+ "term": "世间",
+ "key": "世间",
+ "aliases": [],
+ "summary": "五蕴身、六入处（眼耳鼻舌身）一切法所在处",
+ "definition": "讲者说「世间」就是五蕴身、六入处一切法所在之处，也就是眼耳鼻舌身一切法所在处。它既是凡夫贪瞋痴慢、生死染著的生起处，也被说成生命解脱与无上正觉的成就处。",
+ "definition_basis": [
+  {
+   "q": "『世間』即是指五蘊身六入處的一切法所在。",
+   "src": "pages/huayan28/28jiang28"
+  },
+  {
+   "q": "我們平時常講的『世間』就是指五蘊身、六入處的一切法。",
+   "src": "pages/huayan70/jiangyi4"
+  },
+  {
+   "q": "『世間』是指眼、耳、鼻、舌、身一切法所在處",
+   "src": "pages/huayan70/jiangyi60"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "五蕴身、六入处的一切法",
+   "text": "世间即五蕴身六入处一切法所在；用现代语言说，是众生觉知的五蕴身一切法。",
+   "quotes": [
+    {
+     "q": "『世間』即是指五蘊身六入處的一切法所在。",
+     "src": "pages/huayan28/28jiang28"
+    },
+    {
+     "q": "用現代的語言來講，眾生覺知的五蘊身一切法就是世間。",
+     "src": "pages/amtj/amtj4"
+    }
+   ]
+  },
+  {
+   "label": "一念无明生起的一切法所在处",
+   "text": "hyxf 问答说一念无明生起的一切法所在处就是世间，无论以菩萨道种智行法还是凡夫种性面对。",
+   "quotes": [
+    {
+     "q": "就是一念無明生起的這一切法所在處就是世間",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/95.sxwsswsfswcsjdxf-"
+    }
+   ]
+  },
+  {
+   "label": "既是染著处也是成就处",
+   "text": "huayan70 说世间是凡夫生死染著的生起处，也是生命解脱与无上正觉成就处。",
+   "quotes": [
+    {
+     "q": "『世間』是指眼、耳、鼻、舌、身一切法所在處",
+     "src": "pages/huayan70/jiangyi60"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "定义为五蕴身六入处一切法所在。"
+  },
+  {
+   "series": "huayan70",
+   "text": "同样定义，并说它也是解脱与无上正觉成就处。"
+  },
+  {
+   "series": "amtj",
+   "text": "引《赤马天子经》说世间即五受阴，并以现代语言复述。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答把世间说成一念无明生起的一切法所在处。"
+  }
+ ],
+ "related": [
+  "五蕴身",
+  "六入处",
+  "一念无明",
+  "道种智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「世间（十迴向位）」这一变体在各页中的特殊用法，证据包中没有独立定义。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi60",
+  "pages/huayan28/28jiang28",
+  "pages/amtj/amtj4",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/95.sxwsswsfswcsjdxf-"
+ ],
+ "pages_consulted": 5,
+ "confidence": "high",
+ "related_unresolved": [
+  "五蕴身",
+  "六入处"
+ ]
+}

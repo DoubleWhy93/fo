@@ -1,0 +1,130 @@
+{
+ "term": "文殊师利菩萨",
+ "key": "文殊师利菩萨",
+ "aliases": [],
+ "summary": "我们给一法命名、生起概念与觉知的能力，即自性的觉知力量",
+ "definition": "讲者把文殊师利菩萨讲成每个人自性本身的力量：面对某一法时，能给出觉知、名相、概念的能力就是自己的文殊师利菩萨。起心动念就是文殊师利菩萨现前；在总体上他代表根本智和智慧总体的力量，依世尊的力量生起。",
+ "definition_basis": [
+  {
+   "q": "能夠給出概念這一個，就是我們的文殊師利菩薩。",
+   "src": "pages/shixin/shixin4"
+  },
+  {
+   "q": "這個生起名相定義的能力，就是我們自己的文殊師利菩薩。",
+   "src": "pages/shixin/shixin7"
+  },
+  {
+   "q": "我們給這一法命名的能力，就是自己的文殊師利菩薩",
+   "src": "pages/swxf/shizhu19"
+  },
+  {
+   "q": "總體來講，他是代表根本智的，代表智慧總體的那個力量，從總體的那個力量能夠生起一切智慧",
+   "src": "pages/shixin/shixin12"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "命名与概念的能力",
+   "text": "面对某一法生起名相、定义，并据此思惟、分别、选择、判断的能力。",
+   "quotes": [
+    {
+     "q": "這個生起名相定義的能力，就是我們自己的文殊師利菩薩。",
+     "src": "pages/shixin/shixin7"
+    },
+    {
+     "q": "我們給這一法命名的能力，就是自己的文殊師利菩薩",
+     "src": "pages/swxf/shizhu19"
+    }
+   ]
+  },
+  {
+   "label": "觉知、体验的力量",
+   "text": "hyxf 与 jdjd 问答把他讲成对某一法生起作意、觉知，或心体验的力量。",
+   "quotes": [
+    {
+     "q": "在普遍存在的所有法裡面，您會對某一法生起作意",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/54.wspszhgszzhdllyqbm"
+    },
+    {
+     "q": "心體驗的力量就是文殊菩薩",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx"
+    },
+    {
+     "q": "能生起的那一部分，就是您自己的文殊師利菩薩",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/2.cjdjddxfsq"
+    }
+   ]
+  },
+  {
+   "label": "根本智与智慧总体",
+   "text": "shixin 讲法说他代表根本智、智慧总体的力量，并在一切处、一一法中呈现为一切处文殊师利菩萨。",
+   "quotes": [
+    {
+     "q": "總體來講，他是代表根本智的，代表智慧總體的那個力量，從總體的那個力量能夠生起一切智慧",
+     "src": "pages/shixin/shixin12"
+    },
+    {
+     "q": "講到的就是根本智中的文殊師利菩薩，在一切處、一一法中呈現，變成一切處文殊師利菩薩。",
+     "src": "pages/shixin/shixin9"
+    }
+   ]
+  },
+  {
+   "label": "智慧的表现方式",
+   "text": "文殊代表智慧；智慧表现为概念准确、次第清晰、系统完备。",
+   "quotes": [
+    {
+     "q": "智慧表現方式就是概念準確、次第清晰、系統完備。",
+     "src": "pages/shixin/shixin5"
+    }
+   ]
+  },
+  {
+   "label": "世尊足光的具体表现",
+   "text": "shixin8 说他是世尊足光的具体表现。",
+   "quotes": [
+    {
+     "q": "文殊師利菩薩是世尊足光的具體表現。",
+     "src": "pages/shixin/shixin8"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "shixin",
+   "text": "最集中：命名概念的能力、根本智总体的力量、与世尊的关系（足光、依世尊力量生起）。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中重申给一法命名的能力就是自己的文殊师利菩萨。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022（hyxf、jdjd）以觉知、作意、体验的力量解释。"
+  }
+ ],
+ "related": [
+  "根本智",
+  "差别智",
+  "世尊",
+  "普贤菩萨"
+ ],
+ "tensions": [],
+ "gaps": [
+  "括注（生命中的、自性中的、命名能力）只是限定语，不另立别名。",
+  "文殊与普贤的分工仅在个别 teachings 中提到，本卡未展开。"
+ ],
+ "where_to_read": [
+  "pages/shixin/shixin4",
+  "pages/shixin/shixin7",
+  "pages/shixin/shixin12",
+  "pages/shixin/shixin5",
+  "pages/swxf/shizhu19"
+ ],
+ "pages_consulted": 10,
+ "confidence": "high",
+ "related_unresolved": [
+  "普贤菩萨"
+ ]
+}

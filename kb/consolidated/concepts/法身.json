@@ -1,0 +1,103 @@
+{
+ "term": "法身",
+ "key": "法身",
+ "aliases": [],
+ "summary": "以法为身；见性位后修行的法身世间，含一切法现相与如实知",
+ "definition": "讲者说法身简单讲就是以法为身。到见性位之后，修行者进入法身世间的修行阶段，学华严经就是成就法身。法身包括一切法现相和对这一切法的如实知、如实体验，只有现相而没有生命活动参与不能称证法身。",
+ "definition_basis": [
+  {
+   "q": "法身指什麼？簡單說，就是以法為身。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/27.rlzgyyby - fsyfscj"
+  },
+  {
+   "q": "大乘佛教的修行者到達見性位之後，即開始法身世間的修行階段，進入到法身世間。",
+   "src": "pages/huayan28/28jiang2"
+  },
+  {
+   "q": "『法身』包括兩個方面：一是一切法現相，二是對此一切法如實知、如實體驗。",
+   "src": "pages/huayan70/jiangyi30"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "以法为身",
+   "text": "最简明的说法：以法为身。",
+   "quotes": [
+    {
+     "q": "法身指什麼？簡單說，就是以法為身。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/27.rlzgyyby - fsyfscj"
+    }
+   ]
+  },
+  {
+   "label": "见性位后的修行阶段",
+   "text": "大乘修行者到见性位后开始法身世间的修行，华严经是法身菩萨的行法。",
+   "quotes": [
+    {
+     "q": "大乘佛教的修行者到達見性位之後，即開始法身世間的修行階段，進入到法身世間。",
+     "src": "pages/huayan28/28jiang2"
+    }
+   ]
+  },
+  {
+   "label": "一切法现相＋如实知（huayan70）",
+   "text": "法身有两面：一切法现相，以及对其如实知、如实体验；有生命活动参与才称证法身。",
+   "quotes": [
+    {
+     "q": "『法身』包括兩個方面：一是一切法現相，二是對此一切法如實知、如實體驗。",
+     "src": "pages/huayan70/jiangyi30"
+    }
+   ]
+  },
+  {
+   "label": "证法身须能生起一切法",
+   "text": "答疑中说证法身必须能生起一切法；法界自在成就即是法身成就。",
+   "quotes": [
+    {
+     "q": "要證法身必須能夠生起一切法，從無著行一直到遠行地",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/55.wsmswyj-bjpsbzfs"
+    },
+    {
+     "q": "法界自在成就是法身成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "把法身讲成见性位之后的法身世间修行阶段，学华严经即成就法身。"
+  },
+  {
+   "series": "huayan70",
+   "text": "引『一切诸佛身，唯是一法身』，讲法身包括一切法现相与如实知两面。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 问答：简说以法为身；并就证法身的条件与位次（法界自在成就、能生起一切法）作说明。"
+  }
+ ],
+ "related": [
+  "法身世间",
+  "见性位",
+  "报身",
+  "如实知"
+ ],
+ "tensions": [],
+ "gaps": [
+  "资料未逐位说明法身成就的位次（初行位、第七住位等说法零散）。",
+  "未单独界定『法身世间』与『报身世间』的区别。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi30",
+  "pages/huayan28/28jiang2",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/27.rlzgyyby - fsyfscj",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/55.wsmswyj-bjpsbzfs"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "related_unresolved": [
+  "报身"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "term": "毘卢遮那藏",
+ "key": "毘卢遮那藏",
+ "aliases": [],
+ "summary": "即如来藏：自性所生的本然、普遍存在的一切法",
+ "definition": "讲者说毘卢遮那藏就是如来藏，指生命中本然存在、普遍存在的一切法，也就是自性所生的一切法。huayan70 一页进一步说它是根本智与差别智所生一切法的总合，言说角度不同，对应的行法实践也不同。",
+ "definition_basis": [
+  {
+   "q": "『毘盧遮那藏』是指我們生命中的一切法",
+   "src": "pages/huayan70/jiangyi16"
+  },
+  {
+   "q": "『毘盧遮那藏』即如來藏，即自性所生的一切法普遍存在。",
+   "src": "pages/huayan70/jiangyi53"
+  },
+  {
+   "q": "『毘盧遮那藏』即如來藏，是指生命中本然存在、普遍存在的一切法",
+   "src": "pages/huayan70/jiangyi54"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "生命中的一切法",
+   "text": "指生命中的一切法，即自性所生本然、普遍存在的一切法。",
+   "quotes": [
+    {
+     "q": "『毘盧遮那藏』是指我們生命中的一切法",
+     "src": "pages/huayan70/jiangyi16"
+    }
+   ]
+  },
+  {
+   "label": "即如来藏",
+   "text": "毘卢遮那藏即如来藏。",
+   "quotes": [
+    {
+     "q": "『毘盧遮那藏』即如來藏，即自性所生的一切法普遍存在。",
+     "src": "pages/huayan70/jiangyi53"
+    }
+   ]
+  },
+  {
+   "label": "根本智与差别智所生一切法的总合",
+   "text": "根本智从总相、总持力说，差别智从一一法别相尽无余说，对应行法不同。",
+   "quotes": [
+    {
+     "q": "『毘盧遮那藏』即如來藏，是指生命中本然存在、普遍存在的一切法",
+     "src": "pages/huayan70/jiangyi54"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "三页都讲成如来藏，即自性所生的一切法。"
+  }
+ ],
+ "related": [
+  "如来藏",
+  "根本智",
+  "差别智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「毘卢遮那藏师子座」在不同行法次第里的意义，仅在教学摘要中出现，未作定义页。",
+  "「如来藏」另有独立卡片，故不列为别名。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi16",
+  "pages/huayan70/jiangyi53",
+  "pages/huayan70/jiangyi54"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

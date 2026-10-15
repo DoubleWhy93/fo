@@ -1,0 +1,83 @@
+{
+ "term": "三十七道品",
+ "key": "三十七道品",
+ "aliases": [],
+ "summary": "四念处至八正道分的行法理论，在华严行法中依金刚种性智慧建立",
+ "definition": "讲者说三十七道品包括四念处、四正勤、四如意足、五根、五力、七菩提分、八正道分，是原始佛教时期世尊宣讲的核心行法理论。华严行法仍讲三十七道品，但依金刚藏菩萨的金刚种性智慧建立，从全面、明了通达、不执取角度讲，与声闻别教的远离角度不同。",
+ "definition_basis": [
+  {
+   "q": "三十七道品是原始佛教時期世尊宣講的核心行法理論",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+  },
+  {
+   "q": "所以華嚴行法的三十七道品，首先是依照金剛藏菩薩的金剛種性智慧來建立的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/41.ssqdpzhyxfyswbjmsdcb"
+  },
+  {
+   "q": "所以，這也是為什麼華嚴行法後面依然會講四諦法，三十七道品、十善業道、十二因緣法。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "三个层面",
+   "text": "2023 年问答把三十七道品分为声闻种性的模仿型、遵守型，菩萨种性自内显发的智慧，以及根本智行法层面自性本来的规定性。",
+   "quotes": [
+    {
+     "q": "一、聲聞種性的三十七道品，它是模仿型的、遵守型的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt"
+    }
+   ]
+  },
+  {
+   "label": "华严行法中依金刚种性智慧建立",
+   "text": "华严行法的三十七道品首先依金刚藏菩萨的金刚种性智慧建立。",
+   "quotes": [
+    {
+     "q": "所以華嚴行法的三十七道品，首先是依照金剛藏菩薩的金剛種性智慧來建立的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/41.ssqdpzhyxfyswbjmsdcb"
+    }
+   ]
+  },
+  {
+   "label": "华严行法后面仍讲",
+   "text": "华严行法后面依然讲四谛、三十七道品、十善业道、十二因缘。",
+   "quotes": [
+    {
+     "q": "所以，這也是為什麼華嚴行法後面依然會講四諦法，三十七道品、十善業道、十二因緣法。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022（hyxf）讲华严行法中依金刚种性智慧建立；2023 年（wz）分三个层面，并说在普贤菩萨法界是解脱与无上正觉的规则规范。"
+  }
+ ],
+ "related": [
+  "金刚种性智慧",
+  "四圣谛",
+  "十善业道",
+  "十二因缘",
+  "普贤菩萨法界"
+ ],
+ "tensions": [],
+ "gaps": [
+  "amtj、huayan28、shixin 等系列的说法只在 teachings 中提及，本卡未取得引文。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
+  "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/41.ssqdpzhyxfyswbjmsdcb",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "四圣谛",
+  "十善业道",
+  "十二因缘"
+ ]
+}

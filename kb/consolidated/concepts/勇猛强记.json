@@ -1,0 +1,92 @@
+{
+ "term": "勇猛强记",
+ "key": "勇猛强记",
+ "aliases": [],
+ "summary": "南阎浮提众生的特质，来自自我因素，凡夫是执着，行法中是精进力",
+ "definition": "讲者说勇猛强记是南阎浮提众生的特性，来自第七意识的分别执著、生命中的自我因素。在凡夫种性里是坚固的执着，转到行法中就是精进力；与「其性刚强，难调难伏」是同一个力量。",
+ "definition_basis": [
+  {
+   "q": "同樣是第七意識的分別執著，卻能給我們帶來行法實踐的精進力。",
+   "src": "pages/huayan70/jiangyi3"
+  },
+  {
+   "q": "『勇猛強記』的力量來自於生命中的『自我』因素",
+   "src": "pages/huayan70/jiangyi47"
+  },
+  {
+   "q": "在我們凡夫種性就是堅固的執著",
+   "src": "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "凡夫执着转为精进力",
+   "text": "凡夫种性是坚固的执着，转成行法的力量就是精进力。",
+   "quotes": [
+    {
+     "q": "在我們凡夫種性就是堅固的執著",
+     "src": "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+    },
+    {
+     "q": "同樣是第七意識的分別執著，卻能給我們帶來行法實踐的精進力。",
+     "src": "pages/huayan70/jiangyi3"
+    }
+   ]
+  },
+  {
+   "label": "与刚强难调同一力量",
+   "text": "勇猛强记与《地藏经》的「其性刚强，难调难伏」力量相同。",
+   "quotes": [
+    {
+     "q": "勇猛強記的力量從哪來的？《地藏經》裡面談到，南閻浮提眾生，其性剛強，難調難伏，力量是同一個。",
+     "src": "pages/swxf/shizhu4"
+    }
+   ]
+  },
+  {
+   "label": "来自自我因素",
+   "text": "凡夫中生起染著，皈依自性觉悟后生起行法精进。",
+   "quotes": [
+    {
+     "q": "『勇猛強記』的力量來自於生命中的『自我』因素",
+     "src": "pages/huayan70/jiangyi47"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "十住讲：与刚强难调同一力量。"
+  },
+  {
+   "series": "huayan70",
+   "text": "第七意识分别执著带来精进力。"
+  },
+  {
+   "series": "答疑",
+   "text": "2024 年问答：凡夫的执着转成精进力。"
+  }
+ ],
+ "related": [
+  "自我因素",
+  "南阎浮提",
+  "精进力"
+ ],
+ "tensions": [],
+ "gaps": [
+  "pack 对三种事的次第与具体内容多在引经文中，本卡未引。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi3",
+  "pages/huayan70/jiangyi47",
+  "pages/swxf/shizhu4",
+  "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "南阎浮提",
+  "精进力"
+ ]
+}

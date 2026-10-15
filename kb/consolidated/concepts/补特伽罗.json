@@ -1,0 +1,100 @@
+{
+ "term": "补特伽罗",
+ "key": "补特伽罗",
+ "aliases": [],
+ "summary": "生命中自我因素的力量，诸法轮转时的核心，不等同灵魂",
+ "definition": "讲者说补特伽罗就是自我这个因素，是生命中主动的、自我成为一切法的力量，是生命在诸法轮转时的核心力量，在佛教叫业力。它不称灵魂，因为不强调体验的连续性。huayan70 一页另把它讲成有情众生。",
+ "definition_basis": [
+  {
+   "q": "我們可以認爲『補特伽羅』就是自我這個因素",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  },
+  {
+   "q": "「補特伽羅」是什麼呢？即生命當中那種主動的、自我成爲一切法的力量",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/24.zywd-24-01-06-"
+  },
+  {
+   "q": "「補特伽羅」是生命本身在諸法輪轉時的核心力量",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自我因素的力量",
+   "text": "补特伽罗是自我因素的力量，不强调体验与知识的连续性，故不称灵魂。",
+   "quotes": [
+    {
+     "q": "我們可以認爲『補特伽羅』就是自我這個因素",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    },
+    {
+     "q": "「補特伽羅」是生命本身在諸法輪轉時的核心力量",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+    }
+   ]
+  },
+  {
+   "label": "主动成为一切法的力量",
+   "text": "生命中主动的、自我成为一切法的力量，是第一因的表现形式，遇缘成为另一个色身。",
+   "quotes": [
+    {
+     "q": "「補特伽羅」是什麼呢？即生命當中那種主動的、自我成爲一切法的力量",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/24.zywd-24-01-06-"
+    }
+   ]
+  },
+  {
+   "label": "指有情众生（huayan70）",
+   "text": "huayan70 说补特伽罗指有情众生，远离种种补特伽罗即安住根本智行法。",
+   "quotes": [
+    {
+     "q": "『補特伽羅』是指有情眾生",
+     "src": "pages/huayan70/jiangyi69"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2023–2024 年问答（WORDbb 系列）讲成自我因素的力量与业力。"
+  },
+  {
+   "series": "huayan70",
+   "text": "讲成有情众生，包括没到一生补处的修行者。"
+  }
+ ],
+ "related": [
+  "自我因素",
+  "业力",
+  "根本智",
+  "一念无明"
+ ],
+ "tensions": [
+  {
+   "text": "补特伽罗在问答页指自我因素的力量，在 huayan70 一页指有情众生。",
+   "sources": [
+    {
+     "q": "我們可以認爲『補特伽羅』就是自我這個因素",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    },
+    {
+     "q": "『補特伽羅』是指有情眾生",
+     "src": "pages/huayan70/jiangyi69"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "两种用法之间的关系未被说明。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)",
+  "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-",
+  "pages/dayi_all/2023dy/wz/WORDbb/24.zywd-24-01-06-",
+  "pages/huayan70/jiangyi69"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": []
+}

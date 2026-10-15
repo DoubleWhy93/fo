@@ -1,0 +1,97 @@
+{
+ "term": "经首",
+ "key": "经首",
+ "aliases": [],
+ "summary": "经典开头的处所与众，标志经的种性与行法模式",
+ "definition": "讲者说经首标志一部经的种性，读懂经首就能知道这部经在讲什么，能看出它可以生起怎样一类法。经首表现生命的存在模式、存在形式，也代表行法模式、成就模式，并用来确定行法的指归。",
+ "definition_basis": [
+  {
+   "q": "通過經首來確定行法的指歸、行法模式等等都和密法解讀、法數緊密相關",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/8.mfhfsdjdszr-hyj-dgj"
+  },
+  {
+   "q": "經首標誌了這部經的種性。",
+   "src": "pages/huayan70/jiangyi1"
+  },
+  {
+   "q": "所以那個經首表現的就是生命的存在模式、存在形式。我們讀懂經首，就能知道這一部經在講什麼。",
+   "src": "pages/shixin/shixin2"
+  },
+  {
+   "q": "所以經首代表行法模式、成就模式。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/43.zyjlswms"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "标志经的种性",
+   "text": "经首标志这部经的种性，可看出能生起怎样一类法。",
+   "quotes": [
+    {
+     "q": "經首標誌了這部經的種性。",
+     "src": "pages/huayan70/jiangyi1"
+    }
+   ]
+  },
+  {
+   "label": "生命的存在模式",
+   "text": "读懂经首就知道这部经讲什么；各处经首对生命体验的侧重不同。",
+   "quotes": [
+    {
+     "q": "所以那個經首表現的就是生命的存在模式、存在形式。我們讀懂經首，就能知道這一部經在講什麼。",
+     "src": "pages/shixin/shixin2"
+    }
+   ]
+  },
+  {
+   "label": "行法模式、成就模式",
+   "text": "经首代表行法模式、成就模式，并用以确定行法的指归。",
+   "quotes": [
+    {
+     "q": "所以經首代表行法模式、成就模式。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/43.zyjlswms"
+    },
+    {
+     "q": "通過經首來確定行法的指歸、行法模式等等都和密法解讀、法數緊密相關",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/8.mfhfsdjdszr-hyj-dgj"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "讲经首标志经的种性。"
+  },
+  {
+   "series": "shixin",
+   "text": "讲经首表现生命的存在模式、存在形式。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲经首代表行法模式、成就模式，与密法解读、法数相关。"
+  }
+ ],
+ "related": [
+  "种性",
+  "行法模式",
+  "法数",
+  "摩竭提国",
+  "四智行法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各部经经首的比较在教学摘要中出现，本卡只依上述四页。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi1",
+  "pages/shixin/shixin2",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/43.zyjlswms",
+  "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/8.mfhfsdjdszr-hyj-dgj"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": [
+  "摩竭提国"
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "term": "业力",
+ "key": "业力",
+ "aliases": [],
+ "summary": "根本智、根本无明的力量，即生命力",
+ "definition": "讲者说业力就是生命力，生命中一切法依它而起、依它而持；诸佛菩萨也不是没有业力。从根本无明角度讲，它没有办法息灭，只能调整、规范，息灭的是它的影响。以往的知识经验体验形成的判断，也被称为业力。",
+ "definition_basis": [
+  {
+   "q": "業力就是生命力，諸佛菩薩也不是沒有業力",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-"
+  },
+  {
+   "q": "業力即是生命力，生命中的一切法依它所起，依它所持",
+   "src": "pages/huayan70/jiangyi18"
+  },
+  {
+   "q": "「業力」就是生命力，「業力」從根本無明的角度講，沒有辦法息滅",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/26.zywd-24-01-13-"
+  },
+  {
+   "q": "其實生命力量就是業力",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/56.hwsmbtll-y[yl]ygxm- "
+  }
+ ],
+ "aspects": [
+  {
+   "label": "业力即生命力",
+   "text": "业力就是生命力，诸佛菩萨也有。",
+   "quotes": [
+    {
+     "q": "業力就是生命力，諸佛菩薩也不是沒有業力",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-"
+    },
+    {
+     "q": "其實生命力量就是業力",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/56.hwsmbtll-y[yl]ygxm- "
+    }
+   ]
+  },
+  {
+   "label": "一切法所依所持",
+   "text": "生命中的一切法依业力而起、依业力而持。",
+   "quotes": [
+    {
+     "q": "業力即是生命力，生命中的一切法依它所起，依它所持",
+     "src": "pages/huayan70/jiangyi18"
+    }
+   ]
+  },
+  {
+   "label": "以往经验形成的判断，不能息灭",
+   "text": "以往知识经验体验形成的判断是业力；从根本无明角度讲不能息灭。",
+   "quotes": [
+    {
+     "q": "「業力」就是生命力，「業力」從根本無明的角度講，沒有辦法息滅",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/26.zywd-24-01-13-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "说业力即生命力，生命中一切法依之而起。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 与 2023 年问答都说业力就是生命力，2023 年并说它是根本智、根本无明的力量。"
+  }
+ ],
+ "related": [
+  "根本无明",
+  "根本智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "本包定义未涉及教学条目中「业力被动、愿力主动」的对比，此卡未逐页引用。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-",
+  "pages/huayan70/jiangyi18",
+  "pages/dayi_all/2023dy/wz/WORDbb/26.zywd-24-01-13-",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/56.hwsmbtll-y[yl]ygxm- "
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": []
+}

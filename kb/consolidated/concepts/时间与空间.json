@@ -1,0 +1,82 @@
+{
+ "term": "时间与空间",
+ "key": "时间与空间",
+ "aliases": [],
+ "summary": "佛经中的时空是密法言说，代表种性与行法上的距离及体验条件",
+ "definition": "讲者说佛经所讲的时间与空间不是物理世间的时空概念，而是密法言说，代表我们与成就者之间种性上、行法实践上的距离。在 shixin 里它又是令一法产生知识、经验、体验的必须条件。",
+ "definition_basis": [
+  {
+   "q": "空間橫遍十方，時間竪窮三際，都屬於經典的密法言說。",
+   "src": "pages/huayan70/jiangyi4"
+  },
+  {
+   "q": "時間和空間是令這一法產生知識、經驗、體驗必須的條件。",
+   "src": "pages/shixin/shixin8"
+  },
+  {
+   "q": "我們與成就者之間的距離，不是物理世間的時間與空間上的距離，而是種性上的距離。",
+   "src": "pages/swxf/shizhu23"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "密法言说",
+   "text": "空间横遍十方、时间竖穷三际都是经典密法言说，要在行法实践中呈现。",
+   "quotes": [
+    {
+     "q": "空間橫遍十方，時間竪窮三際，都屬於經典的密法言說。",
+     "src": "pages/huayan70/jiangyi4"
+    }
+   ]
+  },
+  {
+   "label": "体验的必须条件",
+   "text": "时间与空间是令一法产生知识、经验、体验的必须条件。",
+   "quotes": [
+    {
+     "q": "時間和空間是令這一法產生知識、經驗、體驗必須的條件。",
+     "src": "pages/shixin/shixin8"
+    }
+   ]
+  },
+  {
+   "label": "种性上的距离",
+   "text": "与成就者的距离是种性上的距离，不是物理上的时空距离。",
+   "quotes": [
+    {
+     "q": "我們與成就者之間的距離，不是物理世間的時間與空間上的距離，而是種性上的距離。",
+     "src": "pages/swxf/shizhu23"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "时空皆是密法言说，从道种智行法角度说。"
+  },
+  {
+   "series": "shixin",
+   "text": "时空是一法产生知识经验体验的条件。"
+  },
+  {
+   "series": "swxf",
+   "text": "时空代表与成就者种性上的距离。"
+  }
+ ],
+ "related": [
+  "道种智",
+  "未来",
+  "种性"
+ ],
+ "tensions": [],
+ "gaps": [],
+ "where_to_read": [
+  "pages/swxf/shizhu23",
+  "pages/huayan70/jiangyi4",
+  "pages/shixin/shixin8"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

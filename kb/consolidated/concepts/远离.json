@@ -1,0 +1,67 @@
+{
+ "term": "远离",
+ "key": "远离",
+ "aliases": [],
+ "summary": "不是离开世间，而是在一切法中束缚与影响止息",
+ "definition": "讲者说「远离」不是远离世间、远离一切法，而是在一切法中得梵行清净，得无生忍和无生法忍；「悉得远离」指所有束缚和影响全部止息、消除。另一方面，声闻种性模式的「远离」被说成把力量关注在「灭」「空」上，是消极的。",
+ "definition_basis": [
+  {
+   "q": "『遠離』不是指遠離世間、遠離一切法，而是在一切法中得梵行清淨，得無生忍和無生法忍。",
+   "src": "pages/huayan70/jiangyi25"
+  },
+  {
+   "q": "即是聲聞種性模式的「遠離」，這是消極的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "菩萨义：在一切法中清净，不离世间",
+   "text": "讲者说远离不是离开一切法，而是在一切法中得梵行清净、得无生忍。",
+   "quotes": [
+    {
+     "q": "『遠離』不是指遠離世間、遠離一切法，而是在一切法中得梵行清淨，得無生忍和無生法忍。",
+     "src": "pages/huayan70/jiangyi25"
+    }
+   ]
+  },
+  {
+   "label": "声闻种性模式的远离",
+   "text": "声闻种性把修行力量关注在生住异灭的「灭」、成住坏空的「空」上，讲者称这是消极的。",
+   "quotes": [
+    {
+     "q": "即是聲聞種性模式的「遠離」，這是消極的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "解释「悉得远离」为束缚与影响全部止息，并强调不是远离世间。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年华严行法答疑中，把声闻种性式的远离作为对照。"
+  }
+ ],
+ "related": [
+  "梵行清净",
+  "无生法忍",
+  "声闻种性"
+ ],
+ "tensions": [],
+ "gaps": [
+  "未在已读页中系统区分各经里「远离」一词的所有用法。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-",
+  "pages/huayan70/jiangyi25"
+ ],
+ "pages_consulted": 2,
+ "confidence": "medium",
+ "related_unresolved": [
+  "声闻种性"
+ ]
+}

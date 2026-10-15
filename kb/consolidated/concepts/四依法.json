@@ -1,0 +1,78 @@
+{
+ "term": "四依法",
+ "key": "四依法",
+ "aliases": [],
+ "summary": "依法不依人，依义不依语，依了义不依不了义，依智不依识",
+ "definition": "讲者引四依法为依法不依人，依义不依语，依了义不依不了义，依智不依识。所依是自性本身提供的法则，不依的是个体不牢固的知识经验；前一半是基于根本智的普遍性法则，后一半不依个体经验。",
+ "definition_basis": [
+  {
+   "q": "依法不依人，依義不依語，依了義不依不了義，依智不依識",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+  },
+  {
+   "q": "依法不依人，依義不依語，依智不依識，依了義不依不了義。",
+   "src": "pages/swxf/shizhu20"
+  },
+  {
+   "q": "依法不依人，依義不依語，依智不依識，依了義不依不了義。",
+   "src": "pages/swxf/shizhu21"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "四句条文",
+   "text": "依法不依人，依义不依语，依了义不依不了义，依智不依识。",
+   "quotes": [
+    {
+     "q": "依法不依人，依義不依語，依了義不依不了義，依智不依識",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+    }
+   ]
+  },
+  {
+   "label": "依自性法则",
+   "text": "所依是自性本身提供的法则，不依个体不牢固的知识经验。",
+   "quotes": [
+    {
+     "q": "依法不依人，依義不依語，依智不依識，依了義不依不了義。",
+     "src": "pages/swxf/shizhu20"
+    }
+   ]
+  },
+  {
+   "label": "依根本智法则、不依个体经验",
+   "text": "总体是依自性根本智法则，不依个体知识、经验、体验。",
+   "quotes": [
+    {
+     "q": "依法不依人，依義不依語，依智不依識，依了義不依不了義。",
+     "src": "pages/swxf/shizhu21"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "十住讲中把四依法讲成十住位行法的第一个原则，依自性根本智法则。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答把它与理性态度、资粮联系。"
+  }
+ ],
+ "related": [
+  "根本智"
+ ],
+ "tensions": [],
+ "gaps": [
+  "四句的排列次序在各页略有不同，证据未作说明。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu20",
+  "pages/swxf/shizhu21",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": []
+}

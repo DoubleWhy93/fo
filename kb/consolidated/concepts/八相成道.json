@@ -1,0 +1,107 @@
+{
+ "term": "八相成道",
+ "key": "八相成道",
+ "aliases": [],
+ "summary": "于一念、一法中示现的八相成道，不限于太子一生",
+ "definition": "讲者说一般对八相成道的理解基于悉达多太子的成就模式；对修行者而言它是证无生法忍的行法过程，每一法每一类法中都可建立。华严70讲说它不是化身世间的一次生死，而是从报身世间、法身世间的角度，针对任一法的生灭流转于一念中成就，行法实践的具体显现即八相成道。",
+ "definition_basis": [
+  {
+   "q": "所以八相成道就是一個證無生法忍的行法過程。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-"
+  },
+  {
+   "q": "此處的諸佛世尊八相成道是從報身世間、法身世間成就無上正覺的角度說",
+   "src": "pages/huayan70/jiangyi35"
+  },
+  {
+   "q": "在任何一法、任何一念當中都有八相成道",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
+  },
+  {
+   "q": "行法實踐的具體顯現即八相成道",
+   "src": "pages/huayan70/jiangyi36"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "证无生法忍的行法过程",
+   "text": "对修行者是证无生法忍的行法过程，每一法每一类法中都可建立。",
+   "quotes": [
+    {
+     "q": "所以八相成道就是一個證無生法忍的行法過程。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-"
+    }
+   ]
+  },
+  {
+   "label": "于一念中、任一法中",
+   "text": "任何一法、任何一念中都有八相成道；舍兜率是对某一法如实知之后回到眼耳鼻舌身一切法。",
+   "quotes": [
+    {
+     "q": "在任何一法、任何一念當中都有八相成道",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
+    }
+   ]
+  },
+  {
+   "label": "报身、法身世间角度",
+   "text": "不是化身世间诸佛来世间生死一次，而是报身世间、法身世间成就无上正觉的角度。",
+   "quotes": [
+    {
+     "q": "此處的諸佛世尊八相成道是從報身世間、法身世間成就無上正覺的角度說",
+     "src": "pages/huayan70/jiangyi35"
+    },
+    {
+     "q": "行法實踐的具體顯現即八相成道",
+     "src": "pages/huayan70/jiangyi36"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "说诸佛世尊的八相成道是报身、法身世间角度，于一念中成就，行法实践的具体显现。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年及 2023 年问答讲在任何一法、任何一念中都有八相成道，并联系舍兜率与无生法忍。"
+  }
+ ],
+ "related": [
+  "无生法忍",
+  "化身世间",
+  "报身世间",
+  "法身世间",
+  "舍兜率"
+ ],
+ "tensions": [
+  {
+   "text": "一般的理解基于悉达多太子的成就模式；华严70 说此处不是这个意思，而是报身、法身世间角度。",
+   "sources": [
+    {
+     "q": "一般來說，我們現在的理解都是基於世間悉達多太子的成就模式，講到八相成道是指舍兜率、降王宮、入胎、出胎、出家、降魔、成道、轉法輪、入涅槃。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-"
+    },
+    {
+     "q": "悉達多太子八相成道是從化身世間的角度說，此處的諸佛世尊八相成道是從報身世間、法身世間成就無上正覺的角度說",
+     "src": "pages/huayan70/jiangyi35"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "八相各相与十信、四位行法的对应只见于教学摘要。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/135. yyfdkyzbxcdljlxf-yzyjl-",
+  "pages/huayan70/jiangyi35",
+  "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-",
+  "pages/huayan70/jiangyi36"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "舍兜率"
+ ]
+}

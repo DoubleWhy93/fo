@@ -1,0 +1,92 @@
+{
+ "term": "属性",
+ "key": "属性",
+ "aliases": [
+  "属性（规定性、法则）"
+ ],
+ "summary": "一法自性本体的规定，即规定性；规定性是根本智对它的定义",
+ "definition": "讲者说属性就是这一法自性本体的规定，也叫规定性、法则；不是这种属性就不是这一法。2023 年问答还把二者作了区分：规定性是根本智对它做出的定义，属性是它自身具有的特性。",
+ "definition_basis": [
+  {
+   "q": "屬性就是這一法自性本體的規定。",
+   "src": "pages/swxf/shizhu16"
+  },
+  {
+   "q": "屬性就是規定性，自性為我們規定好了是這樣的方式，所以我是一個人。",
+   "src": "pages/swxf/shizhu32"
+  },
+  {
+   "q": "規定性是根本智對它做出的定義，『屬性』是它自身具有的特性。這是屬性和規定性的差別。",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "属性即规定性",
+   "text": "swxf 两讲把属性等同规定性。",
+   "quotes": [
+    {
+     "q": "屬性就是這一法自性本體的規定。",
+     "src": "pages/swxf/shizhu16"
+    },
+    {
+     "q": "屬性就是規定性，自性為我們規定好了是這樣的方式，所以我是一個人。",
+     "src": "pages/swxf/shizhu32"
+    }
+   ]
+  },
+  {
+   "label": "属性与规定性的区别",
+   "text": "2023 年问答：规定性是根本智的定义，属性是自身具有的特性。",
+   "quotes": [
+    {
+     "q": "規定性是根本智對它做出的定義，『屬性』是它自身具有的特性。這是屬性和規定性的差別。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "属性等同规定性、法则，以苹果、人为例。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答区分属性与规定性。"
+  }
+ ],
+ "related": [
+  "规定性",
+  "自性",
+  "根本智"
+ ],
+ "tensions": [
+  {
+   "text": "属性与规定性，swxf 讲成同一，2023 年问答又作区分。",
+   "sources": [
+    {
+     "q": "屬性就是規定性，自性為我們規定好了是這樣的方式，所以我是一個人。",
+     "src": "pages/swxf/shizhu32"
+    },
+    {
+     "q": "規定性是根本智對它做出的定義，『屬性』是它自身具有的特性。這是屬性和規定性的差別。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "证据页没有说明何时用「等同」、何时用「区分」。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu16",
+  "pages/swxf/shizhu32",
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "规定性"
+ ]
+}

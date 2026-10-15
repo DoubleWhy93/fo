@@ -1,0 +1,87 @@
+{
+ "term": "童子",
+ "key": "童子",
+ "aliases": [],
+ "summary": "种子：一尘不染、一心清净，有无限成长空间",
+ "definition": "讲者说童子是指一尘不染与一心清净，即种子，清净单纯没有杂秽，有无限成长空间，是生起一切法的力量。童子所在处是一切成就一切法的种子所在处，随行法精进可到无上正觉。",
+ "definition_basis": [
+  {
+   "q": "『童子』的意思是指一塵不染和一心清淨",
+   "src": "pages/huayan28/28jiang25"
+  },
+  {
+   "q": "『童子』即是種子，清淨單純沒有雜穢，有無限成長的空間，是生起一切法的力量",
+   "src": "pages/huayan70/jiangyi42"
+  },
+  {
+   "q": "『童子』代表種子，一塵不染，有無量的生長空間",
+   "src": "pages/huayan70/jiangyi45"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "一尘不染、一心清净",
+   "text": "童子所在处是种子的发起处，是确实能成无上正觉的种子。",
+   "quotes": [
+    {
+     "q": "『童子』的意思是指一塵不染和一心清淨",
+     "src": "pages/huayan28/28jiang25"
+    }
+   ]
+  },
+  {
+   "label": "种子、有无限成长空间",
+   "text": "童子即种子，是生起一切法的力量，修行者须在一切法中生起行法实践。",
+   "quotes": [
+    {
+     "q": "『童子』即是種子，清淨單純沒有雜穢，有無限成長的空間，是生起一切法的力量",
+     "src": "pages/huayan70/jiangyi42"
+    },
+    {
+     "q": "『童子』代表種子，一塵不染，有無量的生長空間",
+     "src": "pages/huayan70/jiangyi45"
+    }
+   ]
+  },
+  {
+   "label": "三义",
+   "text": "自在无碍、男相代表智慧种子、于一切法有好乐心勇猛精进。",
+   "quotes": [
+    {
+     "q": "第二是男相，代表智慧種子，隨行法精進不斷成長即可以到達無上正覺。",
+     "src": "pages/huayan28/28jiang27"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "三义与不染、种子说。"
+  },
+  {
+   "series": "huayan70",
+   "text": "种子与生长空间。"
+  }
+ ],
+ "related": [
+  "种子",
+  "一心清净",
+  "善财童子"
+ ],
+ "tensions": [],
+ "gaps": [
+  "善财童子五十三参与童子含义的关系在 teachings 中，本卡未引原文。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang25",
+  "pages/huayan70/jiangyi42",
+  "pages/huayan28/28jiang27",
+  "pages/huayan70/jiangyi45"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "种子"
+ ]
+}

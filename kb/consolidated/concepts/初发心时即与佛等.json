@@ -1,0 +1,105 @@
+{
+ "term": "初发心时即与佛等",
+ "summary": "十住位初发心即自觉皈依自性觉悟，在体性上与佛等同",
+ "definition": "讲者说「初发心时即与佛等」在华严行法里指十住位行法，出自《初发心功德品》。这个初发心是主动自觉皈依到自性觉悟的发心，而非凡夫外道、二乘、共法别教的发心。所说「与佛等」是从证诸法空、得无生忍的角度讲，只是已准备好得无上正觉，并不等同如来地的解脱与无上正觉。",
+ "definition_basis": [
+  {
+   "q": "初發心時即與佛等，初發心時在華嚴行法裡面就是十住位行法",
+   "src": "pages/swxf/shizhu28"
+  },
+  {
+   "q": "是主動自覺皈依到自性覺悟的初發心，這個初發心才與佛等",
+   "src": "pages/huayan70/jiangyi13"
+  },
+  {
+   "q": "並非從證諸法不空得無生法忍的角度、從道種智行法的角度說。",
+   "src": "pages/huayan70/jiangyi14"
+  },
+  {
+   "q": "一般我們說開悟成佛的時候，都是指向十住位的初發心時即與佛等",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/50.pgmdxfllrhyydwsscxfsjz"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "指十住位行法的初发心",
+   "text": "一般说开悟成佛，指的就是十住位的初发心时即与佛等；它不是任何发心都算，必须是自觉皈依自性觉悟的初发心。",
+   "quotes": [
+    {
+     "q": "一般我們說開悟成佛的時候，都是指向十住位的初發心時即與佛等",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/50.pgmdxfllrhyydwsscxfsjz"
+    },
+    {
+     "q": "是主動自覺皈依到自性覺悟的初發心，這個初發心才與佛等",
+     "src": "pages/huayan70/jiangyi13"
+    }
+   ]
+  },
+  {
+   "label": "等同的角度：证诸法空、得无生忍",
+   "text": "讲者说这个「同等」是从证诸法空、得无生法忍、诸法自性的角度说，不是从证诸法不空、道种智行法的角度说；还没有得道种智。",
+   "quotes": [
+    {
+     "q": "並非從證諸法不空得無生法忍的角度、從道種智行法的角度說。",
+     "src": "pages/huayan70/jiangyi14"
+    },
+    {
+     "q": "初發心時即與佛等，初發心時在華嚴行法裡面就是十住位行法",
+     "src": "pages/swxf/shizhu28"
+    }
+   ]
+  },
+  {
+   "label": "佛所见与修行者所面对的是同一切法",
+   "text": "佛见到的也是身心觉知中的这一切法，并没有在其外另有一个「一切法」；这时才是初发心处即与佛等。",
+   "quotes": [
+    {
+     "q": "這時纔是「初發心處即與佛等」",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/4.zylj-mlmmylq-jhkkwdq-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "强调是主动自觉皈依自性觉悟的初发心才与佛等，并说明是从证诸法空得无生忍而非道种智角度。"
+  },
+  {
+   "series": "swxf",
+   "text": "把初发心时对应十住位行法，并说明只是已准备好得无上正觉，不与如来地对等。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答把它讲成十住位证一切法空、得无生忍，以及佛所见的也是这一切法。"
+  }
+ ],
+ "related": [
+  "十住位",
+  "无生法忍",
+  "道种智",
+  "自性觉悟",
+  "法慧菩萨"
+ ],
+ "gaps": [
+  "「两个地方等同」的具体说法只在 swxf 的页面出现，本卡仅据证据包的摘要，未逐条展开。",
+  "「佛种性」与「如来种性」的区分只被一页点到。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu28",
+  "pages/huayan70/jiangyi13",
+  "pages/huayan70/jiangyi14",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/50.pgmdxfllrhyydwsscxfsjz",
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/4.zylj-mlmmylq-jhkkwdq-"
+ ],
+ "pages_consulted": 5,
+ "confidence": "medium",
+ "key": "初发心时即与佛等",
+ "aliases": [],
+ "tensions": [],
+ "related_unresolved": [
+  "十住位",
+  "自性觉悟",
+  "法慧菩萨"
+ ]
+}

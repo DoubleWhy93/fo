@@ -1,0 +1,91 @@
+{
+ "term": "证诸法不空",
+ "key": "证诸法不空",
+ "aliases": [],
+ "summary": "诸法能给我知识、经验、体验，在差别智前提下证得",
+ "definition": "讲者用现在的话说，诸法不空是诸法能给我知识、经验、体验，有身心觉受，叫证诸法不空。问答中说它放在差别智的前提下看一法在生命体验中的存在性，得无生法忍，此时有人类知识经验体验参与；从第七住位到第八地位是破一念无明到破一念无明尽。",
+ "definition_basis": [
+  {
+   "q": "諸法不空用現在的語言，就是說諸法是能夠給我知識、經驗、體驗的，是有身心覺受的，叫證諸法不空。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/127.sczdyzfdts-xcjhscjysmbt"
+  },
+  {
+   "q": "「不空」是說這一切法確實能夠給我們帶來身心覺受",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/87.zyljsjcf-"
+  },
+  {
+   "q": "就是證諸法不空得無生法忍階段，這時候纔有人類知識、經驗和體驗的參與",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/19.gwxfzxdwt"
+  },
+  {
+   "q": "諸法不空是指個體的知識、經驗和體驗",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "诸法给人知识经验体验",
+   "text": "诸法能给我知识、经验、体验，有身心觉受。",
+   "quotes": [
+    {
+     "q": "諸法不空用現在的語言，就是說諸法是能夠給我知識、經驗、體驗的，是有身心覺受的，叫證諸法不空。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/127.sczdyzfdts-xcjhscjysmbt"
+    },
+    {
+     "q": "「不空」是說這一切法確實能夠給我們帶來身心覺受",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/87.zyljsjcf-"
+    }
+   ]
+  },
+  {
+   "label": "得无生法忍的阶段",
+   "text": "证诸法不空得无生法忍，此时有人类知识经验体验参与。",
+   "quotes": [
+    {
+     "q": "就是證諸法不空得無生法忍階段，這時候纔有人類知識、經驗和體驗的參與",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/19.gwxfzxdwt"
+    }
+   ]
+  },
+  {
+   "label": "与第七住位到第八地位的关系",
+   "text": "从第七住位到第八地位是破一念无明到破一念无明尽，证诸法不空，得无生法忍。",
+   "quotes": [
+    {
+     "q": "從第七住位到第八地位，是破一念無明到破一念無明盡，證諸法不空，得無生法忍。",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（hyxf、jtl）讲诸法不空即诸法给我身心觉受；2023 年问答（wz）联系差别智、无生法忍与第七住位到第八地位。"
+  }
+ ],
+ "related": [
+  "证诸法空",
+  "无生法忍",
+  "差别智",
+  "一念无明",
+  "道种智",
+  "知识经验体验"
+ ],
+ "tensions": [],
+ "gaps": [
+  "「证诸法空」与此词的对照只在教学摘要中，本卡未取得直接定义页。",
+  "仅答疑系列有定义页。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/127.sczdyzfdts-xcjhscjysmbt",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/87.zyljsjcf-",
+  "pages/dayi_all/2023dy/wz/WORDbb/19.gwxfzxdwt",
+  "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "知识经验体验"
+ ]
+}

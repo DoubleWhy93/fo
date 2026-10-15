@@ -1,0 +1,75 @@
+{
+ "term": "法界常住",
+ "key": "法界常住",
+ "aliases": [],
+ "summary": "讲因缘法、因缘生灭常住，不是某一法的相永远不变",
+ "definition": "讲者说法界常住是讲因缘法常住：并非在生灭法之外另有常住法界，而是一切法因缘生起、显相、流转不会终止，所以称常住。它不指某一法的相本身永远保留，不变的是因缘生灭这件事。",
+ "definition_basis": [
+  {
+   "q": "實際上，佛教理論中講的「法界常住」，是講因緣法是常住的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/7.-sfzfw-fjxcz-dhy"
+  },
+  {
+   "q": "而是指一切法因緣生起、顯相、流轉不會終止，故稱常住。",
+   "src": "pages/amtj/amtj4"
+  },
+  {
+   "q": "「法界常住」不是指某一法停在那裡永遠不變，而是講因緣生滅是不變的。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/11.-bd-zgfsjhbgfsjdcb"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "因缘法常住",
+   "text": "法界常住讲的是因缘法常住，只要有因缘所生法，法界就在。",
+   "quotes": [
+    {
+     "q": "實際上，佛教理論中講的「法界常住」，是講因緣法是常住的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/7.-sfzfw-fjxcz-dhy"
+    }
+   ]
+  },
+  {
+   "label": "不是某一法不变",
+   "text": "并非某一法停在那里永远不变，而是因缘生灭不变。",
+   "quotes": [
+    {
+     "q": "「法界常住」不是指某一法停在那裡永遠不變，而是講因緣生滅是不變的。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/11.-bd-zgfsjhbgfsjdcb"
+    },
+    {
+     "q": "而是指一切法因緣生起、顯相、流轉不會終止，故稱常住。",
+     "src": "pages/amtj/amtj4"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "amtj",
+   "text": "说不是生灭法之外另有常住法界，而是一切法因缘生起、流转不终止。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答：强调常住的是因缘法与因缘生灭，不是某一法的相。"
+  }
+ ],
+ "related": [
+  "因缘法",
+  "一切法"
+ ],
+ "tensions": [],
+ "gaps": [
+  "与本体、法相、唯识等说法的关系，在个别教学段落中提到，本卡未展开。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/7.-sfzfw-fjxcz-dhy",
+  "pages/amtj/amtj4",
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/11.-bd-zgfsjhbgfsjdcb"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "因缘法"
+ ]
+}

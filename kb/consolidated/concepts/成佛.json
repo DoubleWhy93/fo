@@ -1,0 +1,86 @@
+{
+ "term": "成佛",
+ "key": "成佛",
+ "aliases": [],
+ "summary": "把自性提供的能力与可能性转变成解脱与无上正觉的现实",
+ "definition": "讲者在 shixin1 中说成佛是把生命本身提供的能力、可能性转变成解脱与无上正觉的现实。其他页对「从哪一位起叫成佛」说法不同，见 tensions。",
+ "definition_basis": [
+  {
+   "q": "成佛是把生命本身提供的這種能力、這種可能性轉變成解脫與無上正覺的現實。",
+   "src": "pages/shixin/shixin1"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "转变可能性为现实",
+   "text": "成佛是把生命本身提供的能力、可能性转变成现实。",
+   "quotes": [
+    {
+     "q": "成佛是把生命本身提供的這種能力、這種可能性轉變成解脫與無上正覺的現實。",
+     "src": "pages/shixin/shixin1"
+    }
+   ]
+  },
+  {
+   "label": "从初住位到等妙觉位",
+   "text": "从初住位开始一直到等妙觉位都叫成佛。",
+   "quotes": [
+    {
+     "q": "關於成佛，從初住位開始，一直到等妙覺位，都叫成佛。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+    }
+   ]
+  },
+  {
+   "label": "至少是阿罗汉成就",
+   "text": "至少是声闻乘的阿罗汉成就才叫成佛。",
+   "quotes": [
+    {
+     "q": "準確來講至少是聲聞乘的阿羅漢成就才叫成佛。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/36.xpwsjlsjyjcfm-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "shixin",
+   "text": "shixin1 给出定义：自性只提供能力与可能性，现实靠行法实践。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年 hyxf 与 jtl 页给出不同的起点。"
+  }
+ ],
+ "related": [
+  "自性",
+  "无上正觉",
+  "阿罗汉"
+ ],
+ "tensions": [
+  {
+   "text": "成佛从哪一位起算，两页说法不同。",
+   "sources": [
+    {
+     "q": "關於成佛，從初住位開始，一直到等妙覺位，都叫成佛。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+    },
+    {
+     "q": "準確來講至少是聲聞乘的阿羅漢成就才叫成佛。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/36.xpwsjlsjyjcfm-"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "各页未把几种起点统一。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/36.xpwsjlsjyjcfm-",
+  "pages/shixin/shixin1"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

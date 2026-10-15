@@ -1,0 +1,76 @@
+{
+ "term": "自知不受后有",
+ "key": "自知不受后有",
+ "aliases": [],
+ "summary": "自知后有仍在而不受其束缚影响，不是断灭后有",
+ "definition": "讲者说「自知不受后有」不是断灭「后有」的一切法，而是「自知」不受一切法的束缚与影响；后面的诸法仍能生起，但我不受。「自知」要求修行者自己的参与，并对成就地标准有准确理解和确切体验。",
+ "definition_basis": [
+  {
+   "q": "『自知不受後有』並非斷滅『後有』的一切法，而是『自知』不受一切法的束縛與影響",
+   "src": "pages/huayan70/jiangyi47"
+  },
+  {
+   "q": "第二個不受後有，裡面的「後有」不是斷滅的，後面的諸法是能生起的，但我是不受的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/58.zylj-wsyj-fxyl-szyb-zzbshy-"
+  },
+  {
+   "q": "不受後有，不是斷滅「後有」，不是後面沒了，是後面有，但是不受它的影響。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/38.xfmshsw-tyyrhqr-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "三方面（huayan70）",
+   "text": "讲者归纳：行法有自我因素参与；准确理解成就地标准并有确切体验；不是断灭后有而是不受束缚。",
+   "quotes": [
+    {
+     "q": "『自知不受後有』並非斷滅『後有』的一切法，而是『自知』不受一切法的束縛與影響",
+     "src": "pages/huayan70/jiangyi47"
+    }
+   ]
+  },
+  {
+   "label": "后有存在而不受影响",
+   "text": "后有并非没有，而是存在但不受其影响。",
+   "quotes": [
+    {
+     "q": "不受後有，不是斷滅「後有」，不是後面沒了，是後面有，但是不受它的影響。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/38.xfmshsw-tyyrhqr-"
+    },
+    {
+     "q": "第二個不受後有，裡面的「後有」不是斷滅的，後面的諸法是能生起的，但我是不受的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/58.zylj-wsyj-fxyl-szyb-zzbshy-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "以三方面解释「自知」与不断灭后有。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑（hyxf、swms-dzz）：强调后有仍能生起、自己在才能自知。"
+  }
+ ],
+ "related": [
+  "阿罗汉",
+  "证量",
+  "梵行已立"
+ ],
+ "tensions": [],
+ "gaps": [
+  "已读页中未展开其在华严位次中的位置。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/58.zylj-wsyj-fxyl-szyb-zzbshy-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/38.xfmshsw-tyyrhqr-",
+  "pages/huayan70/jiangyi47"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "梵行已立"
+ ]
+}

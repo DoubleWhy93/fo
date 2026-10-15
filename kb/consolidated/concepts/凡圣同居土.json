@@ -1,0 +1,64 @@
+{
+ "term": "凡圣同居土",
+ "key": "凡圣同居土",
+ "aliases": [],
+ "summary": "净土四土之一，世间法清净的层次，凡夫种性力量仍大",
+ "definition": "讲者在问答中说凡圣同居土就是世间法清净，只是华严行法的资粮；住在这里凡夫种性的力量还是很大，与圣者同处时有体会，但凡夫种性生起时烦恼习气也现前。",
+ "definition_basis": [
+  {
+   "q": "凡聖同居土就是世間法清淨",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/83.jtyhydgx"
+  },
+  {
+   "q": "凡聖同居土裡面，凡夫種性的力量還是很大的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/53.rcwsgfstjt-wsmhyfnn-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "世间法清净",
+   "text": "讲者说这是世间法清净，只是华严行法的资粮。",
+   "quotes": [
+    {
+     "q": "凡聖同居土就是世間法清淨",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/83.jtyhydgx"
+    }
+   ]
+  },
+  {
+   "label": "凡夫种性力量仍大",
+   "text": "凡夫种性生起时烦恼习气仍会现前。",
+   "quotes": [
+    {
+     "q": "凡聖同居土裡面，凡夫種性的力量還是很大的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/53.rcwsgfstjt-wsmhyfnn-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "仅见于 2018–2022 jtl 问答的两页定义；其余系列的说法只在 teachings 中提及。"
+  }
+ ],
+ "related": [
+  "方便有余土",
+  "实报庄严土",
+  "常寂光土",
+  "阿鞞跋致"
+ ],
+ "tensions": [],
+ "gaps": [
+  "证据包只有两条定义，皆较简短；它与方便有余土的区分、往生与阿鞞跋致的关系仅见 teachings，本卡未取得引文。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/83.jtyhydgx",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/53.rcwsgfstjt-wsmhyfnn-"
+ ],
+ "pages_consulted": 2,
+ "confidence": "low",
+ "related_unresolved": [
+  "方便有余土"
+ ]
+}

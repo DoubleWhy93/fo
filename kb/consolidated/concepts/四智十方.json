@@ -1,0 +1,66 @@
+{
+ "term": "四智十方",
+ "key": "四智十方",
+ "aliases": [],
+ "summary": "以中间一法为体、四方四隅加上下共十方，用来拓展名相的言说方式",
+ "definition": "讲者把四智十方讲成一种拓展名相的言说方式：以中间一法为体，在四方四隅再加上下，共十方，生起十个方向的十法围绕。西方极乐世界、东方琉璃世界等世界名，都用它来拓展。",
+ "definition_basis": [
+  {
+   "q": "也就是以中間的一法為體，生起十個方向的十法圍繞",
+   "src": "pages/huayan28/28jiang15"
+  },
+  {
+   "q": "佛教中的西方極樂世界、東方琉璃世界、南方無垢世界等等，都是用四智十方拓展的。",
+   "src": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "十方结构：一法为体、十法围绕",
+   "text": "以中间一法为体，十个方向的十法围绕生起，十个方向代表四智法等十种属性。",
+   "quotes": [
+    {
+     "q": "也就是以中間的一法為體，生起十個方向的十法圍繞",
+     "src": "pages/huayan28/28jiang15"
+    }
+   ]
+  },
+  {
+   "label": "拓展世界名相",
+   "text": "西方极乐世界、东方琉璃世界、南方无垢世界等，都用四智十方拓展。",
+   "quotes": [
+    {
+     "q": "佛教中的西方極樂世界、東方琉璃世界、南方無垢世界等等，都是用四智十方拓展的。",
+     "src": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成以一法为体、十方十法围绕的结构。"
+  },
+  {
+   "series": "答疑",
+   "text": "说西方极乐等世界名都用四智十方拓展，并要把方位、体相用与世界名、佛名综合解读。"
+  }
+ ],
+ "related": [
+  "四智",
+  "十方"
+ ],
+ "tensions": [],
+ "gaps": [
+  "十个方向各自具体对应哪十种属性，定义页只点到「四智法等」。",
+  "别名在证据中没有明确出现，aliases 留空。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang15",
+  "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy",
+  "pages/huayan70/jiangyi5"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

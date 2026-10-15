@@ -1,0 +1,80 @@
+{
+ "term": "资粮",
+ "key": "资粮",
+ "aliases": [],
+ "summary": "成就所需的积累：深入经藏、思惟、行法实践等",
+ "definition": "讲者说资粮分两部分：多接触经和论，以及思惟，把经论转成自己的行法体验。shixin 讲法列出四种资粮：深入经藏、行法实践、觉知观察一切法、善思惟善用心。解决疑惑的过程就是积累资粮。",
+ "definition_basis": [
+  {
+   "q": "資糧應該是分兩部分，一個是對《經》和《論》要多多接觸，第二個就是思惟。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/25.rhzjjdjddzl-"
+  },
+  {
+   "q": "要有深入經藏的資糧；要有行法實踐的資糧；要有覺知、觀察一切法的資糧；要有善思惟、善用心的資糧。",
+   "src": "pages/shixin/shixin1"
+  },
+  {
+   "q": "解決的過程，就是關於這個行法的資糧積累的過程",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/39.zmzdzjdzlgbg-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "两部分：经论与思惟",
+   "text": "一是多接触经和论，二是思惟。",
+   "quotes": [
+    {
+     "q": "資糧應該是分兩部分，一個是對《經》和《論》要多多接觸，第二個就是思惟。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/25.rhzjjdjddzl-"
+    }
+   ]
+  },
+  {
+   "label": "四种资粮（十信位）",
+   "text": "shixin 讲法：深入经藏、行法实践、觉知观察、善思惟善用心。",
+   "quotes": [
+    {
+     "q": "要有深入經藏的資糧；要有行法實踐的資糧；要有覺知、觀察一切法的資糧；要有善思惟、善用心的資糧。",
+     "src": "pages/shixin/shixin1"
+    }
+   ]
+  },
+  {
+   "label": "解决疑惑即积累",
+   "text": "疑惑一个个解决的过程就是资粮积累。",
+   "quotes": [
+    {
+     "q": "解決的過程，就是關於這個行法的資糧積累的過程",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/39.zmzdzjdzlgbg-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "shixin",
+   "text": "十信位讲四种资粮，依自性力量生起。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑：两部分资粮及以疑惑检验。"
+  }
+ ],
+ "related": [
+  "十信位",
+  "自性",
+  "善思惟"
+ ],
+ "tensions": [],
+ "gaps": [
+  "两种说法（两部分与四种）的关系已读页中未直接说明。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/25.rhzjjdjddzl-",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/39.zmzdzjdzlgbg-",
+  "pages/shixin/shixin1"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": []
+}

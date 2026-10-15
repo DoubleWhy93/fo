@@ -1,0 +1,78 @@
+{
+ "term": "戒定慧",
+ "key": "戒定慧",
+ "aliases": [],
+ "summary": "戒定慧不要分开，同时生起；华严行法中是同一件事",
+ "definition": "讲者说不要把戒定慧分开，它们是同时生起的，每个阶段内容不同。在华严行法中戒定慧是同一件事：十信十住位之前是获得解脱的手段、他律，不共别教菩萨与诸佛则是自律，是解脱的呈现。另说「戒」是对抗本能的生命欲望，靠智慧力对抗并管理而非息灭。",
+ "definition_basis": [
+  {
+   "q": "不要把戒定慧分開，說這個叫「戒」，這個叫「定」，那個叫「慧」，因為它們是同時生起的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/77.gwjdhdwt"
+  },
+  {
+   "q": "要知道戒定慧是同一件事，戒定慧它不再是獲得解脫與無上正覺的手段",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  },
+  {
+   "q": "因為那個『戒』就是要對抗我們本能的那些生命慾望的",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "同时生起",
+   "text": "戒定慧同时生起，不要分开说这是戒那是定。",
+   "quotes": [
+    {
+     "q": "不要把戒定慧分開，說這個叫「戒」，這個叫「定」，那個叫「慧」，因為它們是同時生起的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/77.gwjdhdwt"
+    }
+   ]
+  },
+  {
+   "label": "同一件事：手段与呈现",
+   "text": "戒定慧不再是获得解脱与无上正觉的手段，而是它们的呈现。",
+   "quotes": [
+    {
+     "q": "要知道戒定慧是同一件事，戒定慧它不再是獲得解脫與無上正覺的手段",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+    }
+   ]
+  },
+  {
+   "label": "戒对抗本能欲望",
+   "text": "戒是要对抗本能的生命欲望，行法最终靠智慧力对抗并管理本能欲望。",
+   "quotes": [
+    {
+     "q": "因為那個『戒』就是要對抗我們本能的那些生命慾望的",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答说同时生起；2023 年问答说同一件事，并讲戒的作用。"
+  }
+ ],
+ "related": [
+  "无上正觉",
+  "生命解脱",
+  "别教"
+ ],
+ "tensions": [],
+ "gaps": [
+  "三学在其他系列（huayan28、huayan70）也有出现，此卡主要依问答。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/77.gwjdhdwt",
+  "pages/dayi_all/2023dy/wz/WORDbb/21.zywd-23-12-23-"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "生命解脱"
+ ]
+}

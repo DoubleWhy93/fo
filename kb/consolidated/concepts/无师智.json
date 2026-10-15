@@ -1,0 +1,79 @@
+{
+ "term": "无师智",
+ "key": "无师智",
+ "aliases": [],
+ "summary": "以自性觉悟为核心、自我觉悟力主导成就的智慧，即菩萨善思惟",
+ "definition": "讲者说无师智是以自性觉悟为核心、以自我觉悟力量为主导成就一切智慧，具体表现就是菩萨善思惟。它不是不再需要善知识，而是同样依赖善知识与经典，但无上正觉智慧要靠自我的善思惟来生起、检验、体验。",
+ "definition_basis": [
+  {
+   "q": "這種成就即是『無師智』，是以自性覺悟為核心，以自我的覺悟力量為主導成就一切智慧。",
+   "src": "pages/huayan70/jiangyi15"
+  },
+  {
+   "q": "『無師智』不是代表著不再需要善知識",
+   "src": "pages/swxf/shizhu18"
+  },
+  {
+   "q": "無師智的具體表現就是菩薩善思惟",
+   "src": "pages/huayan70/jiangyi20"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "自性觉悟为核心",
+   "text": "以自性觉悟为核心，以自我觉悟力量为主导成就一切智慧。",
+   "quotes": [
+    {
+     "q": "這種成就即是『無師智』，是以自性覺悟為核心，以自我的覺悟力量為主導成就一切智慧。",
+     "src": "pages/huayan70/jiangyi15"
+    }
+   ]
+  },
+  {
+   "label": "不是不要善知识",
+   "text": "依然依赖善知识与经典，但要转化为自己的善思惟行法。",
+   "quotes": [
+    {
+     "q": "『無師智』不是代表著不再需要善知識",
+     "src": "pages/swxf/shizhu18"
+    }
+   ]
+  },
+  {
+   "label": "表现为菩萨善思惟",
+   "text": "无师智的具体表现就是菩萨善思惟；十行位比十住位多这一种智。",
+   "quotes": [
+    {
+     "q": "無師智的具體表現就是菩薩善思惟",
+     "src": "pages/huayan70/jiangyi20"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "以自性觉悟为核心，表现为善思惟，十行位多此一智。"
+  },
+  {
+   "series": "swxf",
+   "text": "不是不需要善知识，无上正觉智慧要靠自己善思惟生起检验。"
+  }
+ ],
+ "related": [
+  "善思惟",
+  "自性觉悟"
+ ],
+ "tensions": [],
+ "gaps": [],
+ "where_to_read": [
+  "pages/huayan70/jiangyi15",
+  "pages/swxf/shizhu18",
+  "pages/huayan70/jiangyi20"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "自性觉悟"
+ ]
+}

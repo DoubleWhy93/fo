@@ -1,0 +1,84 @@
+{
+ "term": "波罗蜜",
+ "key": "波罗蜜",
+ "aliases": [],
+ "summary": "到彼岸、离生灭；对立法在背后法则中统一",
+ "definition": "讲者说波罗蜜就是到彼岸、离生灭，能超越生死、从此岸到彼岸。对立法之间能统一起来就到彼岸，是在对立法的背后看到总持它们的那个法则，如生起生死的力量就是生起涅槃的力量。",
+ "definition_basis": [
+  {
+   "q": "波羅蜜代表就是能夠超越生死的，能夠從此岸到彼岸的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/21.-gj-dzgxfyhyxfdrhwt"
+  },
+  {
+   "q": "波羅蜜的意思是『到彼岸、離生滅』",
+   "src": "pages/huayan28/28jiang24"
+  },
+  {
+   "q": "波羅蜜就是到彼岸。到彼岸是什麼意思？",
+   "src": "pages/swxf/shizhu28"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "超越生死、此岸到彼岸",
+   "text": "波罗蜜代表能超越生死、从此岸到彼岸。",
+   "quotes": [
+    {
+     "q": "波羅蜜代表就是能夠超越生死的，能夠從此岸到彼岸的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/21.-gj-dzgxfyhyxfdrhwt"
+    }
+   ]
+  },
+  {
+   "label": "到彼岸、离生灭（huayan28）",
+   "text": "证得般若波罗蜜即到涅槃地，之后布施等才是各自的波罗蜜。",
+   "quotes": [
+    {
+     "q": "波羅蜜的意思是『到彼岸、離生滅』",
+     "src": "pages/huayan28/28jiang24"
+    }
+   ]
+  },
+  {
+   "label": "对立法的统一",
+   "text": "到彼岸是在对立法背后看到总持它们的法则，从法则看二法是同一法。",
+   "quotes": [
+    {
+     "q": "波羅蜜就是到彼岸。到彼岸是什麼意思？",
+     "src": "pages/swxf/shizhu28"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "讲成到彼岸、离生灭，并以般若波罗蜜为先。"
+  },
+  {
+   "series": "swxf",
+   "text": "十住讲中讲到彼岸是对立法在法则中统一。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答讲能超越生死、从此岸到彼岸。"
+  }
+ ],
+ "related": [
+  "般若波罗蜜",
+  "无生忍",
+  "阿鞞跋致"
+ ],
+ "tensions": [],
+ "gaps": [
+  "十波罗蜜的内容证据中只被点到。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/21.-gj-dzgxfyhyxfdrhwt",
+  "pages/huayan28/28jiang24",
+  "pages/swxf/shizhu28"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": []
+}

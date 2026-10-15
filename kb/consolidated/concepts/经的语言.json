@@ -1,0 +1,92 @@
+{
+ "term": "经的语言",
+ "key": "经的语言",
+ "aliases": [],
+ "summary": "成就者表达生命体验的语言，核心是让人实践",
+ "definition": "讲者说《经》的语言不只是要让人明白，核心意义是要让人实践；它是生命体验的记录，不是静态概念，必须回到生命体验才能确切明了。经文里的名词、顺序和动词合在一起形成动态的东西，要变成活动和体验。",
+ "definition_basis": [
+  {
+   "q": "《經》的語言不光是要讓您明白，它的核心的意義是要讓您實踐的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/24.wsmjddjj-bnmps-nddyy-bczyfz"
+  },
+  {
+   "q": "從經典文字準確回到生命體驗即是證得",
+   "src": "pages/huayan70/jiangyi41"
+  },
+  {
+   "q": "這個動態的東西就是我們要建立的活動和體驗，而不是一種靜態的概念，這就是經的語言。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/39.tydgc-ssqll-zhdgcm-"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "让人实践而非只是明白",
+   "text": "经的语言区别于论的语言，核心意义是实践。",
+   "quotes": [
+    {
+     "q": "《經》的語言不光是要讓您明白，它的核心的意義是要讓您實踐的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/24.wsmjddjj-bnmps-nddyy-bczyfz"
+    }
+   ]
+  },
+  {
+   "label": "生命体验的记录",
+   "text": "从经典文字准确回到生命体验即是证得。",
+   "quotes": [
+    {
+     "q": "從經典文字準確回到生命體驗即是證得",
+     "src": "pages/huayan70/jiangyi41"
+    }
+   ]
+  },
+  {
+   "label": "动态的活动与体验",
+   "text": "名词、排列顺序与动词合成动态的东西，不是静态概念。",
+   "quotes": [
+    {
+     "q": "這個動態的東西就是我們要建立的活動和體驗，而不是一種靜態的概念，這就是經的語言。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/39.tydgc-ssqll-zhdgcm-"
+    }
+   ]
+  },
+  {
+   "label": "经文的三个功能",
+   "text": "所有经文都要完成找名词、找动词、整体功能性目的三个功能。",
+   "quotes": [
+    {
+     "q": "基本上所有的經文，都是要完成三個功能。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/41.swrg-gcswxyhyxfsfxt"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "说它不同于论的语言和知识哲学语言，是生命体验的记录。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（jdjd、swms-dzz）强调实践、动态活动与三个功能。"
+  }
+ ],
+ "related": [
+  "论的语言",
+  "密法言说"
+ ],
+ "tensions": [],
+ "gaps": [
+  "教学条目中说「经的语言都是密法言说」，其与密法言说的关系在本包定义页中未展开。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/24.wsmjddjj-bnmps-nddyy-bczyfz",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/39.tydgc-ssqll-zhdgcm-",
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/41.swrg-gcswxyhyxfsfxt",
+  "pages/huayan70/jiangyi41"
+ ],
+ "pages_consulted": 4,
+ "confidence": "high",
+ "related_unresolved": [
+  "论的语言"
+ ]
+}

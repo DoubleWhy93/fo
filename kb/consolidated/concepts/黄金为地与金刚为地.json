@@ -1,0 +1,83 @@
+{
+ "term": "黄金为地与金刚为地",
+ "key": "黄金为地与金刚为地",
+ "aliases": [],
+ "summary": "两种「地」：黄金为地指智慧为地，金刚为地指一切法为地",
+ "definition": "讲者说黄金为地指智慧为地，金刚为地指一切法为地、一切法皆是实相。huayan28 讲把它们对应证「色不异空」与「色即是空」；huayan70 讲法则把第七住位对应黄金为地，第八地位以后对应金刚为地。",
+ "definition_basis": [
+  {
+   "q": "黃金為地是指智慧為地，金剛為地是指一切法為地，一切法皆是實相。",
+   "src": "pages/huayan28/28jiang19"
+  },
+  {
+   "q": "『黃金為地』是以智慧作為最核心因素的極樂淨土",
+   "src": "pages/amtj/amtj6"
+  },
+  {
+   "q": "從第七住到第八地即從『黃金為地』到『金剛為地』的轉變。",
+   "src": "pages/huayan70/jiangyi53"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "智慧为地与一切法为地",
+   "text": "黄金为地是以智慧为地，金刚为地是一切法为地、皆是实相。",
+   "quotes": [
+    {
+     "q": "黃金為地是指智慧為地，金剛為地是指一切法為地，一切法皆是實相。",
+     "src": "pages/huayan28/28jiang19"
+    },
+    {
+     "q": "『黃金為地』是以智慧作為最核心因素的極樂淨土",
+     "src": "pages/amtj/amtj6"
+    }
+   ]
+  },
+  {
+   "label": "位次上的转变",
+   "text": "从第七住到第八地，即从黄金为地到金刚为地的转变。",
+   "quotes": [
+    {
+     "q": "從第七住到第八地即從『黃金為地』到『金剛為地』的轉變。",
+     "src": "pages/huayan70/jiangyi53"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan28",
+   "text": "以智慧为地、一切法为地区分两者，并对应两种证空的说法。"
+  },
+  {
+   "series": "amtj",
+   "text": "说黄金为地是以智慧为最核心因素的极乐净土。"
+  },
+  {
+   "series": "huayan70",
+   "text": "联系七住位与八地位的转变。"
+  }
+ ],
+ "related": [
+  "黄金为地",
+  "金刚为地",
+  "极乐净土",
+  "第七住位",
+  "第八地位"
+ ],
+ "tensions": [],
+ "gaps": [
+  "两者在不同页中的位次对应是否一致，页中未直接对照。"
+ ],
+ "where_to_read": [
+  "pages/huayan28/28jiang19",
+  "pages/amtj/amtj6",
+  "pages/huayan70/jiangyi53"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "极乐净土",
+  "第八地位"
+ ]
+}

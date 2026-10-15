@@ -1,0 +1,99 @@
+{
+ "term": "判断能力",
+ "key": "判断能力",
+ "aliases": [
+  "判断能力（人天众生特有）"
+ ],
+ "summary": "人天众生特有、在判断过程中体现的力量，提供可能性",
+ "definition": "讲者说判断是直接的，判断能力是在判断过程中体现的力量，是人天众生所具备的，通过体验与知性给出的概念形成思惟并产生判断。shixin 讲法说它基于知识、经验，提供某一法的可能性；并说依赖判断能力能看到解脱与无上正觉是否可能。",
+ "definition_basis": [
+  {
+   "q": "判斷和判斷力不同，判斷是直接的，而判斷能力是在判斷的過程中體現出來的力量，叫能力",
+   "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+  },
+  {
+   "q": "它是提供某一法的可能性。這一塊就是基於知識、經驗才會有的",
+   "src": "pages/shixin/shixin15"
+  },
+  {
+   "q": "我們依賴於判斷能力就能夠看到解脫與無上正覺是不是可能的，它是提供可能性的。",
+   "src": "pages/shixin/shixin2"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "判断与判断能力之别",
+   "text": "2023 年问答。",
+   "quotes": [
+    {
+     "q": "判斷和判斷力不同，判斷是直接的，而判斷能力是在判斷的過程中體現出來的力量，叫能力",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-"
+    }
+   ]
+  },
+  {
+   "label": "提供可能性，基于知识经验",
+   "text": "shixin 第15讲。",
+   "quotes": [
+    {
+     "q": "它是提供某一法的可能性。這一塊就是基於知識、經驗才會有的",
+     "src": "pages/shixin/shixin15"
+    }
+   ]
+  },
+  {
+   "label": "看到解脱与无上正觉的可能",
+   "text": "shixin 第2讲。",
+   "quotes": [
+    {
+     "q": "我們依賴於判斷能力就能夠看到解脫與無上正覺是不是可能的，它是提供可能性的。",
+     "src": "pages/shixin/shixin2"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "shixin",
+   "text": "讲判断能力提供可能性，与知识经验有关。"
+  },
+  {
+   "series": "答疑",
+   "text": "2023 年问答区分判断与判断能力。"
+  }
+ ],
+ "related": [
+  "知性能力",
+  "理性能力",
+  "分别选择判断",
+  "自性"
+ ],
+ "tensions": [
+  {
+   "text": "shixin15 说判断能力基于知识、经验才有；shixin2 说是自性提供的判断能力。",
+   "sources": [
+    {
+     "q": "它是提供某一法的可能性。這一塊就是基於知識、經驗才會有的",
+     "src": "pages/shixin/shixin15"
+    },
+    {
+     "q": "我們依賴於判斷能力就能夠看到解脫與無上正覺是不是可能的，它是提供可能性的。",
+     "src": "pages/shixin/shixin2"
+    }
+   ]
+  }
+ ],
+ "gaps": [
+  "证据页没有说明基于知识经验与自性提供两种说法如何衔接。"
+ ],
+ "where_to_read": [
+  "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-",
+  "pages/shixin/shixin15",
+  "pages/shixin/shixin2"
+ ],
+ "pages_consulted": 3,
+ "confidence": "medium",
+ "related_unresolved": [
+  "分别选择判断"
+ ]
+}

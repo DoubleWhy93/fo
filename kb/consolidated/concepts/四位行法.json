@@ -1,0 +1,74 @@
+{
+ "term": "四位行法",
+ "key": "四位行法",
+ "aliases": [],
+ "summary": "住行向地四位行法，即华严不共别教的四智行法体系",
+ "definition": "讲者说住、行、向、地四位行法就是四智行法，是一个完整的别教行法理论体系。它由四位菩萨在四天宫四宝殿演说，以十住六品为基础，十行、十回向、十地由此逐步升进。总合起来即别教菩萨道种智行法。",
+ "definition_basis": [
+  {
+   "q": "四位行法即四智行法，是一個別教行法理論體系。",
+   "src": "pages/huayan70/jiangyi11"
+  },
+  {
+   "q": "四位行法是完整的華嚴不共別教行法，由四菩薩在四天宮的四寶殿演說",
+   "src": "pages/huayan70/jiangyi13"
+  },
+  {
+   "q": "四位行法是一個完整的別教行法理論體系",
+   "src": "pages/huayan70/jiangyi6"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "四智行法与转识成智",
+   "text": "四位行法即四智行法，转八识成四智即在此处转。",
+   "quotes": [
+    {
+     "q": "四位行法是完整的華嚴不共別教行法，由四菩薩在四天宮的四寶殿演說",
+     "src": "pages/huayan70/jiangyi13"
+    }
+   ]
+  },
+  {
+   "label": "次第与品数",
+   "text": "十住位六品为初始，十行、十回向、十地按十住位六品逐步生起。",
+   "quotes": [
+    {
+     "q": "四位行法是一個完整的別教行法理論體系",
+     "src": "pages/huayan70/jiangyi6"
+    },
+    {
+     "q": "四位行法即四智行法，是一個別教行法理論體系。",
+     "src": "pages/huayan70/jiangyi11"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "huayan70",
+   "text": "把四位行法定位为普光明殿中完整的别教行法理论体系，由四菩萨在四天宫四宝殿演说。"
+  }
+ ],
+ "related": [
+  "四智行法",
+  "别教",
+  "十住位",
+  "菩萨道种智行法",
+  "普光明殿"
+ ],
+ "tensions": [],
+ "gaps": [
+  "各位次具体品名与内容在本卡证据中只点到品数。"
+ ],
+ "where_to_read": [
+  "pages/huayan70/jiangyi11",
+  "pages/huayan70/jiangyi13",
+  "pages/huayan70/jiangyi6"
+ ],
+ "pages_consulted": 3,
+ "confidence": "high",
+ "related_unresolved": [
+  "十住位"
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "term": "自我",
+ "key": "自我",
+ "aliases": [],
+ "summary": "生命中必然性的存在假设；回望自己的自证分",
+ "definition": "讲者说自我是生命中必然性的存在假设，是自性的表现方式，也是总持生命中一切法的总持力，不是外道的灵魂。另说自我就是自证分，是得解脱与无上正觉最初的力量；它在自己的报身世界里有决定的权力、能力和自由开启一法，为王。",
+ "definition_basis": [
+  {
+   "q": "自我是生命中必然性的存在假設。",
+   "src": "pages/swxf/shizhu21"
+  },
+  {
+   "q": "自我就是自證分的那一個，自證的那一個，是我得解脫與無上正覺最初的那個力量",
+   "src": "pages/swxf/shizhu31"
+  },
+  {
+   "q": "自我有決定的權力、能力和自由開啟一法，我在我的世界裡面是為王的。",
+   "src": "pages/swxf/shizhu34"
+  }
+ ],
+ "aspects": [
+  {
+   "label": "必然性的存在假设、总持力",
+   "text": "保证昨天的我就是今天的我，把一切法围绕自己编织成我的世界。",
+   "quotes": [
+    {
+     "q": "自我是生命中必然性的存在假設。",
+     "src": "pages/swxf/shizhu21"
+    }
+   ]
+  },
+  {
+   "label": "自证分，最初的力量",
+   "text": "自我是自证的那一个，得解脱与无上正觉最初的力量。",
+   "quotes": [
+    {
+     "q": "自我就是自證分的那一個，自證的那一個，是我得解脫與無上正覺最初的那個力量",
+     "src": "pages/swxf/shizhu31"
+    }
+   ]
+  },
+  {
+   "label": "在报身世界里为王",
+   "text": "自我有决定的权力、能力和自由开启一法。",
+   "quotes": [
+    {
+     "q": "自我有決定的權力、能力和自由開啟一法，我在我的世界裡面是為王的。",
+     "src": "pages/swxf/shizhu34"
+    }
+   ]
+  },
+  {
+   "label": "圣经故事中的果子",
+   "text": "一页问答把圣经故事里的果子说成自我，吃了生起反观与分别执着。",
+   "quotes": [
+    {
+     "q": "哪一顆果子呢？就是自我",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/58.fxxzwsjlsjh-ynsqdzhyxqdxfm"
+    }
+   ]
+  }
+ ],
+ "by_series": [
+  {
+   "series": "swxf",
+   "text": "十住讲多页界定为存在假设、自证分与在报身世界里的决定力。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年问答（jtl）借圣经故事把果子说成自我。"
+  }
+ ],
+ "related": [
+  "自证分",
+  "报身世间"
+ ],
+ "tensions": [],
+ "gaps": [
+  "自我与「第七意识」「我执」的关系，本包定义页未直接展开。"
+ ],
+ "where_to_read": [
+  "pages/swxf/shizhu21",
+  "pages/swxf/shizhu31",
+  "pages/swxf/shizhu34",
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/58.fxxzwsjlsjh-ynsqdzhyxqdxfm"
+ ],
+ "pages_consulted": 4,
+ "confidence": "medium",
+ "related_unresolved": [
+  "自证分"
+ ]
+}
