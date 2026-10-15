@@ -1,4 +1,4 @@
-"""Build the whole site: landing page, 经典, 讲座 (lecture digests), 问答 (Q&A digests), 知识库, 关于.
+"""Build the whole site: landing page, 阿弥陀经, 讲座 (lecture digests), 问答 (Q&A digests), 知识库, 关于.
 Usage: python -I scripts/build_site.py
 Runs the section builders (阿弥陀经 detailed + easy, knowledge base) and then renders the remaining pages from
 kb/digests/** and kb/manifest.json. Output: site/ (static HTML, Simplified Chinese)."""
@@ -16,32 +16,8 @@ CSS = KB["CSS"]
 byname, cslug, fslug, norm = KB["byname"], KB["cslug"], KB["fslug"], KB["norm"]
 MAN = {e["id"]: e for e in json.load(open("kb/manifest.json", encoding="utf8"))}
 
-LECT = [  # (series id, display name, one-line description written from the series' own titles)
-    ("shixin", "华严经·十信位", "十信位行法，17 讲"),
-    ("swxf", "华严经·别教菩萨四位行法", "十住、十行、十回向、十地四位行法，36 讲"),
-    ("huayan28", "华严经二十八讲", "28 讲"),
-    ("huayan70", "华严七十讲", "71 讲"),
-    ("amtj", "佛说阿弥陀经大义", "8 讲，另见经典栏目的逐段讲解"),
-]
-QA_GROUPS = [  # (folder, slug, label, section)
-    ("pages/dayi", "changjian", "常见问题", "专题与其他"),
-    ("pages/dayi_all/dyjx", "xuexi", "怎样学习《华严经》", "专题与其他"),
-    ("pages/dayi_all/ztjz", "zhuanti", "专题答疑", "专题与其他"),
-    ("pages/dayi_all/fjzxlydy/-fjzxly-dywzb", "zhexue", "《华严哲学论义》答疑", "专题与其他"),
-    ("pages/dayi_all/2018-2022dy/dy", "juewu2021", "《觉悟华严经》答疑（2021）", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/hyxf", "hyxf", "华严行法", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/jtl", "jtl", "教理：大小乘与权、别、圆", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/swms-dzz", "swms", "闻法模式与内在觉知", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/jdjd", "jdjd", "经典解读", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/jx-br", "jxbr", "见性与般若", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/wm-lb", "wmlb", "无明与了别", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/sz", "sz", "四智十方", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2018-2022dy/flWORD/fs-mfjd", "fs", "法数", "2018–2022 分类答疑"),
-    ("pages/dayi_all/2023dy/fl", "y2023", "2023 年答疑", "年度答疑"),
-    ("pages/dayi_all/2023dy/wz/WORDbb", "y2023w", "2023–2024 答疑文字稿", "年度答疑"),
-    ("pages/dayi_all/2024dy/fl", "y2024", "2024 年答疑", "年度答疑"),
-    ("pages/dayi_all/2024dy/2024dywd", "y2024w", "2024 年答疑（问答稿）", "年度答疑"),
-]
+LECT, QA_GROUPS = site_common.LECT, site_common.QA_GROUPS
+URL, LECT_ITEMS, QA_ITEMS = site_common.page_map()
 AUTO = ('<p class="auto">本页由整理程序根据原讲稿生成：概括文字是整理者的话，不是讲者原话；带「」的引文逐字取自原稿，'
         '出处见小字。概括可能有疏漏，请以原稿为准。</p>')
 
@@ -49,7 +25,7 @@ AUTO = ('<p class="auto">本页由整理程序根据原讲稿生成：概括文�
 def page(path, title, body, on=""):
     depth = path.count("/")
     html = (f'<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            f"<title>{H(title)}</title><style>{CSS}</style></head><body>{site_common.bar(depth, on)}<main>{body}"
+            f"<title>{H(title)}{'' if title == site_common.SITE else ' · ' + site_common.SITE}</title><style>{CSS}</style></head><body>{site_common.bar(depth, on)}<main>{body}"
             '<p class="note">整理自<a href="https://huayan.academy/">华严书院</a>公开讲稿，仅供学习；内容版权归原作者。</p></main></body></html>')
     os.makedirs(os.path.dirname("site/" + path) or "site", exist_ok=True)
     open("site/" + path, "w", encoding="utf8").write(html)
@@ -60,8 +36,18 @@ def clean_title(t):
     return re.sub(r"^《(.*)》$", r"\1", t) or "（无题）"
 
 
-def q(text, src=None):
-    return f'<q class="orig">{H(S(text))}</q>' + (f'<sup class="src">{H(KB["label"](src))}</sup>' if src else "")
+def q(text):
+    return f'<q class="orig">{H(S(text))}</q>'
+
+
+def ul(items, cls=""):
+    items = [i for i in items if i]
+    return f"<ul{cls}>" + "".join(f"<li>{i}</li>" for i in items) + "</ul>" if items else ""
+
+
+def ol(items):
+    items = [i for i in items if i]
+    return "<ol>" + "".join(f"<li>{i}</li>" for i in items) + "</ol>" if items else ""
 
 
 def concept_link(name, depth):
@@ -87,14 +73,14 @@ def render_digest(d, depth, qa_first=False):
         b.append(f"<h2>概述</h2><p>{H(S(d['summary']))}</p>")
     if d.get("outline"):
         b.append("<h2>结构</h2>" + "".join(
-            f"<h3>{H(S(o.get('heading', '')))}</h3><ul>" + "".join(f"<li>{H(S(p))}</li>" for p in o.get("points", [])) + "</ul>"
+            f"<h3>{H(S(o.get('heading', '')))}</h3>" + ul(H(S(p)) for p in o.get("points", []))
             for o in d["outline"]))
     if d.get("teachings"):
         b.append("<h2>主要观点</h2><ul>" + "".join(
             f"<li>{H(S(t.get('claim', '')))}" + (f"<br>{q(t['quote'])}" if t.get("quote") else "") + "</li>" for t in d["teachings"]) + "</ul>")
     if d.get("frameworks"):
         b.append("<h2>框架</h2>" + "".join(
-            f'<div class="ex"><b>{concept_link(f.get("name", ""), depth)}</b><ol>' + "".join(f"<li>{H(S(i))}</li>" for i in f.get("items", [])) + "</ol></div>"
+            f'<div class="ex"><b>{concept_link(f.get("name", ""), depth)}</b>' + ol(H(S(i)) for i in f.get("items", [])) + "</div>"
             for f in d["frameworks"]))
     if d.get("examples"):
         b.append("<h2>例子与比喻</h2>" + "".join(
@@ -102,7 +88,7 @@ def render_digest(d, depth, qa_first=False):
             + (q(e["quote"]) if e.get("quote") else "") + "</div>" for e in d["examples"]))
     if d.get("how_to"):
         b.append("<h2>怎么用</h2>" + "".join(
-            f'<div class="ex"><b>{H(S(h.get("situation", "")))}</b><ol>' + "".join(f"<li>{H(S(s))}</li>" for s in h.get("steps", [])) + "</ol>"
+            f'<div class="ex"><b>{H(S(h.get("situation", "")))}</b>' + ol(H(S(s)) for s in h.get("steps", []))
             + (q(h["quote"]) if h.get("quote") else "") + "</div>" for h in d["how_to"]))
     if not qa_first:
         b.append(qa)
@@ -134,19 +120,17 @@ def pager(items, i, label):
 
 
 # ---------- 讲座
+def orig_link(e):
+    return f'<p class="conf"><a href="{site_common.original(e)}">在华严书院看原文 ↗</a></p>'
+
+
 series_rows = []
 for sid, name, desc in LECT:
-    ents = sorted((e for e in MAN.values() if e["series"] == f"pages/{sid}" and e["kind"] == "content"),
-                  key=lambda e: (e["order"] if e["order"] >= 0 else 999, e["id"]))
-    items = []
-    for e in ents:
-        d = digest(e["id"])
-        if d:
-            items.append((e["id"].split("/")[-1] + ".html", e, d))
+    items = [(fn, e, digest(e["id"])) for fn, e in LECT_ITEMS[sid]]
     for i, (fn, e, d) in enumerate(items):
         body = (site_common.crumb([("讲座", "../index.html"), (name, "index.html"), (clean_title(e["title"]), None)])
-                + f'<p class="kicker">{H(name)}</p><h1>{H(clean_title(e["title"]))}</h1>'
-                + (f'<p class="more"><a href="../../amtj/index.html">经文逐段讲解 →</a></p>' if sid == "amtj" else "")
+                + f'<p class="kicker">{H(name)}</p><h1>{H(clean_title(e["title"]))}</h1>' + orig_link(e)
+                + (f'<p class="more"><a href="../../amituo.html">经文逐段讲解 →</a></p>' if sid == "amtj" else "")
                 + render_digest(d, 2) + pager(items, i, lambda x: clean_title(x[1]["title"])))
         page(f"jiang/{sid}/{fn}", f"{clean_title(e['title'])} · {name}", body, "讲座")
     toc = "".join(f'<li><a href="{fn}">{H(clean_title(e["title"]))}</a><span class="t">{H(S(d.get("gist", ""))[:110])}</span></li>'
@@ -154,50 +138,69 @@ for sid, name, desc in LECT:
     page(f"jiang/{sid}/index.html", name,
          site_common.crumb([("讲座", "../index.html"), (name, None)]) + f"<h1>{H(name)}</h1><p class='lead'>{H(desc)}</p><ol class='toc'>{toc}</ol>", "讲座")
     series_rows.append((sid, name, desc, len(items)))
-tiles = "".join(f'<a class="tile" href="{sid}/index.html"><b>{H(n)}</b><span>{H(d)} · 已整理 {c} 页</span></a>' for sid, n, d, c in series_rows)
-page("jiang/index.html", "讲座", "<h1>讲座</h1><p class='lead'>按讲稿系列浏览。每一讲有要点、结构、主要观点（附原文）、例子与本页概念。</p>"
+tiles = "".join(f'<a class="tile" href="{sid}/index.html"><b>{H(n)}</b><span>{H(d)}</span></a>' for sid, n, d, c in series_rows)
+page("jiang/index.html", "讲座", "<h1>讲座</h1><p class='lead'>按讲稿系列浏览。每一讲有要点、结构、主要观点（附原文）、例子与本页概念，并可直接打开华严书院的原文。</p>"
      "<p class='conf'>各系列以《华严经》为主线。《华严经》经文与讲稿的逐段对照尚在整理，只会覆盖讲稿明确引用的部分。</p>"
      f"<div class='grid'>{tiles}</div>", "讲座")
 
 # ---------- 问答
+LISTING = site_common.qa_listing()
+also = collections.defaultdict(list)          # digested page id -> other pages whose content it contains
+for rows_ in LISTING.values():
+    for e, href, cov in rows_:
+        if cov:
+            also[cov].append(e)
 groups = collections.OrderedDict()
 all_rows = []
 known = {g[0] for g in QA_GROUPS}
 for folder, slug, label, sec in QA_GROUPS:
-    ents = sorted((e for e in MAN.values() if e["series"] == folder and e["kind"] == "content"),
-                  key=lambda e: (e["order"] if e["order"] >= 0 else 999, e["id"]))
-    items = []
-    for e in ents:
-        d = digest(e["id"])
-        if d:
-            items.append((f"{len(items) + 1:03d}.html", e, d))
-    if not items:
+    items = [(fn, e, digest(e["id"])) for fn, e in QA_ITEMS[slug]]
+    listing = LISTING[slug]
+    if not listing:
         continue
-    groups[slug] = (label, sec, len(items))
+    groups[slug] = (label, sec, len(listing), len(items))
     for i, (fn, e, d) in enumerate(items):
         t = clean_title(e["title"])
         date = f'<p class="conf">{H(e["date"])}</p>' if e.get("date") else ""
+        dup = ""
+        if also.get(e["id"]):
+            dup = ("<p class='conf'>同一内容也以这些标题出现：" + "；".join(
+                f'<a href="{site_common.original(x)}">{H(clean_title(x["title"]))}</a>' for x in also[e["id"]][:8])
+                + ("…" if len(also[e["id"]]) > 8 else "") + "</p>")
         body = (site_common.crumb([("问答", "../index.html"), (label, "index.html"), (t, None)])
-                + f'<p class="kicker">{H(label)}</p><h1>{H(t)}</h1>{date}' + render_digest(d, 2, qa_first=True)
+                + f'<p class="kicker">{H(label)}</p><h1>{H(t)}</h1>{date}' + orig_link(e) + dup + render_digest(d, 2, qa_first=True)
                 + pager(items, i, lambda x: clean_title(x[1]["title"])[:20]))
-        page(f"wen/{slug}/{fn}", f"{t} · 问答", body, "问答")
-        all_rows.append((f"{slug}/{fn}", t, label, S(d.get("gist", ""))))
-    toc = "".join(f'<li><a href="{fn}">{H(clean_title(e["title"]))}</a><span class="t">{H(S(d.get("gist", ""))[:110])}</span></li>'
-                  for fn, e, d in items)
+        page(f"wen/{slug}/{fn}", f"{t} · {label}", body, "问答")
+    toc = []
+    for e, href, cov in listing:
+        t = clean_title(e["title"])
+        if href and not cov:
+            d = digest(e["id"])
+            toc.append(f'<li><a href="../../{href}">{H(t)}</a><span class="t">{H(S(d.get("gist", ""))[:110])}</span></li>')
+            all_rows.append((href, t, label, S(d.get("gist", ""))))
+        elif href:
+            ct = clean_title(MAN[cov]["title"])
+            toc.append(f'<li><a href="../../{href}">{H(t)}</a><span class="t">与另一篇内容相同，整理在「{H(ct)}」中，点击前往。</span></li>')
+            all_rows.append((href, t, label, ""))
+        else:
+            toc.append(f'<li><a href="{site_common.original(e)}">{H(t)} ↗</a><span class="t">未单独整理，链接到华严书院原文。</span></li>')
+            all_rows.append((site_common.original(e), t, label, ""))
     page(f"wen/{slug}/index.html", label, site_common.crumb([("问答", "../index.html"), (label, None)])
-         + f"<h1>{H(label)}</h1><p class='lead'>{len(items)} 篇</p><ol class='toc'>{toc}</ol>", "问答")
+         + f"<h1>{H(label)}</h1><p class='lead'>{len(listing)} 篇</p><ol class='toc'>{''.join(toc)}</ol>", "问答")
 missing = {e["series"] for e in MAN.values() if "dayi" in e["series"] and e["series"] not in known and e["kind"] == "content"}
 secs = collections.OrderedDict()
-for slug, (label, sec, n) in groups.items():
+for slug, (label, sec, n, nd) in groups.items():
     secs.setdefault(sec, []).append(f'<a class="tile" href="{slug}/index.html"><b>{H(label)}</b><span>{n} 篇</span></a>')
 rows = "".join(f"<tr data-t='{H(t + ' ' + g)}' style='display:none'><td><a href='{h}'>{H(t)}</a><br><span class='conf'>{H(l)}</span></td></tr>"
-               for h, t, l, g in all_rows)
+               for h, t, l, g in ((h if h.startswith("http") else h[len("wen/"):], t, l, g) for h, t, l, g in all_rows))
 js = ("<script>document.getElementById('q').addEventListener('input',e=>{const v=e.target.value.trim();"
       "document.querySelectorAll('tr[data-t]').forEach(r=>r.style.display=v&&r.dataset.t.includes(v)?'':'none')})</script>")
-page("wen/index.html", "问答", f"<h1>问答</h1><p class='lead'>{len(all_rows)} 篇答疑整理，按分类与年份浏览，或直接搜索。</p>"
+n_digested = len({h for h, *_ in all_rows if not h.startswith("http")})
+page("wen/index.html", "问答", f"<h1>问答</h1><p class='lead'>{len(all_rows)} 篇答疑，按分类与年份浏览，或直接搜索标题。</p>"
      f"<input id='q' placeholder='搜索问答标题与要点…'><table class='idx'>{rows}</table>"
      + "".join(f"<h2>{H(s)}</h2><div class='grid'>{''.join(v)}</div>" for s, v in secs.items())
-     + "<p class='conf'>分组名称由整理者根据各组标题拟定。内容重复或已被其他页覆盖的答疑页未单独收录。</p>" + js, "问答")
+     + "<p class='conf'>分组名称由整理者根据各组标题拟定。许多答疑在不同分组里重复出现，重复的只整理一次，其他标题链接到整理好的那一篇；"
+       "少数内容很短或几乎全是重复的页面未整理，直接链接到华严书院原文。</p>" + js, "问答")
 
 # ---------- 阿弥陀经
 PLAN = json.load(open("content/amtj/PLAN.json", encoding="utf8"))["pages"]
@@ -240,11 +243,11 @@ page("index.html", "华严讲稿学习站", f"""<div class="hero"><h1>华严讲�
 <h2>从这里开始</h2><div class="grid">
 <a class="tile" href="amtj-easy/index.html"><b>《阿弥陀经》轻松读</b><span>第一次接触？从这部短经开始，一段一段读。</span></a>
 <a class="tile" href="kb/index.html"><b>查一个概念</b><span>种性、道种智、黄金为地……{n_cards} 个概念，讲者怎么说、各页怎么讲。</span></a>
-<a class="tile" href="wen/index.html"><b>找一个问题</b><span>{len(all_rows)} 篇答疑，可搜索。</span></a></div>
+<a class="tile" href="wen/index.html"><b>找一个问题</b><span>{len(all_rows)} 篇答疑，可搜索标题。</span></a></div>
 <h2>全部内容</h2><div class="grid">
 <a class="tile" href="amituo.html"><b>佛说阿弥陀经</b><span>经文全文，逐段讲解（轻松版与详细版）</span></a>
 <a class="tile" href="jiang/index.html"><b>讲座</b><span>{len(series_rows)} 个讲稿系列，{n_lect} 讲</span></a>
 <a class="tile" href="wen/index.html"><b>问答</b><span>{len(groups)} 组答疑</span></a>
 <a class="tile" href="kb/index.html"><b>知识库</b><span>概念卡、框架卡、讲稿内部的不同说法</span></a>
 <a class="tile" href="about.html"><b>关于</b><span>来源、整理方法与注意事项</span></a></div>""")
-print(f"site: {n_lect} lecture pages, {len(all_rows)} Q&A pages in {len(groups)} groups; unmapped Q&A folders: {sorted(missing)}")
+print(f"site: {n_lect} lecture pages, {len(all_rows)} Q&A titles ({n_digested} digested pages) in {len(groups)} groups; unmapped Q&A folders: {sorted(missing)}")

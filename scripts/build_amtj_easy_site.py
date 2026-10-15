@@ -45,6 +45,14 @@ ol.toc .h{display:block;font-size:.9rem;color:var(--mute);margin-top:.15rem;line
 COVER = {"lecture": "", "partial": "讲稿只部分涉及这一段", "qa": "讲稿没有直接讲到这一段，下面的说明来自答疑与其他讲次", "none": "知识库里暂时没有对这一段的讲解"}
 
 
+URL = site_common.page_map()[0]
+
+
+def src_link(sid):
+    """source label, linked to that page's digest on this site when there is one"""
+    return f'<a href="../{URL[sid]}">{H(label(sid))}</a>' if sid in URL else H(label(sid))
+
+
 def label(sid):
     e = MAN[sid]
     parts = sid.split("/")
@@ -63,13 +71,13 @@ def label(sid):
 def quotes_html(qs):
     if not qs:
         return ""
-    items = "".join(f'<q class="orig">{H(S(q["q"]))}<span class="src">　—— {H(label(q["src"]))}</span></q>' for q in qs)
+    items = "".join(f'<q class="orig">{H(S(q["q"]))}<span class="src">　—— {src_link(q["src"])}</span></q>' for q in qs)
     return f"<details><summary>看讲者原话</summary>{items}</details>"
 
 
 def shell(title, body):
     return (f'<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            f"<title>{H(title)}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '阿弥陀经')}<main>{body}</main></body></html>")
+            f"<title>{H(title)} · {site_common.SITE}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '阿弥陀经')}<main>{S(body)}</main></body></html>")
 
 
 def paras_html(ps):

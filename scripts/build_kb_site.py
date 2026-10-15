@@ -1,4 +1,4 @@
-"""Render the consolidated KB (concept cards, framework cards, tensions) to site/kb/ and the landing page site/index.html.
+"""Render the consolidated KB (concept cards, framework cards, tensions) to site/kb/.
 Usage: python -I scripts/build_kb_site.py   (Simplified Chinese; quotes shown simplified, labelled with their source page)"""
 import glob, html, json, os, re, sys
 import opencc
@@ -10,6 +10,7 @@ S = opencc.OpenCC("t2s").convert
 H = html.escape
 MAN = {e["id"]: e for e in json.load(open("kb/manifest.json", encoding="utf8"))}
 OUT = "site/kb"
+URL, _, _ = site_common.page_map()
 os.makedirs(OUT + "/c", exist_ok=True)
 os.makedirs(OUT + "/f", exist_ok=True)
 CSS = open("scripts/build_amtj_site.py", encoding="utf8").read().split('CSS = """')[1].split('"""')[0]
@@ -36,14 +37,19 @@ def page(title, body, depth=1, kicker="", nav=True):
     sub = (f'<nav class="top"><span><a href="{up}kb/index.html">概念</a> · <a href="{up}kb/frameworks.html">框架</a> · '
            f'<a href="{up}kb/tensions.html">说法差异</a></span></nav>') if nav else ""
     return f"""<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{H(title)}</title><style>{CSS}</style></head><body>{nv}<main>
+<title>{H(title)} · {site_common.SITE}</title><style>{CSS}</style></head><body>{nv}<main>
 {sub}<div class="kicker">{H(kicker)}</div>{body}
 <p class="note">本页整理自华严书院公开讲稿：概念卡汇集各讲稿的说法并附原文引文，不作裁决；整理可能有疏漏，请以引文所在原页为准。</p>
 </main></body></html>"""
 
 
+def src_link(pid, up="../../"):
+    """label of a source page, linked to its page on this site when it has one"""
+    return f'<a href="{up}{URL[pid]}">{H(label(pid))}</a>' if pid in URL else H(label(pid))
+
+
 def quote(q):
-    return f'<q class="orig">{H(S(q["q"]))}</q><sup class="src">{H(label(q["src"]))}</sup>'
+    return f'<q class="orig">{H(S(q["q"]))}</q><sup class="src">{src_link(q["src"])}</sup>'
 
 
 def quotes(qs):
@@ -84,6 +90,8 @@ def link(name):
     return f'<a href="../{t}/{(cslug if t == "c" else fslug)[k]}.html">{H(S(name))}</a>'
 
 
+fw_by_norm = {norm(c["name"]): k for k, c in fws.items()}
+card_by_norm = {norm(c["term"]): k for k, c in cards.items()}
 CONF = {"high": "置信：高", "medium": "置信：中（多据汇总材料）", "low": "置信：低"}
 for k, c in cards.items():
     b = [f"<h1>{H(S(c['term']))}</h1>", f"<p class='card-sum'>{H(S(c['summary']))}</p>"]
@@ -106,19 +114,29 @@ for k, c in cards.items():
     if c.get("related"):
         b.append("<h2>相关</h2><p class='chips'>" + " ".join(f"<span>{link(r)}</span>" for r in c["related"]) + "</p>")
     if c.get("where_to_read"):
-        b.append("<h2>建议阅读的原页</h2><ul class='open'>" + "".join(f"<li>{H(label(p))}</li>" for p in c["where_to_read"]) + "</ul>")
+        b.append("<h2>建议阅读的原页</h2><ul class='open'>" + "".join(f"<li>{src_link(p)}</li>" for p in c["where_to_read"]) + "</ul>")
+    fk = fw_by_norm.get(norm(c["term"]))
+    if fk:
+        b.insert(2, f"<p class='conf'>另见框架卡：<a href='../f/{fslug[fk]}.html'>{H(S(fws[fk]['name']))}</a>（成员与次序）</p>")
     b.append(f"<p class='conf'>{CONF.get(c['confidence'], '')} · 参考 {c.get('pages_consulted', 0)} 页</p>")
-    open(f"{OUT}/c/{cslug[k]}.html", "w", encoding="utf8").write(page(S(c["term"]), "".join(b), 2, "概念卡"))
+    open(f"{OUT}/c/{cslug[k]}.html", "w", encoding="utf8").write(page(S(c["term"]) + " · 概念卡", "".join(b), 2, "概念卡"))
 
 for k, c in fws.items():
     b = [f"<h1>{H(S(c['name']))}</h1>", f"<p class='card-sum'>{H(S(c['summary']))}</p>"]
-    b.append("<h2>成员</h2><ol>" + "".join(
-        f"<li><b>{link(m['name'])}</b>：{H(S(m.get('note', '')))}</li>" for m in c.get("members", [])) + "</ol>")
+    ck = card_by_norm.get(norm(c["name"]))
+    if ck:
+        b.append(f"<p class='conf'>另见概念卡：<a href='../c/{cslug[ck]}.html'>{H(S(cards[ck]['term']))}</a>（讲者怎么解释）</p>")
+    if c.get("members"):
+        b.append("<h2>成员</h2><ol>" + "".join(
+            f"<li><b>{link(m['name'])}</b>" + (f"：{H(S(m['note']))}" if m.get("note") else "") + "</li>" for m in c["members"]) + "</ol>")
     if c.get("order_note"):
         b.append(f"<p>{H(S(c['order_note']))}</p>")
     b.append(f"<p class='conf'>完整度：{H(c.get('completeness', ''))}</p>")
+    if c.get("views"):
+        b.append("<h2>不同页面的列法</h2>")
     for v in c.get("views", []):
-        b.append(f"<div class='ex'><b>{H(S(v['label']))}</b><p>{H('、'.join(S(m) for m in v.get('members', [])))}</p></div>")
+        mem = "、".join(S(m) for m in v.get("members", []))
+        b.append(f"<div class='ex'><b>{H(S(v['label']))}</b>" + (f"<p>{H(mem)}</p>" if mem else "") + "</div>")
     if c.get("source_quotes"):
         b.append("<h2>原文</h2>" + quotes(c["source_quotes"]))
     if c.get("tensions"):
@@ -129,7 +147,7 @@ for k, c in fws.items():
         b.append("<h2>讲稿中没有讲清的</h2><ul class='open'>" + "".join(f"<li>{H(S(g))}</li>" for g in c["gaps"]) + "</ul>")
     if c.get("related"):
         b.append("<h2>相关</h2><p class='chips'>" + " ".join(f"<span>{link(r)}</span>" for r in c["related"]) + "</p>")
-    open(f"{OUT}/f/{fslug[k]}.html", "w", encoding="utf8").write(page(S(c["name"]), "".join(b), 2, "框架卡"))
+    open(f"{OUT}/f/{fslug[k]}.html", "w", encoding="utf8").write(page(S(c["name"]) + " · 框架卡", "".join(b), 2, "框架卡"))
 
 rows = sorted(cards.values(), key=lambda c: -c.get("pages_consulted", 0))
 tbl = "".join(

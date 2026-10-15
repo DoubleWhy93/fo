@@ -41,6 +41,14 @@ ol.toc .n{color:var(--mute);margin-right:.5rem}ol.toc .t{font-size:.92rem;color:
 SERIES = {"huayan28": "二十八讲", "huayan70": "七十讲", "shixin": "十信位", "swxf": "行法", "amtj": "阿弥陀经大义"}
 
 
+URL = site_common.page_map()[0]
+
+
+def src_link(sid):
+    """source label, linked to that page's digest on this site when there is one"""
+    return f'<a href="../{URL[sid]}">{H(label(sid))}</a>' if sid in URL else H(label(sid))
+
+
 def label(sid):
     e = MAN[sid]
     parts = sid.split("/")
@@ -60,7 +68,7 @@ def segs(items):
     out = []
     for s in items:
         if "q" in s:
-            out.append(f'<q class="orig">{H(S(s["q"]))}</q><sup class="src">{H(label(s["src"]))}</sup>')
+            out.append(f'<q class="orig">{H(S(s["q"]))}</q><sup class="src">{src_link(s["src"])}</sup>')
         else:
             out.append(H(s["t"]))
     return "".join(out)
@@ -87,7 +95,7 @@ COVER = {"lecture": "", "partial": "讲稿仅部分涉及本段", "qa": "讲稿�
 
 def shell(title, body, up=True):
     return (f'<!doctype html><html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
-            f"<title>{H(title)}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '阿弥陀经')}<main>{body}</main></body></html>")
+            f"<title>{H(title)} · {site_common.SITE}</title><style>{CSS}{site_common.BAR_CSS}</style></head><body>{site_common.bar(1, '阿弥陀经')}<main>{S(body)}</main></body></html>")
 
 
 def build():
