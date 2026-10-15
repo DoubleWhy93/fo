@@ -5,11 +5,12 @@ import opencc
 S = opencc.OpenCC("t2s").convert
 H = html.escape
 
-NAV = [("阿弥陀经", "amituo.html"), ("讲座", "jiang/index.html"), ("问答", "wen/index.html"), ("知识库", "kb/index.html"), ("关于", "about.html")]
+NAV = [("二十八讲", "jiang/huayan28/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
+       ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("关于", "about.html")]
 
 BAR_CSS = """.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
 justify-content:space-between;flex-wrap:wrap;padding:.5rem 1.2rem;font:15px/1.5 "Noto Sans SC","PingFang SC",sans-serif}
-.gbar .brand{font-weight:700;text-decoration:none;color:var(--fg)}.gbar nav a{margin-left:1rem;text-decoration:none;color:var(--acc)}
+.gbar .brand{font-weight:700;text-decoration:none;color:var(--fg)}.gbar nav a{margin-left:.85rem;white-space:nowrap;text-decoration:none;color:var(--acc)}
 .gbar nav a.on{font-weight:700;border-bottom:2px solid var(--acc)}
 .crumb{font-size:.88rem;color:var(--mute);margin:.2rem 0 .6rem}.crumb a{color:var(--mute)}
 .hero{padding:1.6rem 0 .4rem}.hero h1{font-size:2.2rem}.hero p{font-size:1.15rem;color:var(--mute)}
@@ -22,18 +23,30 @@ table.idx{width:100%;border-collapse:collapse;font-size:.97rem}table.idx td,tabl
 .tension{background:var(--card);border:1px dashed var(--acc);border-radius:8px;padding:.7rem 1rem;margin:1rem 0}
 input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
 .conf{font-size:.8rem;color:var(--mute)}.card-sum{font-size:1.1rem}
+.orig-desc{margin:1rem 0;padding:.8rem 1.1rem;border-left:4px solid var(--acc);background:var(--soft);border-radius:6px;font-size:1rem}
+.orig-desc .src{display:block;font-size:.8rem;color:var(--mute);margin-top:.4rem}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
 """
 
 
 SITE = "华严讲稿学习站"
-LECT = [  # (series id, display name, one-line description written from the series' own titles)
-    ("shixin", "华严经·十信位", "十信位行法，17 讲"),
-    ("swxf", "华严经·别教菩萨四位行法", "十住、十行、十回向、十地四位行法，36 讲"),
-    ("huayan28", "华严经二十八讲", "28 讲"),
-    ("huayan70", "华严七十讲", "71 讲"),
-    ("amtj", "佛说阿弥陀经大义", "8 讲；经文逐段讲解见「阿弥陀经」栏目"),
+LECT = [  # (series id, nav name, section title, start/end of the original site's own description on 学习次第 (root/cidi), parts)
+    ("huayan28", "二十八讲", "华严经总释二十八讲", "《覺悟華嚴經·總釋二十八講》（１冊）", "比較詳細的說明。",
+     [(1, 6, "第一部分：隋唐时期中国佛教史简介"), (7, 12, "第二部分：佛教经典语言解读"), (13, 99, "第三部分：华严经行法理论和行法次第")]),
+    ("huayan70", "七十讲", "华严七十讲", "《覺悟華嚴經·華嚴七十講》（3冊）", "本來義理。", None),
+    ("shixin", "十信位", "华严经·十信位", "《華嚴經·十信位》是對", "怎樣的保證。", None),
+    ("swxf", "十住位", "华严经·十住位", "《華嚴經·四位行法》是對", "無上正覺。", None),
+    ("amtj", "阿弥陀经", "佛说阿弥陀经大义", "《佛說阿彌陀經大義》以華嚴經", "密法的解讀。", None),
 ]
+
+
+def cidi(start, end):
+    """verbatim stretch of the original site's 学习次第 page, from `start` through `end`"""
+    t = open("kb/sources/root/cidi.md", encoding="utf8").read().split("\n---\n", 1)[1]
+    i = t.index(start)
+    return t[i:t.index(end, i) + len(end)]
+
+
 QA_GROUPS = [  # (folder, slug, label, section) — labels written by the editor from each group's page titles
     ("pages/dayi_all/2018-2022dy/flWORD/hyxf", "hyxf", "华严行法", "2018–2022 分类答疑"),
     ("pages/dayi_all/2018-2022dy/flWORD/jtl", "jtl", "教理：大小乘与权、别、圆", "2018–2022 分类答疑"),
