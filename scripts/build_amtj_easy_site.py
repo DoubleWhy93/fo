@@ -106,7 +106,7 @@ def build():
             uns = '<div class="unsure"><b>还没定论：</b><ul>' + "".join(f"<li>{H(x)}</li>" for x in d["unsure"]) + "</ul></div>"
         pager = ('<div class="pager"><span>' + (f'<a href="{prev["slug"]}.html">← 上一段</a>' if prev else "") + "</span><span>" +
                  (f'<a href="{nxt["slug"]}.html">下一段 →</a>' if nxt else "") + "</span></div>")
-        body = (f'<nav class="top"><a href="index.html">《阿弥陀经》轻松读</a><span>{p["order"]} / {len(PLAN)}</span></nav>'
+        body = (f'<nav class="top"><a href="../index.html">首页</a> · <a href="index.html">《阿弥陀经》轻松读</a><span>{p["order"]} / {len(PLAN)}</span></nav>'
                 f'<h1>{H(d["title"])}</h1><p class="hook">{H(d["hook"])}</p>'
                 f'<div class="sutra"><p class="cap">经文 · 鸠摩罗什译</p>{cap}</div>'
                 f'<div class="surface"><span class="lab">字面意思（整理者的白话，不是讲者原话）</span>{H(d["surface"])}</div>'

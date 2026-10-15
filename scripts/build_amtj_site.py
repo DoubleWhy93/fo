@@ -108,7 +108,7 @@ def build():
             openq = "<h2>留待核对</h2><ul class=\"open\">" + "".join(f"<li>{H(x)}</li>" for x in d["open_questions"]) + "</ul>"
         pager = '<div class="pager"><span>' + (f'<a href="{prev["slug"]}.html">← {H(S(prev["title_trad"]))}</a>' if prev else "") + \
                 '</span><span>' + (f'<a href="{nxt["slug"]}.html">{H(S(nxt["title_trad"]))} →</a>' if nxt else "") + "</span></div>"
-        body = (f'<nav class="top"><a href="index.html">《佛说阿弥陀经》讲解</a><span>{p["order"]} / {len(order)}</span></nav>'
+        body = (f'<nav class="top"><a href="../index.html">首页</a> · <a href="index.html">《佛说阿弥陀经》讲解</a><span>{p["order"]} / {len(order)}</span></nav>'
                 f'<p class="kicker">{H(d.get("kicker", "佛说阿弥陀经"))}</p><h1>{H(d["title"])}</h1>'
                 f'<p class="lead">{segs(d["lead"])}</p>'
                 f'<div class="sutra"><p class="cap">经文 · 鸠摩罗什译（CBETA T12n0366）</p>{cap}</div>'
