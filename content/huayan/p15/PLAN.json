@@ -29,32 +29,20 @@
    "chars": 799,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/dayi_all/2018-2022dy/flWORD/hyxf/124.kfqsyxszzdjtnr-",
     "pages/huayan28/28jiang20",
-    "pages/huayan28/28jiang22",
-    "pages/huayan28/28jiang28",
-    "pages/huayan70/jiangyi10",
     "pages/huayan70/jiangyi12",
     "pages/huayan70/jiangyi14",
-    "pages/huayan70/jiangyi15",
     "pages/huayan70/jiangyi16",
     "pages/huayan70/jiangyi17",
     "pages/huayan70/jiangyi21",
-    "pages/huayan70/jiangyi22",
-    "pages/huayan70/jiangyi26",
-    "pages/huayan70/jiangyi43",
-    "pages/huayan70/jiangyi46",
     "pages/swxf/shizhu15",
     "pages/swxf/shizhu16",
     "pages/swxf/shizhu17",
     "pages/swxf/shizhu18",
     "pages/swxf/shizhu19",
     "pages/swxf/shizhu20",
-    "pages/swxf/shizhu21",
     "pages/swxf/shizhu23",
-    "pages/swxf/shizhu24",
-    "pages/swxf/shizhu25",
-    "pages/swxf/shizhu29"
+    "pages/swxf/shizhu25"
    ]
   },
   {
@@ -84,17 +72,10 @@
    "chars": 784,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/huayan28/28jiang22",
-    "pages/huayan28/28jiang28",
-    "pages/huayan70/jiangyi10",
-    "pages/huayan70/jiangyi15",
-    "pages/huayan70/jiangyi26",
-    "pages/swxf/shizhu23",
     "pages/swxf/shizhu25",
     "pages/swxf/shizhu26",
     "pages/swxf/shizhu27",
-    "pages/swxf/shizhu28",
-    "pages/swxf/shizhu29"
+    "pages/swxf/shizhu28"
    ]
   },
   {
@@ -114,17 +95,10 @@
    "chars": 704,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/dayi_all/2018-2022dy/flWORD/sz/16.rhzdsz-sxdrlsw-rlgc-",
     "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)",
-    "pages/huayan28/28jiang22",
-    "pages/huayan28/28jiang28",
-    "pages/huayan70/jiangyi10",
-    "pages/huayan70/jiangyi15",
     "pages/huayan70/jiangyi17",
     "pages/huayan70/jiangyi18",
     "pages/huayan70/jiangyi26",
-    "pages/swxf/shizhu23",
-    "pages/swxf/shizhu25",
     "pages/swxf/shizhu29",
     "pages/swxf/shizhu30"
    ]
@@ -151,14 +125,7 @@
    "chars": 716,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/huayan28/28jiang22",
-    "pages/huayan28/28jiang28",
-    "pages/huayan70/jiangyi10",
-    "pages/huayan70/jiangyi15",
     "pages/huayan70/jiangyi18",
-    "pages/huayan70/jiangyi26",
-    "pages/swxf/shizhu23",
-    "pages/swxf/shizhu25",
     "pages/swxf/shizhu30",
     "pages/swxf/shizhu31"
    ]
@@ -183,7 +150,6 @@
     "pages/huayan70/jiangyi18",
     "pages/shixin/shixin14",
     "pages/swxf/shizhu32",
-    "pages/swxf/shizhu33",
     "pages/zongshi/zs6-07"
    ]
   },

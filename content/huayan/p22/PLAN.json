@@ -22,11 +22,8 @@
     }
    ],
    "chars": 589,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi21",
-    "pages/swxf/shizhu11"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p22-s002",
@@ -69,11 +66,8 @@
     }
    ],
    "chars": 709,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/amtj/amtj6",
-    "pages/dayi_all/ztjz/4..rldzh"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p22-s005",
@@ -98,10 +92,8 @@
     }
    ],
    "chars": 787,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang20"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p22-s007",
@@ -126,13 +118,8 @@
     }
    ],
    "chars": 553,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi31",
-    "pages/shixin/shixin5",
-    "pages/shixin/shixin6",
-    "pages/zongshi/zs3-14"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p22-s009",

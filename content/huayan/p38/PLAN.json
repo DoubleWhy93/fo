@@ -14,35 +14,14 @@
    "chars": 761,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/amtj/amtj1",
-    "pages/amtj/amtj2",
-    "pages/dayi_all/2018-2022dy/flWORD/jtl/58.fxxzwsjlsjh-ynsqdzhyxqdxfm",
-    "pages/huayan28/28jiang1",
     "pages/huayan28/28jiang18",
     "pages/huayan28/28jiang20",
-    "pages/huayan28/28jiang21",
-    "pages/huayan28/28jiang24",
-    "pages/huayan70/jiangyi1",
-    "pages/huayan70/jiangyi2",
     "pages/huayan70/jiangyi27",
     "pages/huayan70/jiangyi38",
     "pages/huayan70/jiangyi39",
-    "pages/huayan70/jiangyi7",
     "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin1",
-    "pages/shixin/shixin12",
-    "pages/shixin/shixin13",
-    "pages/shixin/shixin14",
     "pages/shixin/shixin2",
-    "pages/shixin/shixin3",
-    "pages/shixin/shixin4",
-    "pages/swxf/shizhu23",
-    "pages/swxf/shizhu3",
-    "pages/swxf/shizhu32",
-    "pages/zongshi/zs2-04",
-    "pages/zongshi/zs2-06",
-    "pages/zongshi/zs2-07",
-    "pages/zongshi/zs3-12"
+    "pages/shixin/shixin3"
    ]
   },
   {
@@ -408,13 +387,8 @@
     }
    ],
    "chars": 869,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi31",
-    "pages/shixin/shixin5",
-    "pages/shixin/shixin6",
-    "pages/zongshi/zs3-14"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p38-s016",
@@ -645,11 +619,8 @@
     }
    ],
    "chars": 219,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang26",
-    "pages/huayan70/jiangyi44"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p38-s029",
@@ -1811,9 +1782,7 @@
    "coverage": "quoted",
    "quoted_by": [
     "pages/huayan70/jiangyi39",
-    "pages/shixin/shixin14",
-    "pages/zongshi/zs3-17",
-    "pages/zongshi/zs6-12"
+    "pages/shixin/shixin14"
    ]
   },
   {

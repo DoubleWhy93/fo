@@ -115,7 +115,7 @@ def check(f):
 
 
 def main():
-    files = sys.argv[1:] or sorted(glob.glob("content/huayan/p*/p*-s*.json")) + sorted(glob.glob("content/amituo/a*.json"))
+    files = [f for f in sys.argv[1:] if os.path.basename(f) != "PLAN.json"] or sorted(glob.glob("content/huayan/p*/p*-s*.json")) + sorted(glob.glob("content/amituo/a*.json"))
     bad = 0
     for f in files:
         e = check(f)

@@ -4,8 +4,9 @@ Usage: python -I scripts/huayan_coverage.py
 Writes kb/sutra/huayan80/coverage.json:
   {"pins": {pin: {"title", "pages": [{"id", "why"}]}},          # pages that name the 品 (sutra_refs / 總釋 essay titles)
    "paragraphs": {para_id: [{"id", "quote"}]}}                    # digest quotes that reproduce lines of that paragraph
-A digest quote counts as quoting a paragraph when it shares a run of >= 12 characters with it (after folding to
-Simplified and dropping punctuation), so loose citations by 品 name and verbatim quotations are kept apart.
+A digest quote counts as quoting a paragraph when they share runs of >= 12 characters (after folding to Simplified and
+dropping punctuation): the quote is credited to the paragraph(s) it matches best, and only if that covers at least half
+of the quote, so formulas that recur across 品 (东方过十佛刹微尘数世界…) are not credited everywhere.
 """
 import glob, json, re, sys
 import opencc
@@ -48,9 +49,19 @@ for f in glob.glob("kb/digests/**/*.json", recursive=True):
     quotes = [r.get("quote", "") for r in d.get("sutra_refs", [])] + [t.get("quote", "") for t in d.get("teachings", [])]
     for q in quotes:
         fq = fold(q)
-        found = set()
-        for k in range(len(fq) - 11):
-            found |= grams.get(fq[k:k + 12], set())
+        qgrams = {fq[k:k + 12] for k in range(len(fq) - 11)}
+        score = {}
+        for g in qgrams:
+            for pid in grams.get(g, ()):
+                score[pid] = score.get(pid, 0) + 1
+        if not score:
+            continue
+        # credit the quote only to the paragraph(s) it reproduces best, and only if it reproduces at least half of
+        # the quote — so a formula shared by many 品 (东方过十佛刹微尘数世界…) is not credited to every place it recurs
+        best = max(score.values())
+        found = {pid for pid, s in score.items() if s == best and s >= 0.5 * len(qgrams)}
+        if len(found) > 2:          # a formula repeated within the sutra (说颂言…, 有如是等…名): not a quote of any one place
+            continue
         for pid in found:
             lst = cov_par.setdefault(pid, [])
             if not any(x["id"] == did and x["quote"] == q for x in lst):

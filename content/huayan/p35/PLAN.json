@@ -99,10 +99,8 @@
     }
    ],
    "chars": 698,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p35-s006",

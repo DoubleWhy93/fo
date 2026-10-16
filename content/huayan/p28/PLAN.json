@@ -29,9 +29,7 @@
    "chars": 508,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/huayan70/jiangyi30",
-    "pages/huayan70/jiangyi36",
-    "pages/huayan70/jiangyi70"
+    "pages/huayan70/jiangyi30"
    ]
   },
   {
@@ -44,10 +42,8 @@
     }
    ],
    "chars": 486,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi70"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p28-s003",
@@ -64,11 +60,8 @@
     }
    ],
    "chars": 640,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi70",
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p28-s004",
@@ -85,10 +78,8 @@
     }
    ],
    "chars": 660,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi70"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p28-s005",

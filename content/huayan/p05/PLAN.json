@@ -231,12 +231,8 @@
     }
    ],
    "chars": 1181,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s011",
@@ -248,10 +244,8 @@
     }
    ],
    "chars": 771,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s012",
@@ -281,12 +275,8 @@
     }
    ],
    "chars": 1162,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s014",
@@ -298,10 +288,8 @@
     }
    ],
    "chars": 348,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s015",
@@ -313,10 +301,8 @@
     }
    ],
    "chars": 726,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s016",
@@ -328,12 +314,8 @@
     }
    ],
    "chars": 770,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s017",
@@ -345,12 +327,8 @@
     }
    ],
    "chars": 802,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s018",
@@ -375,12 +353,8 @@
     }
    ],
    "chars": 802,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s020",
@@ -405,10 +379,8 @@
     }
    ],
    "chars": 790,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s022",
@@ -420,12 +392,8 @@
     }
    ],
    "chars": 759,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s023",
@@ -442,12 +410,8 @@
     }
    ],
    "chars": 757,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s024",
@@ -485,12 +449,8 @@
     }
    ],
    "chars": 447,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi9",
-    "pages/shixin/shixin3",
-    "pages/zongshi/zs3-06"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p05-s027",

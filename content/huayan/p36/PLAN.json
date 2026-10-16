@@ -12,10 +12,8 @@
     }
    ],
    "chars": 19,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi37"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p36-s002",
@@ -95,13 +93,8 @@
    "coverage": "quoted",
    "quoted_by": [
     "pages/huayan70/jiangyi38",
-    "pages/huayan70/jiangyi39",
     "pages/shixin/shixin14",
-    "pages/swxf/shizhu32",
-    "pages/swxf/shizhu5",
-    "pages/zongshi/zs2-06",
-    "pages/zongshi/zs4-16",
-    "pages/zongshi/zs6-12"
+    "pages/zongshi/zs4-16"
    ]
   },
   {

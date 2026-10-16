@@ -57,10 +57,8 @@
     }
    ],
    "chars": 526,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p17-s002",
@@ -77,12 +75,8 @@
     }
    ],
    "chars": 768,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi30",
-    "pages/shixin/shixin1",
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p17-s003",
@@ -94,12 +88,8 @@
     }
    ],
    "chars": 428,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi53",
-    "pages/huayan70/jiangyi63",
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p17-s004",
@@ -116,12 +106,8 @@
     }
    ],
    "chars": 790,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi53",
-    "pages/huayan70/jiangyi63",
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p17-s005",
@@ -148,13 +134,8 @@
     }
    ],
    "chars": 706,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi47",
-    "pages/huayan70/jiangyi53",
-    "pages/huayan70/jiangyi63",
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p17-s006",
@@ -181,12 +162,8 @@
     }
    ],
    "chars": 748,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi53",
-    "pages/huayan70/jiangyi63",
-    "pages/shixin/shixin9"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p17-s007",
@@ -200,13 +177,7 @@
    "chars": 1018,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/huayan70/jiangyi18",
-    "pages/huayan70/jiangyi31",
-    "pages/huayan70/jiangyi53",
-    "pages/huayan70/jiangyi63",
-    "pages/shixin/shixin5",
-    "pages/shixin/shixin6",
-    "pages/zongshi/zs3-14"
+    "pages/huayan70/jiangyi18"
    ]
   },
   {
@@ -232,13 +203,8 @@
    "coverage": "quoted",
    "quoted_by": [
     "pages/huayan70/jiangyi18",
-    "pages/huayan70/jiangyi20",
-    "pages/huayan70/jiangyi31",
     "pages/shixin/shixin14",
-    "pages/shixin/shixin5",
-    "pages/shixin/shixin6",
-    "pages/swxf/shizhu32",
-    "pages/zongshi/zs3-14"
+    "pages/swxf/shizhu32"
    ]
   },
   {
