@@ -5,7 +5,7 @@ import opencc
 S = opencc.OpenCC("t2s").convert
 H = html.escape
 
-NAV = [("二十八讲", "jiang/huayan28/index.html"), ("总释", "jiang/zongshi/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
+NAV = [("华严经", "huayan/index.html"), ("二十八讲", "jiang/huayan28/index.html"), ("总释", "jiang/zongshi/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
        ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("搜索", "search.html"), ("关于", "about.html")]
 
 BAR_CSS = """.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
@@ -38,6 +38,10 @@ border-radius:8px;padding:.6rem .85rem;font:16px/1.75 "Noto Serif SC","Songti SC
 @media (max-width:640px){.ev{position:static}.ev-pop{left:1rem;right:1rem;width:auto}}
 .jump{font-size:.85rem;color:var(--mute);margin:.4rem 0 1rem;line-height:2}.jump a{white-space:nowrap}
 h2[id]{scroll-margin-top:4.5rem}
+.sutra-c{background:var(--sutra);border:1px solid var(--line);border-radius:8px 8px 0 0;padding:.7rem 1.1rem;margin:1.2rem 0 0;font-size:1.06rem;white-space:pre-line}
+.plain-c{background:var(--card);border:1px solid var(--line);border-top:none;border-radius:0 0 8px 8px;padding:.7rem 1.1rem;margin:0 0 1rem;white-space:pre-line}
+.sutra-c .cap,.plain-c .cap{display:block;font-size:.75rem;color:var(--mute);margin-bottom:.2rem;white-space:normal}
+.cov-q{border-left:4px solid var(--acc)}.badge.ok{border-color:var(--acc);color:var(--acc)}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
 """
 

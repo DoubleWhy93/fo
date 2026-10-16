@@ -1,0 +1,471 @@
+[
+ {
+  "pin": 1,
+  "title": "世主妙嚴品",
+  "juan": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "paragraphs": 192,
+  "chars": 37181,
+  "verse_paragraphs": 52
+ },
+ {
+  "pin": 2,
+  "title": "如來現相品",
+  "juan": [
+   6,
+   7
+  ],
+  "paragraphs": 44,
+  "chars": 9618,
+  "verse_paragraphs": 14
+ },
+ {
+  "pin": 3,
+  "title": "普賢三昧品",
+  "juan": [
+   7
+  ],
+  "paragraphs": 8,
+  "chars": 2281,
+  "verse_paragraphs": 2
+ },
+ {
+  "pin": 4,
+  "title": "世界成就品",
+  "juan": [
+   7,
+   8
+  ],
+  "paragraphs": 35,
+  "chars": 7003,
+  "verse_paragraphs": 11
+ },
+ {
+  "pin": 5,
+  "title": "華藏世界品",
+  "juan": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "paragraphs": 56,
+  "chars": 23200,
+  "verse_paragraphs": 9
+ },
+ {
+  "pin": 6,
+  "title": "毘盧遮那品",
+  "juan": [
+   11,
+   12
+  ],
+  "paragraphs": 30,
+  "chars": 5958,
+  "verse_paragraphs": 7
+ },
+ {
+  "pin": 7,
+  "title": "如來名號品",
+  "juan": [
+   12
+  ],
+  "paragraphs": 29,
+  "chars": 4192,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 8,
+  "title": "四聖諦品",
+  "juan": [
+   12,
+   13
+  ],
+  "paragraphs": 13,
+  "chars": 4350,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 9,
+  "title": "光明覺品",
+  "juan": [
+   13
+  ],
+  "paragraphs": 24,
+  "chars": 5382,
+  "verse_paragraphs": 10
+ },
+ {
+  "pin": 10,
+  "title": "菩薩問明品",
+  "juan": [
+   13,
+   14
+  ],
+  "paragraphs": 31,
+  "chars": 4024,
+  "verse_paragraphs": 10
+ },
+ {
+  "pin": 11,
+  "title": "淨行品",
+  "juan": [
+   14
+  ],
+  "paragraphs": 5,
+  "chars": 3900,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 12,
+  "title": "賢首品",
+  "juan": [
+   14,
+   15,
+   16
+  ],
+  "paragraphs": 6,
+  "chars": 12324,
+  "verse_paragraphs": 3
+ },
+ {
+  "pin": 13,
+  "title": "昇須彌山頂品",
+  "juan": [
+   16
+  ],
+  "paragraphs": 6,
+  "chars": 766,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 14,
+  "title": "須彌頂上偈讚品",
+  "juan": [
+   16
+  ],
+  "paragraphs": 21,
+  "chars": 3200,
+  "verse_paragraphs": 10
+ },
+ {
+  "pin": 15,
+  "title": "十住品",
+  "juan": [
+   16,
+   17
+  ],
+  "paragraphs": 16,
+  "chars": 6760,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 16,
+  "title": "梵行品",
+  "juan": [
+   17
+  ],
+  "paragraphs": 4,
+  "chars": 1114,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 17,
+  "title": "初發心功德品",
+  "juan": [
+   17,
+   18
+  ],
+  "paragraphs": 28,
+  "chars": 9732,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 18,
+  "title": "明法品",
+  "juan": [
+   18,
+   19
+  ],
+  "paragraphs": 29,
+  "chars": 6579,
+  "verse_paragraphs": 2
+ },
+ {
+  "pin": 19,
+  "title": "昇夜摩天宮品",
+  "juan": [
+   19
+  ],
+  "paragraphs": 7,
+  "chars": 924,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 20,
+  "title": "夜摩宮中偈讚品",
+  "juan": [
+   19
+  ],
+  "paragraphs": 22,
+  "chars": 3238,
+  "verse_paragraphs": 10
+ },
+ {
+  "pin": 21,
+  "title": "十行品",
+  "juan": [
+   19,
+   20,
+   21
+  ],
+  "paragraphs": 19,
+  "chars": 14000,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 22,
+  "title": "十無盡藏品",
+  "juan": [
+   21,
+   22
+  ],
+  "paragraphs": 13,
+  "chars": 6437,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 23,
+  "title": "昇兜率天宮品",
+  "juan": [
+   22,
+   23
+  ],
+  "paragraphs": 20,
+  "chars": 9804,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 24,
+  "title": "兜率宮中偈讚品",
+  "juan": [
+   23
+  ],
+  "paragraphs": 22,
+  "chars": 3837,
+  "verse_paragraphs": 10
+ },
+ {
+  "pin": 25,
+  "title": "十迴向品",
+  "juan": [
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "paragraphs": 191,
+  "chars": 87108,
+  "verse_paragraphs": 10
+ },
+ {
+  "pin": 26,
+  "title": "十地品",
+  "juan": [
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "paragraphs": 193,
+  "chars": 51506,
+  "verse_paragraphs": 27
+ },
+ {
+  "pin": 27,
+  "title": "十定品",
+  "juan": [
+   40,
+   41,
+   42,
+   43,
+   44
+  ],
+  "paragraphs": 57,
+  "chars": 31139,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 28,
+  "title": "十通品",
+  "juan": [
+   44
+  ],
+  "paragraphs": 13,
+  "chars": 4300,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 29,
+  "title": "十忍品",
+  "juan": [
+   44,
+   45
+  ],
+  "paragraphs": 15,
+  "chars": 7027,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 30,
+  "title": "阿僧祇品",
+  "juan": [
+   45
+  ],
+  "paragraphs": 4,
+  "chars": 5690,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 31,
+  "title": "壽量品",
+  "juan": [
+   45
+  ],
+  "paragraphs": 1,
+  "chars": 324,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 32,
+  "title": "諸菩薩住處品",
+  "juan": [
+   45,
+   46
+  ],
+  "paragraphs": 3,
+  "chars": 954,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 33,
+  "title": "佛不思議法品",
+  "juan": [
+   46,
+   47,
+   48
+  ],
+  "paragraphs": 57,
+  "chars": 15725,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 34,
+  "title": "如來十身相海品",
+  "juan": [
+   48
+  ],
+  "paragraphs": 9,
+  "chars": 7041,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 35,
+  "title": "如來隨好光明功德品",
+  "juan": [
+   48,
+   49
+  ],
+  "paragraphs": 12,
+  "chars": 3232,
+  "verse_paragraphs": 0
+ },
+ {
+  "pin": 36,
+  "title": "普賢行品",
+  "juan": [
+   49,
+   50
+  ],
+  "paragraphs": 13,
+  "chars": 5733,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 37,
+  "title": "如來出現品",
+  "juan": [
+   50,
+   51,
+   52,
+   53
+  ],
+  "paragraphs": 101,
+  "chars": 27316,
+  "verse_paragraphs": 13
+ },
+ {
+  "pin": 38,
+  "title": "離世間品",
+  "juan": [
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60
+  ],
+  "paragraphs": 212,
+  "chars": 64451,
+  "verse_paragraphs": 1
+ },
+ {
+  "pin": 39,
+  "title": "入法界品",
+  "juan": [
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80
+  ],
+  "paragraphs": 1233,
+  "chars": 200275,
+  "verse_paragraphs": 51
+ }
+]

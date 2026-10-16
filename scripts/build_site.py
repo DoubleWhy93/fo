@@ -297,6 +297,81 @@ page("about.html", "关于", f"""<h1>关于本站</h1>
 <li>站内文字一律转为简体；引文原为繁体。</li>
 <li>重复或已被其他页面覆盖的答疑页，没有单独收录。</li></ul>""", "关于")
 
+# ---------- 华严经 白话读本 (content/huayan, see content/huayan/SPEC.md)
+HY_INDEX = json.load(open("kb/sutra/huayan80/index.json", encoding="utf8"))
+HY_COV = json.load(open("kb/sutra/huayan80/coverage.json", encoding="utf8"))
+COVTXT = {"quoted": "讲稿直接引用、讲解过这几句经文。", "pin": "讲稿讲过这一品，但没有逐句讲这几句；下面只有这一品的大框架。",
+          "none": "知识库里还没有讲到这一品的内容，这里只有白话翻译和词语解释。"}
+hy_done, hy_rows = 0, []
+
+
+def hy_quote_list(qs):
+    return site_common.ev([(H(S(q["q"])), f'<a href="../../{URL[q["src"]]}">{H(KB["label"](q["src"]))}</a>' if q["src"] in URL
+                            else H(KB["label"](q["src"]))) for q in qs or []])
+
+
+for meta in HY_INDEX:
+    pin = meta["pin"]
+    plan = json.load(open(f"content/huayan/p{pin:02d}/PLAN.json", encoding="utf8"))
+    segs = plan["segments"]
+    pname = S(meta["title"])
+    done_here = []
+    for i, s in enumerate(segs):
+        fp = f"content/huayan/p{pin:02d}/{s['seg']}.json"
+        d = json.load(open(fp, encoding="utf8")) if os.path.exists(fp) else None
+        plain = {p["id"]: p["t"] for p in (d or {}).get("plain", [])}
+        blocks = "".join(
+            f'<div class="sutra-c"><span class="cap">经文 {c["id"]}{"（偈颂）" if c["verse"] else ""}</span>{H(S(c["text"]))}</div>'
+            + (f'<div class="plain-c"><span class="cap">白话（整理者依字面翻译）</span>{H(plain[c["id"]])}</div>' if c["id"] in plain else '<div class="plain-c"><span class="cap">白话</span>这一段的白话还没有整理。</div>')
+            for c in s["chunks"])
+        crumb = site_common.crumb([("华严经", "../index.html"), (f"第{pin}品 {pname}", "index.html"), (f"段 {i + 1}", None)])
+        nav = ('<div class="pager"><span>' + (f'<a href="{segs[i - 1]["seg"]}.html">← 段 {i}</a>' if i else "") + "</span><span>"
+               + (f'<a href="{segs[i + 1]["seg"]}.html">段 {i + 2} →</a>' if i + 1 < len(segs) else "") + "</span></div>")
+        if d:
+            hy_done += 1
+            done_here.append(s["seg"])
+            terms = "<h2>先认识几个词</h2><dl class='gl'>" + "".join(
+                f"<dt>{H(x['term'])}{'<span class=badge>一般词义</span>' if x['basis'] == 'word' else ''}</dt><dd>{H(x['plain'])}{hy_quote_list(x.get('quotes'))}</dd>"
+                for x in d["terms"]) + "</dl>"
+            r = d["reading"]
+            reading = f"<h2>讲稿怎么读</h2><p class='conf'>{COVTXT[r['coverage']]}</p>" + "".join(
+                f"<h3>{H(sec['head'])}</h3>" + "".join(f"<p>{H(p['t'])}{hy_quote_list(p.get('quotes'))}</p>" for p in sec["paras"])
+                for sec in r.get("sections", []))
+            think = "<h2>想一想</h2><div class='think'><ol>" + "".join(f"<li>{H(q)}</li>" for q in d["think"]) + "</ol></div>"
+            uns = ("<h2>还不确定的地方</h2><ul class='open'>" + "".join(f"<li>{H(u)}</li>" for u in d["unsure"]) + "</ul>") if d.get("unsure") else ""
+            body = (crumb + f'<p class="kicker">第{pin}品 {pname} · 段 {i + 1}/{len(segs)}</p><h1>{H(d["title"])}</h1><p class="lead">{H(d["hook"])}</p>'
+                    + blocks + terms + reading + think + uns + nav
+                    + '<p class="auto">白话是整理者依经文字面所作的翻译；“讲稿怎么读”只取自华严书院讲稿与《总释》，每段都可点「原文」查看出处。经文：CBETA T10n0279，唐实叉难陀译。</p>')
+            title = d["title"]
+            hy_rows.append([f"huayan/p{pin:02d}/{s['seg']}.html", d["title"], f"华严经·{pname}", d["hook"]])
+        else:
+            qb = s.get("quoted_by", [])
+            refs = ("<p class='conf'>这几句经文在这些讲稿里被引用过：" + "、".join(
+                f'<a href="../../{URL[p]}">{H(KB["label"](p))}</a>' for p in qb if p in URL) + "</p>") if qb else ""
+            body = (crumb + f'<h1>第{pin}品 {pname} · 段 {i + 1}</h1>' + blocks + refs + nav
+                    + '<p class="auto">经文：CBETA T10n0279，唐实叉难陀译。白话与讲解尚未整理。</p>')
+            title = f"{pname} 段{i + 1}"
+        page(f"huayan/p{pin:02d}/{s['seg']}.html", f"{title} · 华严经", body, "华严经")
+    toc = "".join(
+        f'<li><a href="{s["seg"]}.html">段 {i + 1}</a>' + ('<span class="badge ok">已整理</span>' if s["seg"] in done_here else "")
+        + f'<span class="t">{H(S(s["chunks"][0]["text"])[:60])}…</span></li>' for i, s in enumerate(segs))
+    npages = len(HY_COV["pins"][str(pin)]["pages"])
+    page(f"huayan/p{pin:02d}/index.html", f"第{pin}品 {pname} · 华严经",
+         site_common.crumb([("华严经", "../index.html"), (f"第{pin}品 {pname}", None)])
+         + f"<h1>第{pin}品 {pname}</h1><p class='lead'>卷 {meta['juan'][0]}{'–' + str(meta['juan'][-1]) if len(meta['juan']) > 1 else ''} · {len(segs)} 段 · 已整理 {len(done_here)} 段</p>"
+         + (f"<p class='conf'>知识库里有 {npages} 个页面讲到这一品。</p>" if npages else "<p class='conf'>知识库里还没有讲到这一品的页面。</p>")
+         + f"<ol class='toc'>{toc}</ol>", "华严经")
+    meta["_done"], meta["_segs"] = len(done_here), len(segs)
+rows_ = "".join(
+    f'<li><a href="p{m["pin"]:02d}/index.html">第{m["pin"]}品 {H(S(m["title"]))}</a>'
+    + (f'<span class="badge ok">已整理 {m["_done"]}/{m["_segs"]}</span>' if m["_done"] else f'<span class="badge">{m["_segs"]} 段</span>')
+    + f'<span class="t">卷 {m["juan"][0]}{"–" + str(m["juan"][-1]) if len(m["juan"]) > 1 else ""} · 讲稿涉及 {len(HY_COV["pins"][str(m["pin"])]["pages"])} 页</span></li>'
+    for m in HY_INDEX)
+page("huayan/index.html", "华严经白话读本", f"""<h1>《大方广佛华严经》白话读本</h1>
+<p class="lead">八十卷本，唐实叉难陀译，共三十九品。每一段先列经文，下面是白话翻译；常见难词有解释；讲稿讲到的地方，附上华严书院讲稿的读法和原文出处。</p>
+<p class="conf">整理进度：{hy_done} / {sum(m["_segs"] for m in HY_INDEX)} 段。还没整理的段落也可以先读经文。白话是整理者依字面所译，讲稿的读法另列，两者分开。</p>
+<ol class="toc">{rows_}</ol>""", "华严经")
+
 # ---------- 搜索 (index shipped as a .js file so it also works when the site is opened from disk)
 IDX = []
 for sid, short, name, *_ in LECT:
@@ -305,6 +380,7 @@ for sid, short, name, *_ in LECT:
 for h, t_, l, g in all_rows:
     if not h.startswith("http"):
         IDX.append([h, t_, "答疑·" + l, g])
+IDX += hy_rows
 for k, c in KB["cards"].items():
     IDX.append([f"kb/c/{cslug[k]}.html", S(c["term"]), "概念", S(c["summary"]) + " " + " ".join(S(a) for a in c.get("aliases", []))])
 for k, c in KB["fws"].items():
