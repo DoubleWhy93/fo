@@ -5,7 +5,7 @@ import opencc
 S = opencc.OpenCC("t2s").convert
 H = html.escape
 
-NAV = [("二十八讲", "jiang/huayan28/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
+NAV = [("二十八讲", "jiang/huayan28/index.html"), ("总释", "jiang/zongshi/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
        ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("关于", "about.html")]
 
 BAR_CSS = """.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
@@ -25,6 +25,7 @@ input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--lin
 .conf{font-size:.8rem;color:var(--mute)}.card-sum{font-size:1.1rem}
 .orig-desc{margin:1rem 0;padding:.8rem 1.1rem;border-left:4px solid var(--acc);background:var(--soft);border-radius:6px;font-size:1rem}
 .orig-desc .src{display:block;font-size:.8rem;color:var(--mute);margin-top:.4rem}
+ol.toc li.grp{background:none;border:none;padding:0;margin:1.2rem 0 .2rem;color:var(--acc)}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
 """
 
@@ -33,6 +34,7 @@ SITE = "华严讲稿学习站"
 LECT = [  # (series id, nav name, section title, start/end of the original site's own description on 学习次第 (root/cidi), parts)
     ("huayan28", "二十八讲", "华严经总释二十八讲", "《覺悟華嚴經·總釋二十八講》（１冊）", "比較詳細的說明。",
      [(1, 6, "第一部分：隋唐时期中国佛教史简介"), (7, 12, "第二部分：佛教经典语言解读"), (13, 99, "第三部分：华严经行法理论和行法次第")]),
+    ("zongshi", "总释", "觉悟华严经·总释", "《覺悟華嚴經·總釋》（１冊）", "等七個部分。", "by_part"),
     ("huayan70", "七十讲", "华严七十讲", "《覺悟華嚴經·華嚴七十講》（3冊）", "本來義理。", None),
     ("shixin", "十信位", "华严经·十信位", "《華嚴經·十信位》是對", "怎樣的保證。", None),
     ("swxf", "十住位", "华严经·十住位", "《華嚴經·四位行法》是對", "無上正覺。", None),

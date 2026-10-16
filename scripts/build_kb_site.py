@@ -15,7 +15,7 @@ os.makedirs(OUT + "/c", exist_ok=True)
 os.makedirs(OUT + "/f", exist_ok=True)
 CSS = open("scripts/build_amtj_site.py", encoding="utf8").read().split('CSS = """')[1].split('"""')[0]
 CSS += site_common.BAR_CSS
-SERIES = {"huayan28": "二十八讲", "huayan70": "七十讲", "shixin": "十信位", "swxf": "行法", "amtj": "阿弥陀经大义", "juewu_s": "觉悟", "答疑": "答疑"}
+SERIES = {"huayan28": "二十八讲", "huayan70": "七十讲", "shixin": "十信位", "swxf": "行法", "amtj": "阿弥陀经大义", "juewu_s": "觉悟", "zongshi": "总释", "答疑": "答疑"}
 
 
 def label(sid):

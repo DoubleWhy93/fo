@@ -139,6 +139,8 @@ def series_concepts(sid, n=18):
 
 def tags(e):
     """品 / topic tags the original site puts in the page's head title, e.g. 十信位之七｜華嚴經｜十信位｜光明覺品"""
+    if e["series"] == "pages/zongshi":
+        return []
     segs = [s.strip() for s in re.split(r"[｜|]", e.get("head_title", ""))[2:]]
     return [S(s) for s in segs if s and S(s) not in ("华严经", "十信位", "十住位", "别教菩萨四位行法")]
 
@@ -158,7 +160,19 @@ for sid, short, name, c0, c1, parts in LECT:
         tg = "".join(f'<span class="badge">{H(x)}</span>' for x in tags(e))
         return f'<li><a href="{fn}">{H(clean_title(e["title"]))}</a>{tg}<span class="t">{H(S(d.get("gist", ""))[:110])}</span></li>'
 
-    if parts:
+    if parts == "by_part":           # 总释: the essay collection's own parts (and 五十三参's stage groups)
+        toc, cur = "", None
+        for x in items:
+            e = x[1]
+            if e.get("part") != cur:
+                toc += ("</ol>" if cur is not None else "") + f"<h2>{H(S(e.get('part', '')))}</h2><ol class='toc'>"
+                cur, grp = e.get("part"), None
+            if e.get("group") and e.get("group") != grp:
+                grp = e["group"]
+                toc += f"<li class='grp'><b>{H(S(grp))}</b></li>"
+            toc += li(*x)
+        toc += "</ol>"
+    elif parts:
         toc = ""
         for lo, hi, label in parts:
             sub = [x for x in items if lo <= x[1]["order"] <= hi]
@@ -178,7 +192,7 @@ for sid, short, name, c0, c1, parts in LECT:
     page(f"jiang/{sid}/index.html", name,
          (site_common.crumb([("阿弥陀经", "../../amituo.html"), (name, None)]) if sid == "amtj" else "")
          + f"<h1>{H(name)}</h1><blockquote class='orig-desc'>{desc}<span class='src'>—— 华严书院《华严经学习次第》</span></blockquote>"
-         + extra + f"<p class='more'><a href='{first}'>从第一讲开始读 →</a></p>" + kc + toc, "阿弥陀经" if sid == "amtj" else short)
+         + extra + f"<p class='more'><a href='{first}'>从第一{'篇' if sid == 'zongshi' else '讲'}开始读 →</a></p>" + kc + toc, "阿弥陀经" if sid == "amtj" else short)
     series_rows.append((sid, short, name, len(items)))
 
 # ---------- 答疑
@@ -262,7 +276,7 @@ n_cards, n_fw = len(cslug), len(fslug)
 page("about.html", "关于", f"""<h1>关于本站</h1>
 <p>本站是对<a href="https://huayan.academy/">华严书院</a>（「认识生命，觉悟华严」）公开讲稿与答疑的学习整理，不是新的讲解。讲稿与答疑的内容版权归原作者；本站不代表原作者。</p>
 <h2>内容从哪里来</h2><ul>
-<li>讲稿：华严经总释二十八讲、华严七十讲、华严经·十信位、华严经·十住位（四位行法）、佛说阿弥陀经大义。《觉悟华严经·总释》尚未整理。</li>
+<li>讲稿与论文：华严经总释二十八讲、华严七十讲、华严经·十信位、华严经·十住位（四位行法）、佛说阿弥陀经大义。《觉悟华严经·总释》（132 篇小论文）。</li>
 <li>答疑：2018–2022 分类答疑、2023、2024 年答疑及专题答疑。</li>
 <li>经文：《佛说阿弥陀经》鸠摩罗什译，取自 <a href="https://www.cbeta.org/">CBETA</a>（T12n0366）。</li></ul>
 <h2>怎么整理的</h2><ol>
@@ -284,7 +298,7 @@ page("index.html", site_common.SITE, f"""<div class="hero"><h1>华严讲稿学�
 <h2>学习次第</h2>
 <blockquote class="orig-desc">{H(S(site_common.cidi("要全面系統學習華嚴經", "具體經文。")))}<span class="src">—— 华严书院《华严经学习次第》</span></blockquote>
 <div class="grid">{tile("huayan28", "：初学入门，从这里开始")}{tile("huayan70", "：逐品解读经文")}
-<a class="tile" href="{site_common.original(zs)}"><b>觉悟华严经·总释 ↗</b><span>一百三十二篇小论文；本站尚未整理，链接到华严书院原文</span></a></div>
+{tile("zongshi", "：一百三十二篇小论文，与七十讲对照读") if row.get("zongshi", (0, 0, 0))[2] else f'<a class="tile" href="{site_common.original(zs)}"><b>觉悟华严经·总释 ↗</b><span>本站尚未整理，链接到华严书院原文</span></a>'}</div>
 <h2>行法次第</h2><div class="grid">{tile("shixin", "：自性为行法实践提供的能力")}{tile("swxf", "：别教菩萨四位行法之十住位")}</div>
 <h2>经典</h2><div class="grid">
 <a class="tile" href="amituo.html"><b>佛说阿弥陀经</b><span>经文全文与逐段讲解（轻松版、详细版）</span></a>
