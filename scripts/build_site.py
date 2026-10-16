@@ -263,23 +263,6 @@ page("wen/index.html", "答疑", f"<h1>答疑</h1><p class='lead'>{len(all_rows)
      + "<p class='conf'>分组名称由整理者根据各组标题拟定。许多答疑在不同分组里重复出现，重复的只整理一次，其他标题链接到整理好的那一篇；"
        "少数内容很短或几乎全是重复的页面未整理，直接链接到华严书院原文。</p>" + js, "答疑")
 
-# ---------- 阿弥陀经
-PLAN = json.load(open("content/amtj/PLAN.json", encoding="utf8"))["pages"]
-psg = []
-for p in PLAN:
-    det = json.load(open(f"content/amtj/{p['slug']}.json", encoding="utf8")) if os.path.exists(f"content/amtj/{p['slug']}.json") else {}
-    easy_ok = os.path.exists(f"site/amtj-easy/{p['slug']}.html")
-    text = "".join(S(e["text"]) for e in p["sutra_excerpts"])
-    links = (f'<a href="amtj-easy/{p["slug"]}.html">轻松读</a> · ' if easy_ok else "") + f'<a href="amtj/{p["slug"]}.html">详细讲解</a>'
-    psg.append(f'<div class="sutra"><p class="cap">第 {p["order"]} 段 · {H(det.get("title", S(p["title_trad"])))}</p><p>{H(text)}</p>'
-               f'<p class="conf">{links}</p></div>')
-page("amituo.html", "佛说阿弥陀经", f"""<h1>《佛说阿弥陀经》</h1>
-<p class="lead">鸠摩罗什译。全经分 {len(PLAN)} 段，每段先列经文，再依《佛说阿弥陀经大义》及相关讲稿、答疑讲解。</p>
-<div class="grid"><a class="tile" href="amtj-easy/index.html"><b>轻松读</b><span>口语、例子、思考题；不用先懂术语</span></a>
-<a class="tile" href="amtj/index.html"><b>详细讲解</b><span>逐段对照，引文逐字可查</span></a>
-<a class="tile" href="jiang/amtj/index.html"><b>《佛说阿弥陀经大义》讲稿</b><span>按讲浏览原讲稿的整理</span></a></div>
-<h2>经文全文</h2><p class="conf">点每段下方的链接看这一段的讲解。经文取自 CBETA T12n0366。</p>{"".join(psg)}""", "阿弥陀经")
-
 # ---------- 关于
 n_cards, n_fw = len(cslug), len(fslug)
 page("about.html", "关于", f"""<h1>关于本站</h1>
@@ -305,9 +288,45 @@ COVTXT = {"quoted": "讲稿直接引用、讲解过这几句经文。", "pin": "
 hy_done, hy_rows = 0, []
 
 
-def hy_quote_list(qs):
-    return site_common.ev([(H(S(q["q"])), f'<a href="../../{URL[q["src"]]}">{H(KB["label"](q["src"]))}</a>' if q["src"] in URL
+def hy_quote_list(qs, up="../../"):
+    return site_common.ev([(H(S(q["q"])), f'<a href="{up}{URL[q["src"]]}">{H(KB["label"](q["src"]))}</a>' if q["src"] in URL
                             else H(KB["label"](q["src"]))) for q in qs or []])
+
+
+def reader_blocks(d, s, up):
+    """经文 / 白话 / 它在说什么 for every chunk of a segment (d may be None: sutra only)"""
+    plain = {p["id"]: p for p in (d or {}).get("plain", [])}
+
+    def meaning_html(p):
+        m = p.get("meaning")
+        if not m:
+            return ""
+        cap = "它在说什么（依讲稿）" if m.get("basis") == "kb" else "它在说什么"
+        return f'<div class="mean-c"><span class="cap">{cap}</span>{H(m["t"])}{hy_quote_list(m.get("quotes"), up)}</div>'
+
+    return "".join(
+        f'<div class="sutra-c"><span class="cap">经文{"（偈颂）" if c["verse"] else ""}</span>{H(S(c["text"]))}</div>'
+        + (f'<div class="plain-c"><span class="cap">白话（字面意思）</span>{H(plain[c["id"]]["t"])}</div>' + meaning_html(plain[c["id"]])
+           if c["id"] in plain else '<div class="plain-c"><span class="cap">白话</span>这一段的白话还没有整理。</div>')
+        for c in s["chunks"])
+
+
+def reader_body(d, s, up, crumb, kicker, nav, note, cov_text=None):
+    """a finished 读本 page: 这一段在讲什么 → 经文/白话/它在说什么 → 词语 → 再深一点 → 想一想 → 还不确定"""
+    terms = "<h2>先认识几个词</h2><dl class='gl'>" + "".join(
+        f"<dt>{H(x['term'])}{'<span class=badge>一般词义</span>' if x['basis'] == 'word' else ''}</dt><dd>{H(x['plain'])}{hy_quote_list(x.get('quotes'), up)}</dd>"
+        for x in d["terms"]) + "</dl>"
+    r = d["reading"]
+    reading = (f"<h2>再深一点：讲稿怎么读</h2>" if r.get("sections") else "") + "".join(
+        f"<h3>{H(sec['head'])}</h3>" + "".join(f"<p>{H(p['t'])}{hy_quote_list(p.get('quotes'), up)}</p>" for p in sec["paras"])
+        for sec in r.get("sections", []))
+    think = "<h2>想一想</h2><div class='think'><ol>" + "".join(f"<li>{H(q)}</li>" for q in d["think"]) + "</ol></div>"
+    uns = ("<h2>还不确定的地方</h2><ul class='open'>" + "".join(f"<li>{H(u)}</li>" for u in d["unsure"]) + "</ul>") if d.get("unsure") else ""
+    g = d.get("gist") or {}
+    gist = (f'<div class="tldr"><b>这一段在讲什么</b>{H(g.get("t", ""))}{hy_quote_list(g.get("quotes"), up)}</div>'
+            f"<p class='conf'>{cov_text or COVTXT[r['coverage']]}</p>") if g else ""
+    return (crumb + f'<p class="kicker">{kicker}</p><h1>{H(d["title"])}</h1><p class="lead">{H(d["hook"])}</p>'
+            + gist + "<h2>经文与白话</h2>" + reader_blocks(d, s, up) + terms + reading + think + uns + nav + f'<p class="auto">{note}</p>')
 
 
 for meta in HY_INDEX:
@@ -319,29 +338,15 @@ for meta in HY_INDEX:
     for i, s in enumerate(segs):
         fp = f"content/huayan/p{pin:02d}/{s['seg']}.json"
         d = json.load(open(fp, encoding="utf8")) if os.path.exists(fp) else None
-        plain = {p["id"]: p["t"] for p in (d or {}).get("plain", [])}
-        blocks = "".join(
-            f'<div class="sutra-c"><span class="cap">经文 {c["id"]}{"（偈颂）" if c["verse"] else ""}</span>{H(S(c["text"]))}</div>'
-            + (f'<div class="plain-c"><span class="cap">白话（整理者依字面翻译）</span>{H(plain[c["id"]])}</div>' if c["id"] in plain else '<div class="plain-c"><span class="cap">白话</span>这一段的白话还没有整理。</div>')
-            for c in s["chunks"])
+        blocks = reader_blocks(d, s, "../../")
         crumb = site_common.crumb([("华严经", "../index.html"), (f"第{pin}品 {pname}", "index.html"), (f"段 {i + 1}", None)])
         nav = ('<div class="pager"><span>' + (f'<a href="{segs[i - 1]["seg"]}.html">← 段 {i}</a>' if i else "") + "</span><span>"
                + (f'<a href="{segs[i + 1]["seg"]}.html">段 {i + 2} →</a>' if i + 1 < len(segs) else "") + "</span></div>")
         if d:
             hy_done += 1
             done_here.append(s["seg"])
-            terms = "<h2>先认识几个词</h2><dl class='gl'>" + "".join(
-                f"<dt>{H(x['term'])}{'<span class=badge>一般词义</span>' if x['basis'] == 'word' else ''}</dt><dd>{H(x['plain'])}{hy_quote_list(x.get('quotes'))}</dd>"
-                for x in d["terms"]) + "</dl>"
-            r = d["reading"]
-            reading = f"<h2>讲稿怎么读</h2><p class='conf'>{COVTXT[r['coverage']]}</p>" + "".join(
-                f"<h3>{H(sec['head'])}</h3>" + "".join(f"<p>{H(p['t'])}{hy_quote_list(p.get('quotes'))}</p>" for p in sec["paras"])
-                for sec in r.get("sections", []))
-            think = "<h2>想一想</h2><div class='think'><ol>" + "".join(f"<li>{H(q)}</li>" for q in d["think"]) + "</ol></div>"
-            uns = ("<h2>还不确定的地方</h2><ul class='open'>" + "".join(f"<li>{H(u)}</li>" for u in d["unsure"]) + "</ul>") if d.get("unsure") else ""
-            body = (crumb + f'<p class="kicker">第{pin}品 {pname} · 段 {i + 1}/{len(segs)}</p><h1>{H(d["title"])}</h1><p class="lead">{H(d["hook"])}</p>'
-                    + blocks + terms + reading + think + uns + nav
-                    + '<p class="auto">白话是整理者依经文字面所作的翻译；“讲稿怎么读”只取自华严书院讲稿与《总释》，每段都可点「原文」查看出处。经文：CBETA T10n0279，唐实叉难陀译。</p>')
+            body = reader_body(d, s, "../../", crumb, f"第{pin}品 {pname} · 段 {i + 1}/{len(segs)}", nav,
+                               "白话是整理者依经文字面所作的翻译；“它在说什么”与“讲稿怎么读”只取自华严书院讲稿与《总释》，每段都可点「原文」查看出处。经文：CBETA T10n0279，唐实叉难陀译。")
             title = d["title"]
             hy_rows.append([f"huayan/p{pin:02d}/{s['seg']}.html", d["title"], f"华严经·{pname}", d["hook"]])
         else:
@@ -371,6 +376,48 @@ page("huayan/index.html", "华严经白话读本", f"""<h1>《大方广佛华严
 <p class="lead">八十卷本，唐实叉难陀译，共三十九品。每一段先列经文，下面是白话翻译；常见难词有解释；讲稿讲到的地方，附上华严书院讲稿的读法和原文出处。</p>
 <p class="conf">整理进度：{hy_done} / {sum(m["_segs"] for m in HY_INDEX)} 段。还没整理的段落也可以先读经文。白话是整理者依字面所译，讲稿的读法另列，两者分开。</p>
 <ol class="toc">{rows_}</ol>""", "华严经")
+
+# ---------- 阿弥陀经 白话读本 (content/amituo, same format as the 华严经 读本)
+AM = json.load(open("content/amituo/PLAN.json", encoding="utf8"))["segments"]
+am_done = set()
+for i, s in enumerate(AM):
+    fp = f"content/amituo/{s['seg']}.json"
+    if not os.path.exists(fp):
+        continue
+    d = json.load(open(fp, encoding="utf8"))
+    am_done.add(s["seg"])
+    crumb = site_common.crumb([("阿弥陀经", "../amituo.html"), (f"第 {i + 1} 段", None)])
+    nav = ('<div class="pager"><span>' + (f'<a href="{AM[i - 1]["seg"]}.html">← 第 {i} 段</a>' if i else "") + "</span><span>"
+           + (f'<a href="{AM[i + 1]["seg"]}.html">第 {i + 2} 段 →</a>' if i + 1 < len(AM) else "") + "</span></div>")
+    more = (f'<p class="more">同一段的其他讲法：<a href="../amtj-easy/{s["slug"]}.html">轻松读</a> · '
+            f'<a href="../amtj/{s["slug"]}.html">详细讲解（含全部原文引用）</a></p>')
+    sc = s.get("source_coverage", "lecture")
+    cov_text = {"lecture": "《佛说阿弥陀经大义》讲解过这一段经文；下面的解释都出自讲稿。",
+                "partial": "《佛说阿弥陀经大义》只讲了这一段的一部分：" + s.get("source_coverage_note", "")[:120] + "……",
+                "qa": "《佛说阿弥陀经大义》没有逐句讲到这一段；这里的解释来自其他讲稿与答疑，是讲者的总体说法，不是逐句讲解。"}[sc]
+    body = reader_body(d, s, "../", crumb, f"佛说阿弥陀经 · 第 {i + 1}/{len(AM)} 段", more + nav,
+                       "白话是整理者依经文字面所作的翻译；“它在说什么”与“讲稿怎么读”只取自华严书院《佛说阿弥陀经大义》及相关讲稿、答疑，每段都可点「原文」查看出处。经文：CBETA T12n0366，鸠摩罗什译。", cov_text)
+    page(f"amituo/{s['seg']}.html", f"{d['title']} · 佛说阿弥陀经", body, "阿弥陀经")
+    hy_rows.append([f"amituo/{s['seg']}.html", d["title"], "阿弥陀经", d["hook"]])
+
+# ---------- 阿弥陀经
+PLAN = json.load(open("content/amtj/PLAN.json", encoding="utf8"))["pages"]
+psg = []
+for p in PLAN:
+    det = json.load(open(f"content/amtj/{p['slug']}.json", encoding="utf8")) if os.path.exists(f"content/amtj/{p['slug']}.json") else {}
+    easy_ok = os.path.exists(f"site/amtj-easy/{p['slug']}.html")
+    text = "".join(S(e["text"]) for e in p["sutra_excerpts"])
+    seg = f"a{p['order']:02d}"
+    links = ((f'<a href="amituo/{seg}.html"><b>逐句白话与讲解</b></a> · ' if seg in am_done else "")
+             + (f'<a href="amtj-easy/{p["slug"]}.html">轻松读</a> · ' if easy_ok else "") + f'<a href="amtj/{p["slug"]}.html">详细讲解</a>')
+    psg.append(f'<div class="sutra"><p class="cap">第 {p["order"]} 段 · {H(det.get("title", S(p["title_trad"])))}</p><p>{H(text)}</p>'
+               f'<p class="conf">{links}</p></div>')
+page("amituo.html", "佛说阿弥陀经", f"""<h1>《佛说阿弥陀经》</h1>
+<p class="lead">鸠摩罗什译。全经分 {len(PLAN)} 段，每段先列经文，再依《佛说阿弥陀经大义》及相关讲稿、答疑讲解。</p>
+<div class="grid"><a class="tile" href="amtj-easy/index.html"><b>轻松读</b><span>口语、例子、思考题；不用先懂术语</span></a>
+<a class="tile" href="amtj/index.html"><b>详细讲解</b><span>逐段对照，引文逐字可查</span></a>
+<a class="tile" href="jiang/amtj/index.html"><b>《佛说阿弥陀经大义》讲稿</b><span>按讲浏览原讲稿的整理</span></a></div>
+<h2>经文全文</h2><p class="conf">点每段下方的链接看这一段的讲解。经文取自 CBETA T12n0366。</p>{"".join(psg)}""", "阿弥陀经")
 
 # ---------- 搜索 (index shipped as a .js file so it also works when the site is opened from disk)
 IDX = []

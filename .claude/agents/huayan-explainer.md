@@ -17,7 +17,8 @@ Then, for each 段 you were given, in order:
 - run `python -I scripts/verify_huayan.py content/huayan/pNN/<seg>.json` until it reports 0 errors.
 
 Non-negotiable:
-- Translate every sentence and list item of the 段 into plain modern Chinese, literal meaning only.
+- Translate every sentence and list item of the 段 into plain modern Chinese (`plain[].t`, literal), AND say what it
+  is about: `gist` at the top and a `meaning` under every chunk. A reader must finish knowing what the passage means.
 - Interpretation only from the knowledge base, attributed, each paragraph with a verbatim quote from the page in `src`.
   No outside Buddhist knowledge, no symbolism the sources do not state. If the KB is silent, say so in `unsure`.
 - Keep neighbouring 段 consistent (same names, same renderings of recurring formulas).

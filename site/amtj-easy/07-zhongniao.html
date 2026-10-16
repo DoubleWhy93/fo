@@ -57,7 +57,10 @@ border-radius:8px;padding:.6rem .85rem;font:16px/1.75 "Noto Serif SC","Songti SC
 .jump{font-size:.85rem;color:var(--mute);margin:.4rem 0 1rem;line-height:2}.jump a{white-space:nowrap}
 h2[id]{scroll-margin-top:4.5rem}
 .sutra-c{background:var(--sutra);border:1px solid var(--line);border-radius:8px 8px 0 0;padding:.7rem 1.1rem;margin:1.2rem 0 0;font-size:1.06rem;white-space:pre-line}
-.plain-c{background:var(--card);border:1px solid var(--line);border-top:none;border-radius:0 0 8px 8px;padding:.7rem 1.1rem;margin:0 0 1rem;white-space:pre-line}
+.plain-c{background:var(--card);border:1px solid var(--line);border-top:none;padding:.7rem 1.1rem;margin:0;white-space:pre-line}
+.plain-c:last-child,.plain-c+.sutra-c{border-radius:0 0 8px 8px}
+.mean-c{background:var(--soft);border:1px solid var(--line);border-top:none;border-left:4px solid var(--acc);border-radius:0 0 8px 8px;padding:.7rem 1.1rem;margin:0 0 1.2rem}
+.mean-c .cap{display:block;font-size:.75rem;color:var(--acc);margin-bottom:.2rem}
 .sutra-c .cap,.plain-c .cap{display:block;font-size:.75rem;color:var(--mute);margin-bottom:.2rem;white-space:normal}
 .cov-q{border-left:4px solid var(--acc)}.badge.ok{border-color:var(--acc);color:var(--acc)}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}

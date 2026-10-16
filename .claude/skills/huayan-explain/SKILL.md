@@ -6,7 +6,8 @@ description: Write easy-to-read 白话 pages for 《大方广佛华严经》 (80
 # 华严经 白话读本
 
 The site has a 华严经 section (`site/huayan/`) built from `content/huayan/`. The sutra is split into 39 品 and
-1,020 段 (`content/huayan/pNN/PLAN.json`). Each 段 gets one page: 经文 → 白话 → 词语 → 讲稿怎么读 → 想一想.
+1,020 段 (`content/huayan/pNN/PLAN.json`). Each 段 gets one page: 这一段在讲什么 → 经文 / 白话 / 它在说什么 → 词语 →
+再深一点 → 想一想.
 The full rules are in `content/huayan/SPEC.md`; the voice and depth to match are in the exemplar
 `content/huayan/p11/p11-s002.json`. Read both before writing anything.
 
@@ -24,9 +25,12 @@ The full rules are in `content/huayan/SPEC.md`; the voice and depth to match are
    §1 = pages that quote these exact lines (strongest), §2 = 《总释》 essays on the 品, §3 = other pages naming the 品,
    §4 = concept cards for words in the text. Open `kb/sources/<page>.md` or the card JSON when you need more context
    or a better quote. Read files as UTF-8 (the Windows console garbles Chinese: write to a file and open it).
-3. Write `content/huayan/pNN/<seg>.json` per the SPEC. Layers stay apart:
-   `plain` (what it says) · `terms` (kb = lecturer's explanation + quote; word = everyday meaning, ≤60 chars, no
-   doctrine) · `reading` (only KB, follows the 段's coverage: quoted 2–5 sections / pin 0–3 / none 0) · `think` · `unsure`.
+3. Write `content/huayan/pNN/<seg>.json` per the SPEC (v2). Readers must come away knowing what the passage is
+   **about**, not only what it says. So:
+   `gist` (这一段在讲什么 — the big idea in plain words, top of page) · `plain[].t` (literal 白话 of every line) ·
+   `plain[].meaning` (它在说什么 — under every chunk; `kb` = the lecturer's reading + quote, `story` = its role in the
+   passage when the KB is silent) · `terms` (kb + quote / word = everyday meaning) · `reading` (再深一点 — extra depth
+   only: quoted 1–4 sections / pin 0–3 / none 0) · `think` · `unsure`.
 4. Verify: `python -I scripts/verify_huayan.py content/huayan/pNN/<seg>.json` → 0 errors. Fix and re-run.
 5. When a batch is done: `python -I scripts/build_site.py` rebuilds the site (progress badges update automatically).
 

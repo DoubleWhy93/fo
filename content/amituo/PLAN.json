@@ -1,0 +1,401 @@
+{
+ "title": "佛說阿彌陀經",
+ "segments": [
+  {
+   "seg": "a01",
+   "slug": "01-chusuo",
+   "chunks": [
+    {
+     "id": "a01-1",
+     "text": "如是我聞：",
+     "verse": false
+    },
+    {
+     "id": "a01-2",
+     "text": "一時，佛在舍衛國祇樹給孤獨園，與大比丘僧千二百五十人俱，皆是大阿羅漢，眾所知識。",
+     "verse": false
+    }
+   ],
+   "chars": 45,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj1",
+    "pages/amtj/amtj2",
+    "pages/amtj/amtj3",
+    "pages/amtj/amtj4",
+    "pages/dayi_all/2018-2022dy/flWORD/jdjd/19.rhjjwzcxf",
+    "pages/dayi_all/2018-2022dy/flWORD/jdjd/2.cjdjddxfsq",
+    "pages/dayi_all/2024dy/fl/47.rhjd-ys-fzswgzsggdy-",
+    "pages/huayan28/28jiang3",
+    "pages/huayan28/28jiang6",
+    "pages/huayan28/28jiang9",
+    "pages/huayan70/jiangyi1"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a02",
+   "slug": "02-shangshou",
+   "chunks": [
+    {
+     "id": "a02-1",
+     "text": "長老舍利弗、摩訶目乾連、摩訶迦葉、摩訶迦栴延、摩訶拘絺羅、離婆多、周梨槃陀迦、難陀、阿難陀、羅睺羅、憍梵波提、賓頭盧頗羅墮、迦留陀夷、摩訶劫賓那、薄俱羅、阿㝹樓馱，如是等諸大弟子，并諸菩薩摩訶薩——文殊師利法王子、阿逸多菩薩、乾陀訶提菩薩、常精進菩薩——與如是等諸大菩薩，及釋提桓因等無量諸天大眾俱。",
+     "verse": false
+    }
+   ],
+   "chars": 150,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj2",
+    "pages/amtj/amtj3",
+    "pages/swxf/shizhu2"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a03",
+   "slug": "03-jile-amituo",
+   "chunks": [
+    {
+     "id": "a03-1",
+     "text": "爾時，佛告長老舍利弗：",
+     "verse": false
+    },
+    {
+     "id": "a03-2",
+     "text": "「從是西方過十萬億佛土，有世界名曰極樂。其土有佛，號阿彌陀，今現在說法。",
+     "verse": false
+    }
+   ],
+   "chars": 47,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj3",
+    "pages/amtj/amtj4",
+    "pages/amtj/amtj5",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/100.rhj-fsamtj-lsdxf-  "
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a04",
+   "slug": "04-guotu-jile",
+   "chunks": [
+    {
+     "id": "a04-1",
+     "text": "舍利弗！彼土何故名為極樂？其國眾生無有眾苦，但受諸樂，故名極樂。又舍利弗！極樂國土，七重欄楯、七重羅網、七重行樹，皆是四寶周匝圍繞，是故彼國名曰極樂。",
+     "verse": false
+    }
+   ],
+   "chars": 75,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj5",
+    "pages/amtj/amtj6",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/33.wszhwmhzzggfsjm-",
+    "pages/dayi_all/2023dy/fl/23.zxjalys-wsmhyzscz-",
+    "pages/huayan28/28jiang8",
+    "pages/swxf/shizhu7"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a05",
+   "slug": "05-qibaochi",
+   "chunks": [
+    {
+     "id": "a05-1",
+     "text": "「又舍利弗！極樂國土有七寶池，八功德水充滿其中，池底純以金沙布地。四邊階道，金、銀、琉璃、頗梨合成；上有樓閣，亦以金、銀、琉璃、頗梨、車璩、赤珠、馬瑙而嚴飾之。池中蓮花，大如車輪，青色青光，黃色黃光，赤色赤光，白色白光，微妙香潔。舍利弗！極樂國土成就如是功德莊嚴。",
+     "verse": false
+    }
+   ],
+   "chars": 132,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj1",
+    "pages/amtj/amtj6",
+    "pages/dayi_all/2024dy/fl/55.jlsjdst",
+    "pages/huayan70/jiangyi32"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a06",
+   "slug": "06-tianle-huangjin",
+   "chunks": [
+    {
+     "id": "a06-1",
+     "text": "「又舍利弗！彼佛國土，常作天樂，黃金為地，晝夜六時，天雨曼陀羅華。其國眾生，常以清旦，各以衣裓盛眾妙華，供養他方十萬億佛；即以食時，還到本國，飯食經行。舍利弗！極樂國土成就如是功德莊嚴。",
+     "verse": false
+    }
+   ],
+   "chars": 93,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj6",
+    "pages/amtj/amtj7",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/8.rhlswxgc-smsw-",
+    "pages/huayan28/28jiang9"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a07",
+   "slug": "07-zhongniao",
+   "chunks": [
+    {
+     "id": "a07-1",
+     "text": "「復次舍利弗！彼國常有種種奇妙雜色之鳥——白鵠、孔雀、鸚鵡、舍利、迦陵頻伽、共命之鳥。是諸眾鳥，晝夜六時出和雅音，其音演暢五根、五力、七菩提分、八聖道分如是等法。其土眾生聞是音已，皆悉念佛、念法、念僧。舍利弗！汝勿謂此鳥實是罪報所生。所以者何？彼佛國土無三惡趣。舍利弗！其佛國土尚無三惡道之名，何況有實？是諸眾鳥，皆是阿彌陀佛欲令法音宣流，變化所作。舍利弗！彼佛國土微風吹動，諸寶行樹及寶羅網出微妙音，譬如百千種樂同時俱作，聞是音者，皆自然生念佛、念法、念僧之心。舍利弗！其佛國土成就如是功德莊嚴。",
+     "verse": false
+    }
+   ],
+   "chars": 249,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj7",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/37.qrjxzdshztszyd",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/21.rhgxamtfbyss-gxhjdzjdcb",
+    "pages/dayi_all/2024dy/fl/65.hyxfdnf"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a08",
+   "slug": "08-mingzhu",
+   "chunks": [
+    {
+     "id": "a08-1",
+     "text": "「舍利弗！於汝意云何？彼佛何故號阿彌陀？舍利弗！彼佛光明無量，照十方國無所障礙，是故號為阿彌陀。又舍利弗！彼佛壽命及其人民，無量無邊阿僧祇劫，故名阿彌陀。舍利弗！阿彌陀佛成佛已來，於今十劫。又舍利弗！彼佛有無量無邊聲聞弟子，皆阿羅漢，非是算數之所能知；諸菩薩，亦復如是。舍利弗！彼佛國土成就如是功德莊嚴。",
+     "verse": false
+    }
+   ],
+   "chars": 152,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj4",
+    "pages/amtj/amtj5",
+    "pages/amtj/amtj7"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a09",
+   "slug": "09-abeibazhi",
+   "chunks": [
+    {
+     "id": "a09-1",
+     "text": "「又舍利弗！極樂國土眾生生者，皆是阿鞞跋致。其中多有一生補處，其數甚多，非是算數所能知之，但可以無量無邊阿僧祇劫說。舍利弗！眾生聞者，應當發願，願生彼國。所以者何？得與如是諸上善人俱會一處。",
+     "verse": false
+    }
+   ],
+   "chars": 95,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj3",
+    "pages/amtj/amtj7",
+    "pages/amtj/amtj8",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/132.sfcfxjdscbtjdjd"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a10",
+   "slug": "10-zhichi-mingzhao",
+   "chunks": [
+    {
+     "id": "a10-1",
+     "text": "「舍利弗！不可以少善根福德因緣得生彼國。舍利弗！若有善男子、善女人，聞說阿彌陀佛，執持名號，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不亂。其人臨命終時，阿彌陀佛與諸聖眾，現在其前。是人終時，心不顛倒，即得往生阿彌陀佛極樂國土。舍利弗！我見是利，故說此言。若有眾生聞是說者，應當發願生彼國土。",
+     "verse": false
+    }
+   ],
+   "chars": 155,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj8",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/47.wsskznhszsxydll",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/58.fxxzwsjlsjh-ynsqdzhyxqdxfm",
+    "pages/dayi_all/2024dy/fl/29.mfysdsjhkj",
+    "pages/huayan70/jiangyi46",
+    "pages/shixin/shixin5"
+   ],
+   "source_coverage": "lecture",
+   "source_coverage_note": ""
+  },
+  {
+   "seg": "a11",
+   "slug": "11-liufang-fo",
+   "chunks": [
+    {
+     "id": "a11-1",
+     "text": "「舍利弗！如我今者，讚歎阿彌陀佛不可思議功德；東方亦有阿閦鞞佛、須彌相佛、大須彌佛、須彌光佛、妙音佛，如是等恒河沙數諸佛，各於其國出廣長舌相，遍覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』",
+     "verse": false
+    },
+    {
+     "id": "a11-2",
+     "text": "「舍利弗！南方世界有日月燈佛、名聞光佛、大焰肩佛、須彌燈佛、無量精進佛，如是等恒河沙數諸佛，各於其國出廣長舌相，遍覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』",
+     "verse": false
+    },
+    {
+     "id": "a11-3",
+     "text": "「舍利弗！西方世界有無量壽佛、無量相佛、無量幢佛、大光佛、大明佛、寶相佛、淨光佛，如是等恒河沙數諸佛，各於其國出廣長舌相，遍覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』",
+     "verse": false
+    },
+    {
+     "id": "a11-4",
+     "text": "「舍利弗！北方世界有焰肩佛、最勝音佛、難沮佛、日生佛、網明佛，如是等恒河沙數諸佛，各於其國出廣長舌相，遍覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』",
+     "verse": false
+    },
+    {
+     "id": "a11-5",
+     "text": "「舍利弗！下方世界有師子佛、名聞佛、名光佛、達摩佛、法幢佛、持法佛，如是等恒河沙數諸佛，各於其國出廣長舌相，遍覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』",
+     "verse": false
+    },
+    {
+     "id": "a11-6",
+     "text": "「舍利弗！上方世界有梵音佛、宿王佛、香上佛、香光佛、大焰肩佛、雜色寶華嚴身佛、娑羅樹王佛、寶華德佛、見一切義佛、如須彌山佛，如是等恒河沙數諸佛，各於其國出廣長舌相，遍覆三千大千世界，說誠實言：『汝等眾生，當信是稱讚不可思議功德一切諸佛所護念經。』",
+     "verse": false
+    }
+   ],
+   "chars": 621,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj1",
+    "pages/amtj/amtj4",
+    "pages/amtj/amtj6",
+    "pages/amtj/amtj8",
+    "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/3.cfskypdcjdzgm-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/18.jlsjyhzsj-amtfyplznf",
+    "pages/dayi_all/ztjz/37.zzj-bzzjhxszj",
+    "pages/huayan28/28jiang10",
+    "pages/huayan70/jiangyi14",
+    "pages/huayan70/jiangyi2",
+    "pages/huayan70/jiangyi25",
+    "pages/huayan70/jiangyi31",
+    "pages/huayan70/jiangyi4",
+    "pages/huayan70/jiangyi43",
+    "pages/huayan70/jiangyi44",
+    "pages/juewu_s/jw_zongshi_1"
+   ],
+   "source_coverage": "partial",
+   "source_coverage_note": "讲座（阿弥陀经大义第八讲）只讲了六方佛赞的整体结构和东方一向，并说后面五方“都是流水文”。南、西、北、下、上五方的具体佛名，知识库里没有逐一的讲解；南、西、北、下、上各自的含义，只能从华严系列讲座中关于四智、四方、上下方的一般说法来推知，页面里已逐条标明出处。各方佛名的个别含义，知识库不做解说，本页也不补。"
+  },
+  {
+   "seg": "a12",
+   "slug": "12-huinian-jing",
+   "chunks": [
+    {
+     "id": "a12-1",
+     "text": "「舍利弗！於汝意云何？何故名為『一切諸佛所護念經』？舍利弗！若有善男子、善女人，聞是經受持者，及聞諸佛名者；是諸善男子、善女人，皆為一切諸佛共所護念，皆得不退轉於阿耨多羅三藐三菩提。是故舍利弗！汝等皆當信受我語及諸佛所說。",
+     "verse": false
+    }
+   ],
+   "chars": 111,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj4",
+    "pages/amtj/amtj8",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/84.qdalhg-rgptxbtjnrbddm-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/100.rhj-fsamtj-lsdxf-  ",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/20.zswyamtfs,ybfssm",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/41.zl-tly-zfjc-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/45. ylrhcnbtz-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/52.hyxzwsdjlsjqlt-ybjltysmcb-",
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/19.hwabbz-",
+    "pages/dayi_all/2018-2022dy/flWORD/jx-br/28.-bsbx-xfwy-h-bxsbx-ddjmt-hcbkw-lzzgsdcy",
+    "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/24.rhljabbzydzzxf-",
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/12.zxcjypsjc",
+    "pages/huayan70/jiangyi53",
+    "pages/huayan70/jiangyi69"
+   ],
+   "source_coverage": "partial",
+   "source_coverage_note": "阿弥陀经讲座第1—8讲没有讲到这一段经文本身；「何故名为」「闻是经受持」「闻诸佛名」「信受我语」这几句，知识库里没有讲者的逐句解释。本页只用到：第8讲讲六方佛赞时对「护念」的直接定义、第4讲对经题的说明、第8讲对阿鞞跋致的说明，以及问答与《华严经》讲义里关于「加持」「护持」「不退转」的说法，凡属拼合之处都已注明。"
+  },
+  {
+   "seg": "a13",
+   "slug": "13-fayuan",
+   "chunks": [
+    {
+     "id": "a13-1",
+     "text": "「舍利弗！若有人已發願、今發願、當發願，欲生阿彌陀佛國者；是諸人等，皆得不退轉於阿耨多羅三藐三菩提，於彼國土若已生、若今生、若當生。是故舍利弗！諸善男子、善女人若有信者，應當發願生彼國土。",
+     "verse": false
+    }
+   ],
+   "chars": 94,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj3",
+    "pages/amtj/amtj5",
+    "pages/amtj/amtj7",
+    "pages/amtj/amtj8",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/100.rhj-fsamtj-lsdxf-  ",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/28.yswmsjdssbdykywsxfjlsjm-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/31.wsdfstjthhtzm-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/33.wszhwmhzzggfsjm-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/43.ylyhxxdsq",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/45. ylrhcnbtz-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/47.wsskznhszsxydll",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/59.-hcsj-dyws-zhyxfzrhtx-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/93.xyxqjwszsfgybwddjlsj-",
+    "pages/dayi_all/2018-2022dy/flWORD/jtl/95.yqjkhfydbx",
+    "pages/dayi_all/dyjx/19.zwsrhjbtzlm-"
+   ],
+   "source_coverage": "qa",
+   "source_coverage_note": "第1至8讲只讲到“众生闻者，应当发愿，愿生彼国”和“我见是利，故说此言……应当发愿”，没有逐句讲解“已发愿、今发愿、当发愿”“若已生、若今生、若当生”以及“不退转于阿耨多罗三藐三菩提”这一整句。本页由问答和第7、8讲对阿鞞跋致、发愿、往生的讲述拼合而成；“已、今、当”三时与“于彼国土若已生、若今生、若当生”在知识库中没有直接解说，页末如实列出。"
+  },
+  {
+   "seg": "a14",
+   "slug": "14-xinshou-fengxing",
+   "chunks": [
+    {
+     "id": "a14-1",
+     "text": "「舍利弗！如我今者，稱讚諸佛不可思議功德；彼諸佛等，亦稱說我不可思議功德，而作是言：『釋迦牟尼佛能為甚難希有之事，能於娑婆國土五濁惡世，劫濁、見濁、煩惱濁、眾生濁、命濁中，得阿耨多羅三藐三菩提，為諸眾生說是一切世間難信之法。』舍利弗！當知我於五濁惡世行此難事，得阿耨多羅三藐三菩提，為一切世間說此難信之法，是為甚難！」",
+     "verse": false
+    },
+    {
+     "id": "a14-2",
+     "text": "佛說此經已，舍利弗及諸比丘，一切世間天、人、阿修羅等，聞佛所說，歡喜信受，作禮而去。",
+     "verse": false
+    }
+   ],
+   "chars": 201,
+   "coverage": "quoted",
+   "quoted_by": [
+    "pages/amtj/amtj6",
+    "pages/amtj/amtj7",
+    "pages/dayi_all/2018-2022dy/flWORD/hyxf/95.sxwsswsfswcsjdxf-",
+    "pages/dayi_all/2018-2022dy/flWORD/wm-lb/4.bsdyz",
+    "pages/dayi_all/2023dy/wz/WORDbb/4.zywd-23-09-09-",
+    "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-",
+    "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/3.-fjzxly-dy",
+    "pages/dayi_all/ztjz/10.sjztzsy",
+    "pages/dayi_all/ztjz/4..rldzh",
+    "pages/dayi_all/ztjz/53.hyxfdnf",
+    "pages/huayan28/28jiang26",
+    "pages/huayan28/28jiang28",
+    "pages/huayan28/28jiang3",
+    "pages/huayan28/28jiang8",
+    "pages/huayan28/28jiang9",
+    "pages/huayan70/jiangyi2",
+    "pages/huayan70/jiangyi24",
+    "pages/huayan70/jiangyi46",
+    "pages/huayan70/jiangyi49",
+    "pages/huayan70/jiangyi65",
+    "pages/juewu_s/jw_zongshi_1",
+    "pages/shixin/shixin10",
+    "pages/swxf/shizhu31",
+    "pages/swxf/shizhu4"
+   ],
+   "source_coverage": "qa",
+   "source_coverage_note": "知识库里没有对这一段逐句讲解的《阿弥陀经》专题讲座（第1至8讲止于此段之前）。讲者对这段经文的说明集中在“释迦牟尼佛于娑婆五浊恶世成就无上正觉、难信之法是什么”这一点，散见于《华严经》讲座与问答；“劫浊、见浊、烦恼浊、众生浊、命浊”五项各自的含义、“称赞诸佛不可思议功德”的前半句，以及“舍利弗及诸比丘、天人阿修罗”各自的所指，知识库没有单独解释。"
+  }
+ ]
+}
