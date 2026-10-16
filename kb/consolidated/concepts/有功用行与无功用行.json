@@ -38,6 +38,10 @@
     {
      "q": "第七位之前是有功用行可以到達的，第七位之後是無功用行才能到達的",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/2.dcyxczxflnsdcb"
+    },
+    {
+     "q": "灌頂位是從各個種性的第七位有功用行圓滿，進入到第八九十三個位次無功用行而成就。",
+     "src": "pages/zongshi/zs7-11"
     }
    ]
   },
@@ -104,6 +108,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/16.hwwjxlsq-"
     }
    ]
+  },
+  {
+   "label": "无功用行：梵行清净、随缘显现",
+   "text": "总释说无功用行是梵行清净智慧纯真的行法，童真住即十住位的无功用行地，普贤菩萨法界无量行法皆因此生起；如来果地的有法作用不是凡夫作意加行所起，而是无功用行的随缘显现。",
+   "quotes": [
+    {
+     "q": "「無功用行」是梵行清淨智慧純真的行法",
+     "src": "pages/zongshi/zs7-12"
+    },
+    {
+     "q": "如來果地的有法作用，並非凡夫種性的作意加行而生起，它是無功用行的隨緣顯現。",
+     "src": "pages/zongshi/zs2-08"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -122,6 +140,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年多处讲第七位不退转后进入无功用行（童真住、法王子住、灌顶住）、无加行力与灭尽定、阿赖耶识不能被有功用行到达；dayi 页较少。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中在讲童真住、灌顶位、十行位时提到：第七位有功用行圆满后进入第八至第十位无功用行；无功用行是梵行清净智慧纯真的行法，如来果地的有法作用也是无功用行的随缘显现。"
   }
  ],
  "related": [
@@ -132,7 +154,9 @@
   "无加行力",
   "阿赖耶识",
   "作意",
-  "身语意"
+  "身语意",
+  "梵行清净",
+  "童真住"
  ],
  "tensions": [
   {
@@ -176,12 +200,13 @@
   "pages/huayan70/jiangyi52",
   "pages/swxf/shizhu29",
   "pages/huayan28/28jiang28",
-  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
+  "pages/zongshi/zs7-12"
  ],
  "confidence": "medium",
- "pages_consulted": 14,
+ "pages_consulted": 17,
  "related_unresolved": [
-  "作意",
-  "身语意"
+  "身语意",
+  "童真住"
  ]
 }

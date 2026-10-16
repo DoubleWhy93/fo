@@ -38,6 +38,10 @@
     {
      "q": "『善根』一定是要依於內在生起的，依於本體生起的，並非世間講的這個人是好人於是就有善根，世間講的領悟力很接近於善根。",
      "src": "pages/amtj/amtj8"
+    },
+    {
+     "q": "大乘佛教所言的「善根」，是依正知見正思惟、依正解行力，乃至依般若波羅蜜智慧所建立，從根本生，並非世間有為善法所能成就。",
+     "src": "pages/zongshi/zs7-26"
     }
    ]
   },
@@ -66,6 +70,10 @@
     {
      "q": "後者需要後天的熏習，基於諸法不空、無生法忍",
      "src": "pages/dayi/dy_psst"
+    },
+    {
+     "q": "淨土成就的核心有兩點：一心清淨和善根增長。",
+     "src": "pages/zongshi/zs1-14"
     }
    ]
   },
@@ -110,6 +118,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答讲佛经意义上的觉醒力量与善根增长；dy_psst 把善根增长列为净土成就的两面之一。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者定义大乘所言善根依正知见正思惟、正解行力乃至般若波罗蜜智慧建立，从根本生，非世间有为善法所能成就；并把一心清净与善根增长并列为修行（净土）成就的核心。"
   }
  ],
  "related": [
@@ -118,7 +130,9 @@
   "根本智",
   "梵行清净",
   "正知见",
-  "正思惟"
+  "正思惟",
+  "一心清净",
+  "般若波罗蜜"
  ],
  "tensions": [
   {
@@ -145,10 +159,11 @@
   "pages/huayan70/jiangyi25",
   "pages/amtj/amtj8",
   "pages/amtj/amtj5",
-  "pages/dayi_all/2018-2022dy/flWORD/jtl/92.hwsgfdsh"
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/92.hwsgfdsh",
+  "pages/zongshi/zs7-26"
  ],
  "confidence": "high",
- "pages_consulted": 12,
+ "pages_consulted": 14,
  "related_unresolved": [
   "自性智慧",
   "正知见",

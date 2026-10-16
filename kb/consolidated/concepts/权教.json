@@ -22,6 +22,10 @@
     {
      "q": "需要做調整，甚至改變，這就是權教",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+    },
+    {
+     "q": "權教是指行者進入到下一個修法階段時，前一段行法的很多理念，甚至成果，在下一個行法階段需要調整，甚至需要改變和捨離，這就是權教。",
+     "src": "pages/zongshi/zs1-10"
     }
    ]
   },
@@ -34,17 +38,42 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/19.wsmpxpsysdywdgjl"
     }
    ]
+  },
+  {
+   "label": "作为种性，与别教、圆教对照",
+   "text": "总释把权教、别教、圆教都说成与行者种性有关；别教则是前段理念和成果成为下一阶段的基础。文中还说有所取舍即是权修。",
+   "quotes": [
+    {
+     "q": "當然，權教、別教、圓教各個種性的菩薩在成就上有很大差別，菩薩本身也可能具有聲聞乘、緣覺乘的種性習氣。",
+     "src": "pages/zongshi/zs1-10"
+    },
+    {
+     "q": "別教則不一樣。別教行法是次第修行模式，前段修行的理念和成果，會成為下個行法階段的基礎。",
+     "src": "pages/zongshi/zs1-10"
+    },
+    {
+     "q": "事實上，有所取捨即是權修。",
+     "src": "pages/zongshi/zs2-05"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022 年问答（jtl）中给出这一界定并以极乐、华藏为例。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在讲种性差别时给出与问答相同的界定：进入下一修法阶段时前段理念乃至成果需调整、改变、舍离，并以小学到中学的算术作比，说佛教亦称为化城；文中还把权教菩萨作为一类种性，与别教、圆教对照。"
   }
  ],
  "related": [
   "极乐世界",
-  "华藏世界"
+  "华藏世界",
+  "别教",
+  "圆教",
+  "种性"
  ],
  "tensions": [],
  "gaps": [
@@ -52,11 +81,10 @@
  ],
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb",
-  "pages/dayi_all/2018-2022dy/flWORD/jtl/19.wsmpxpsysdywdgjl"
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/19.wsmpxpsysdywdgjl",
+  "pages/zongshi/zs1-10"
  ],
- "pages_consulted": 2,
+ "pages_consulted": 4,
  "confidence": "medium",
- "related_unresolved": [
-  "华藏世界"
- ]
+ "related_unresolved": []
 }

@@ -6,7 +6,7 @@ S = opencc.OpenCC("t2s").convert
 H = html.escape
 
 NAV = [("二十八讲", "jiang/huayan28/index.html"), ("总释", "jiang/zongshi/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
-       ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("关于", "about.html")]
+       ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("搜索", "search.html"), ("关于", "about.html")]
 
 BAR_CSS = """.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
 justify-content:space-between;flex-wrap:wrap;padding:.5rem 1.2rem;font:15px/1.5 "Noto Sans SC","PingFang SC",sans-serif}
@@ -26,6 +26,18 @@ input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--lin
 .orig-desc{margin:1rem 0;padding:.8rem 1.1rem;border-left:4px solid var(--acc);background:var(--soft);border-radius:6px;font-size:1rem}
 .orig-desc .src{display:block;font-size:.8rem;color:var(--mute);margin-top:.4rem}
 ol.toc li.grp{background:none;border:none;padding:0;margin:1.2rem 0 .2rem;color:var(--acc)}
+.ev{position:relative;display:inline-block;font:12px/1.6 "Noto Sans SC","PingFang SC",sans-serif;color:var(--acc);border:1px solid var(--line);
+border-radius:99px;padding:0 .5rem;margin-left:.35rem;cursor:pointer;vertical-align:.12em;user-select:none}
+.ev:hover,.ev.open{border-color:var(--acc)}
+.ev-pop{display:none;position:absolute;z-index:20;left:0;top:1.9em;width:min(30rem,80vw);background:var(--card);border:1px solid var(--acc);
+border-radius:8px;padding:.6rem .85rem;font:16px/1.75 "Noto Serif SC","Songti SC",serif;color:var(--fg);box-shadow:0 6px 20px rgba(0,0,0,.15);cursor:auto;user-select:text}
+.ev-pop span.q{display:block;margin:.2rem 0}.ev-pop span.q::before{content:"「"}.ev-pop span.q::after{content:"」"}
+.ev-pop small{display:block;font-size:.78rem;color:var(--mute);margin-bottom:.3rem}
+@media (hover:hover){.ev:hover .ev-pop{display:block}}
+.ev.open .ev-pop{display:block}
+@media (max-width:640px){.ev{position:static}.ev-pop{left:1rem;right:1rem;width:auto}}
+.jump{font-size:.85rem;color:var(--mute);margin:.4rem 0 1rem;line-height:2}.jump a{white-space:nowrap}
+h2[id]{scroll-margin-top:4.5rem}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
 """
 
@@ -125,10 +137,27 @@ def qa_listing():
     return out
 
 
+EV_JS = ("<script>document.addEventListener('click',e=>{const t=e.target.closest('.ev');"
+         "if(t&&e.target.closest('.ev-pop'))return;document.querySelectorAll('.ev.open').forEach(x=>{if(x!==t)x.classList.remove('open')});"
+         "if(t)t.classList.toggle('open')});document.addEventListener('keydown',e=>{const t=e.target.closest&&e.target.closest('.ev');"
+         "if(t&&(e.key==='Enter'||e.key===' ')){e.preventDefault();t.classList.toggle('open')}if(e.key==='Escape')"
+         "document.querySelectorAll('.ev.open').forEach(x=>x.classList.remove('open'))})</script>")
+
+
+def ev(items):
+    """the original text behind a claim, hidden behind a small 「原文」 tag (hover on desktop, tap on phones).
+    items: [(quote html-escaped text, source html or "")]"""
+    items = [(q, s) for q, s in items if q]
+    if not items:
+        return ""
+    body = "".join(f'<span class="q">{q}</span>' + (f"<small>—— {s}</small>" if s else "") for q, s in items)
+    return f'<span class="ev" tabindex="0" role="button" aria-label="查看原文">原文<span class="ev-pop">{body}</span></span>'
+
+
 def bar(depth=1, on=""):
     up = "../" * depth
     links = "".join(f'<a href="{up}{h}"{" class=on" if n == on else ""}>{n}</a>' for n, h in NAV)
-    return f'<header class="gbar"><a class="brand" href="{up}index.html">华严讲稿学习站</a><nav>{links}</nav></header>'
+    return f'<header class="gbar"><a class="brand" href="{up}index.html">华严讲稿学习站</a><nav>{links}</nav></header>{EV_JS}'
 
 
 def crumb(items, depth=1):

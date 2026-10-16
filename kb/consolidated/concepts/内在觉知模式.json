@@ -56,6 +56,10 @@
     {
      "q": "內在覺知模式就是要生起反省的能力、內觀的能力、內在覺知的能力",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/58.fxxzwsjlsjh-ynsqdzhyxqdxfm"
+    },
+    {
+     "q": "內在覺知的修行模式是要將經典的言說，轉化為修行者的自覺證量，然後指導實際的行為。",
+     "src": "pages/zongshi/zs1-15"
     }
    ]
   },
@@ -82,6 +86,24 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
     }
    ]
+  },
+  {
+   "label": "般若为法印的见性模式、智慧禅定",
+   "text": "总释说内在觉知模式的行法是见性模式的行法、以般若波罗蜜为法印的大乘行法，即文殊菩萨的智慧成就模式；大乘佛教的禅定以它为行法，是不共外道的智慧禅定。",
+   "quotes": [
+    {
+     "q": "內在覺知模式的行法是見性模式的行法，是般若波羅蜜為法印的大乘行法",
+     "src": "pages/zongshi/zs6-04"
+    },
+    {
+     "q": "內在覺知的修法模式，即是文殊菩薩的智慧成就模式。",
+     "src": "pages/zongshi/zs4-02"
+    },
+    {
+     "q": "大乘佛教的禪定是以內在覺知模式為行法，是不共外道法的智慧禪定。",
+     "src": "pages/zongshi/zs5-04"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -96,14 +118,35 @@
   {
    "series": "答疑",
    "text": "2018–2022 swms-dzz、jdjd、jtl 等：以觉知为核心、转化经典言说、与解经和圆教初住联系。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中多处讲：把经典言说转化为自觉证量、关键在生起疑情；即文殊的智慧成就模式、以般若波罗蜜为法印的见性模式、大乘的智慧禅定；与闻法模式相对，并把转入此模式与初住位或十信位相联系。"
   }
  ],
  "related": [
   "闻法模式",
   "根本智",
-  "报身世间"
+  "报身世间",
+  "般若波罗蜜",
+  "十信位",
+  "初住位"
  ],
- "tensions": [],
+ "tensions": [
+  {
+   "text": "内在觉知模式从哪一位次开始，总释内部说法不一：zs1-15 说初住位之前行者大都是闻法模式，内在觉知模式建立才进入初住位；zs5-05 说十信位已是依文殊「善用其心」的内在觉知模式。",
+   "sources": [
+    {
+     "q": "華嚴經初住位之前，行者大都是聞法模式的修行，只有內在覺知模式建立起來，才開始進入到初住位。",
+     "src": "pages/zongshi/zs1-15"
+    },
+    {
+     "q": "十信位不是異身異時異處成佛的成就模式，也不是此處修因彼處圓滿的成就模式，而是依文殊菩薩「善用其心」的內在覺知模式",
+     "src": "pages/zongshi/zs5-05"
+    }
+   ]
+  }
+ ],
  "gaps": [
   "「利根模式」一词只在一页定义中出现。",
   "具体修习步骤在本卡所用页面中未细讲。"
@@ -113,9 +156,12 @@
   "pages/huayan28/28jiang1",
   "pages/huayan70/jiangyi1",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/2.hw-hyj-nzjzxxms",
-  "pages/dayi_all/2018-2022dy/dy/dy2"
+  "pages/dayi_all/2018-2022dy/dy/dy2",
+  "pages/zongshi/zs1-15"
  ],
- "pages_consulted": 7,
+ "pages_consulted": 12,
  "confidence": "high",
- "related_unresolved": []
+ "related_unresolved": [
+  "初住位"
+ ]
 }

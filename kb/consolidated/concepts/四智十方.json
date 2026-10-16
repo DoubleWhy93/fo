@@ -34,6 +34,24 @@
      "src": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy"
     }
    ]
+  },
+  {
+   "label": "四智四用八方加上下；同时生起、次第演说",
+   "text": "总释说四方四隅代表四智四用共成八法，中央是自性本体，十方比八方多上方（法界现相）和下方（法性智慧）；四智十方是同时生起的整体结构，按次第演说。",
+   "quotes": [
+    {
+     "q": "華嚴經常常講到四智十方，十方模式比四智四用的八方模式多了上方和下方。下方代表法性智慧，上方代表法界現相。",
+     "src": "pages/zongshi/zs1-09"
+    },
+    {
+     "q": "此四方四隅代表著右旋模式的四智四用，共成八法，中央是自性本體。",
+     "src": "pages/zongshi/zs3-05"
+    },
+    {
+     "q": "所以華嚴經說到的四智十方，是一種整體結構，整體結構是同時生起，但是在演說的時候，是按照次第演說的",
+     "src": "pages/zongshi/zs1-09"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -44,11 +62,17 @@
   {
    "series": "答疑",
    "text": "说西方极乐等世界名都用四智十方拓展，并要把方位、体相用与世界名、佛名综合解读。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把四智十方讲成华严经演说生起庄严法界的结构：四方四智、四隅四用共八法，加下方法性智慧、上方法界现相；整体同时生起而按次第演说，某方向菩萨所说法必带该方向属性。"
   }
  ],
  "related": [
   "四智",
-  "十方"
+  "十方",
+  "右旋模式",
+  "十波罗蜜"
  ],
  "tensions": [],
  "gaps": [
@@ -58,9 +82,10 @@
  "where_to_read": [
   "pages/huayan28/28jiang15",
   "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy",
-  "pages/huayan70/jiangyi5"
+  "pages/huayan70/jiangyi5",
+  "pages/zongshi/zs1-09"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": []
 }

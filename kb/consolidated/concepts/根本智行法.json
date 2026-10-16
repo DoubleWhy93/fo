@@ -52,6 +52,16 @@
      "src": "pages/huayan70/jiangyi56"
     }
    ]
+  },
+  {
+   "label": "包括在所有行法中（善财十一问）",
+   "text": "总释说善财问文殊的十一个问题是向根本智慧征询总的行法原则，即根本智行法；根本智行法包括在所有行法中，放在不同种性因缘下显相不同。",
+   "quotes": [
+    {
+     "q": "十一個問題是善財童子向根本智慧徵詢總的行法原則，是根本智行法，根本智行法包括在所有的行法中。",
+     "src": "pages/zongshi/zs3-20"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -66,6 +76,10 @@
   {
    "series": "答疑",
    "text": "2023 答疑说它是依一切法的规定性自觉生起行法实践。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者只在讲善财童子问文殊十一个问题时提到：这十一问是向根本智慧征询总的行法原则，是根本智行法，它包括在所有行法中，随不同种性因缘而显相不同。"
   }
  ],
  "related": [
@@ -74,7 +88,8 @@
   "普贤菩萨法界行法",
   "十信位",
   "等妙觉位",
-  "自性能力"
+  "自性能力",
+  "善财童子"
  ],
  "tensions": [
   {
@@ -99,9 +114,10 @@
   "pages/huayan70/jiangyi38",
   "pages/huayan70/jiangyi56",
   "pages/swxf/shizhu2",
-  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)",
+  "pages/zongshi/zs3-20"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": [
   "差别智行法",

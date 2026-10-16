@@ -48,6 +48,10 @@
     {
      "q": "『神通』是指以智慧力降伏煩惱，得梵行清淨，得生命解脫。",
      "src": "pages/huayan70/jiangyi53"
+    },
+    {
+     "q": "故可顯明，佛所說神通即是生起般若智慧。",
+     "src": "pages/zongshi/zs1-14"
     }
    ]
   },
@@ -84,6 +88,20 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
     }
    ]
+  },
+  {
+   "label": "神通力即妙观察智；漏尽通为核心",
+   "text": "总释说「神通力」指从根本智慧所能生起的妙观察智；又说阿罗汉的第六通漏尽通即不共外道的智慧神通，是佛法修行成就的基础和核心。",
+   "quotes": [
+    {
+     "q": "「神通力」是指從根本智慧所能生起的妙觀察智。",
+     "src": "pages/zongshi/zs7-18"
+    },
+    {
+     "q": "阿羅漢成就的第六通漏盡通即是不共外道智慧神通，不共外道的阿羅漢漏盡通是佛法修行成就的基礎和核心。",
+     "src": "pages/zongshi/zs1-14"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -98,11 +116,18 @@
   {
    "series": "答疑",
    "text": "2018–2022 wm-lb 与 dayi 分业用、智慧两类；2023 问答否定看前世明天的理解。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中同样分业用神通（共外道）与智慧神通（不共外道），说佛教神通成就的核心是般若智慧、阿罗汉的漏尽通是修行成就的基础和核心；又说神通力是从根本智慧生起的妙观察智。"
   }
  ],
  "related": [
   "根本智",
-  "如实知"
+  "如实知",
+  "般若智慧",
+  "妙观察智",
+  "漏尽通"
  ],
  "tensions": [],
  "gaps": [
@@ -113,9 +138,12 @@
   "pages/dayi/dy_psst",
   "pages/huayan70/jiangyi30",
   "pages/swxf/shizhu23",
-  "pages/huayan70/jiangyi56"
+  "pages/huayan70/jiangyi56",
+  "pages/zongshi/zs1-14"
  ],
- "pages_consulted": 9,
+ "pages_consulted": 11,
  "confidence": "high",
- "related_unresolved": []
+ "related_unresolved": [
+  "漏尽通"
+ ]
 }

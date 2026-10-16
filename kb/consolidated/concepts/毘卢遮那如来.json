@@ -62,6 +62,24 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx"
     }
    ]
+  },
+  {
+   "label": "诸法本体、一切法种子",
+   "text": "总释说毘卢遮那如来是法界一切显相的本体，「遮那」有藏识之意，即一切法种子；自性地无量种子即其法身本体。四十位中，初位是文殊、第十位是普贤，每十位合一即毘卢遮那佛显现。",
+   "quotes": [
+    {
+     "q": "毘盧遮那佛是一切法界眾生相的本體，「遮那」兩個字有「藏識」的意思，從唯識學角度來說，即是一切法種子。",
+     "src": "pages/zongshi/zs2-05"
+    },
+    {
+     "q": "毘盧遮那如來是法界一切顯相的本體。",
+     "src": "pages/zongshi/zs4-01"
+    },
+    {
+     "q": "第十住、第十行、第十迴向、第十地即是普賢菩薩的成就位，每十位合一即是毘盧遮那佛顯現。",
+     "src": "pages/zongshi/zs2-03"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -80,15 +98,34 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答说是心体验与身体验合在一起的中心力量。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中把毘卢遮那如来讲成诸法本体、法界一切显相的本体，即一切法种子（「遮那」有藏识之意），文殊智慧相与普贤法界相皆由此本体所生；四十位中每十位合一即是毘卢遮那佛显现。"
   }
  ],
  "related": [
   "根本智",
   "差别智",
   "文殊师利菩萨",
-  "普贤菩萨"
+  "普贤菩萨",
+  "法身"
  ],
- "tensions": [],
+ "tensions": [
+  {
+   "text": "定义角度不同：讲座把毘卢遮那如来说成生命本有的根本觉悟力；总释则说是法界一切众生相的本体、即一切法种子（藏识）。各页未互相对照。",
+   "sources": [
+    {
+     "q": "『毘盧遮那如來』是指生命本有的根本的覺悟力",
+     "src": "pages/huayan70/jiangyi27"
+    },
+    {
+     "q": "毘盧遮那佛是一切法界眾生相的本體，「遮那」兩個字有「藏識」的意思，從唯識學角度來說，即是一切法種子。",
+     "src": "pages/zongshi/zs2-05"
+    }
+   ]
+  }
+ ],
  "gaps": [
   "「中心力量」与「根本觉悟力」是否同一说法，页面未明确说明。"
  ],
@@ -96,11 +133,10 @@
   "pages/huayan70/jiangyi27",
   "pages/shixin/shixin2",
   "pages/swxf/shizhu16",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/55.zyljws-pxhplznfswytdgx",
+  "pages/zongshi/zs2-05"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "high",
- "related_unresolved": [
-  "普贤菩萨"
- ]
+ "related_unresolved": []
 }

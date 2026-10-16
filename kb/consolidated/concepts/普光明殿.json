@@ -40,6 +40,10 @@
     {
      "q": "普光明殿完全是講行法理論",
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/105.wsr-wsfrdzfsxyhbt-"
+    },
+    {
+     "q": "第二部分是「普光明殿」,這一處演說三十二品經,主要是講自性地成就的修行次第和行法理論。",
+     "src": "pages/zongshi/zs1-01"
     }
    ]
   },
@@ -104,6 +108,10 @@
     {
      "q": "普光明殿是內在智慧地的成就，並非世間的行法顯相",
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/9.sswxfysz-sblmdgx"
+    },
+    {
+     "q": "普光明殿是自性地智慧報得處，是十方世界一切法生起之處。",
+     "src": "pages/zongshi/zs4-04"
     }
    ]
   },
@@ -130,6 +138,20 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
     }
    ]
+  },
+  {
+   "label": "本有佛性的显现，凡夫亦不出",
+   "text": "文中说普光明殿是自性地本有佛性、根本智作用的显现，不是只有成就者才具备；凡夫地所能觉知的一切法境界相都不出普光明殿，要启动正知见和善思惟才真正开始基于它的十信位。",
+   "quotes": [
+    {
+     "q": "普光明殿是自性地中本有的佛性顯現，即是根本智的作用顯現。",
+     "src": "pages/zongshi/zs2-08"
+    },
+    {
+     "q": "這種顯現境界並非只有成就者才能具備，凡夫地所能覺知的一切法境界相皆不出普光明殿。",
+     "src": "pages/zongshi/zs2-08"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -152,6 +174,10 @@
   {
    "series": "答疑",
    "text": "2018-2022 年问答讲行法理论与行法阶段；2023、2024 年问答多讲它代表根本智、本体与提供能力。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在总释中反复讲它：结构上是三处中的第二处，演说三十二品、六会六位行法理论；义理上说它是自性地智慧报得处、本有佛性（根本智作用）的显现，一切法生起之处，凡夫地所觉知的一切法亦不出普光明殿。"
   }
  ],
  "related": [
@@ -221,9 +247,10 @@
   "pages/swxf/shizhu21",
   "pages/huayan70/jiangyi27",
   "pages/huayan28/28jiang13",
-  "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+  "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
+  "pages/zongshi/zs2-08"
  ],
  "confidence": "medium",
- "pages_consulted": 19,
+ "pages_consulted": 22,
  "related_unresolved": []
 }

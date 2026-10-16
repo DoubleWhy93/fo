@@ -48,6 +48,20 @@
      "src": "pages/swxf/shizhu17"
     }
    ]
+  },
+  {
+   "label": "从种性说：弥勒代表未来成就地",
+   "text": "总释说「未来」从行者种性上说而非时间空间；弥勒菩萨代表行者未来圆满成就地，即自成就地弥勒菩萨，不在身心之外。",
+   "quotes": [
+    {
+     "q": "從成就義來看，「未來」是從行者種性上說，非是從時間和空間上說。",
+     "src": "pages/zongshi/zs7-32"
+    },
+    {
+     "q": "對行者來說，彌勒菩薩代表了行者未來圓滿成就地，此未來所成的妙覺位，即是自成就地彌勒菩薩",
+     "src": "pages/zongshi/zs7-32"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -62,11 +76,17 @@
   {
    "series": "swxf",
    "text": "极乐世界、华藏世界所在即未来，不是明年或无量劫后。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在讲弥勒菩萨一参时说，从成就义看「未来」是从行者种性上说，不是从时间空间上说；弥勒菩萨代表行者未来圆满成就的妙觉位。其余各页只是在经文叙述中顺带提到「未来」。"
   }
  ],
  "related": [
   "时间与空间",
-  "行法模式"
+  "行法模式",
+  "弥勒菩萨",
+  "种性"
  ],
  "tensions": [],
  "gaps": [
@@ -75,9 +95,10 @@
  "where_to_read": [
   "pages/swxf/shizhu17",
   "pages/huayan70/jiangyi3",
-  "pages/huayan28/28jiang25"
+  "pages/huayan28/28jiang25",
+  "pages/zongshi/zs7-32"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 4,
  "confidence": "medium",
  "related_unresolved": []
 }

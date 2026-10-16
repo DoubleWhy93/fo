@@ -46,6 +46,10 @@
     {
      "q": "一定要有修行者的兩樣因素參與才會成為極樂世界。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-"
+    },
+    {
+     "q": "凡夫種性成就娑婆世界，淨土種性成就極樂世界，如來種性成就圓滿法界",
+     "src": "pages/zongshi/zs1-13"
     }
    ]
   },
@@ -78,6 +82,16 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
     }
    ]
+  },
+  {
+   "label": "依自性地智慧生起的四智清净世间",
+   "text": "总释说极乐世界即是依自性地智慧生起四智清净世间，是以根本智慧转世间一切法所得的成就。",
+   "quotes": [
+    {
+     "q": "極樂世界即是依自性地智慧生起四智清淨世間，以根本智慧轉世間一切法所得成就。",
+     "src": "pages/zongshi/zs4-02"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -92,6 +106,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 swms-dzz、jtl 讲种性与行法因素及三要素，是最核心基础的成就；2023 问答强调往生依赖行法实践。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把极乐世界说成依自性地智慧生起的四智清净世间，也说净土种性成就极乐世界；其余各页多是顺带提到（如普贤十大愿王导归极乐、转娑婆为极乐再转华藏）。"
   }
  ],
  "related": [
@@ -99,7 +117,9 @@
   "国土",
   "种性",
   "有法",
-  "阿弥陀如来"
+  "阿弥陀如来",
+  "四智",
+  "娑婆世界"
  ],
  "tensions": [],
  "gaps": [
@@ -111,9 +131,10 @@
   "pages/amtj/amtj4",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/19.rhlswxgc-smsw-",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/23.sfdzzcjzhchyffjxq-",
-  "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-"
+  "pages/dayi_all/2023dy/wz/WORDbb/29.zywd-24-02-03-",
+  "pages/zongshi/zs4-02"
  ],
- "pages_consulted": 6,
+ "pages_consulted": 8,
  "confidence": "medium",
  "related_unresolved": [
   "阿弥陀如来"

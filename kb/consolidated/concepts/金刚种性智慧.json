@@ -33,6 +33,10 @@
     {
      "q": "三賢位是以成就金剛種性智慧為旨歸的。",
      "src": "pages/swxf/shizhu7"
+    },
+    {
+     "q": "金剛藏菩薩是十地位行者的金剛種性智慧在世間的顯相，和十迴向位說法主金剛幢菩薩相對應。",
+     "src": "pages/zongshi/zs4-13"
     }
    ]
   },
@@ -73,6 +77,16 @@
      "src": "pages/huayan70/jiangyi15"
     }
    ]
+  },
+  {
+   "label": "无所住智慧：自性清净无所住与入一切法无所住",
+   "text": "总释说「金刚」智慧是无所住智慧，包括自性清净无所住和入一切法无所住两个方面。",
+   "quotes": [
+    {
+     "q": "「金剛」智慧是無所住智慧，包括自性清淨無所住和入一切法無所住兩個方面",
+     "src": "pages/zongshi/zs6-10"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -91,6 +105,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答讲十回向位成就金刚种性智慧地及「不再转」；2023 年问答把降伏诸魔作为密法言说，联系三贤位得金刚种性。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者说「金刚」智慧是无所住智慧，包括自性清净无所住与入一切法无所住两方面；金刚藏菩萨是十地位金刚种性智慧在世间的显相，与十迴向位说法主金刚幢菩萨相对应；三贤位圆满成就金刚种性，智慧等佛。"
   }
  ],
  "related": [
@@ -99,7 +117,8 @@
   "三贤位",
   "道种智",
   "普贤菩萨法界",
-  "入灭尽定行法"
+  "入灭尽定行法",
+  "无所住"
  ],
  "tensions": [],
  "gaps": [
@@ -111,12 +130,14 @@
   "pages/swxf/shizhu7",
   "pages/swxf/shizhu26",
   "pages/huayan70/jiangyi31",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/122.wsrhwsfrdszpwzm-hwpfz-"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/122.wsrhwsfrdszpwzm-hwpfz-",
+  "pages/zongshi/zs6-10"
  ],
- "pages_consulted": 7,
+ "pages_consulted": 9,
  "confidence": "medium",
  "key": "金刚种性智慧",
  "related_unresolved": [
-  "十迴向位"
+  "十迴向位",
+  "无所住"
  ]
 }

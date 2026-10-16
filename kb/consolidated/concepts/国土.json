@@ -62,6 +62,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/20.zswyamtfs,ybfssm"
     }
    ]
+  },
+  {
+   "label": "行者自证成就；染着消除即净妙国土",
+   "text": "总释把国土讲成行者自证成就，所以能菩萨云集；并说执著取舍的染着习气消除后，六根六尘十二入即是净妙国土。",
+   "quotes": [
+    {
+     "q": "「國土」是行者自證成就，所以能菩薩雲集",
+     "src": "pages/zongshi/zs4-06"
+    },
+    {
+     "q": "當執著取捨的染著作用習氣消除，六根六塵十二入即是淨妙國土",
+     "src": "pages/zongshi/zs2-18"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -76,6 +90,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 jtl 讲国土即身心觉知的一切法，每个众生就是一个国土。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释只零星提到：作者说「国土」是行者自证成就（对比「世界」是精进成就）；又说依般若智慧，染着世间即是庄严国土，染着习气消除后六根六尘十二入即是净妙国土。"
   }
  ],
  "related": [
@@ -110,7 +128,7 @@
   "pages/dayi_all/2018-2022dy/flWORD/jtl/52.hyxzwsdjlsjqlt-ybjltysmcb-",
   "pages/huayan70/jiangyi55"
  ],
- "pages_consulted": 6,
+ "pages_consulted": 8,
  "confidence": "high",
  "related_unresolved": [
   "身心觉知",

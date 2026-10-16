@@ -36,6 +36,10 @@
     {
      "q": "大乘佛教的修行者到達見性位之後，即開始法身世間的修行階段，進入到法身世間。",
      "src": "pages/huayan28/28jiang2"
+    },
+    {
+     "q": "這一品經告訴我們，修法本身就是成就法身的過程，依教奉行就是成就法身",
+     "src": "pages/zongshi/zs1-02"
     }
    ]
   },
@@ -62,6 +66,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
     }
    ]
+  },
+  {
+   "label": "「法」是文殊智慧，「身」是普贤行法",
+   "text": "总释说法身之法即文殊智慧、身即普贤行法，圆满法身显现即毘卢遮那如来的华藏世界；如来法身即世间而无即世间相，离世间亦无离世间相，随缘周遍法界。",
+   "quotes": [
+    {
+     "q": "法身之「法」即是文殊智慧，法身之「身」即是普賢行法，圓滿法身顯現即是毘盧遮那如來的華藏世界。",
+     "src": "pages/zongshi/zs4-15"
+    },
+    {
+     "q": "如來法身即世間而無即世間相，離世間亦無離世間相，隨緣現量周徧法界。",
+     "src": "pages/zongshi/zs4-16"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -76,13 +94,19 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答：简说以法为身；并就证法身的条件与位次（法界自在成就、能生起一切法）作说明。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说《毘卢遮那品》表明修法本身就是成就法身的过程；法身是一切法境界相，法身之「法」是文殊智慧、「身」是普贤行法，圆满法身显现即华藏世界，如来法身即世间而离世间。"
   }
  ],
  "related": [
   "法身世间",
   "见性位",
   "报身",
-  "如实知"
+  "如实知",
+  "毘卢遮那如来",
+  "华藏世界"
  ],
  "tensions": [],
  "gaps": [
@@ -93,9 +117,10 @@
   "pages/huayan70/jiangyi30",
   "pages/huayan28/28jiang2",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/27.rlzgyyby - fsyfscj",
-  "pages/dayi_all/2018-2022dy/flWORD/jtl/55.wsmswyj-bjpsbzfs"
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/55.wsmswyj-bjpsbzfs",
+  "pages/zongshi/zs4-15"
  ],
- "pages_consulted": 5,
+ "pages_consulted": 8,
  "confidence": "medium",
  "related_unresolved": [
   "报身"

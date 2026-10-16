@@ -78,6 +78,20 @@
     {
      "q": "一真法界是無所餘",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/4.ztbydcb"
+    },
+    {
+     "q": "若有所餘，即不是圓滿的一真法界，一真法界是要到達圓滿如來地無餘涅槃。",
+     "src": "pages/zongshi/zs1-11"
+    }
+   ]
+  },
+  {
+   "label": "无烦恼可转、无菩提可证（八地以后，总释）",
+   "text": "总释以三种种性对照：只见烦恼不见菩提是凡夫，有烦恼可转、有菩提可证是二乘与权教别教，八地以后见一切法皆是实相、无烦恼可转无菩提可证，即是一真法界。",
+   "quotes": [
+    {
+     "q": "見一切法皆是實相，沒有煩惱可轉，也沒有菩提可證，此即是一真法界",
+     "src": "pages/zongshi/zs6-09"
     }
    ]
   }
@@ -98,6 +112,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答集中讨论入一真法界的最低位次与「三处证得与佛同等」的标准；2023 年问答追问「开悟入一真法界」入的是哪一个。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把证得一真法界放在等妙觉位，须到圆满如来地无余涅槃，若有所余即不圆满；又说真实的一真法界要到第八地才开始，八地以后见一切法皆是实相、无烦恼可转也无菩提可证，即是一真法界。"
   }
  ],
  "related": [
@@ -143,6 +161,23 @@
      "src": "pages/huayan28/28jiang19"
     }
    ]
+  },
+  {
+   "text": "证得一真法界的位次：总释说等妙觉位证得一真法界、真实的一真法界要到第八地才开始；2018–2022 年问答有页说一真法界最低到初住位。",
+   "sources": [
+    {
+     "q": "此表格中並不包括等妙覺位，等妙覺位證得一真法界。",
+     "src": "pages/zongshi/zs1-11"
+    },
+    {
+     "q": "到達真實的一真法界梵行清淨不受後有，十方莊嚴普皆現前，要到第八地才開始",
+     "src": "pages/zongshi/zs6-08"
+    },
+    {
+     "q": "一真法界的「一真」，最低是登上心地，也就是要到初住位纔行",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/78.ryzfj-zzwhszdjw-"
+    }
+   ]
   }
  ],
  "gaps": [
@@ -154,9 +189,10 @@
   "pages/huayan70/jiangyi41",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/4.rhcspsjqryzfj-",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/86.abbzsyqzb-",
-  "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-"
+  "pages/dayi_all/2023dy/wz/WORDbb/1.smty-2023-08-26-",
+  "pages/zongshi/zs1-11"
  ],
- "pages_consulted": 11,
+ "pages_consulted": 14,
  "confidence": "medium",
  "related_unresolved": [
   "五蕴六入十二处十八界",

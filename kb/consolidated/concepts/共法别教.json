@@ -56,6 +56,26 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/139.btcddpxpsfj"
     }
    ]
+  },
+  {
+   "label": "见性位前、共人天外道与声闻权教",
+   "text": "总释说共法别教共人天外道法、共声闻权教法，不能得究竟解脱；其登地位相当于华严十住位。",
+   "quotes": [
+    {
+     "q": "「共法別教」是共人天外道法、共聲聞權教法。共法別教不能得究竟解脫。共法別教的登地位相當於華嚴行法的十住位。",
+     "src": "pages/zongshi/zs4-14"
+    }
+   ]
+  },
+  {
+   "label": "登地前加持从外得，登地后转入内在觉知",
+   "text": "总释说共法别教与声闻权教行者三贤位之前的诸佛加持皆从外得，登地位之后才转入内在觉知模式、受自性地智慧加持。",
+   "quotes": [
+    {
+     "q": "對於共法別教和聲聞權教行者來說，其三賢位之前的諸佛加持皆從外得，非是以生起內在覺知智慧為主，登地位之後才開始轉入到內在覺知模式的行法",
+     "src": "pages/zongshi/zs5-08"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -66,12 +86,19 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答（jtl、wm-lb、hyxf）：说它依共法世间、依前五识，并说其理论把住行向地混在一起；2023 问答也有提及。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中把共法别教定为见性位之前的次第行法，共人天外道法、共声闻权教法，不能得究竟解脱；其登地位相当于华严十住位，三贤位前的诸佛加持皆从外得，登地后才转入内在觉知模式。"
   }
  ],
  "related": [
   "不共法别教",
   "五蕴身",
-  "住行向地"
+  "住行向地",
+  "内在觉知模式",
+  "十住位",
+  "声闻权教"
  ],
  "tensions": [],
  "gaps": [
@@ -82,13 +109,16 @@
   "pages/amtj/amtj4",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb",
   "pages/dayi_all/2018-2022dy/flWORD/jtl/9.hybgbjsztbyzdbjm-",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/139.btcddpxpsfj"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/139.btcddpxpsfj",
+  "pages/zongshi/zs4-14"
  ],
- "pages_consulted": 5,
+ "pages_consulted": 7,
  "confidence": "medium",
  "related_unresolved": [
   "不共法别教",
   "五蕴身",
-  "住行向地"
+  "住行向地",
+  "十住位",
+  "声闻权教"
  ]
 }

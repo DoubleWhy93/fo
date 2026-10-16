@@ -40,8 +40,20 @@ input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--lin
 .orig-desc{margin:1rem 0;padding:.8rem 1.1rem;border-left:4px solid var(--acc);background:var(--soft);border-radius:6px;font-size:1rem}
 .orig-desc .src{display:block;font-size:.8rem;color:var(--mute);margin-top:.4rem}
 ol.toc li.grp{background:none;border:none;padding:0;margin:1.2rem 0 .2rem;color:var(--acc)}
+.ev{position:relative;display:inline-block;font:12px/1.6 "Noto Sans SC","PingFang SC",sans-serif;color:var(--acc);border:1px solid var(--line);
+border-radius:99px;padding:0 .5rem;margin-left:.35rem;cursor:pointer;vertical-align:.12em;user-select:none}
+.ev:hover,.ev.open{border-color:var(--acc)}
+.ev-pop{display:none;position:absolute;z-index:20;left:0;top:1.9em;width:min(30rem,80vw);background:var(--card);border:1px solid var(--acc);
+border-radius:8px;padding:.6rem .85rem;font:16px/1.75 "Noto Serif SC","Songti SC",serif;color:var(--fg);box-shadow:0 6px 20px rgba(0,0,0,.15);cursor:auto;user-select:text}
+.ev-pop span.q{display:block;margin:.2rem 0}.ev-pop span.q::before{content:"「"}.ev-pop span.q::after{content:"」"}
+.ev-pop small{display:block;font-size:.78rem;color:var(--mute);margin-bottom:.3rem}
+@media (hover:hover){.ev:hover .ev-pop{display:block}}
+.ev.open .ev-pop{display:block}
+@media (max-width:640px){.ev{position:static}.ev-pop{left:1rem;right:1rem;width:auto}}
+.jump{font-size:.85rem;color:var(--mute);margin:.4rem 0 1rem;line-height:2}.jump a{white-space:nowrap}
+h2[id]{scroll-margin-top:4.5rem}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
-</style></head><body><header class="gbar"><a class="brand" href="index.html">华严讲稿学习站</a><nav><a href="jiang/huayan28/index.html">二十八讲</a><a href="jiang/zongshi/index.html">总释</a><a href="jiang/huayan70/index.html">七十讲</a><a href="jiang/shixin/index.html">十信位</a><a href="jiang/swxf/index.html">十住位</a><a href="amituo.html">阿弥陀经</a><a href="wen/index.html">答疑</a><a href="kb/index.html">知识库</a><a href="about.html" class=on>关于</a></nav></header><main><h1>关于本站</h1>
+</style></head><body><header class="gbar"><a class="brand" href="index.html">华严讲稿学习站</a><nav><a href="jiang/huayan28/index.html">二十八讲</a><a href="jiang/zongshi/index.html">总释</a><a href="jiang/huayan70/index.html">七十讲</a><a href="jiang/shixin/index.html">十信位</a><a href="jiang/swxf/index.html">十住位</a><a href="amituo.html">阿弥陀经</a><a href="wen/index.html">答疑</a><a href="kb/index.html">知识库</a><a href="search.html">搜索</a><a href="about.html" class=on>关于</a></nav></header><script>document.addEventListener('click',e=>{const t=e.target.closest('.ev');if(t&&e.target.closest('.ev-pop'))return;document.querySelectorAll('.ev.open').forEach(x=>{if(x!==t)x.classList.remove('open')});if(t)t.classList.toggle('open')});document.addEventListener('keydown',e=>{const t=e.target.closest&&e.target.closest('.ev');if(t&&(e.key==='Enter'||e.key===' ')){e.preventDefault();t.classList.toggle('open')}if(e.key==='Escape')document.querySelectorAll('.ev.open').forEach(x=>x.classList.remove('open'))})</script><main><h1>关于本站</h1>
 <p>本站是对<a href="https://huayan.academy/">华严书院</a>（「认识生命，觉悟华严」）公开讲稿与答疑的学习整理，不是新的讲解。讲稿与答疑的内容版权归原作者；本站不代表原作者。</p>
 <h2>内容从哪里来</h2><ul>
 <li>讲稿与论文：华严经总释二十八讲、华严七十讲、华严经·十信位、华严经·十住位（四位行法）、佛说阿弥陀经大义。《觉悟华严经·总释》（132 篇小论文）。</li>
@@ -49,7 +61,7 @@ ol.toc li.grp{background:none;border:none;padding:0;margin:1.2rem 0 .2rem;color:
 <li>经文：《佛说阿弥陀经》鸠摩罗什译，取自 <a href="https://www.cbeta.org/">CBETA</a>（T12n0366）。</li></ul>
 <h2>怎么整理的</h2><ol>
 <li>每一页原稿整理成一份摘要：要点、结构、观点、例子、概念。每条观点都附一段原文；原文逐字核对过，确实出自所标的那一页。</li>
-<li>把各页里同一个概念的说法汇成一张概念卡（323 张），框架汇成框架卡（89 张）。不同页面说法不一时，并列记录，不作裁决。</li>
+<li>把各页里同一个概念的说法汇成一张概念卡（374 张），框架汇成框架卡（89 张）。不同页面说法不一时，并列记录，不作裁决。</li>
 <li>抽查：另请独立审读者对照原稿上下文，复核 240 条概括文字。约 82% 完全有据，16% 部分有据（已改写），2% 无据（已删除）。</li></ol>
 <h2>请注意</h2><ul>
 <li>引文（「」内）逐字可靠；概括文字是整理者的话，可能多说或漏说，请以原稿为准。</li>

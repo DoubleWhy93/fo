@@ -42,6 +42,20 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
     }
    ]
+  },
+  {
+   "label": "普贤法界的行法精进：立一切法、不放逸",
+   "text": "总释说「立」一切法即普贤菩萨法界的行法精进，佛经中称不放逸；它包括行法种类扩大无尽与每一行法深入微细两方面。",
+   "quotes": [
+    {
+     "q": "「立」一切法即是普賢菩薩法界的行法精進。「行法精進」在佛經中稱作「不放逸」。",
+     "src": "pages/zongshi/zs4-17"
+    },
+    {
+     "q": "普賢菩薩法界的行法精進，包括兩個方面，一個方面是行法種類的擴大無盡，另一個方面是每一行法具體的深入微細。",
+     "src": "pages/zongshi/zs4-17"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -52,12 +66,18 @@
   {
    "series": "答疑",
    "text": "2023 年问答把它与梵行清净并列为两条戒律。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者把普贤菩萨法界的行法精进说成依无所住而「立」一切法，佛经称「不放逸」，包括行法种类扩大无尽与每一行法深入微细两方面；另一篇说清楚明了如来种性的确切要因比行法精进更重要。"
   }
  ],
  "related": [
   "梵行清净",
   "智慧增胜",
-  "一心清净"
+  "一心清净",
+  "不放逸",
+  "普贤菩萨法界"
  ],
  "tensions": [],
  "gaps": [
@@ -66,11 +86,13 @@
  "where_to_read": [
   "pages/huayan70/jiangyi4",
   "pages/huayan70/jiangyi19",
-  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)"
+  "pages/dayi_all/2023dy/wz/WORDbb/15.btzxjdhdcb(2023-11-04)",
+  "pages/zongshi/zs4-17"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 4,
  "confidence": "high",
  "related_unresolved": [
-  "智慧增胜"
+  "智慧增胜",
+  "不放逸"
  ]
 }

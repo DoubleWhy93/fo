@@ -58,6 +58,30 @@
      "src": "pages/huayan70/jiangyi7"
     }
    ]
+  },
+  {
+   "label": "世尊、无量光、众妙宝色（总释）",
+   "text": "总释说世尊是一切光的本体，光是自性本体生起的微细觉知，众宝妙色是微细的境界相，三者是自性本体的三个方面，即三细相，由此品开端大众念请四十大问所生起。",
+   "quotes": [
+    {
+     "q": "世尊、無量光和眾妙寶色三者是自性本體的三個方面。這是佛教所說的三細相",
+     "src": "pages/zongshi/zs5-02"
+    }
+   ]
+  },
+  {
+   "label": "根本无明所生，再分八识、四智两种模式（总释）",
+   "text": "总释说根本无明的作用生起三细相；世间相生起先是三细相生起，从三细相到世间相有八识模式和四智模式两种。",
+   "quotes": [
+    {
+     "q": "根本無明的作用生起三細相，一念無明作用生起六粗相。",
+     "src": "pages/zongshi/zs1-06"
+    },
+    {
+     "q": "世間相的生起，先是三細相生起，從三細相到世間相的生起有兩種模式：八識模式和四智模式。",
+     "src": "pages/zongshi/zs1-06"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -72,12 +96,19 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答讲三细相针对所有众生。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在《如来现相品》中把世尊、无量光、众妙宝色说成自性本体的三个方面，即三细相；又说根本无明作用生三细相，世间相生起先是三细相，再依八识或四智两种模式成为世间相。"
   }
  ],
  "related": [
   "无为法",
   "八识",
-  "四智行法"
+  "四智行法",
+  "根本无明",
+  "六粗相",
+  "世尊"
  ],
  "tensions": [
   {
@@ -102,12 +133,14 @@
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/128.sxxhfbhssddygx",
   "pages/huayan70/jiangyi19",
   "pages/huayan70/jiangyi7",
-  "pages/huayan28/28jiang13"
+  "pages/huayan28/28jiang13",
+  "pages/zongshi/zs5-02"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": [
   "无为法",
-  "八识"
+  "八识",
+  "六粗相"
  ]
 }

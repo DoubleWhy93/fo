@@ -40,6 +40,14 @@
     {
      "q": "『童子』代表種子，一塵不染，有無量的生長空間",
      "src": "pages/huayan70/jiangyi45"
+    },
+    {
+     "q": "「童子」代表梵行清淨智慧純真的行者，亦代表自性地一切種子初始發生之地",
+     "src": "pages/zongshi/zs7-12"
+    },
+    {
+     "q": "「童子」好比是種子，從這裡建立圓滿法界的一切法。",
+     "src": "pages/zongshi/zs7-31"
     }
    ]
   },
@@ -52,6 +60,24 @@
      "src": "pages/huayan28/28jiang27"
     }
    ]
+  },
+  {
+   "label": "入世而清净无染、谦卑纯真的行者",
+   "text": "总释说童子代表入于世间而清净无染；也代表质地纯真、恒处谦卑、远离二乘权教与一切法分别执取的行者；等觉位两位童子代表纯用无染入世精进。",
+   "quotes": [
+    {
+     "q": "「童子」代表入於世間而清淨無染。",
+     "src": "pages/zongshi/zs2-17"
+    },
+    {
+     "q": "「童子」表質地純真出生一切真實之法，代表恒處謙卑無有傲慢，遠離二乘聲聞權教別教，遠離一切法分別執取。",
+     "src": "pages/zongshi/zs7-31"
+    },
+    {
+     "q": "第三等覺第四等覺是兩位童子，代表純用無染入世精進。",
+     "src": "pages/zongshi/zs7-04"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -62,12 +88,18 @@
   {
    "series": "huayan70",
    "text": "种子与生长空间。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在讲毘卢遮那品大威光童子与五十三参善知识时解释童子：代表入于世间而清净无染、梵行清净智慧纯真的行者，恒处谦卑、远离分别执取，并好比种子，从此建立圆满法界一切法。"
   }
  ],
  "related": [
   "种子",
   "一心清净",
-  "善财童子"
+  "善财童子",
+  "梵行清净",
+  "大威光童子"
  ],
  "tensions": [],
  "gaps": [
@@ -77,11 +109,12 @@
   "pages/huayan28/28jiang25",
   "pages/huayan70/jiangyi42",
   "pages/huayan28/28jiang27",
-  "pages/huayan70/jiangyi45"
+  "pages/huayan70/jiangyi45",
+  "pages/zongshi/zs2-17"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 8,
  "confidence": "medium",
  "related_unresolved": [
-  "种子"
+  "大威光童子"
  ]
 }

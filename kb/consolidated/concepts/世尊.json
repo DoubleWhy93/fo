@@ -34,6 +34,10 @@
     {
      "q": "『世尊』是指眾生的根本的自性覺知力。",
      "src": "pages/huayan70/jiangyi19"
+    },
+    {
+     "q": "世尊是修行者自性本體的覺性，自性本體，本自解脫。",
+     "src": "pages/zongshi/zs2-11"
     }
    ]
   },
@@ -102,6 +106,30 @@
      "src": "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
     }
    ]
+  },
+  {
+   "label": "一切法圆满觉悟：生起处与成就处（总释）",
+   "text": "总释说世尊是自性地本有的一切法圆满觉悟，与依自性觉悟生起的五位行法共成六位；世尊是一切法生起处，也是一切法成就处。",
+   "quotes": [
+    {
+     "q": "「世尊」是自性地本有的一切法圓滿覺悟",
+     "src": "pages/zongshi/zs3-18"
+    },
+    {
+     "q": "世尊是一切法生起處也是一切法成就處。",
+     "src": "pages/zongshi/zs3-18"
+    }
+   ]
+  },
+  {
+   "label": "成就位，对菩萨修行位（总释）",
+   "text": "总释说世尊代表自性智慧和显相的圆满成就；等觉位之前菩萨成就和自性圆满成就是分开的，世尊是成就位，菩萨是修行位。",
+   "quotes": [
+    {
+     "q": "「世尊」代表自性智慧和顯相的圓滿成就，等覺位之前，菩薩成就和自性圓滿成就是分開的，世尊是成就位，菩薩是修行位",
+     "src": "pages/zongshi/zs5-08"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -124,6 +152,10 @@
   {
    "series": "答疑",
    "text": "2024 年问答讲成无上正觉后以差别智在世间显相；dy_hyah 另用「世尊」指世间说法者。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说世尊是修行者自性本体的觉性、本自解脱，是自性地本有的一切法圆满觉悟、一切法生起处也是成就处；讲诸会放光时又说世尊代表自性智慧和显相的圆满成就，等觉位之前世尊是成就位、菩萨是修行位。"
   }
  ],
  "related": [
@@ -181,9 +213,10 @@
   "pages/shixin/shixin3",
   "pages/swxf/shizhu12",
   "pages/shixin/shixin2",
-  "pages/huayan70/jiangyi40"
+  "pages/huayan70/jiangyi40",
+  "pages/zongshi/zs3-18"
  ],
  "confidence": "medium",
- "pages_consulted": 15,
+ "pages_consulted": 18,
  "related_unresolved": []
 }

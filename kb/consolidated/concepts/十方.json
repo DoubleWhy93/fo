@@ -80,6 +80,24 @@
     {
      "q": "下方代表種性成就，或者法性成就；上方則代表法界成就",
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/3.szsfjgdysyq"
+    },
+    {
+     "q": "華嚴經常常講到四智十方，十方模式比四智四用的八方模式多了上方和下方。下方代表法性智慧，上方代表法界現相。",
+     "src": "pages/zongshi/zs1-09"
+    }
+   ]
+  },
+  {
+   "label": "非世间方位，而是正知见善思惟的作用模式",
+   "text": "总释说十方不是世间法的方位，而是正知见善思惟的微细作用模式；《华藏世界品》以中心自性本体世界种生起十方世界种，层层无尽。",
+   "quotes": [
+    {
+     "q": "十方不是世間法的方位，而是正知見善思惟的微細作用模式。",
+     "src": "pages/zongshi/zs3-06"
+    },
+    {
+     "q": "依照此中心的自性本體世界種，生起其十方的十個世界種圍繞，然後，十方的每一方世界種，又各自生起其十方的十個世界種圍繞",
+     "src": "pages/zongshi/zs1-02"
     }
    ]
   }
@@ -100,6 +118,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年答疑把十方诸佛讲成行法模式、曼陀罗结构，并讲八方与上下方的成就所指。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者明说十方不是世间法的方位，而是正知见善思惟的微细作用模式；并以《华藏世界品》中心世界种生起十方世界种、层层无尽的结构来讲十方。"
   }
  ],
  "related": [
@@ -107,7 +129,9 @@
   "自性智慧",
   "差别智",
   "行法模式",
-  "曼陀罗"
+  "曼陀罗",
+  "四智十方",
+  "正知见"
  ],
  "tensions": [
   {
@@ -135,12 +159,14 @@
   "pages/huayan70/jiangyi46",
   "pages/shixin/shixin14",
   "pages/dayi_all/2018-2022dy/flWORD/jtl/30.rhljxfamtfhdfysfd-zflx--",
-  "pages/dayi_all/2018-2022dy/flWORD/sz/3.szsfjgdysyq"
+  "pages/dayi_all/2018-2022dy/flWORD/sz/3.szsfjgdysyq",
+  "pages/zongshi/zs3-06"
  ],
- "pages_consulted": 9,
+ "pages_consulted": 12,
  "confidence": "medium",
  "related_unresolved": [
   "自性智慧",
-  "曼陀罗"
+  "曼陀罗",
+  "正知见"
  ]
 }

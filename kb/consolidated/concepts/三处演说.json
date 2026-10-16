@@ -34,6 +34,10 @@
     {
      "q": "這三處就是生命中佛法僧這三個因素所生的一切法",
      "src": "pages/dayi_all/2023dy/wz/WORDbb/20.xfzxdtt-23-12-23-"
+    },
+    {
+     "q": "華嚴經分為三處演說：菩提場、普光明殿和入法界。這三處對應著眾生生命本體的佛、法、僧，三處是不能改動的",
+     "src": "pages/zongshi/zs1-08"
     }
    ]
   },
@@ -48,6 +52,10 @@
     {
      "q": "第三是在『入法界遍一切處』演說五十三位精進行法。",
      "src": "pages/huayan28/28jiang1"
+    },
+    {
+     "q": "第一處在菩提場，演說如來果地境界；第二處在普光明殿，演說六位行法理論；第三處是入法界，演說行法實踐，成就圓滿法身",
+     "src": "pages/zongshi/zs5-10"
     }
    ]
   },
@@ -102,6 +110,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答把三处与转八识成四智、体用结构联系；2023 年问答讲龙树按佛法僧顺序集结；2024 年问答重述佛法僧三因素。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者以三处演说概括全经结构：菩提场、普光明殿、入法界对应众生自性本体的佛法僧，三处不能改动，代表生命全体；菩提场演说如来果地境界，普光明殿演说六位行法理论，入法界演说行法实践、成就圆满法身，每一处的演说即那一处的成就。"
   }
  ],
  "related": [
@@ -136,6 +148,19 @@
      "src": "pages/shixin/shixin13"
     }
    ]
+  },
+  {
+   "text": "三处次第是否即修行次第：总释说三处在经文上的次第也是行者从智慧生起到行法成就的次第；huayan70 说三处的次序不是行法实践的结构和证入无上正觉的顺序。",
+   "sources": [
+    {
+     "q": "三處演說在經文上的次第，也是行者從智慧生起到行法成就的次第。",
+     "src": "pages/zongshi/zs5-10"
+    },
+    {
+     "q": "不是行法實踐的結構和證入無上正覺的順序",
+     "src": "pages/huayan70/jiangyi1"
+    }
+   ]
   }
  ],
  "gaps": [
@@ -148,12 +173,12 @@
   "pages/shixin/shixin1",
   "pages/shixin/shixin4",
   "pages/huayan70/jiangyi27",
-  "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)"
+  "pages/dayi_all/2023dy/wz/WORDbb/12.gbzdgdx(2023-10-21)",
+  "pages/zongshi/zs5-10"
  ],
- "pages_consulted": 12,
+ "pages_consulted": 14,
  "confidence": "high",
  "related_unresolved": [
-  "菩提场",
   "身语意"
  ]
 }

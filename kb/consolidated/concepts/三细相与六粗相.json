@@ -26,6 +26,10 @@
     {
      "q": "三細相就是根本無明的存在形式，一念無明的存在形式是六粗相。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys"
+    },
+    {
+     "q": "根本無明的作用生起三細相，一念無明作用生起六粗相。",
+     "src": "pages/zongshi/zs1-06"
     }
    ]
   },
@@ -48,6 +52,20 @@
      "src": "pages/swxf/shizhu8"
     }
    ]
+  },
+  {
+   "label": "无明不觉生三细，境界为缘长六粗（总释）",
+   "text": "总释用这句经典说法说明世间相的生起，并说最初的十波罗蜜种子继续加行、生起体上与用上两种十波罗蜜的过程，即是「无明不觉生三细」。",
+   "quotes": [
+    {
+     "q": "世間相生起，在經典上說即是「無明不覺生三細，境界為緣長六粗」。",
+     "src": "pages/zongshi/zs1-06"
+    },
+    {
+     "q": "這個最初的十波羅蜜種子繼續加行，就生起體用兩種作用：體上十波羅蜜和用上十波羅蜜，即從一個生成了兩個。這個過程即是「無明不覺生三細」",
+     "src": "pages/zongshi/zs1-06"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -62,6 +80,10 @@
   {
    "series": "答疑",
    "text": "hyxf 页：不能直接破三细相，要在六粗相里修，形成力量影响三细相。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者引经典「无明不觉生三细，境界为缘长六粗」说明世间相的生起：根本无明作用生三细相，一念无明作用生六粗相；又说最初十波罗蜜种子加行生起体用的过程即「无明不觉生三细」。"
   }
  ],
  "related": [
@@ -72,7 +94,8 @@
   "差别智",
   "根本智",
   "道种智",
-  "灭尽定"
+  "灭尽定",
+  "十波罗蜜"
  ],
  "tensions": [],
  "gaps": [
@@ -81,9 +104,10 @@
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/137.wsmsctzhmyfrslgys",
   "pages/huayan70/jiangyi39",
-  "pages/swxf/shizhu8"
+  "pages/swxf/shizhu8",
+  "pages/zongshi/zs1-06"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 4,
  "confidence": "medium",
  "related_unresolved": [
   "六粗相"

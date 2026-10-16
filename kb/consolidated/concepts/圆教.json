@@ -26,6 +26,10 @@
     {
      "q": "圓教是把修行的目標和起點直接放在一心成就上",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb"
+    },
+    {
+     "q": "圓教與這些的差別，是把修行的目標和起點直接放在一心成就上。",
+     "src": "pages/zongshi/zs1-10"
     }
    ]
   },
@@ -48,19 +52,34 @@
      "src": "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
     }
    ]
+  },
+  {
+   "label": "圆教中各位所依之「地」",
+   "text": "总释说不同种性对「地」的解读不同；圆教中十住以般若成就为地、十行以善思惟为地、十回向以起相应微细智为地、十地以念念生起世间庄严为地，等觉以上以一切法为地。",
+   "quotes": [
+    {
+     "q": "圓教中，十住位菩薩以般若成就為地、十行位菩薩以善思惟為地、十迴向位菩薩以起相應微細智為地",
+     "src": "pages/zongshi/zs1-05"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022 年问答从一心成就与取消对立讲；2024 年问答给出入灭尽定、根本智行法阶段的门槛。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中给出与 2018–2022 问答相同的界定（目标与起点直接放在一心成就上），并从种性差别讲圆教，说圆教中住行向地各位以不同之法为「地」，十地行法须以三贤位成就为先导。"
   }
  ],
  "related": [
   "别教",
   "入灭尽定行法",
   "根本智",
-  "阿鞞跋致"
+  "阿鞞跋致",
+  "种性"
  ],
  "tensions": [
   {
@@ -84,9 +103,10 @@
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb",
   "pages/dayi_all/2018-2022dy/flWORD/sz/23.rhzbscsz",
-  "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-"
+  "pages/dayi_all/2024dy/2024dywd/2.dy-2024-9-21-",
+  "pages/zongshi/zs1-10"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": []
 }

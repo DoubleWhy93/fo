@@ -48,6 +48,30 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/79.tdsyfrmsdh-whzgdzsyylzrzxn"
     }
    ]
+  },
+  {
+   "label": "基于世间法的思惟觉知和智慧应用（总释）",
+   "text": "总释说宫殿在大乘经典中代表基于世间法的思惟觉知和智慧应用；宫殿迎佛意味着基于世间法的知见、思惟和自性本体的觉性相应。",
+   "quotes": [
+    {
+     "q": "「宮殿」兩個字在大乘經典中，代表基於世間法的思惟覺知和智慧應用。",
+     "src": "pages/zongshi/zs2-10"
+    },
+    {
+     "q": "宮殿迎佛，意味著基於世間法的知見、思惟，和自性本體的覺性相應。",
+     "src": "pages/zongshi/zs2-11"
+    }
+   ]
+  },
+  {
+   "label": "不同宫殿即不同种性的成就次第",
+   "text": "总释说种性不同则相应模式和程度不同，在华严经中即见性位之后的五位行法，所以不同的宫殿是不同种性下的成就次第。",
+   "quotes": [
+    {
+     "q": "所以，不同的宮殿，是不同種性下的成就次第。",
+     "src": "pages/zongshi/zs2-11"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -58,21 +82,27 @@
   {
    "series": "答疑",
    "text": "2018–2022 年答疑：一类法的集合即宫殿。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说宫殿代表基于世间法的思惟觉知和智慧应用，不同天宫宫殿是不同种性下的成就次第，住行向地后位宫殿庄严胜过前位；宫殿迎佛代表世间法知见思惟与自性觉性相应。"
   }
  ],
  "related": [
   "般若智慧",
   "行法理论",
-  "行法次第"
+  "行法次第",
+  "种性"
  ],
  "tensions": [],
  "gaps": [],
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/79.tdsyfrmsdh-whzgdzsyylzrzxn",
   "pages/huayan70/jiangyi14",
-  "pages/huayan70/jiangyi22"
+  "pages/huayan70/jiangyi22",
+  "pages/zongshi/zs2-10"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": [
   "行法理论"

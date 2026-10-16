@@ -41,6 +41,10 @@
     {
      "q": "「阿」代表本體的這一塊，「彌陀」代表無量的體驗，「阿彌陀」代表所有法。",
      "src": "pages/dayi_all/ztjz/9.zwysssmzyqfddyy"
+    },
+    {
+     "q": "其中「阿」代表自性無所住，「彌陀」代表依自性無所住立一切世界的一切法。",
+     "src": "pages/zongshi/zs4-19"
     }
    ]
   },
@@ -99,6 +103,20 @@
      "src": "pages/dayi_all/fjzxlydy/-fjzxly-dywzb/1.-fjzxly-dy"
     }
    ]
+  },
+  {
+   "label": "根本智与差别智",
+   "text": "总释说「阿」代表根本智，「弥陀」代表差别智，阿弥陀代表从根本智出生一切差别智，即世出世间一切法。",
+   "quotes": [
+    {
+     "q": "「阿」代表總法、空法、根本智，「彌陀」代表別法、有法、差別智。",
+     "src": "pages/zongshi/zs7-02"
+    },
+    {
+     "q": "「阿」代表根本智，「彌陀」代表差別智，「阿彌陀」代表從根本智出生一切差別智",
+     "src": "pages/zongshi/zs7-29"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -117,6 +135,10 @@
   {
    "series": "答疑",
    "text": "2018-2022 年答疑讲阿与弥陀的对应因素与内在生起；2023-2024 年答疑讲本体与显相、自我因素与无量名号。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中把「阿」解作总法、空法、根本智或自性无所住，「弥陀」解作别法、有法、差别智或依自性无所住所立的一切法；阿弥陀即依根本智出生一切差别智，代表世出世间一切法。"
   }
  ],
  "related": [
@@ -163,7 +185,7 @@
   "pages/huayan70/jiangyi49",
   "pages/dayi_all/2023dy/wz/WORDbb/6.zywd-2023-09-23-"
  ],
- "pages_consulted": 15,
+ "pages_consulted": 18,
  "confidence": "high",
  "key": "阿弥陀",
  "related_unresolved": [

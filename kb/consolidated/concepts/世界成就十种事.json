@@ -34,6 +34,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/17.sxwrhmlszz-"
     }
    ]
+  },
+  {
+   "label": "核心觉知因素（十波罗蜜）",
+   "text": "总释说世界成就十种事是觉知一切世界一切法时的核心觉知因素，不是概念型的，可以入微细、可以显相；其核心按十波罗蜜的形式言说，《华藏世界品》依此十种因素生起对世间境界的微细觉知。",
+   "quotes": [
+    {
+     "q": "核心的覺知因素，即是經文講到的世界成就十種事。這種覺知因素不是概念型的，它可以入微細，可以顯相。",
+     "src": "pages/zongshi/zs1-02"
+    },
+    {
+     "q": "這些因素的核心是按照十波羅蜜的形式來言說的。",
+     "src": "pages/zongshi/zs1-02"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -44,10 +58,15 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答说它是建立《华藏世界品》成就模式的十种原则，每事十方面成一百个因素。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说《世界成就品》讲觉知一切世界一切法时的核心觉知因素即世界成就十种事，非概念型，按十波罗蜜形式言说。"
   }
  ],
  "related": [
-  "华藏世界"
+  "华藏世界",
+  "十波罗蜜"
  ],
  "tensions": [],
  "gaps": [
@@ -55,11 +74,10 @@
  ],
  "where_to_read": [
   "pages/huayan70/jiangyi8",
-  "pages/dayi_all/2018-2022dy/flWORD/sz/17.sxwrhmlszz-"
+  "pages/dayi_all/2018-2022dy/flWORD/sz/17.sxwrhmlszz-",
+  "pages/zongshi/zs1-02"
  ],
- "pages_consulted": 2,
+ "pages_consulted": 3,
  "confidence": "medium",
- "related_unresolved": [
-  "华藏世界"
- ]
+ "related_unresolved": []
 }

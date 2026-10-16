@@ -30,6 +30,10 @@
     {
      "q": "別教的意思，一是講依次第行法，一是說別業所成。",
      "src": "pages/huayan28/28jiang23"
+    },
+    {
+     "q": "別教行法是次第修行模式，前段修行的理念和成果，會成為下個行法階段的基礎。",
+     "src": "pages/zongshi/zs1-10"
     }
    ]
   },
@@ -60,6 +64,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/149.rhddsmjt-"
     }
    ]
+  },
+  {
+   "label": "与行者种性有关",
+   "text": "总释说权教、别教、圆教等说法都和行者种性有关；各种性菩萨成就差别很大，菩萨也可能带有声闻、缘觉的种性习气。",
+   "quotes": [
+    {
+     "q": "在佛教中，我們常常聽到這些名相：聲聞、緣覺、菩薩，還有權教、別教、圓教等等，這些說法都和行者的種性有關。",
+     "src": "pages/zongshi/zs1-10"
+    },
+    {
+     "q": "當然，權教、別教、圓教各個種性的菩薩在成就上有很大差別，菩薩本身也可能具有聲聞乘、緣覺乘的種性習氣。",
+     "src": "pages/zongshi/zs1-10"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -70,6 +88,10 @@
   {
    "series": "答疑",
    "text": "2018–2022：次第修行模式、共法别教与不共法别教之辨、别教阶段要审核自己的行法。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把别教放在种性差别中讲（声闻、缘觉、菩萨与权教、别教、圆教都和行者种性有关），并定义为次第修行模式：前段成果是下个阶段的基础；又说一心清净和善根增长不成就则后面的圆满智慧、圆满法界不会生起，这就是别教。"
   }
  ],
  "related": [
@@ -78,7 +100,9 @@
   "不共法别教",
   "权教",
   "报身世间",
-  "次第行法"
+  "次第行法",
+  "种性",
+  "善根"
  ],
  "tensions": [
   {
@@ -120,10 +144,11 @@
   "pages/dayi_all/2018-2022dy/flWORD/jtl/3. qj-bjyyjzjdcb",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/10.bjyyjxf-gfbjybgfbjdcb",
   "pages/huayan28/28jiang23",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/149.rhddsmjt-"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/149.rhddsmjt-",
+  "pages/zongshi/zs1-10"
  ],
  "confidence": "medium",
- "pages_consulted": 4,
+ "pages_consulted": 5,
  "related_unresolved": [
   "不共法别教",
   "次第行法"

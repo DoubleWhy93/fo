@@ -40,8 +40,20 @@ input#q{width:100%;padding:.6rem .8rem;font-size:1rem;border:1px solid var(--lin
 .orig-desc{margin:1rem 0;padding:.8rem 1.1rem;border-left:4px solid var(--acc);background:var(--soft);border-radius:6px;font-size:1rem}
 .orig-desc .src{display:block;font-size:.8rem;color:var(--mute);margin-top:.4rem}
 ol.toc li.grp{background:none;border:none;padding:0;margin:1.2rem 0 .2rem;color:var(--acc)}
+.ev{position:relative;display:inline-block;font:12px/1.6 "Noto Sans SC","PingFang SC",sans-serif;color:var(--acc);border:1px solid var(--line);
+border-radius:99px;padding:0 .5rem;margin-left:.35rem;cursor:pointer;vertical-align:.12em;user-select:none}
+.ev:hover,.ev.open{border-color:var(--acc)}
+.ev-pop{display:none;position:absolute;z-index:20;left:0;top:1.9em;width:min(30rem,80vw);background:var(--card);border:1px solid var(--acc);
+border-radius:8px;padding:.6rem .85rem;font:16px/1.75 "Noto Serif SC","Songti SC",serif;color:var(--fg);box-shadow:0 6px 20px rgba(0,0,0,.15);cursor:auto;user-select:text}
+.ev-pop span.q{display:block;margin:.2rem 0}.ev-pop span.q::before{content:"「"}.ev-pop span.q::after{content:"」"}
+.ev-pop small{display:block;font-size:.78rem;color:var(--mute);margin-bottom:.3rem}
+@media (hover:hover){.ev:hover .ev-pop{display:block}}
+.ev.open .ev-pop{display:block}
+@media (max-width:640px){.ev{position:static}.ev-pop{left:1rem;right:1rem;width:auto}}
+.jump{font-size:.85rem;color:var(--mute);margin:.4rem 0 1rem;line-height:2}.jump a{white-space:nowrap}
+h2[id]{scroll-margin-top:4.5rem}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
-</style></head><body><header class="gbar"><a class="brand" href="index.html">华严讲稿学习站</a><nav><a href="jiang/huayan28/index.html">二十八讲</a><a href="jiang/zongshi/index.html">总释</a><a href="jiang/huayan70/index.html">七十讲</a><a href="jiang/shixin/index.html">十信位</a><a href="jiang/swxf/index.html">十住位</a><a href="amituo.html">阿弥陀经</a><a href="wen/index.html">答疑</a><a href="kb/index.html">知识库</a><a href="about.html">关于</a></nav></header><main><div class="hero"><h1>华严讲稿学习站</h1>
+</style></head><body><header class="gbar"><a class="brand" href="index.html">华严讲稿学习站</a><nav><a href="jiang/huayan28/index.html">二十八讲</a><a href="jiang/zongshi/index.html">总释</a><a href="jiang/huayan70/index.html">七十讲</a><a href="jiang/shixin/index.html">十信位</a><a href="jiang/swxf/index.html">十住位</a><a href="amituo.html">阿弥陀经</a><a href="wen/index.html">答疑</a><a href="kb/index.html">知识库</a><a href="search.html">搜索</a><a href="about.html">关于</a></nav></header><script>document.addEventListener('click',e=>{const t=e.target.closest('.ev');if(t&&e.target.closest('.ev-pop'))return;document.querySelectorAll('.ev.open').forEach(x=>{if(x!==t)x.classList.remove('open')});if(t)t.classList.toggle('open')});document.addEventListener('keydown',e=>{const t=e.target.closest&&e.target.closest('.ev');if(t&&(e.key==='Enter'||e.key===' ')){e.preventDefault();t.classList.toggle('open')}if(e.key==='Escape')document.querySelectorAll('.ev.open').forEach(x=>x.classList.remove('open'))})</script><main><div class="hero"><h1>华严讲稿学习站</h1>
 <p>整理华严书院公开讲稿与答疑：每一讲有要点、结构和附原文的观点，概念有汇总，答疑可搜索。</p></div>
 <h2>学习次第</h2>
 <blockquote class="orig-desc">要全面系统学习华严经，若以消文解读作为开始，初学者则很容易迷失。若具备了一些基本的佛教资粮，即可以从如下次序逐渐拓展。初学者是从《觉悟华严经·总释二十八讲》的三部分入手，作为走入华严行法的前行，然后对照《觉悟华严经·总释》和《觉悟华严经·讲义七十讲》逐步深入到具体经文。<span class="src">—— 华严书院《华严经学习次第》</span></blockquote>
@@ -53,5 +65,5 @@ ol.toc li.grp{background:none;border:none;padding:0;margin:1.2rem 0 .2rem;color:
 <a class="tile" href="amtj-easy/index.html"><b>《阿弥陀经》轻松读</b><span>第一次接触？不用先懂术语，一段一段读</span></a></div>
 <h2>答疑与概念</h2><div class="grid">
 <a class="tile" href="wen/index.html"><b>答疑</b><span>789 篇，按分类与年份，可搜索标题</span></a>
-<a class="tile" href="kb/index.html"><b>概念</b><span>323 个概念：讲者怎么说、各讲稿怎么讲、说法不一之处</span></a>
+<a class="tile" href="kb/index.html"><b>概念</b><span>374 个概念：讲者怎么说、各讲稿怎么讲、说法不一之处</span></a>
 <a class="tile" href="kb/frameworks.html"><b>框架</b><span>89 个：六波罗蜜、三处十会、住行向地……成员与次序</span></a></div><p class="note">整理自<a href="https://huayan.academy/">华严书院</a>公开讲稿，仅供学习；内容版权归原作者。</p></main></body></html>

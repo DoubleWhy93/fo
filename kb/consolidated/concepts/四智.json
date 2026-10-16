@@ -18,6 +18,24 @@
     {
      "q": "用世間言語表達就是東南西北",
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+    },
+    {
+     "q": "佛教中常常用四方來代表四智：東方大圓鏡智、南方平等性智、西方妙觀察智、北方成所作智。",
+     "src": "pages/zongshi/zs1-09"
+    }
+   ]
+  },
+  {
+   "label": "华严经的四智即住行向地四位",
+   "text": "总释说华严经的四智即十住、十行、十回向和十地；这四十位行法主要作并行模式来说，但也具备次第成就的串行模式。",
+   "quotes": [
+    {
+     "q": "華嚴經的四智，即是十住、十行、十迴向和十地。",
+     "src": "pages/zongshi/zs4-14"
+    },
+    {
+     "q": "我們這次學習，是把它主要作為並行模式來說，但其中也具備次第成就的串行模式。",
+     "src": "pages/zongshi/zs1-03"
     }
    ]
   }
@@ -26,21 +44,32 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答（sz 系列）中直接定义。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者以四方代表四智（东方大圆镜智、南方平等性智、西方妙观察智、北方成所作智），并说华严经的四智即十住、十行、十回向、十地四位行法，主要作并行模式说，也具次第串行。"
   }
  ],
  "related": [
   "四智行法",
   "十方",
-  "南方"
+  "南方",
+  "四智十方",
+  "大圆镜智",
+  "平等性智",
+  "妙观察智",
+  "成所作智"
  ],
  "tensions": [],
  "gaps": [
-  "只有一条定义；四智与四十位行法次第、十方的关系在 teachings 中提到，本卡未引其原文。"
+  "四智各自的具体内容（大圆镜智等各指什么）在所用页上未逐一展开。"
  ],
  "where_to_read": [
-  "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-"
+  "pages/dayi_all/2018-2022dy/flWORD/sz/1.hwszsfhyxms-",
+  "pages/zongshi/zs1-09",
+  "pages/zongshi/zs4-14"
  ],
- "pages_consulted": 1,
- "confidence": "low",
+ "pages_consulted": 4,
+ "confidence": "medium",
  "related_unresolved": []
 }

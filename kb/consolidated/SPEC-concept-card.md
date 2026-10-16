@@ -22,7 +22,7 @@ named next to it. You may open `kb/sources/<page id>.md` to confirm context or f
     {"label": "short label for one distinct way it is used/defined",
      "text": "1-3 sentences", "quotes": [ {"q": "...", "src": "pages/…"} ]}
   ],
-  "by_series": [ {"series": "huayan28|huayan70|shixin|swxf|amtj|juewu_s|答疑", "text": "how this series treats it (1-2 sentences)"} ],
+  "by_series": [ {"series": "huayan28|huayan70|shixin|swxf|amtj|juewu_s|zongshi|答疑", "text": "how this series treats it (1-2 sentences)"} ],
   "related": ["canonical names of related concepts"],
   "tensions": [ {"text": "where sources differ or seem to conflict, stated neutrally",
                  "sources": [ {"q": "...", "src": "pages/…"} ]} ],
@@ -50,7 +50,7 @@ named next to it. You may open `kb/sources/<page id>.md` to confirm context or f
    themselves leave open. When in doubt leave `aliases` empty and say so under `gaps`.
 6. **Confidence**: high = defined explicitly and consistently on several pages; medium = defined but with variation or on
    few pages; low = mostly "used", or definitions conflict.
-7. `by_series` uses these series names only: huayan28, huayan70, shixin, swxf, amtj, juewu_s, and **答疑** for all
+7. `by_series` uses these series names only: huayan28, huayan70, shixin, swxf, amtj, juewu_s, zongshi (《觉悟华严经·总释》, written essays: say 作者 or 文中, not 讲者), and **答疑** for all
    Q&A (`dayi` and every `dayi_all/…`; name the year or topic series inside the text when it matters).
    `pages_consulted` is how many pages you actually read or drew on (so readers know the card's depth).
 8. `related` names should be terms that appear in the evidence (concepts, or frameworks); do not invent names.

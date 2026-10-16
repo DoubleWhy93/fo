@@ -80,6 +80,16 @@
      "src": "pages/swxf/shizhu17"
     }
    ]
+  },
+  {
+   "label": "经文中与「国土」对举",
+   "text": "总释讲四智行法经文中诸佛、菩萨所从来处的数字拓展时，说「国土」是行者自证成就，「世界」是行者精进成就，所以有诸佛加持。",
+   "quotes": [
+    {
+     "q": "「國土」是行者自證成就，所以能菩薩雲集；「世界」是行者精進成就，所以有諸佛加持。",
+     "src": "pages/zongshi/zs4-06"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -94,6 +104,10 @@
   {
    "series": "答疑",
    "text": "2023：两个含义（存在与生命认知）；2024：加上觉知、思惟、分别、选择、判断。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中只在讲经文数字拓展时点到：「世界」与「国土」对举，「世界」指行者精进成就、所以有诸佛加持；未展开存在加定义的世界定义。"
   }
  ],
  "related": [
@@ -116,9 +130,7 @@
   "pages/huayan70/jiangyi51",
   "pages/dayi_all/2024dy/2024dywd/1.dy-2024-9-14-"
  ],
- "pages_consulted": 9,
+ "pages_consulted": 10,
  "confidence": "high",
- "related_unresolved": [
-  "华藏世界"
- ]
+ "related_unresolved": []
 }

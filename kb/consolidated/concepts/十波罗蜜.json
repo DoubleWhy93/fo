@@ -64,6 +64,28 @@
     {
      "q": "佛法僧是本體，十波羅蜜是有法種子的加行",
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+    },
+    {
+     "q": "其中佛法僧是本體，十波羅蜜是有法種子的加行模式。",
+     "src": "pages/zongshi/zs1-06"
+    }
+   ]
+  },
+  {
+   "label": "生起体用：二十、四十波罗蜜",
+   "text": "总释说十波罗蜜种子生起体用成二十波罗蜜，体用二十波罗蜜继续加行又生成四十波罗蜜，这就是华严经四十位行法。",
+   "quotes": [
+    {
+     "q": "十波羅蜜種子生起體用，成為二十波羅蜜。",
+     "src": "pages/zongshi/zs1-06"
+    },
+    {
+     "q": "這種體和用的二十波羅蜜繼續加行，又分別生起各自的體用，這就生成四十波羅蜜：體上二十個波羅蜜，用上二十個波羅蜜。",
+     "src": "pages/zongshi/zs1-06"
+    },
+    {
+     "q": "這就是華嚴經四十位行法。",
+     "src": "pages/zongshi/zs1-06"
     }
    ]
   }
@@ -76,6 +98,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答（hyxf、sz 等）强调它是核心行法与理论，四位行法的十位次都是其体现。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说佛法僧是本体、十波罗蜜是有法种子的加行模式；最初十波罗蜜生起体用成二十波罗蜜，再各生体用成四十波罗蜜，即华严经四十位行法。"
   }
  ],
  "related": [
@@ -83,7 +109,8 @@
   "佛法僧",
   "四智行法",
   "行法理论",
-  "有法"
+  "有法",
+  "二十波罗蜜"
  ],
  "tensions": [
   {
@@ -109,9 +136,10 @@
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/146.hw-hyj-dsblmyesblm",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/60.zzwlhdjdjx-qwgjxjycbm",
   "pages/dayi_all/2018-2022dy/flWORD/sz/9.sswxfysz-sblmdgx",
-  "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx"
+  "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx",
+  "pages/zongshi/zs1-06"
  ],
- "pages_consulted": 6,
+ "pages_consulted": 7,
  "confidence": "medium",
  "related_unresolved": [
   "四十位行法",

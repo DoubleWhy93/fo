@@ -32,6 +32,10 @@
     {
      "q": "只有與出世間自性法相應的才稱為『三昧』，不相應的不能稱為三昧。",
      "src": "pages/huayan70/jiangyi48"
+    },
+    {
+     "q": "「三昧」是禪定，又作正受，是對於正法持續而專注的攝受力。",
+     "src": "pages/zongshi/zs7-16"
     }
    ]
   },
@@ -68,6 +72,20 @@
      "src": "pages/swxf/shizhu15"
     }
    ]
+  },
+  {
+   "label": "禅定，以般若智慧为核心（总释）",
+   "text": "总释说大乘佛教的三昧以成就般若智慧为基础和核心，并说般若波罗蜜本身就是大乘佛教的禅定法。",
+   "quotes": [
+    {
+     "q": "大乘佛教的三昧是以成就般若智慧為基礎和核心。",
+     "src": "pages/zongshi/zs7-16"
+    },
+    {
+     "q": "般若波羅蜜本身就是大乘佛教的禪定法，般若智慧即是禪定。",
+     "src": "pages/zongshi/zs1-14"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -82,6 +100,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年答疑讲入出三昧是模式的转换，并区分声闻别教种性的入出三昧（十六观）与大乘菩萨的入出三昧。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中定义三昧是禅定、又作正受，是对正法持续而专注的摄受力，大乘三昧以成就般若智慧为基础和核心；其余多在解说普贤三昧品、诸菩萨入三昧等经文时使用此词。"
   }
  ],
  "related": [
@@ -89,7 +111,8 @@
   "般若智慧",
   "自性法",
   "根本智",
-  "差别智"
+  "差别智",
+  "禅定"
  ],
  "tensions": [],
  "gaps": [
@@ -102,9 +125,12 @@
   "pages/swxf/shizhu15",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/152.sz-ps-hxzsrsmdcb-",
   "pages/dayi_all/2018-2022dy/flWORD/jtl/46.-gj-yhyxfdjfcb",
-  "pages/huayan70/jiangyi48"
+  "pages/huayan70/jiangyi48",
+  "pages/zongshi/zs7-16"
  ],
- "pages_consulted": 6,
+ "pages_consulted": 8,
  "confidence": "medium",
- "related_unresolved": []
+ "related_unresolved": [
+  "禅定"
+ ]
 }

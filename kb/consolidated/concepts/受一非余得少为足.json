@@ -52,6 +52,24 @@
      "src": "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
     }
    ]
+  },
+  {
+   "label": "不能精进到下一位次；归于声闻、别教、权教",
+   "text": "总释说前一位成就而不能精进到下一位次即是声闻乘法；论不动、不退转时又说它是别教菩萨、二乘行者、权教菩萨的取向，非华严的不动与不退转。",
+   "quotes": [
+    {
+     "q": "前一位成就而不能精進到下一個位次，即是得少為足受一非餘的聲聞乘法",
+     "src": "pages/zongshi/zs6-09"
+    },
+    {
+     "q": "不是二乘聲聞的遠離世法斷緣寂滅，不是別教菩薩受一非餘得少為足",
+     "src": "pages/zongshi/zs6-06"
+    },
+    {
+     "q": "也不是二乘行者、權教菩薩的受一非餘得少為足。",
+     "src": "pages/zongshi/zs2-07"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -70,13 +88,19 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答讲住一法排斥他法即退转、一阐提种性；2024 问答归入一阐提与愚痴。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把「前一位成就而不能精进到下一位次」称为得少为足受一非余的声闻乘法，并在论不动、不退转时，把受一非余得少为足分别归于别教菩萨、二乘行者与权教菩萨。"
   }
  ],
  "related": [
   "一阐提",
   "退转",
   "阿鞞跋致",
-  "二乘声闻种性"
+  "二乘声闻种性",
+  "别教",
+  "不退转"
  ],
  "tensions": [],
  "gaps": [
@@ -86,9 +110,10 @@
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
   "pages/huayan28/28jiang18",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf",
-  "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-"
+  "pages/dayi_all/2024dy/2024dywd/3.dy-2024-9-28-",
+  "pages/zongshi/zs6-09"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "medium",
  "related_unresolved": [
   "一阐提",

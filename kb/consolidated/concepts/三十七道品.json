@@ -36,6 +36,10 @@
     {
      "q": "所以華嚴行法的三十七道品，首先是依照金剛藏菩薩的金剛種性智慧來建立的。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/41.ssqdpzhyxfyswbjmsdcb"
+    },
+    {
+     "q": "三十七位「藏」菩薩代表以自性本體金剛智慧為先導的世間三十七道品行法。",
+     "src": "pages/zongshi/zs3-08"
     }
    ]
   },
@@ -48,12 +52,40 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
     }
    ]
+  },
+  {
+   "label": "十地位微细行法即解脱成就（总释）",
+   "text": "总释说三十七「藏」行法是自性智慧的显了因，三十七道品微细行法即是解脱成就，解脱成就即是依教奉行的三十七道品微细行法。",
+   "quotes": [
+    {
+     "q": "三十七道品微細行法即是解脫成就，解脫成就即是依教奉行的三十七道品微細行法。",
+     "src": "pages/zongshi/zs3-09"
+    },
+    {
+     "q": "三十七「藏」行法是自性智慧的顯了因",
+     "src": "pages/zongshi/zs3-09"
+    }
+   ]
+  },
+  {
+   "label": "形相似声闻、用心不同（总释）",
+   "text": "总释说十地行法在修法形相与内容（十善业、四谛、十二因缘、三十七道品等）上和声闻乘相似，但用心非常不同，基于三贤位智慧成就。",
+   "quotes": [
+    {
+     "q": "十地行法雖然在修法形相上，和聲聞乘很相似，修法內容也是十善業、四諦法、十二因緣法、三十七道品等等，但是在用心上卻非常不同",
+     "src": "pages/zongshi/zs2-12"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022（hyxf）讲华严行法中依金刚种性智慧建立；2023 年（wz）分三个层面，并说在普贤菩萨法界是解脱与无上正觉的规则规范。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在十地位讲三十七道品：金刚藏之后三十七位「藏」菩萨代表以自性本体金刚智慧为先导的世间三十七道品行法，三十七道品微细行法即是解脱成就；十地行法内容虽与声闻乘相似，用心不同，基于三贤位智慧成就。"
   }
  ],
  "related": [
@@ -61,7 +93,9 @@
   "四圣谛",
   "十善业道",
   "十二因缘",
-  "普贤菩萨法界"
+  "普贤菩萨法界",
+  "三贤位",
+  "十地位"
  ],
  "tensions": [],
  "gaps": [
@@ -71,13 +105,15 @@
   "pages/dayi_all/2023dy/wz/WORDbb/7.hwsf-szscsz-2023-09-30-",
   "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/41.ssqdpzhyxfyswbjmsdcb",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/40.hyxfzd-ssqdp-",
+  "pages/zongshi/zs3-09"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "medium",
  "related_unresolved": [
   "四圣谛",
   "十善业道",
-  "十二因缘"
+  "十二因缘",
+  "十地位"
  ]
 }

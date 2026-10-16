@@ -74,6 +74,34 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/103.rhyzfsxxy-zyjy"
     }
    ]
+  },
+  {
+   "label": "不在一切法之外；清净心观即实相",
+   "text": "总释说并非于一切法之外别有诸法实相可言；若以清净心观一切法，则一切法皆是实相。",
+   "quotes": [
+    {
+     "q": "並非於一切法之外，別有諸法實相可言。",
+     "src": "pages/zongshi/zs7-16"
+    },
+    {
+     "q": "若以清淨心觀一切法，則一切法皆是實相。",
+     "src": "pages/zongshi/zs7-16"
+    }
+   ]
+  },
+  {
+   "label": "诸法实相即如来显现",
+   "text": "总释说诸法实相即如来显现，成佛是对诸法实相的圆满觉知；觉知思惟依般若智慧生起时，所见一切有法都是诸法实相。",
+   "quotes": [
+    {
+     "q": "簡單地講，諸法實相即是如來顯現，而成佛是對諸法實相的圓滿覺知。",
+     "src": "pages/zongshi/zs2-09"
+    },
+    {
+     "q": "當覺知思惟依照般若智慧而生起，所見到的一切有法都將是諸法實相",
+     "src": "pages/zongshi/zs2-13"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -92,6 +120,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 hyxf：强调要清楚是哪一个位次上的诸法实相。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者说并非于一切法之外别有诸法实相，以清净心观一切法则一切法皆是实相；又说诸法实相即如来显现，成佛是对诸法实相的圆满觉知，觉知思惟依般若智慧生起时所见一切有法都是诸法实相。"
   }
  ],
  "related": [
@@ -100,7 +132,8 @@
   "证诸法空",
   "证诸法不空",
   "见性位",
-  "根本智"
+  "根本智",
+  "般若智慧"
  ],
  "tensions": [],
  "gaps": [
@@ -111,9 +144,10 @@
   "pages/shixin/shixin15",
   "pages/swxf/shizhu14",
   "pages/huayan70/jiangyi62",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/103.rhyzfsxxy-zyjy"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/103.rhyzfsxxy-zyjy",
+  "pages/zongshi/zs2-09"
  ],
- "pages_consulted": 6,
+ "pages_consulted": 9,
  "confidence": "high",
  "related_unresolved": []
 }

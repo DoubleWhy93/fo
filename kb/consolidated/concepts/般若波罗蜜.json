@@ -34,17 +34,62 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/18.hw-sbrblm--"
     }
    ]
+  },
+  {
+   "label": "一切行法的核心（无住生心）",
+   "text": "总释说在大乘佛教中般若波罗蜜是一切行法的核心，没有它成就的行法都不是波罗蜜行法；华严四智行法的核心也是般若波罗蜜，即《金刚经》的无住生心。",
+   "quotes": [
+    {
+     "q": "在大乘佛教，般若波羅蜜是一切行法的核心，沒有般若波羅蜜成就的一切行法，皆不是波羅蜜行法。",
+     "src": "pages/zongshi/zs7-07"
+    },
+    {
+     "q": "華嚴經四智行法的核心是般若波羅蜜，即是《金剛經》所言：無住生心。",
+     "src": "pages/zongshi/zs2-08"
+    }
+   ]
+  },
+  {
+   "label": "须弥山顶十住位的成就",
+   "text": "总释说须弥山代表圆满总括一切法，即自性地法的圆满智慧、般若波罗蜜；须弥山顶十住位的解脱就是般若波罗蜜成就。",
+   "quotes": [
+    {
+     "q": "圓滿總括一切法，即是自性地法的圓滿智慧，也就是佛法中的般若波羅蜜。",
+     "src": "pages/zongshi/zs2-11"
+    },
+    {
+     "q": "須彌山頂十住位的解脫即是般若波羅蜜成就。",
+     "src": "pages/zongshi/zs2-11"
+    }
+   ]
+  },
+  {
+   "label": "即大乘的禅定法",
+   "text": "总释说智慧神通须成就般若波罗蜜方可显发，般若波罗蜜本身就是大乘佛教的禅定法。",
+   "quotes": [
+    {
+     "q": "事實上，般若波羅蜜本身就是大乘佛教的禪定法，般若智慧即是禪定。",
+     "src": "pages/zongshi/zs1-14"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022 年问答中的两页（jx-br 系列）分别给出超越与世间运用两层说法。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把般若波罗蜜说成大乘一切行法的核心、华严四智行法的核心（即无住生心），是圆满总括一切法的自性地智慧；须弥山顶十住位的解脱即其成就，并说它本身就是大乘的禅定法。"
   }
  ],
  "related": [
   "般若智慧",
-  "五蕴"
+  "五蕴",
+  "四智行法",
+  "十住位",
+  "须弥山顶"
  ],
  "tensions": [],
  "gaps": [
@@ -53,11 +98,14 @@
  ],
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/jx-br/33.brblmysblmzddlwsfsxtdyy",
-  "pages/dayi_all/2018-2022dy/flWORD/jx-br/18.hw-sbrblm--"
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/18.hw-sbrblm--",
+  "pages/zongshi/zs7-07",
+  "pages/zongshi/zs2-11"
  ],
- "pages_consulted": 2,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": [
-  "五蕴"
+  "五蕴",
+  "十住位"
  ]
 }

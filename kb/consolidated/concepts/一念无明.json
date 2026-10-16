@@ -110,6 +110,10 @@
     {
      "q": "「一念生起」並不可怕，問題是生起之後",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/3.cjdjddxfls"
+    },
+    {
+     "q": "從究竟義上說，根本無明即是根本智，一念無明即是差別智。",
+     "src": "pages/zongshi/zs1-06"
     }
    ]
   },
@@ -128,6 +132,24 @@
     {
      "q": "別教菩薩的普賢菩薩法界是從破一念無明到破一念無明盡的過程",
      "src": "pages/dayi_all/2023dy/wz/WORDbb/8.xfsjhjt"
+    },
+    {
+     "q": "斷一念無明就到見性位，聲聞、緣覺、三乘菩薩皆可得成就。",
+     "src": "pages/zongshi/zs1-06"
+    }
+   ]
+  },
+  {
+   "label": "第七意识的作意生起（有为法无明，总释）",
+   "text": "总释说一念无明是第七意识的作意生起，是基于有为法生起的无明，与基于无为法的根本无明相对；凡夫作意即生起一念无明，再依世间相起分别执著。",
+   "quotes": [
+    {
+     "q": "一念無明是第七意識的作意生起，是基於有為法生起的無明。",
+     "src": "pages/zongshi/zs3-16"
+    },
+    {
+     "q": "凡夫作意是生起一念無明，然後依世間相起分別執著。",
+     "src": "pages/zongshi/zs4-10"
     }
    ]
   }
@@ -148,6 +170,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答最多（hyxf、wm-lb、jtl、jx-br 等系列）：与根本无明、不如理作意、我执法执、各住位破除及转成道种智的关系；2023 年问答讲为生起对某一法独特体验的力量及别教转道种智；dy_ynwm 短文称其为有加行力生起的有为法。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中把一念无明定义为第七意识的作意生起、基于有为法的无明，与根本无明并列为两种无明，二乘别教的智慧力可以破除；又说一念无明作用生六粗相，究竟义上一念无明即差别智，断一念无明即到见性位。"
   }
  ],
  "related": [
@@ -160,7 +186,9 @@
   "无生法忍",
   "烦恼障",
   "根本智",
-  "凡夫种性"
+  "凡夫种性",
+  "第七意识",
+  "六粗相"
  ],
  "tensions": [
   {
@@ -201,12 +229,14 @@
   "pages/swxf/shizhu6",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/66.hwgbzxf-",
-  "pages/dayi/dy_ynwm"
+  "pages/dayi/dy_ynwm",
+  "pages/zongshi/zs3-16"
  ],
- "pages_consulted": 23,
+ "pages_consulted": 26,
  "confidence": "high",
  "related_unresolved": [
   "有加行力",
-  "烦恼障"
+  "烦恼障",
+  "六粗相"
  ]
 }

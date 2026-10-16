@@ -34,6 +34,10 @@
     {
      "q": "『須彌山』是指某一類法的總合。『須彌山頂』是指不離一切法、超越一切法之處",
      "src": "pages/huayan70/jiangyi13"
+    },
+    {
+     "q": "須彌山頂是超越一切法之處，是身心覺知一切法總合之處，也是行者成就自性般若波羅蜜之處。",
+     "src": "pages/zongshi/zs5-03"
     }
    ]
   },
@@ -56,6 +60,16 @@
      "src": "pages/swxf/shizhu2"
     }
    ]
+  },
+  {
+   "label": "自性地一切法与依自性地智慧明了",
+   "text": "总释说自性地一切法即须弥山，众生身心觉知一切法皆依须弥山而住；依自性地智慧明了此一切法性相体用，即登上须弥山顶。",
+   "quotes": [
+    {
+     "q": "此自性地一切法即是須彌山，眾生身心覺知一切法皆依須彌山而住；依自性地智慧明瞭此一切法性相體用，即是登上須彌山頂。",
+     "src": "pages/zongshi/zs4-04"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -74,6 +88,10 @@
   {
    "series": "swxf",
    "text": "把最大的须弥山落到色身，山顶落到意地一切法。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中把须弥山说成自性地一切法，众生身心觉知一切法依之而住；依自性地智慧明了此一切法性相体用即登上须弥山顶，山顶也是身心觉知一切法总合之处。"
   }
  ],
  "related": [
@@ -81,7 +99,8 @@
   "报身世间",
   "一切法",
   "须弥山",
-  "须弥山顶"
+  "须弥山顶",
+  "自性地"
  ],
  "tensions": [
   {
@@ -109,11 +128,13 @@
   "pages/amtj/amtj3",
   "pages/huayan28/28jiang18",
   "pages/huayan70/jiangyi13",
-  "pages/swxf/shizhu2"
+  "pages/swxf/shizhu2",
+  "pages/zongshi/zs4-04"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": [
-  "意地"
+  "意地",
+  "自性地"
  ]
 }

@@ -38,6 +38,10 @@
     {
      "q": "般若智慧是出於本體的，是自內顯發的、周遍完備的",
      "src": "pages/dayi_all/2024dy/2024dywd/4.dy-2024-10-5-"
+    },
+    {
+     "q": "般若智慧是自發性的、根本性的，並且是完善性的，可以按照次第無限拓展和深入微細。",
+     "src": "pages/zongshi/zs7-17"
     }
    ]
   },
@@ -108,6 +112,24 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/26.zywd-24-01-13-"
     }
    ]
+  },
+  {
+   "label": "大乘修法核心：住无所住而见一切法",
+   "text": "总释说般若智慧是大乘修法的核心、佛教神通成就的核心；住无所住而见一切法即是般若智慧，不是息灭对一切法的觉知，而是消除分别取著。",
+   "quotes": [
+    {
+     "q": "般若智慧是大乘修法的核心。",
+     "src": "pages/zongshi/zs2-12"
+    },
+    {
+     "q": "住無所住而見一切法即是般若智慧。",
+     "src": "pages/zongshi/zs6-11"
+    },
+    {
+     "q": "佛教神通成就的核心是般若智慧。",
+     "src": "pages/zongshi/zs1-14"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -126,12 +148,17 @@
   {
    "series": "答疑",
    "text": "问答讲般若是方法、般若即禅定、二加二的比喻、知性判断理性三种能力。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者称般若智慧是大乘修法的核心、神通成就的核心，以「住无所住而见一切法」说明它，并说它在十住、十行、十回向、十地中表现不同；另说它是自发性、根本性、完善性的，可依次第无限拓展、深入微细。"
   }
  ],
  "related": [
   "根本智",
   "差别智",
-  "菩提心"
+  "菩提心",
+  "般若波罗蜜"
  ],
  "tensions": [
   {
@@ -173,9 +200,10 @@
   "pages/huayan70/jiangyi5",
   "pages/huayan70/jiangyi29",
   "pages/shixin/shixin4",
-  "pages/huayan70/jiangyi34"
+  "pages/huayan70/jiangyi34",
+  "pages/zongshi/zs6-11"
  ],
- "pages_consulted": 13,
+ "pages_consulted": 17,
  "confidence": "high",
  "related_unresolved": [
   "菩提心"

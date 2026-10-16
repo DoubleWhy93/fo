@@ -48,6 +48,34 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
     }
    ]
+  },
+  {
+   "label": "初住位之前的修法模式（与内在觉知模式对举）",
+   "text": "作者说华严经初住位之前行者大都是闻法模式，只有内在觉知模式建立起来才开始进入初住位；十信位行者生起觉知智慧也基于闻法模式，见相粗糙。",
+   "quotes": [
+    {
+     "q": "華嚴經初住位之前，行者大都是聞法模式的修行，只有內在覺知模式建立起來，才開始進入到初住位。",
+     "src": "pages/zongshi/zs1-15"
+    },
+    {
+     "q": "十信位光明代表信位行者生起覺知智慧是基於聞法模式，見相粗糙非是自成",
+     "src": "pages/zongshi/zs5-04"
+    }
+   ]
+  },
+  {
+   "label": "把经文当作历史事件来读",
+   "text": "作者说看到「一时佛在某处」的经首，简单以为是历史上一次佛陀说法事件，就是闻法模式；早期原始佛教经典主要针对闻法模式的修行者。",
+   "quotes": [
+    {
+     "q": "看到這樣的經首，簡單地以為這是歷史上的一次佛陀的說法事件，這就是聞法模式。",
+     "src": "pages/zongshi/zs1-15"
+    },
+    {
+     "q": "早期原始佛教經典主要針對聞法模式的修行者，記載的大多是化身佛說法的歷史事件",
+     "src": "pages/zongshi/zs4-01"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -58,6 +86,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答：与钝根模式匹配，直接以经文成就无演算过程是做不到的。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中把闻法模式与内在觉知模式对举：把经首当作历史上的说法事件来读就是闻法模式；华严经初住位之前行者大都是闻法模式，十信位的觉知智慧也基于闻法模式，内在觉知模式建立起来才进入初住位。"
   }
  ],
  "related": [
@@ -72,9 +104,10 @@
  "where_to_read": [
   "pages/huayan28/28jiang1",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/1.wfmsynzjzms",
-  "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy"
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/21.pszbtjd-chbt-dbhzyy",
+  "pages/zongshi/zs1-15"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 6,
  "confidence": "medium",
  "tensions": [],
  "related_unresolved": [

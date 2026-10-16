@@ -56,6 +56,24 @@
      "src": "pages/huayan70/jiangyi44"
     }
    ]
+  },
+  {
+   "label": "根本智慧生起处",
+   "text": "总释把东方讲成一切智慧生起、觉悟开始的地方，即根本智慧、自性地觉知智慧生起之处；以太阳升起破诸黑暗为喻。",
+   "quotes": [
+    {
+     "q": "「東方」代表根本智慧生起之處",
+     "src": "pages/zongshi/zs4-11"
+    },
+    {
+     "q": "「東」是太陽升起破諸黑暗的方向，代表智慧光明從此生起。",
+     "src": "pages/zongshi/zs7-02"
+    },
+    {
+     "q": "「東方」代表自性地覺知智慧生起的地方。",
+     "src": "pages/zongshi/zs4-05"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -70,12 +88,17 @@
   {
    "series": "swxf",
    "text": "说方位是密法言说，不是世间东南西北。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中多处把东方讲成智慧生起处：根本智慧、自性地觉知智慧生起之处，以太阳升起破暗为喻；并按四方佛配四智，东方为阿閦鞞佛。"
   }
  ],
  "related": [
   "大圆镜智",
   "菩提心",
-  "密法言说"
+  "密法言说",
+  "根本智"
  ],
  "tensions": [],
  "gaps": [
@@ -85,12 +108,12 @@
   "pages/huayan70/jiangyi43",
   "pages/shixin/shixin12",
   "pages/swxf/shizhu4",
-  "pages/huayan70/jiangyi44"
+  "pages/huayan70/jiangyi44",
+  "pages/zongshi/zs7-02"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "high",
  "related_unresolved": [
-  "大圆镜智",
   "菩提心"
  ]
 }

@@ -20,27 +20,60 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/22.wfsyzll-sydwfdsygwym-"
     }
    ]
+  },
+  {
+   "label": "染著的根源：取舍执著与身见",
+   "text": "总释说染著来自第七意识的取舍执著作用而非六根六尘；它攀缘内法成就我身、攀缘外法成就我见，身见具足造成六道轮回，这是求解脱最先要舍离的。",
+   "quotes": [
+    {
+     "q": "事實上，染著並不是六根六塵帶來的，而是第七意識的取捨執著作用造成的。",
+     "src": "pages/zongshi/zs2-18"
+    },
+    {
+     "q": "第七意識攀緣內法成就我身，攀緣外法成就我見，身見具足，造成六道輪迴。",
+     "src": "pages/zongshi/zs2-19"
+    }
+   ]
+  },
+  {
+   "label": "一念无明的生起处",
+   "text": "总释区分两种无明：一念无明是第七意识的作意生起、基于有为法；根本无明则另有来源。",
+   "quotes": [
+    {
+     "q": "一念無明是第七意識的作意生起，是基於有為法生起的無明。",
+     "src": "pages/zongshi/zs3-16"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022 年答疑（jdjd 系列）：以「能造成娑婆也能建立极乐」说明它不可息灭。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者以第七意识说明染著的根源：染著不是六根六尘带来的，而是第七意识的取舍执著；它攀缘内外法成就身见、造成六道轮回，华严六位行法的核心就是修改它的作用模式。文中又说一念无明是第七意识的作意生起。"
   }
  ],
  "related": [
   "不如理作意",
   "一念无明",
-  "道种智"
+  "道种智",
+  "身见",
+  "根本无明"
  ],
  "tensions": [],
  "gaps": [
   "定义页只有一条；其余内容来自教学摘要，本卡未逐页展开。"
  ],
  "where_to_read": [
-  "pages/dayi_all/2018-2022dy/flWORD/jdjd/22.wfsyzll-sydwfdsygwym-"
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/22.wfsyzll-sydwfdsygwym-",
+  "pages/zongshi/zs2-18"
  ],
- "pages_consulted": 1,
+ "pages_consulted": 4,
  "confidence": "low",
- "related_unresolved": []
+ "related_unresolved": [
+  "身见"
+ ]
 }

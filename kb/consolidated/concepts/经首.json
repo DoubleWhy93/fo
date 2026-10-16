@@ -56,6 +56,44 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/8.mfhfsdjdszr-hyj-dgj"
     }
    ]
+  },
+  {
+   "label": "以「如是我闻」开始，已说清全经核心成就",
+   "text": "总释说每部经都有经首，以「如是我闻」开始；大乘经首几句话已把整部经的核心成就说清楚，后面经文是详述其细节。",
+   "quotes": [
+    {
+     "q": "佛經的經首都是以「如是我聞」作為開始，這是佛陀定下來的規矩",
+     "src": "pages/zongshi/zs2-01"
+    },
+    {
+     "q": "大乘佛教每一部經的經首幾句話，實際上已經把整部經的核心成就說清楚了，後面的經文是詳細敘述這種成就的細節。",
+     "src": "pages/zongshi/zs2-01"
+    }
+   ]
+  },
+  {
+   "label": "大乘经首多是密法言说",
+   "text": "总释说大乘经首大多属于密法言说，如「一时佛在某处，与大比丘众万二千人俱」。",
+   "quotes": [
+    {
+     "q": "大乘經典的經首大多屬於密法言說，結構也複雜",
+     "src": "pages/zongshi/zs2-01"
+    },
+    {
+     "q": "比如很多經首常常是這樣：一時佛在某處，與大比丘眾萬二千人俱，或者與菩薩眾三萬兩千人俱。這就是密法言說。",
+     "src": "pages/zongshi/zs1-08"
+    }
+   ]
+  },
+  {
+   "label": "华严经首：行法次第与整体关联",
+   "text": "总释说华严经的经首含义远超一般经典，代表行法次第和理论上的整体关联，是判定华严经结构的重要依据。",
+   "quotes": [
+    {
+     "q": "經首所代表的含義遠遠超出了一般的經典，代表一種行法次第和理論上整體的關聯。",
+     "src": "pages/zongshi/zs2-02"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -70,6 +108,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答讲经首代表行法模式、成就模式，与密法解读、法数相关。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者用数篇专讲华严诸会经首：每部经以「如是我闻」开始，大乘经首几句话已说清整部经的核心成就、大多属于密法言说；华严经首更代表行法次第与理论上的整体关联，是判定全经结构的依据。"
   }
  ],
  "related": [
@@ -77,7 +119,8 @@
   "行法模式",
   "法数",
   "摩竭提国",
-  "四智行法"
+  "四智行法",
+  "密法言说"
  ],
  "tensions": [],
  "gaps": [
@@ -87,11 +130,10 @@
   "pages/huayan70/jiangyi1",
   "pages/shixin/shixin2",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/43.zyjlswms",
-  "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/8.mfhfsdjdszr-hyj-dgj"
+  "pages/dayi_all/2018-2022dy/flWORD/fs-mfjd/8.mfhfsdjdszr-hyj-dgj",
+  "pages/zongshi/zs2-01"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "high",
- "related_unresolved": [
-  "摩竭提国"
- ]
+ "related_unresolved": []
 }

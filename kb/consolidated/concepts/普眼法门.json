@@ -46,6 +46,10 @@
     {
      "q": "「普眼法門」的內容就是面向大海住十二年，以大海為其境界，然後生起思惟",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/26.zypyjdhyjdnl-"
+    },
+    {
+     "q": "第二住位海雲比丘住在海門國十二年，又於如來所千二百歲受持普眼法門，其中意義與此相同。",
+     "src": "pages/zongshi/zs7-09"
     }
    ]
   },
@@ -58,6 +62,20 @@
      "src": "pages/huayan70/jiangyi57"
     }
    ]
+  },
+  {
+   "label": "观一切世界一切法所得，即华严经",
+   "text": "总释说如来所授普眼法门是观察一切世界一切法所得，有无量品、法、义、句；对娑婆世界来说就是这部《大方广佛华严经》。",
+   "quotes": [
+    {
+     "q": "如來所授「普眼法門」，即是觀一切世界一切法所得，有無量品、無量法、無量義、無量句。",
+     "src": "pages/zongshi/zs7-08"
+    },
+    {
+     "q": "於娑婆世界來說，普眼法門即是這一部《大方廣佛華嚴經》。",
+     "src": "pages/zongshi/zs7-08"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -68,13 +86,18 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答（jdjd）说它是面向大海、以大海为境界生起思惟。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在解读海云比丘一参时说普眼法门是观一切世界一切法所得，有无量品法义句，在娑婆世界即这部《大方广佛华严经》；「十二年」「千二百岁」被读作代表一切时一切法的密法言说。"
   }
  ],
  "related": [
   "差别智",
   "道种智",
   "善思惟",
-  "陀罗尼"
+  "陀罗尼",
+  "海云比丘"
  ],
  "tensions": [
   {
@@ -98,9 +121,12 @@
   "pages/huayan70/jiangyi48",
   "pages/huayan70/jiangyi49",
   "pages/huayan70/jiangyi57",
-  "pages/dayi_all/2018-2022dy/flWORD/jdjd/26.zypyjdhyjdnl-"
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/26.zypyjdhyjdnl-",
+  "pages/zongshi/zs7-08"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 6,
  "confidence": "high",
- "related_unresolved": []
+ "related_unresolved": [
+  "海云比丘"
+ ]
 }

@@ -34,6 +34,30 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
     }
    ]
+  },
+  {
+   "label": "圆满法界一切世间成就（等妙觉位，总释）",
+   "text": "总释以三智对举：一切智是出世间成就，道种智是入世间成就，一切种智是圆满法界一切世间成就；等妙觉位入普贤菩萨法界证得一切种智。",
+   "quotes": [
+    {
+     "q": "證一切智是出世間成就，證道種智是入世間成就，證一切種智是圓滿法界一切世間成就。",
+     "src": "pages/zongshi/zs4-10"
+    },
+    {
+     "q": "等妙覺位入普賢菩薩法界，證得一切種智。",
+     "src": "pages/zongshi/zs4-10"
+    }
+   ]
+  },
+  {
+   "label": "修德需历劫，不能顿成（总释）",
+   "text": "总释说成就性德不需历经时劫，但成就修德要克服凡夫外道、声闻缘觉、权教别教等种性习气，最终成就一切种智，中间需历经三大阿僧祇劫。",
+   "quotes": [
+    {
+     "q": "成就修德需要克服種性習氣，包括凡夫外道種性、聲聞緣覺種性、權教別教種性等等的習氣，最終成就一切種智，中間需要歷經三大阿僧祇劫。",
+     "src": "pages/zongshi/zs2-17"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -44,23 +68,43 @@
   {
    "series": "答疑",
    "text": "2018–2022 年 swms-dzz 页把别教第八到第十地说成一切种智成就。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者把一切种智列为大乘行法最终旨归三智之末：证一切种智是圆满法界一切世间成就，等妙觉位入普贤菩萨法界证得；又说成就一切种智需克服各种性习气、历经三大阿僧祇劫，文殊作为等觉菩萨成就一切种智。"
   }
  ],
  "related": [
   "一切智",
   "道种智",
-  "无生法忍"
+  "无生法忍",
+  "普贤菩萨法界"
  ],
- "tensions": [],
+ "tensions": [
+  {
+   "text": "一切种智成就的位次：总释说十地位是道种智、等妙觉位才是一切种智成就；2018–2022 年问答说第八地到第十地是别教行者的一切种智成就。",
+   "sources": [
+    {
+     "q": "十地位，是佛在第二七日說道種智，成就圓滿世間法。等妙覺位，是佛在第三七日說一切種智成就",
+     "src": "pages/zongshi/zs2-13"
+    },
+    {
+     "q": "從第八地到第十地，是別教行者的一切種智成就",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd"
+    }
+   ]
+  }
+ ],
  "gaps": [
   "「一切种智」本身内容的正面描述较少，多靠与一切智、道种智的对照。"
  ],
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/118.dhsdbdyqyym-hsgbqy-",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/14.psdzzcjcd",
-  "pages/huayan70/jiangyi23"
+  "pages/huayan70/jiangyi23",
+  "pages/zongshi/zs4-10"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": []
 }

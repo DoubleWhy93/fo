@@ -74,6 +74,10 @@
     {
      "q": "證得般若就到見性位。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/9.bry-yqxk-dgx"
+    },
+    {
+     "q": "十住位進入內在覺知的修行階段，也就是見性位的修法階段。",
+     "src": "pages/zongshi/zs2-09"
     }
    ]
   },
@@ -122,6 +126,20 @@
      "src": "pages/swxf/shizhu34"
     }
    ]
+  },
+  {
+   "label": "断一念无明即到；之后不离八识世间",
+   "text": "总释说断一念无明就到见性位，声闻、缘觉、三乘菩萨都可成就；见性位之后的行法仍在八识世间中，从依闻法模式转入依内在觉知的修行。",
+   "quotes": [
+    {
+     "q": "斷一念無明就到見性位，聲聞、緣覺、三乘菩薩皆可得成就。",
+     "src": "pages/zongshi/zs1-06"
+    },
+    {
+     "q": "見性位之後的所有行法，不是遠離世間法，而正是在八識世間，在以第七意識為核心的凡夫覺知境界中，從依於聞法模式的修行，轉入到依於內在覺知的修行",
+     "src": "pages/zongshi/zs2-09"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -140,6 +158,10 @@
   {
    "series": "答疑",
    "text": "2018-2022 年问答讲位阶；2023-2024 年问答讲判别标准、每天十法与见性后重新澄清理论。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者说断一念无明就到见性位，声闻、缘觉、三乘菩萨都可成就，断根本无明要到等觉位以后；十住位进入内在觉知即见性位的修法阶段，见性位之后的行法不离八识世间，从闻法模式转入内在觉知的修行。"
   }
  ],
  "related": [
@@ -149,7 +171,9 @@
   "阿鞞跋致",
   "自性",
   "异身异时异处",
-  "般若"
+  "般若",
+  "一念无明",
+  "闻法模式"
  ],
  "tensions": [
   {
@@ -206,10 +230,11 @@
   "pages/swxf/shizhu33",
   "pages/shixin/shixin11",
   "pages/dayi_all/2023dy/wz/WORDbb/23.zywd-23-12-30-",
-  "pages/swxf/shizhu34"
+  "pages/swxf/shizhu34",
+  "pages/zongshi/zs2-09"
  ],
  "confidence": "medium",
- "pages_consulted": 17,
+ "pages_consulted": 19,
  "related_unresolved": [
   "明心"
  ]

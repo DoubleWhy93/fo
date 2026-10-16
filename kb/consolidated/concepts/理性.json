@@ -76,6 +76,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/20.csdcxgf-xshfxsd-"
     }
    ]
+  },
+  {
+   "label": "观察思惟有模式、由浅入深",
+   "text": "总释说理性指观察和思惟有一定模式，由浅入深、由粗到细逐渐深入微细，而不是凡夫的妄想分别；作者又说自觉而理性是佛教不同于民间宗教、人天外道的地方。",
+   "quotes": [
+    {
+     "q": "「理性」是指這種觀察和思惟有一定的模式，是由淺入深由粗到細可以逐漸深入微細，而並非妄想淩亂的凡夫分別",
+     "src": "pages/zongshi/zs6-02"
+    },
+    {
+     "q": "自覺而理性，是佛教不同於民間宗教，不同於人天外道的地方。",
+     "src": "pages/zongshi/zs6-01"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -86,6 +100,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答讲成超越感性知性的阶段与须训练到达的世间，并在使用上指讲道理、不偏执；2023 讲成觉悟。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说「理性」指观察和思惟有一定模式、由浅入深由粗到细，不是凡夫的妄想分别；并说自觉而理性是佛教不同于民间宗教和人天外道之处，普光明殿六位行法是最理性的入手处。"
   }
  ],
  "related": [
@@ -122,7 +140,7 @@
   "pages/dayi_all/2023dy/wz/WORDbb/3.ww-jx-2023-09-09-",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
  ],
- "pages_consulted": 7,
+ "pages_consulted": 9,
  "confidence": "medium",
  "related_unresolved": [
   "感性",

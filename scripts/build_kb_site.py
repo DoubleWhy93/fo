@@ -53,7 +53,8 @@ def quote(q):
 
 
 def quotes(qs):
-    return "<ul class='open'>" + "".join(f"<li>{quote(q)}</li>" for q in qs) + "</ul>" if qs else ""
+    """the evidence behind a claim on a card: hidden behind a 「原文」 tag, each quote labelled with (a link to) its page"""
+    return site_common.ev([(H(S(q["q"])), src_link(q["src"])) for q in qs or []])
 
 
 cards = {}
@@ -92,27 +93,59 @@ def link(name):
 
 fw_by_norm = {norm(c["name"]): k for k, c in fws.items()}
 card_by_norm = {norm(c["term"]): k for k, c in cards.items()}
+# every page whose digest defines or explains a card's term (or one of its aliases) -> back-links on the card
+SER_ORDER = ["huayan28", "zongshi", "huayan70", "shixin", "swxf", "amtj", "答疑"]
+mentions = {}
+for f in glob.glob("kb/digests/**/*.json", recursive=True):
+    d = json.load(open(f, encoding="utf8"))
+    for cc in d.get("concepts", []):
+        if cc.get("role") in ("defined", "explained"):
+            r = byname.get(norm(cc.get("term", "")))
+            if r and r[0] == "c" and d["id"] in URL:
+                mentions.setdefault(r[1], {}).setdefault(d["id"], cc.get("role"))
+
+
+def backlinks(k):
+    pages = mentions.get(k, {})
+    if not pages:
+        return ""
+    groups = {}
+    for pid, role in pages.items():
+        p = pid.split("/")
+        ser = "答疑" if p[1].startswith("dayi") else p[1]
+        groups.setdefault(ser, []).append((role != "defined", MAN[pid].get("order", 0), pid))
+    out = f"<h2>在哪些页面讲到（{len(pages)}）</h2><dl class='gl'>"
+    for ser in sorted(groups, key=lambda s: SER_ORDER.index(s) if s in SER_ORDER else 99):
+        items = sorted(groups[ser])
+        shown = items[:24]
+        out += (f"<dt>{H(SERIES.get(ser, ser))}</dt><dd class='chips'>"
+                + " ".join(f'<a href="../../{URL[pid]}">{H(label(pid).split("·", 1)[-1][:16])}</a>' for _, _, pid in shown)
+                + (f" <span class='conf'>等 {len(items)} 页</span>" if len(items) > len(shown) else "") + "</dd>")
+    return out + "</dl><p class='conf'>只列出明确解释或定义了这个概念的页面。</p>"
+
+
 CONF = {"high": "置信：高", "medium": "置信：中（多据汇总材料）", "low": "置信：低"}
 for k, c in cards.items():
     b = [f"<h1>{H(S(c['term']))}</h1>", f"<p class='card-sum'>{H(S(c['summary']))}</p>"]
     if c.get("aliases"):
         b.append(f"<p class='conf'>又称：{H('、'.join(S(a) for a in c['aliases']))}</p>")
-    b.append(f"<div class='tldr'><b>讲者怎么说</b>{H(S(c['definition']))}</div>" + quotes(c.get("definition_basis", [])))
+    b.append(f"<div class='tldr'><b>讲者怎么说</b>{H(S(c['definition']))}{quotes(c.get('definition_basis', []))}</div>")
     if c.get("aspects"):
         b.append("<h2>不同的用法</h2>")
         for a in c["aspects"]:
-            b.append(f"<div class='ex'><b>{H(S(a['label']))}</b><p>{H(S(a['text']))}</p>{quotes(a.get('quotes', []))}</div>")
+            b.append(f"<div class='ex'><b>{H(S(a['label']))}</b><p>{H(S(a['text']))}{quotes(a.get('quotes', []))}</p></div>")
     if c.get("by_series"):
         b.append("<h2>各讲稿的讲法</h2><dl class='gl'>" + "".join(
             f"<dt>{H(SERIES.get(s['series'], s['series']))}</dt><dd>{H(S(s['text']))}</dd>" for s in c["by_series"]) + "</dl>")
     if c.get("tensions"):
         b.append("<h2>各页说法不一之处</h2>")
         for t in c["tensions"]:
-            b.append(f"<div class='tension'><p>{H(S(t['text']))}</p>{quotes(t.get('sources', []))}</div>")
+            b.append(f"<div class='tension'><p>{H(S(t['text']))}{quotes(t.get('sources', []))}</p></div>")
     if c.get("gaps"):
         b.append("<h2>讲稿中没有讲清的</h2><ul class='open'>" + "".join(f"<li>{H(S(g))}</li>" for g in c["gaps"]) + "</ul>")
     if c.get("related"):
         b.append("<h2>相关</h2><p class='chips'>" + " ".join(f"<span>{link(r)}</span>" for r in c["related"]) + "</p>")
+    b.append(backlinks(k))
     if c.get("where_to_read"):
         b.append("<h2>建议阅读的原页</h2><ul class='open'>" + "".join(f"<li>{src_link(p)}</li>" for p in c["where_to_read"]) + "</ul>")
     fk = fw_by_norm.get(norm(c["term"]))
@@ -138,11 +171,11 @@ for k, c in fws.items():
         mem = "、".join(S(m) for m in v.get("members", []))
         b.append(f"<div class='ex'><b>{H(S(v['label']))}</b>" + (f"<p>{H(mem)}</p>" if mem else "") + "</div>")
     if c.get("source_quotes"):
-        b.append("<h2>原文</h2>" + quotes(c["source_quotes"]))
+        b.append("<h2>原文</h2><ul class='open'>" + "".join(f"<li>{quote(q)}</li>" for q in c["source_quotes"]) + "</ul>")
     if c.get("tensions"):
         b.append("<h2>各页说法不一之处</h2>")
         for t in c["tensions"]:
-            b.append(f"<div class='tension'><p>{H(S(t['text']))}</p>{quotes(t.get('sources', []))}</div>")
+            b.append(f"<div class='tension'><p>{H(S(t['text']))}{quotes(t.get('sources', []))}</p></div>")
     if c.get("gaps"):
         b.append("<h2>讲稿中没有讲清的</h2><ul class='open'>" + "".join(f"<li>{H(S(g))}</li>" for g in c["gaps"]) + "</ul>")
     if c.get("related"):

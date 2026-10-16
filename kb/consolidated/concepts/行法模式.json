@@ -52,12 +52,30 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/76.rxfnrmysw-jzdcy-sfyyjxdz-"
     }
    ]
+  },
+  {
+   "label": "修行实践的规范和步骤（总释）",
+   "text": "作者说行法模式是修行实践的规范和步骤；从成就者角度看行法模式即智慧模式，从行者角度看二者又有差别。",
+   "quotes": [
+    {
+     "q": "行法模式是修行實踐的規範和步驟，行法是智慧的實際顯現。",
+     "src": "pages/zongshi/zs7-06"
+    },
+    {
+     "q": "從成就者的角度看，行法即是智慧，行法模式即是智慧模式，行法和智慧互為增上互為體用；而從行者的角度看，行法和智慧又有差別。",
+     "src": "pages/zongshi/zs7-06"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "仅见于 2018–2022 问答（hyxf、swms-dzz、wm-lb 等专题），讲其为内在格局、生命模式，须自建。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释 zs7-06 专篇讲善财童子五十三参的行法模式，作者把行法模式界定为修行实践的规范和步骤，说行法是智慧的实际显现；其余各篇在十住、十地、福城等处顺带使用这一说法。"
   }
  ],
  "related": [
@@ -67,15 +85,17 @@
   "内在觉知模式"
  ],
  "gaps": [
-  "资料未给出行法模式的分类或具体建立步骤的统一说法。"
+  "资料未给出行法模式的分类或具体建立步骤的统一说法。",
+  "总释 zs7-06 说善财童子的行法模式有「四个步骤」，同篇又说「第四第五」「这十个方面」，篇中未交代如何对应。"
  ],
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/53.syyrmjdxfyxfms-xfsjdgx",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/20.csdcxgf-xshfxsd-",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/36.xfmshxfbszjdgx",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/76.rxfnrmysw-jzdcy-sfyyjxdz-"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/76.rxfnrmysw-jzdcy-sfyyjxdz-",
+  "pages/zongshi/zs7-06"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 5,
  "confidence": "medium",
  "tensions": [],
  "related_unresolved": [

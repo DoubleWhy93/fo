@@ -22,6 +22,10 @@
     {
      "q": "十住、十行、十迴向是三賢位。",
      "src": "pages/huayan28/28jiang21"
+    },
+    {
+     "q": "其中十住十行和十迴向,也稱作三賢位。",
+     "src": "pages/zongshi/zs1-01"
     }
    ]
   },
@@ -34,6 +38,26 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/142.zytyyqfdpbcz"
     }
    ]
+  },
+  {
+   "label": "核心：依自性地生起周遍观察和微细智慧（总释）",
+   "text": "总释说三贤位的核心是依自性地生起周遍观察和微细智慧，菩萨演说当位行法即自性地智慧的普遍显相。",
+   "quotes": [
+    {
+     "q": "三賢位的核心是依自性地生起周徧觀察和微細智慧",
+     "src": "pages/zongshi/zs4-08"
+    }
+   ]
+  },
+  {
+   "label": "十地行法的先导，不能越过（总释）",
+   "text": "总释说修行者不能越过三贤位直接到登地位行法；三贤位成就自性智慧之后，才能真正启动登地位行法成就道种智。",
+   "quotes": [
+    {
+     "q": "修行者不能越過三賢位而直接到達登地位行法。三賢位成就自性智慧，智慧法成就之後，才能真正啟動登地位行法成就道種智。",
+     "src": "pages/zongshi/zs1-14"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -44,13 +68,18 @@
   {
    "series": "答疑",
    "text": "2018–2022 年 hyxf 页说三贤位以心思惟法、心智慧法建立。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说十住、十行、十回向合称三贤位，核心是依自性地生起周遍观察和微细智慧；强调三贤位成就自性智慧是十地行法的先导，修行者不能越过三贤位直接到登地位行法。"
   }
  ],
  "related": [
   "十住位",
   "十行位",
   "十回向位",
-  "般若智慧"
+  "般若智慧",
+  "道种智"
  ],
  "tensions": [],
  "gaps": [
@@ -59,9 +88,10 @@
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/142.zytyyqfdpbcz",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/70.hyymzdgx-",
-  "pages/huayan28/28jiang21"
+  "pages/huayan28/28jiang21",
+  "pages/zongshi/zs1-14"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": [
   "十住位",

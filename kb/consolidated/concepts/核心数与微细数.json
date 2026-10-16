@@ -70,6 +70,10 @@
     {
      "q": "法數是由核心數和微細數兩部分組成",
      "src": "pages/huayan70/jiangyi32"
+    },
+    {
+     "q": "數字「五百」，「五」是核心數，代表見性之後的五位行法。「百」代表五位行法智慧和次第的微細，數字越大越表示行法上的深刻。",
+     "src": "pages/zongshi/zs2-16"
     }
    ]
   },
@@ -104,6 +108,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 年及 2024 年答疑运用这一分法解读具体法数。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者只在解读经首「五百」时用到这一分法：「五」是核心数，代表见性之后的五位行法，「百」代表五位行法智慧和次第的微细。"
   }
  ],
  "related": [
@@ -127,7 +135,7 @@
   "pages/huayan70/jiangyi32",
   "pages/dayi_all/2018-2022dy/flWORD/jdjd/23.hw-sslhhsfs-dyxms-"
  ],
- "pages_consulted": 6,
+ "pages_consulted": 7,
  "confidence": "high",
  "related_unresolved": []
 }

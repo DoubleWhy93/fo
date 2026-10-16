@@ -34,6 +34,10 @@
     {
      "q": "「海潮」首先它是跟大海相關的，身心覺知的一切法，總體來說就是我們生命的大海，這是世尊定義的。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/59.szsszzhcc-sfzlncglwc"
+    },
+    {
+     "q": "「海潮處」是指世間一切法隨緣起滅，生生不息無有窮盡，顯相以時如大海潮。",
+     "src": "pages/zongshi/zs7-10"
     }
    ]
   },
@@ -56,6 +60,20 @@
      "src": "pages/swxf/shizhu27"
     }
    ]
+  },
+  {
+   "label": "第七、八位同住：成就模式相同，不离生死大海",
+   "text": "总释说第七、第八住两位善知识同住海潮处，代表两位行法同住一处、成就模式相同，开始入于诸法实际，皆不离生死大海而成；作者说七行八行、七回向八回向乃至十地等觉位亦然。",
+   "quotes": [
+    {
+     "q": "同住南方海潮處，代表此兩位行法同住一處，皆不離生死大海而成。",
+     "src": "pages/zongshi/zs7-04"
+    },
+    {
+     "q": "第八位善知識住處和第七位相同，都是在「海潮處」，代表這兩個位次的成就模式相同，開始入於諸法實際。",
+     "src": "pages/zongshi/zs7-10"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -70,6 +88,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答：海是身心觉知一切法，潮表示有因缘、有规律。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说海潮处指世间一切法随缘起灭、生生不息如大海潮；第七、第八住善知识同住海潮处，代表两位成就模式相同、开始入于诸法实际，皆不离生死大海而成。"
   }
  ],
  "related": [
@@ -86,7 +108,7 @@
   "pages/swxf/shizhu27",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/59.szsszzhcc-sfzlncglwc"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 6,
  "confidence": "high",
  "tensions": [],
  "related_unresolved": [

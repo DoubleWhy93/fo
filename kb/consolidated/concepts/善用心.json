@@ -92,6 +92,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jtl/96.jyzydzlckyjrhydxx-"
     }
    ]
+  },
+  {
+   "label": "正知见和善思惟；依身心觉受微细生起",
+   "text": "总释说大乘的信不仅是闻法的谛听，而要依身心觉受生起微细善用心；善用心即正知见和善思惟，以无量微细善用心为行法核心，从圆满信位贯穿到如来地。",
+   "quotes": [
+    {
+     "q": "大乘佛教的「信」不僅僅是聞法模式的「諦聽」，而要依於身心覺受生起微細善用心，善用心即是正知見和善思惟。",
+     "src": "pages/zongshi/zs3-07"
+    },
+    {
+     "q": "數字一百四十一和具體的善用心條目，代表著從圓滿信位一直到如來地，都是以無量微細的善用心為行法核心",
+     "src": "pages/zongshi/zs3-07"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -102,6 +116,10 @@
   {
    "series": "答疑",
    "text": "2018–2022：形成概念、《净行品》的四位行法、与善思惟同为最初资粮；2023：依根本智与般若的「善」、与凡夫妄想思惟对照、梵行清净加善用心善思惟。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说善用心即是正知见和善思惟，要依身心觉受微细生起；《净行品》一百四十一偈与具体善用心条目代表从圆满信位到如来地都以无量微细善用心为行法核心。"
   }
  ],
  "related": [
@@ -111,7 +129,9 @@
   "般若智慧",
   "名号",
   "如实知",
-  "净行品"
+  "净行品",
+  "正知见",
+  "善用其心"
  ],
  "tensions": [
   {
@@ -146,11 +166,13 @@
   "pages/huayan70/jiangyi12",
   "pages/huayan70/jiangyi13",
   "pages/dayi_all/2023dy/wz/WORDbb/10.szwxftd(2023-10-14)",
-  "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-"
+  "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
+  "pages/zongshi/zs3-07"
  ],
- "pages_consulted": 9,
+ "pages_consulted": 10,
  "confidence": "medium",
  "related_unresolved": [
-  "净行品"
+  "净行品",
+  "正知见"
  ]
 }

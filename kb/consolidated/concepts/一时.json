@@ -46,6 +46,34 @@
     {
      "q": "真正到模式的時候就是「一時」，它跟時間沒關係。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/40.jzzh-mltdscsjyqfsyscjm-"
+    },
+    {
+     "q": "在華嚴經中，「一時」是指修行者內在覺知模式建立，遠離二法分別取捨。",
+     "src": "pages/zongshi/zs2-15"
+    }
+   ]
+  },
+  {
+   "label": "出世间法言说：证入自性地法，不同于「同时」（总释）",
+   "text": "总释说一时不能用世间年月日时标定，一念觉悟证得自性即入一时；同时是两件事时间对齐，一时是证得自性地法，可以同时同处，也可以不同时不同处。",
+   "quotes": [
+    {
+     "q": "「一時」是按照出世間法來言說，不能用世間的年、月、日、時來標定",
+     "src": "pages/zongshi/zs2-15"
+    },
+    {
+     "q": "「一時」不同於世間法的「同時」。「同時」是兩件事情時間對齊，「一時」是要證得自性地法，是報身乃至法身成就。",
+     "src": "pages/zongshi/zs3-02"
+    }
+   ]
+  },
+  {
+   "label": "未到道种智阶段不总在一时（总释）",
+   "text": "总释说从自性地说一时是证入自性地法，但没有到达道种智成就阶段的修行者，修行并不总在一时之中。",
+   "quotes": [
+    {
+     "q": "對於一個沒有到達道種智成就階段的修行者來說，修行並不總在「一時」之中。",
+     "src": "pages/zongshi/zs2-15"
     }
    ]
   }
@@ -58,12 +86,17 @@
   {
    "series": "答疑",
    "text": "2018-2022 年问答把它与行法修到「模式」联系起来。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说经首「一时」按出世间法言说，不能用世间年月日时标定，一念觉悟证得自性即入一时；它不同于世间的「同时」，是证得自性地法、报身乃至法身成就；在华严经中指内在觉知模式建立，未到道种智成就阶段的修行者并不总在一时之中。"
   }
  ],
  "related": [
   "报身世间",
   "经首",
-  "模式"
+  "模式",
+  "道种智"
  ],
  "tensions": [],
  "gaps": [
@@ -72,9 +105,10 @@
  "where_to_read": [
   "pages/huayan70/jiangyi23",
   "pages/huayan70/jiangyi1",
-  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/40.jzzh-mltdscsjyqfsyscjm-"
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/40.jzzh-mltdscsjyqfsyscjm-",
+  "pages/zongshi/zs2-15"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": []
 }

@@ -34,6 +34,10 @@
     {
      "q": "業力是根本智、根本無明的力量，業力就是生命力",
      "src": "pages/dayi_all/2023dy/wz/WORDbb/16.zywd-2023-11-04-"
+    },
+    {
+     "q": "根本無明和根本智，二者本體是一，顯相不同，一念無明和差別智亦是如此。",
+     "src": "pages/zongshi/zs7-02"
     }
    ]
   },
@@ -70,6 +74,16 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/24.zywd-24-01-06-"
     }
    ]
+  },
+  {
+   "label": "所断是无明，不是根本智",
+   "text": "总释在说断根本无明要到等觉位以后时补充：所言「断」是断无明，不是断一念，更不是断根本智。",
+   "quotes": [
+    {
+     "q": "所言「斷」是斷無明，不是斷一念，更不是斷根本智。",
+     "src": "pages/zongshi/zs1-06"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -88,6 +102,10 @@
   {
    "series": "答疑",
    "text": "2023 年问答：业力即二者的力量；根本智、根本无明是能力，差别智、一念无明是其具体表现。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者两处说从究竟义上根本无明即是根本智，二者本体是一、显相不同；所言「断」是断无明，不是断根本智。"
   }
  ],
  "related": [
@@ -109,9 +127,10 @@
   "pages/shixin/shixin1",
   "pages/swxf/shizhu21",
   "pages/huayan70/jiangyi54",
-  "pages/dayi_all/2023dy/wz/WORDbb/24.zywd-24-01-06-"
+  "pages/dayi_all/2023dy/wz/WORDbb/24.zywd-24-01-06-",
+  "pages/zongshi/zs7-02"
  ],
- "pages_consulted": 8,
+ "pages_consulted": 10,
  "confidence": "high",
  "related_unresolved": []
 }

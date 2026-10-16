@@ -20,16 +20,43 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
     }
    ]
+  },
+  {
+   "label": "体为自性本体，用为圆满法身（总释）",
+   "text": "总释简略地说，如来地的体即是自性本体，遍一切处觉一切法；如来地的一切显用即是如来圆满法身。",
+   "quotes": [
+    {
+     "q": "簡略地說，如來地的體即是自性本體，徧一切處覺一切法，如來地的一切顯用，即是如來圓滿法身",
+     "src": "pages/zongshi/zs5-09"
+    }
+   ]
+  },
+  {
+   "label": "六位行法中的最后一个结构",
+   "text": "总释把六位行法分为三部分：十信一个结构、住行向地四智行法一个结构、等妙觉如来地一个结构。",
+   "quotes": [
+    {
+     "q": "十信位是一個結構;「住行向地」四位行法是一個四智行法結構;等妙覺如來地是一個結構",
+     "src": "pages/zongshi/zs1-01"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022 年问答（hyxf）给出明确界定；其他系列多把它作为修行终点来用。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释把等妙觉如来地列为六位行法的第三个结构，并简述如来地的体即自性本体、遍一切处觉一切法，其一切显用即如来圆满法身。"
   }
  ],
  "related": [
-  "报身世间"
+  "报身世间",
+  "自性本体",
+  "如来法身",
+  "四智行法"
  ],
  "tensions": [],
  "gaps": [
@@ -37,9 +64,13 @@
   "「纯理性世界」的含义本包未再解释。"
  ],
  "where_to_read": [
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
+  "pages/zongshi/zs5-09"
  ],
- "pages_consulted": 1,
+ "pages_consulted": 3,
  "confidence": "low",
- "related_unresolved": []
+ "related_unresolved": [
+  "自性本体",
+  "如来法身"
+ ]
 }

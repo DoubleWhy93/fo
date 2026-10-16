@@ -50,6 +50,24 @@
     {
      "q": "業用神通是共外道神通",
      "src": "pages/huayan28/28jiang9"
+    },
+    {
+     "q": "業用神通基於有法世間，若沒有般若智慧為先導，業用神通不出三界。",
+     "src": "pages/zongshi/zs1-14"
+    }
+   ]
+  },
+  {
+   "label": "不以之度众；登地位可启动",
+   "text": "总释说非特别因缘佛教不允许以业用神通度化众生，因其共外道、不出三界，众生盲目追求易入邪知见；又说登地位是实际入法界成就阶段，此时成就者可以启动业用神通而不会迷失。",
+   "quotes": [
+    {
+     "q": "不在特別的因緣下，佛教不允許以神通度化眾生，這裡指的是業用神通。",
+     "src": "pages/zongshi/zs1-14"
+    },
+    {
+     "q": "登地位是實際的入法界成就階段，這個階段的成就者可以啟動業用神通而不會迷失。",
+     "src": "pages/zongshi/zs1-14"
     }
    ]
   }
@@ -62,13 +80,19 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答（dy、wm-lb）讲身所作为即业用神通，并与智慧神通对照。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中（zs1-14）系统对比业用神通与智慧神通：业用神通基于有法世间、共外道、由共外道禅定可得，无般若为先导不出三界；非特别因缘佛教不许以之度众，登地位成就者可启动而不迷失。"
   }
  ],
  "related": [
   "智慧神通",
   "共外道",
   "有法",
-  "漏尽通"
+  "漏尽通",
+  "般若智慧",
+  "登地位"
  ],
  "tensions": [
   {
@@ -92,9 +116,10 @@
   "pages/dayi_all/2018-2022dy/dy/dy2",
   "pages/huayan28/28jiang9",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/13.psstyzxcj",
-  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt"
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt",
+  "pages/zongshi/zs1-14"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": [
   "智慧神通",

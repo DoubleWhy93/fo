@@ -18,6 +18,10 @@
     {
      "q": "不共法的意思是指別人不能替代，別人能替代的都是在共法世間。",
      "src": "pages/huayan70/jiangyi5"
+    },
+    {
+     "q": "不共的意思即是修行者的一心成就，不是共有的。",
+     "src": "pages/zongshi/zs1-11"
     }
    ]
   },
@@ -72,6 +76,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/jx-br/1.hw-mxjx--"
     }
    ]
+  },
+  {
+   "label": "内在证量、正报成就（总释）",
+   "text": "总释说修行者本体成就是基于内在证量的不共法，需从法身佛、报身佛的成就模式言说；菩提场会与普光明殿诸会完全是行者本体的自证量智慧圆满，是不共法，也即是正报成就。",
+   "quotes": [
+    {
+     "q": "修行者本體成就是基於內在證量的不共法，需要從法身佛和報身佛的成就模式來言說。",
+     "src": "pages/zongshi/zs4-01"
+    },
+    {
+     "q": "菩提場會與普光明殿諸會完全是行者本體的自證量智慧圓滿，是不共法，也即是正報成就。",
+     "src": "pages/zongshi/zs1-04"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -82,13 +100,18 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答多是使用：把身心觉受、理性、报身世间归入不共法世间，并以之对照共法世间和其他宗教。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中多处使用：说修行者本体成就是基于内在证量的不共法，离言说相离心缘相；菩提场会与普光明殿诸会是行者本体自证量智慧圆满，是不共法即正报成就；众生种性基于不共法，不退转是第一义不共法。"
   }
  ],
  "related": [
   "共法世间",
   "报身世间",
   "理性",
-  "自我因素"
+  "自我因素",
+  "正报"
  ],
  "tensions": [
   {
@@ -114,9 +137,12 @@
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/28.rhysxjzdyqfzdrlz",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/14.gwstdwt",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/33.-cf-y-rld-dcb",
-  "pages/dayi_all/2018-2022dy/flWORD/jx-br/1.hw-mxjx--"
+  "pages/dayi_all/2018-2022dy/flWORD/jx-br/1.hw-mxjx--",
+  "pages/zongshi/zs4-01"
  ],
- "pages_consulted": 7,
+ "pages_consulted": 10,
  "confidence": "low",
- "related_unresolved": []
+ "related_unresolved": [
+  "正报"
+ ]
 }

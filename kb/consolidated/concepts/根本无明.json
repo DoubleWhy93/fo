@@ -125,6 +125,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/21.psdzzcjydjwdgx"
     }
    ]
+  },
+  {
+   "label": "业习种子遇缘显相，故称无始",
+   "text": "总释说根本无明是自性地业习种子遇缘显相生起，基于无为法，所以没有开始，也称无始无明；与第七意识作意生起、基于有为法的一念无明相对。文中说只有妙觉位成就者能破除。",
+   "quotes": [
+    {
+     "q": "根本無明是自性地業習種子遇緣顯相生起，是基於無為法生起的無明，因為是基於無為法，也就沒有開始，也被稱作無始無明。",
+     "src": "pages/zongshi/zs3-16"
+    },
+    {
+     "q": "二乘別教的智慧力可以破除一念無明，而根本無明只有妙覺位成就者方能破除。",
+     "src": "pages/zongshi/zs3-16"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -143,6 +157,10 @@
   {
    "series": "答疑",
    "text": "早期问答讲俱生我执法执与破除阶段；2024 年问答强调它是力量不是缺陷。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说根本无明是自性地业习种子遇缘显相生起、基于无为法的无明，所以无始，也称无始无明；它生起三细相，从究竟义说即根本智；一处说断根本无明要到等觉位以后，另一处说只有妙觉位成就者能破除。"
   }
  ],
  "related": [
@@ -152,7 +170,8 @@
   "俱生法执",
   "自我因素",
   "普光明殿",
-  "所知障"
+  "所知障",
+  "妙觉位"
  ],
  "tensions": [
   {
@@ -209,11 +228,13 @@
   "pages/huayan70/jiangyi31",
   "pages/dayi/dy_ynwm",
   "pages/dayi_all/2024dy/2024dywd/6.dy-2024-10-19-",
-  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/22.pfbwz-fz-jswz-fzdjtdw"
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/22.pfbwz-fz-jswz-fzdjtdw",
+  "pages/zongshi/zs3-16"
  ],
  "confidence": "medium",
- "pages_consulted": 16,
+ "pages_consulted": 17,
  "related_unresolved": [
-  "俱生法执"
+  "俱生法执",
+  "妙觉位"
  ]
 }

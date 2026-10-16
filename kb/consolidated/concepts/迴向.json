@@ -68,6 +68,34 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/12.stgbfypgmddgx"
     }
    ]
+  },
+  {
+   "label": "回头：从出世间回到世间",
+   "text": "总释说迴向直接的意思是回头，把十住十行位的梵行清净和善妙思惟回到一切法所从来处；也就是从出世间回到世间、从本体回到显相、从智慧回到应用。",
+   "quotes": [
+    {
+     "q": "「迴向」直接的意思是回頭，是將十住十行位的梵行清淨和善妙思惟，回到一切法所從來處",
+     "src": "pages/zongshi/zs6-08"
+    },
+    {
+     "q": "「迴向」是指從出世間回到世間，是從本體回到顯相、從智慧回到應用。",
+     "src": "pages/zongshi/zs7-17"
+    }
+   ]
+  },
+  {
+   "label": "十迴向位：智慧本体与力用合一",
+   "text": "总释说祖师大德对十迴向位与十地位的关系看法不同，此次学习看十迴向位就是十迴向位，是智慧本体和力用合一的成就。",
+   "quotes": [
+    {
+     "q": "十迴向位有三品經，祖師大德們對於十迴向位與十地位之間的關系，有不同的看法。",
+     "src": "pages/zongshi/zs1-03"
+    },
+    {
+     "q": "我們在這次學習當中，看十迴向位就是十迴向位，這一品是智慧的本體和力用合一的成就。",
+     "src": "pages/zongshi/zs1-03"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -82,6 +110,10 @@
   {
    "series": "答疑",
    "text": "2018-2022 答疑从「向」「回」两字及依自性无为法生起世间智用来解释。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者说迴向直接的意思是回头，把十住十行的梵行清净和善妙思惟回到一切法所从来处；又说是从出世间回到世间、从本体回到显相、从智慧回到应用，「向」代表一种力量。另一篇说此次学习看十迴向位就是十迴向位，是智慧本体和力用合一的成就。"
   }
  ],
  "related": [
@@ -89,7 +121,9 @@
   "自性智慧",
   "般若",
   "一切法",
-  "报身"
+  "报身",
+  "梵行清净",
+  "善妙思惟"
  ],
  "tensions": [],
  "gaps": [
@@ -101,13 +135,15 @@
   "pages/huayan70/jiangyi55",
   "pages/huayan28/28jiang22",
   "pages/dayi_all/2018-2022dy/flWORD/sz/18.-pszgsm-h-psdzhgsm-dcb",
-  "pages/dayi_all/2018-2022dy/flWORD/sz/12.stgbfypgmddgx"
+  "pages/dayi_all/2018-2022dy/flWORD/sz/12.stgbfypgmddgx",
+  "pages/zongshi/zs6-08"
  ],
- "pages_consulted": 5,
+ "pages_consulted": 8,
  "confidence": "medium",
  "related_unresolved": [
   "十迴向位",
   "自性智慧",
-  "报身"
+  "报身",
+  "善妙思惟"
  ]
 }

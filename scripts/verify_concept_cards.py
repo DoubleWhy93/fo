@@ -53,7 +53,7 @@ def check(f):
         quotes(errs, f"aspects[{i}].quotes", a.get("quotes"), True)
     for i, t in enumerate(d["tensions"]):
         quotes(errs, f"tensions[{i}].sources", t.get("sources"), True)
-    ok_series = {"huayan28", "huayan70", "shixin", "swxf", "amtj", "juewu_s", "答疑"}
+    ok_series = {"huayan28", "huayan70", "shixin", "swxf", "amtj", "juewu_s", "zongshi", "答疑"}
     for s_ in d.get("by_series", []):
         if s_.get("series") not in ok_series:
             errs.append(f"by_series: unknown series {s_.get('series')!r}")

@@ -46,6 +46,24 @@
     {
      "q": "對於圓教行者，起一個念頭是生起智慧相，就是「見佛」。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/12.zxcjypsjc"
+    },
+    {
+     "q": "並非生死之外別有諸佛世間可以往去，一念相應即是見佛。",
+     "src": "pages/zongshi/zs6-10"
+    }
+   ]
+  },
+  {
+   "label": "按种性区分：相上见佛、思惟相应、一念智慧",
+   "text": "总释说早期佛教经典中只有相上见到佛才叫见佛；对别教菩萨，思惟和正法相应即是见佛；对圆教行者，一念智慧生起即是见佛。",
+   "quotes": [
+    {
+     "q": "比如見佛加持，早期佛教經典中，只有相上見到佛才叫作見佛，除此之外都不是見佛。",
+     "src": "pages/zongshi/zs1-13"
+    },
+    {
+     "q": "對於别教菩薩來說，思惟和正法相應即是見佛，而對於圓教行者，則隨起一念即是智慧生起，一念智慧生起即是見佛。",
+     "src": "pages/zongshi/zs1-13"
     }
    ]
   }
@@ -58,12 +76,17 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答把见佛说成见自性佛，并按声闻、缘觉、圆教行者区分。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者按种性区分见佛：早期经典只有相上见到佛才算，别教菩萨思惟与正法相应即见佛，圆教行者一念智慧生起即见佛；另有篇章说诸佛与众生共一法身、一念相应即是见佛，并把一念生起即见佛归于十行位。"
   }
  ],
  "related": [
   "自性佛",
   "智慧相",
-  "圆教"
+  "圆教",
+  "别教"
  ],
  "tensions": [],
  "gaps": [
@@ -72,9 +95,10 @@
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/jtl/46.-gj-yhyxfdjfcb",
   "pages/huayan70/jiangyi25",
-  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/12.zxcjypsjc"
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/12.zxcjypsjc",
+  "pages/zongshi/zs1-13"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "high",
  "related_unresolved": [
   "自性佛",

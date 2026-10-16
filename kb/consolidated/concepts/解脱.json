@@ -50,6 +50,30 @@
      "src": "pages/swxf/shizhu6"
     }
    ]
+  },
+  {
+   "label": "超越一切法、清凉如月",
+   "text": "总释说自性清净无为即超越一切法，超越一切法即得解脱；佛教语言中解脱即是清凉如月。",
+   "quotes": [
+    {
+     "q": "自性清淨無為即超越一切法，超越一切法即得解脫。解脫在佛教的語言中，即是清涼如月。",
+     "src": "pages/zongshi/zs4-06"
+    }
+   ]
+  },
+  {
+   "label": "单纯的生命解脱与圆满成就庄严法界",
+   "text": "总释把以生命解脱为修法目标归为声闻种性的特点，并说佛教理论从单纯的生命解脱发展到圆满成就庄严法界。",
+   "quotes": [
+    {
+     "q": "聲聞種性主要是以攀緣清淨法，厭離世間法，以生命解脫為修法目標",
+     "src": "pages/zongshi/zs1-10"
+    },
+    {
+     "q": "佛教的發展經歷了一千多年，理論也從原來單純的生命解脫，發展到最後圓滿成就莊嚴法界。",
+     "src": "pages/zongshi/zs1-11"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -64,12 +88,18 @@
   {
    "series": "答疑",
    "text": "2023 年问答讲自我因素为第一因。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释作者说自性清净无为即超越一切法，超越一切法即得解脱，佛教语言中解脱即清凉如月；又说声闻种性以生命解脱为修法目标，佛教理论从单纯的生命解脱发展到圆满成就庄严法界。"
   }
  ],
  "related": [
   "无上正觉",
   "自我因素",
-  "行法实践"
+  "行法实践",
+  "庄严法界",
+  "声闻种性"
  ],
  "tensions": [],
  "gaps": [
@@ -78,11 +108,13 @@
  "where_to_read": [
   "pages/dayi_all/2023dy/wz/WORDbb/9.zywd-23-10-07-",
   "pages/swxf/shizhu6",
-  "pages/huayan70/jiangyi68"
+  "pages/huayan70/jiangyi68",
+  "pages/zongshi/zs4-06"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": [
-  "行法实践"
+  "行法实践",
+  "声闻种性"
  ]
 }

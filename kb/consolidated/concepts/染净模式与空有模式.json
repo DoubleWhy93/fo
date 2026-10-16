@@ -118,6 +118,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/99.rhjx-rzxdr-bjsjg -"
     }
    ]
+  },
+  {
+   "label": "平等性智生起后染净即空有",
+   "text": "总释说随着第七意识作用模式改变、平等性智生起，染净二法即是空有二法，前者依俗、后者依真；空是真如本体，有是生灭显相。",
+   "quotes": [
+    {
+     "q": "隨著第七意識作用模式的改變，平等性智生起，染淨二法即是空有二法，前者依俗而說，後者依真而說",
+     "src": "pages/zongshi/zs6-09"
+    },
+    {
+     "q": "「空」法是真如本體，「有」法是生滅顯相。",
+     "src": "pages/zongshi/zs6-09"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -132,6 +146,10 @@
   {
    "series": "答疑",
    "text": "大量 2018–2022 问答用业、善恶、矿石等例子反复说明转换；fjzxlydy 问答将染净与差别智、空有与根本智对应；dayi 短文讲二乘寻找另一清净处仍是染净。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者只在一处（讲阿赖耶识与平等性智）提到：随第七意识作用模式改变、平等性智生起，染净二法即是空有二法，染净依俗而说、空有依真而说。"
   }
  ],
  "related": [
@@ -140,7 +158,8 @@
   "梵行清净",
   "平等性智",
   "灭尽定",
-  "道种智"
+  "道种智",
+  "第七意识"
  ],
  "tensions": [
   {
@@ -180,9 +199,10 @@
   "pages/dayi_all/2018-2022dy/flWORD/jtl/10.ffyfpsdbssjcb",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/154.zzdsdwtxgzsmwz",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/22.hw-fscz--",
-  "pages/dayi_all/2018-2022dy/flWORD/jtl/61.gwqsdwt"
+  "pages/dayi_all/2018-2022dy/flWORD/jtl/61.gwqsdwt",
+  "pages/zongshi/zs6-09"
  ],
- "pages_consulted": 14,
+ "pages_consulted": 15,
  "confidence": "high",
  "related_unresolved": []
 }

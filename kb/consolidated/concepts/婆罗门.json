@@ -48,6 +48,34 @@
     {
      "q": "因為婆羅門就是從波羅蜜這三個字來的，所以證得法自在的人，在佛教裡也可以稱為婆羅門。",
      "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/136.cz-plmddbcjz-lzdcbssm-"
+    },
+    {
+     "q": "「婆羅門」在這裡是指梵行清淨、智慧成就、能行一切法的成就者。",
+     "src": "pages/zongshi/zs7-11"
+    }
+   ]
+  },
+  {
+   "label": "从口而生：所言即真理",
+   "text": "总释说婆罗门在印度文化中从口而生，代表其所言说即是真理、所显相即是大智慧力用，代表法成就者。",
+   "quotes": [
+    {
+     "q": "婆羅門在印度文化中是從口而生，代表其所言說即是真理，其所顯相即是大智慧力用。",
+     "src": "pages/zongshi/zs7-04"
+    },
+    {
+     "q": "「婆羅門」代表法成就者，婆羅門種從口而生即是此義。",
+     "src": "pages/zongshi/zs7-31"
+    }
+   ]
+  },
+  {
+   "label": "五十三参的两位婆罗门：力波罗蜜",
+   "text": "总释说两位婆罗门善知识分布在第九住位和第九等觉位，代表十住位和等觉位十波罗蜜中的「力」波罗蜜。",
+   "quotes": [
+    {
+     "q": "善知識中有兩位婆羅門，分布在第九住位和第九等覺位，分別代表十住位和等覺位十波羅蜜中的「力」波羅蜜",
+     "src": "pages/zongshi/zs7-04"
     }
    ]
   }
@@ -60,13 +88,19 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答（hyxf）讲婆罗门来自波罗蜜三字，证得法自在者可称婆罗门。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中讲婆罗门是梵行清净、智慧成就、能行一切法的成就者，「从口而生」代表所言即真理；五十三参两位婆罗门在第九住、第九等觉，代表「力」波罗蜜。作者并说视胜热婆罗门为愚痴不确切。"
   }
  ],
  "related": [
   "波罗蜜",
   "法自在",
   "智慧成就者",
-  "五十三参"
+  "五十三参",
+  "力波罗蜜",
+  "胜热婆罗门"
  ],
  "tensions": [],
  "gaps": [
@@ -76,12 +110,15 @@
   "pages/huayan70/jiangyi53",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/136.cz-plmddbcjz-lzdcbssm-",
   "pages/huayan70/jiangyi60",
-  "pages/huayan70/jiangyi69"
+  "pages/huayan70/jiangyi69",
+  "pages/zongshi/zs7-11"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "high",
  "related_unresolved": [
   "法自在",
-  "智慧成就者"
+  "智慧成就者",
+  "力波罗蜜",
+  "胜热婆罗门"
  ]
 }

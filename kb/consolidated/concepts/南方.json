@@ -40,6 +40,10 @@
     {
      "q": "『南方』是光明熾盛的方向",
      "src": "pages/huayan28/28jiang26"
+    },
+    {
+     "q": "「南方」代表光明熾盛。行者勇猛精進智慧增勝，修行一切法歡喜無量不生疲厭，即是往詣南方。",
+     "src": "pages/zongshi/zs7-32"
     }
    ]
   },
@@ -56,6 +60,20 @@
      "src": "pages/huayan70/jiangyi53"
     }
    ]
+  },
+  {
+   "label": "四智中的平等性智",
+   "text": "总释以四方代表四智，南方是平等性智；觉首菩萨从南方妙色世界来，代表依平等性智生起的智慧应用。",
+   "quotes": [
+    {
+     "q": "「南方」代表四智法的平等性智，「妙色世界」代表依於妙智慧生起的一切法。",
+     "src": "pages/zongshi/zs3-06"
+    },
+    {
+     "q": "佛教中常常用四方來代表四智：東方大圓鏡智、南方平等性智、西方妙觀察智、北方成所作智。",
+     "src": "pages/zongshi/zs1-09"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -66,28 +84,31 @@
   {
    "series": "huayan70",
    "text": "自我因素所在，及智慧增胜、行法精进。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者说南方代表光明炽盛、行法精进（善财五十三参一路向南），并在四智框架中把南方对应平等性智、南方宝生佛。"
   }
  ],
  "related": [
   "自我因素",
   "南阎浮提",
   "精进",
-  "四智"
+  "四智",
+  "平等性智"
  ],
  "tensions": [],
- "gaps": [
-  "南方作为四智中平等性智的说法在 teachings 中，本卡未引其原文。"
- ],
+ "gaps": [],
  "where_to_read": [
   "pages/huayan70/jiangyi43",
   "pages/huayan28/28jiang26",
   "pages/huayan70/jiangyi58",
-  "pages/huayan70/jiangyi53"
+  "pages/huayan70/jiangyi53",
+  "pages/zongshi/zs7-32"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "medium",
  "related_unresolved": [
-  "南阎浮提",
   "精进"
  ]
 }

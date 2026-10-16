@@ -36,6 +36,11 @@ def clean_title(t):
     return re.sub(r"^《(.*)》$", r"\1", t) or "（无题）"
 
 
+def evq(text):
+    """original-text tag for a claim from this same page (source is the page itself, so no label)"""
+    return site_common.ev([(H(S(text)), "")]) if text else ""
+
+
 def q(text):
     return f'<q class="orig">{H(S(text))}</q>'
 
@@ -66,7 +71,7 @@ def render_digest(d, depth, qa_first=False):
     if d.get("qa"):
         qa = "<h2>问与答</h2>" + "".join(
             f'<div class="qa"><b>问：{H(S(x.get("question", "")))}</b><div class="a">答（概括）：{H(S(x.get("answer_summary", "")))}'
-            + (f'<br>{q(x["quote"])}' if x.get("quote") else "") + "</div></div>" for x in d["qa"])
+            + evq(x.get("quote")) + "</div></div>" for x in d["qa"])
     if qa_first:
         b.append(qa)
     if d.get("summary"):
@@ -77,19 +82,18 @@ def render_digest(d, depth, qa_first=False):
             for o in d["outline"]))
     if d.get("teachings"):
         b.append("<h2>主要观点</h2><ul>" + "".join(
-            f"<li>{H(S(t.get('claim', '')))}" + (f"<br>{q(t['quote'])}" if t.get("quote") else "") + "</li>" for t in d["teachings"]) + "</ul>")
+            f"<li>{H(S(t.get('claim', '')))}" + evq(t.get("quote")) + "</li>" for t in d["teachings"]) + "</ul>")
     if d.get("frameworks"):
         b.append("<h2>框架</h2>" + "".join(
             f'<div class="ex"><b>{concept_link(f.get("name", ""), depth)}</b>' + ol(H(S(i)) for i in f.get("items", [])) + "</div>"
             for f in d["frameworks"]))
     if d.get("examples"):
         b.append("<h2>例子与比喻</h2>" + "".join(
-            f'<div class="ex"><b>{H(S(e.get("illustrates", "例子")))}</b><p>{H(S(e.get("setup", "")))}</p><p>{H(S(e.get("point", "")))}</p>'
-            + (q(e["quote"]) if e.get("quote") else "") + "</div>" for e in d["examples"]))
+            f'<div class="ex"><b>{H(S(e.get("illustrates", "例子")))}</b><p>{H(S(e.get("setup", "")))}</p><p>{H(S(e.get("point", "")))}' + evq(e.get("quote")) + "</p></div>" for e in d["examples"]))
     if d.get("how_to"):
         b.append("<h2>怎么用</h2>" + "".join(
-            f'<div class="ex"><b>{H(S(h.get("situation", "")))}</b>' + ol(H(S(s)) for s in h.get("steps", []))
-            + (q(h["quote"]) if h.get("quote") else "") + "</div>" for h in d["how_to"]))
+            f'<div class="ex"><b>{H(S(h.get("situation", "")))}</b>' + evq(h.get("quote")) + ol(H(S(s)) for s in h.get("steps", []))
+            + "</div>" for h in d["how_to"]))
     if not qa_first:
         b.append(qa)
     if d.get("sutra_refs"):
@@ -104,7 +108,12 @@ def render_digest(d, depth, qa_first=False):
         b.append("<h2>本页概念</h2><p class='chips'>" + " ".join(concept_link(t, depth) for t in terms) + "</p>")
     if d.get("prerequisites"):
         b.append("<h2>读之前最好先了解</h2><p class='chips'>" + " ".join(concept_link(p, depth) for p in d["prerequisites"]) + "</p>")
-    return "".join(b) + AUTO
+    html = "".join(b)
+    heads = re.findall(r"<h2>(.*?)</h2>", html)
+    for i, h in enumerate(heads):
+        html = html.replace(f"<h2>{h}</h2>", f'<h2 id="s{i}">{h}</h2>', 1)
+    jump = ('<nav class="jump">' + " · ".join(f'<a href="#s{i}">{h}</a>' for i, h in enumerate(heads)) + "</nav>") if len(heads) > 2 else ""
+    return jump + html + AUTO
 
 
 def digest(pid):
@@ -287,6 +296,41 @@ page("about.html", "关于", f"""<h1>关于本站</h1>
 <li>引文（「」内）逐字可靠；概括文字是整理者的话，可能多说或漏说，请以原稿为准。</li>
 <li>站内文字一律转为简体；引文原为繁体。</li>
 <li>重复或已被其他页面覆盖的答疑页，没有单独收录。</li></ul>""", "关于")
+
+# ---------- 搜索 (index shipped as a .js file so it also works when the site is opened from disk)
+IDX = []
+for sid, short, name, *_ in LECT:
+    for fn, e in LECT_ITEMS[sid]:
+        IDX.append([f"jiang/{sid}/{fn}", clean_title(e["title"]), name, S(digest(e["id"]).get("gist", ""))])
+for h, t_, l, g in all_rows:
+    if not h.startswith("http"):
+        IDX.append([h, t_, "答疑·" + l, g])
+for k, c in KB["cards"].items():
+    IDX.append([f"kb/c/{cslug[k]}.html", S(c["term"]), "概念", S(c["summary"]) + " " + " ".join(S(a) for a in c.get("aliases", []))])
+for k, c in KB["fws"].items():
+    IDX.append([f"kb/f/{fslug[k]}.html", S(c["name"]), "框架", S(c["summary"])])
+seen, uniq = set(), []
+for r in IDX:
+    if r[0] not in seen:
+        seen.add(r[0])
+        uniq.append(r)
+open("site/search-index.js", "w", encoding="utf8").write("window.SEARCH=" + json.dumps(uniq, ensure_ascii=False, separators=(",", ":")) + ";")
+page("search.html", "搜索", f"""<h1>搜索</h1><p class="lead">在 {len(uniq)} 个页面的标题与要点中查找：讲座、总释、答疑、概念、框架。</p>
+<input id="q" placeholder="输入词语，例如：见性、道种智、黄金为地" autofocus><p class="conf" id="n"></p><ol class="toc" id="r"></ol>
+<script src="search-index.js"></script>
+<script>
+const box=document.getElementById('q'),out=document.getElementById('r'),n=document.getElementById('n');
+const esc=s=>s.replace(/[&<>"]/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}})[c]);
+function run(){{const v=box.value.trim();out.innerHTML='';if(!v){{n.textContent='';return}}
+ const terms=v.split(/\s+/);
+ const hits=window.SEARCH.map(r=>{{let s=0;for(const t of terms){{if(r[1].includes(t))s+=10;else if(r[3].includes(t))s+=1;else return null}}
+   if(r[2]==='概念'&&r[1]===v)s+=100;return [s,r]}}).filter(Boolean).sort((a,b)=>b[0]-a[0]).slice(0,200);
+ n.textContent=hits.length?('找到 '+hits.length+(hits.length===200?'+':'')+' 个'):'没有找到';
+ out.innerHTML=hits.map(([s,r])=>'<li><a href="'+r[0]+'">'+esc(r[1])+'</a><span class="badge">'+esc(r[2])+'</span><span class="t">'+esc(r[3].slice(0,120))+'</span></li>').join('');
+ history.replaceState(null,'','?q='+encodeURIComponent(v))}}
+box.addEventListener('input',run);
+const p=new URLSearchParams(location.search).get('q');if(p){{box.value=p;run()}}
+</script>""", "搜索")
 
 # ---------- 首页
 n_lect = sum(c for *_, c in series_rows)

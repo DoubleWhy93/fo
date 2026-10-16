@@ -34,29 +34,63 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb"
     }
    ]
+  },
+  {
+   "label": "六品经文：本体三品、力用三品",
+   "text": "总释说等觉位共六品经文，从《十定品》到《菩萨住处品》，本体与力用各说三品。",
+   "quotes": [
+    {
+     "q": "等覺位一共六品經文，從《十定品》開始，一直到《菩薩住處品》，本體和力用各說三品",
+     "src": "pages/zongshi/zs3-10"
+    }
+   ]
+  },
+  {
+   "label": "超越染净二法、自在出入的平等纯用",
+   "text": "总释说等觉位不再对八识世间法与四智出世间法分别取舍，对染法、净法世间及一切相对法自在出入，开始进入舍离二法、超越空有染净的平等纯用模式。",
+   "quotes": [
+    {
+     "q": "等覺位不再對八識世間法和四智出世間法有所分別取捨，對於染法世間和淨法世間、對於一切相對法都能自在出入。",
+     "src": "pages/zongshi/zs3-13"
+    },
+    {
+     "q": "等覺位開始進入捨離二法、超越空有、超越染淨的平等純用模式。",
+     "src": "pages/zongshi/zs7-28"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "仅见于 2018–2022 年 jtl 与 wm-lb 页，两页分别讲不受束缚与回到世间。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者从经文结构说等觉位：从《十定品》到《菩萨住处品》共六品，本体与力用各三品；此位不再对八识世间法与四智出世间法分别取舍，超越空有染净，进入平等纯用模式，成就法界体性智、进入实际的普贤菩萨法界。"
   }
  ],
  "related": [
   "如来藏",
-  "普贤菩萨法界"
+  "普贤菩萨法界",
+  "法界体性智",
+  "妙觉位"
  ],
  "tensions": [],
  "gaps": [
   "证据只有两页的定义，其他提及为用例。",
-  "各页未说明等觉位在整部经中的具体品目。"
+  "答疑各页未说明等觉位的具体品目；总释 zs3-10 列出《十定品》至《菩萨住处品》六品，但各品内容本卡未展开。"
  ],
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/148.cjzsfhysdbk",
   "pages/dayi_all/2018-2022dy/flWORD/jtl/13.ffynypsyndcb",
-  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb"
+  "pages/dayi_all/2018-2022dy/flWORD/wm-lb/6.-ynwm---gbwm-sqdcb",
+  "pages/zongshi/zs3-10"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 6,
  "confidence": "low",
- "related_unresolved": []
+ "related_unresolved": [
+  "法界体性智",
+  "妙觉位"
+ ]
 }

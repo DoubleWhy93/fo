@@ -44,6 +44,20 @@
      "src": "pages/huayan70/jiangyi22"
     }
    ]
+  },
+  {
+   "label": "智足处与一切妙宝所庄严殿",
+   "text": "总释说外院是世间法智足处、内院是出世间法智足处，一切妙宝所庄严殿即兜率天内院；内院可见外院诸法，外院见不到内院诸法，因种性不同而分内外。",
+   "quotes": [
+    {
+     "q": "外院是世間法智足處，內院是出世間法智足處。事實上，「一切妙寶所莊嚴殿」即是兜率天內院。",
+     "src": "pages/zongshi/zs4-13"
+    },
+    {
+     "q": "內院可以見外院諸法，而外院卻見不到內院諸法。同樣是智足成就，因為種性不同而分出內院和外院。",
+     "src": "pages/zongshi/zs4-13"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -54,11 +68,16 @@
   {
    "series": "huayan70",
    "text": "内院为自性智慧成就处，要依内在觉知模式的行法、般若智慧才能到。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说外院是世间法智足处、内院是出世间法智足处，十回向说法处一切妙宝所庄严殿即兜率天内院；内院可见外院，外院见不到内院，因种性不同而分。"
   }
  ],
  "related": [
   "般若智慧",
-  "自性智慧"
+  "自性智慧",
+  "一切妙宝所庄严殿"
  ],
  "tensions": [],
  "gaps": [
@@ -67,11 +86,13 @@
  "where_to_read": [
   "pages/huayan28/28jiang18",
   "pages/huayan70/jiangyi21",
-  "pages/huayan70/jiangyi22"
+  "pages/huayan70/jiangyi22",
+  "pages/zongshi/zs4-13"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 4,
  "confidence": "medium",
  "related_unresolved": [
-  "自性智慧"
+  "自性智慧",
+  "一切妙宝所庄严殿"
  ]
 }

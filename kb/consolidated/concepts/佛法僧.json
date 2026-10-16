@@ -60,6 +60,30 @@
      "src": "pages/huayan70/jiangyi30"
     }
    ]
+  },
+  {
+   "label": "本体、智慧相、境界相",
+   "text": "总释说在华严经中，佛即毘卢遮那佛，法是文殊所起一切智慧相，僧是普贤所起一切境界相；佛是整体成就显现，法是一切智慧觉知，僧是无尽境界显相。",
+   "quotes": [
+    {
+     "q": "在華嚴經中，佛即是毘盧遮那佛，法即是文殊師利菩薩所起一切智慧相，僧即是普賢菩薩所起一切境界相。",
+     "src": "pages/zongshi/zs2-03"
+    },
+    {
+     "q": "佛是整體的成就顯現，法是一切智慧覺知，僧是無盡的境界顯相，三種言說是生命本體的三個方面。",
+     "src": "pages/zongshi/zs2-05"
+    }
+   ]
+  },
+  {
+   "label": "三处演说对应佛法僧",
+   "text": "总释说菩提场、普光明殿、入法界三处，对应一切众生自性本体的佛、法、僧三个生命因素。",
+   "quotes": [
+    {
+     "q": "「菩提場」、「普光明殿」和「入法界」這三處,對應著一切眾生自性本體的佛、法、僧三個生命因素。",
+     "src": "pages/zongshi/zs1-01"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -74,13 +98,21 @@
   {
    "series": "huayan70",
    "text": "十定、十通、十忍对应佛法僧。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说佛法僧不是知识化概念；在华严经中佛即毘卢遮那（诸法本体），法即文殊所起一切智慧相，僧即普贤所起一切境界相；菩提场、普光明殿、入法界三处即对应佛法僧，这一言说模式贯穿全经。"
   }
  ],
  "related": [
   "毘卢遮那",
   "文殊",
   "普贤",
-  "体相用"
+  "体相用",
+  "三处演说",
+  "菩提场",
+  "普光明殿",
+  "入法界"
  ],
  "tensions": [],
  "gaps": [
@@ -90,9 +122,10 @@
   "pages/shixin/shixin9",
   "pages/huayan28/28jiang16",
   "pages/huayan70/jiangyi30",
-  "pages/huayan70/jiangyi29"
+  "pages/huayan70/jiangyi29",
+  "pages/zongshi/zs2-03"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 7,
  "confidence": "medium",
  "related_unresolved": [
   "毘卢遮那",

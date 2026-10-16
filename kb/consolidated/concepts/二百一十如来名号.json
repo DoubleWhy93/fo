@@ -42,6 +42,20 @@
      "src": "pages/swxf/shizhu16"
     }
    ]
+  },
+  {
+   "label": "身心觉知一切法皆如来所现",
+   "text": "总释说文殊演说四天下与娑婆世界如来名号，从中央自性地生起、按右旋模式各分十方，共二百一十；代表身心觉知一切法皆是如来所现。",
+   "quotes": [
+    {
+     "q": "演說方法是從中央的自性地生起，然後按照右旋模式各分作十個方向來言說，一共兩百一十如來名號。",
+     "src": "pages/zongshi/zs6-02"
+    },
+    {
+     "q": "兩百一十如來名號，代表身心覺知一切法皆是如來所現。",
+     "src": "pages/zongshi/zs6-02"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -52,6 +66,10 @@
   {
    "series": "swxf",
    "text": "讲成法数，代表自性提供种子或赋予名字的能力。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说《如来名号品》中文殊从中央自性地生起、按右旋模式各分十方演说，共二百一十如来名号，代表身心觉知一切法皆是如来所现。"
   }
  ],
  "related": [
@@ -68,9 +86,10 @@
  "where_to_read": [
   "pages/shixin/shixin15",
   "pages/swxf/shizhu1",
-  "pages/swxf/shizhu16"
+  "pages/swxf/shizhu16",
+  "pages/zongshi/zs6-02"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 4,
  "confidence": "medium",
  "related_unresolved": []
 }

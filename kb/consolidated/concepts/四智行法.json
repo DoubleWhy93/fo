@@ -34,6 +34,10 @@
     {
      "q": "四智行法完全是「有法」生起的，按照住行向地四個次第來言說",
      "src": "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb"
+    },
+    {
+     "q": "四智行法就是十住、十行、十迴向和十地。四智行法就是四十位行法。",
+     "src": "pages/zongshi/zs1-03"
     }
    ]
   },
@@ -56,6 +60,40 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl"
     }
    ]
+  },
+  {
+   "label": "四位对应四智（密法言说）",
+   "text": "总释说十住对应大圆镜智、十行平等性智、十回向妙观察智、十地成所作智，并说以世间方位表示四智本身是一种密法言说。",
+   "quotes": [
+    {
+     "q": "在華嚴經裡，十住位對應大圓鏡智，十行位對應平等性智，十迴向位對應妙觀察智，十地位對應成所作智。",
+     "src": "pages/zongshi/zs1-05"
+    }
+   ]
+  },
+  {
+   "label": "并行与串行",
+   "text": "作者说过去把四十位当作纯粹串行模式解读，此次主要作并行模式说，同时具备次第成就；转八识成四智后，四智行法按次第生起而又同时展开。",
+   "quotes": [
+    {
+     "q": "修行者轉八識成四智之後，四智行法是按次第生起的，但也是同時展開的。",
+     "src": "pages/zongshi/zs1-03"
+    }
+   ]
+  },
+  {
+   "label": "以般若波罗蜜成就为前提",
+   "text": "总释说四智行法以生起自性地觉知智慧为行法模式，以般若波罗蜜成就为最前提；又说它是以般若智慧逐步克服凡夫染着习气、生起清净世间的行法。",
+   "quotes": [
+    {
+     "q": "四智行法以生起自性地覺知智慧為行法模式，以般若波羅蜜成就為最前提。",
+     "src": "pages/zongshi/zs4-04"
+    },
+    {
+     "q": "四智法是以般若智慧逐步克服凡夫染著習氣，逐步生起清淨世間的行法。",
+     "src": "pages/zongshi/zs6-11"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -66,6 +104,10 @@
   {
    "series": "答疑",
    "text": "2018–2022 问答（sz、swms-dzz 等）：说它完全是有法生起、对应住行向地，言说有先后但实际是整体训练。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中多处界定：四智行法即十住、十行、十回向、十地四十位行法，并逐一对应四智（十住大圆镜智、十行平等性智、十回向妙观察智、十地成所作智）；作者说四十位既依次第成就，又作并行模式同时展开。"
   }
  ],
  "related": [
@@ -76,7 +118,13 @@
   "十行位",
   "十回向位",
   "十地位",
-  "菩萨道种智行法"
+  "菩萨道种智行法",
+  "大圆镜智",
+  "平等性智",
+  "妙观察智",
+  "成所作智",
+  "般若波罗蜜",
+  "密法言说"
  ],
  "tensions": [],
  "gaps": [
@@ -87,9 +135,10 @@
   "pages/huayan28/28jiang19",
   "pages/dayi_all/2018-2022dy/flWORD/sz/5.szxfysjxsqdgx",
   "pages/dayi_all/2018-2022dy/flWORD/sz/20.yxsgyszxfdcb",
-  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl"
+  "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/15.dzzxfxzyqfzffxl",
+  "pages/zongshi/zs1-03"
  ],
- "pages_consulted": 4,
+ "pages_consulted": 8,
  "confidence": "medium",
  "related_unresolved": [
   "十住位",

@@ -48,6 +48,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf"
     }
    ]
+  },
+  {
+   "label": "某一种性的一切法成就（出生、证得）",
+   "text": "总释说灌顶指某一种性的一切法成就，有出生和证得之意，基于无为法成就；十住中第十位灌顶住即四智法的大圆镜智，与如来地智慧相等。",
+   "quotes": [
+    {
+     "q": "「灌頂」的意思是某一種性的一切法成就，有「出生」和「證得」的意思。",
+     "src": "pages/zongshi/zs2-07"
+    },
+    {
+     "q": "第十位灌頂住即是四智法的大圓鏡智。灌頂住和如來地智慧上是相等的。",
+     "src": "pages/zongshi/zs1-05"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -58,11 +72,16 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答（swms-dzz）讲种性升级与四大菩萨为各位灌顶位。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中说灌顶是某一种性的一切法成就，有出生和证得之意，基于无为法而非对有为法的「全包括」；第十住、第十行、第十回向、第十地乃至第十等觉位都可称灌顶位，灌顶住即四智法的大圆镜智。"
   }
  ],
  "related": [
   "入灭尽定行法",
-  "四大菩萨"
+  "四大菩萨",
+  "大圆镜智"
  ],
  "tensions": [
   {
@@ -87,7 +106,7 @@
   "pages/huayan70/jiangyi27",
   "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/20.scfczypsdzzxf"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": [
   "四大菩萨"

@@ -92,6 +92,24 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/swms-dzz/22.hw-zzjcbz-h-zzjcbz-"
     }
    ]
+  },
+  {
+   "label": "入于世间而清净无染（总释）",
+   "text": "总释说「童子」代表入于世间而清净无染，福城东大塔庙会是全经第一次称文殊为童子；文殊出善住楼阁代表从根本智生起应用智。经中三位童子里，文殊师利童子出善住楼阁往于人间，出生一切智慧应用。",
+   "quotes": [
+    {
+     "q": "「童子」代表入於世間而清淨無染。整部華嚴經經常提到文殊菩薩，而這裡是第一次稱呼文殊菩薩為「童子」。",
+     "src": "pages/zongshi/zs2-17"
+    },
+    {
+     "q": "第二位是文殊師利童子，出善住樓閣往於人間，出生一切智慧應用",
+     "src": "pages/zongshi/zs7-12"
+    },
+    {
+     "q": "文殊菩薩出善住閣樓，代表從根本智生起應用智，是從正報將要生起依報世間行法。",
+     "src": "pages/zongshi/zs2-17"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -110,6 +128,10 @@
   {
    "series": "答疑",
    "text": "2018–2022：说文殊是诸佛如来小儿子、长大成普贤，又说文殊菩萨是自己生起华严种性行法的因素。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在福城东大塔庙会处说：文殊菩萨代表根本智，这里是全经第一次称文殊为「童子」，童子代表入于世间而清净无染；出善住楼阁代表从根本智生起应用智。五十三参中又说经文三位童子之一的文殊师利童子出生一切智慧应用，自在主童子、普眼长者都在其处修学。"
   }
  ],
  "related": [
@@ -120,7 +142,8 @@
   "善财童子",
   "普贤菩萨",
   "大威光童子",
-  "道种智"
+  "道种智",
+  "自在主童子"
  ],
  "tensions": [
   {
@@ -151,12 +174,13 @@
   "pages/shixin/shixin8",
   "pages/huayan28/28jiang25",
   "pages/huayan70/jiangyi54",
-  "pages/dayi_all/2018-2022dy/flWORD/hyxf/115.-hxxd-szdlglcsqdyqfdjzhwxswm-"
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/115.-hxxd-szdlglcsqdyqfdjzhwxswm-",
+  "pages/zongshi/zs2-17"
  ],
  "confidence": "medium",
- "pages_consulted": 8,
+ "pages_consulted": 10,
  "related_unresolved": [
-  "普贤菩萨",
-  "大威光童子"
+  "大威光童子",
+  "自在主童子"
  ]
 }

@@ -48,6 +48,20 @@
      "src": "pages/huayan70/jiangyi45"
     }
    ]
+  },
+  {
+   "label": "皈依自性根本智慧、进入以智导行",
+   "text": "总释说福城四众往诣文殊，是行者的一切觉知思惟与一切行法皈依自性根本智慧，从此进入以智导行的行法模式；文殊为福城人说法，引出善财五十三参。",
+   "quotes": [
+    {
+     "q": "福城四眾往詣文殊菩薩處，是行者的一切覺知思惟和一切行法對於自性根本智慧的皈依，是行者從此進入以智導行",
+     "src": "pages/zongshi/zs3-20"
+    },
+    {
+     "q": "文殊菩薩於莊嚴幢娑羅林中福城東大塔廟處為福城人說一切諸佛勝妙之法，代表修行者依文殊菩薩，聞見自性地一切法，從而皈依自性地根本智慧。",
+     "src": "pages/zongshi/zs7-01"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -58,6 +72,10 @@
   {
    "series": "huayan70",
    "text": "既是闻法好乐的人，也代表围绕天帝释所生一切法。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在讲入法界品三会时提到福城人：福城四众往诣文殊菩萨处，代表行者一切觉知思惟与行法对自性根本智慧的皈依，由此进入以智导行、开启五十三参的行法模式。"
   }
  ],
  "related": [
@@ -73,9 +91,10 @@
  "where_to_read": [
   "pages/huayan70/jiangyi44",
   "pages/huayan28/28jiang26",
-  "pages/huayan70/jiangyi45"
+  "pages/huayan70/jiangyi45",
+  "pages/zongshi/zs3-20"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": [
   "文殊菩萨",

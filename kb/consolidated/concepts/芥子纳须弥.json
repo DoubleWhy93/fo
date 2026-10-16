@@ -58,6 +58,16 @@
      "src": "pages/huayan70/jiangyi7"
     }
    ]
+  },
+  {
+   "label": "微细智慧与所有法",
+   "text": "总释说芥子是自性所起的微细智慧，须弥是所有法，即依智慧知所有法，与普贤一毛孔现十方法界同样言说。",
+   "quotes": [
+    {
+     "q": "芥子是指自性所起微細智慧，須彌是指所有法，依於智慧知所有法，亦是同樣言說。",
+     "src": "pages/zongshi/zs7-13"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -72,12 +82,17 @@
   {
    "series": "答疑",
    "text": "2018–2022 年问答讲芥子为无为法、须弥为有为法，及能力与一法的对应。"
+  },
+  {
+   "series": "zongshi",
+   "text": "总释只在解释「小器」「一毛孔」时顺带提到：作者说芥子指自性所起的微细智慧，须弥指所有法，依于智慧知所有法。"
   }
  ],
  "related": [
   "一念无明",
   "无为法",
-  "有为法"
+  "有为法",
+  "一毛孔"
  ],
  "tensions": [],
  "gaps": [
@@ -91,10 +106,11 @@
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/15.-jznxm-ypsst",
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/108.yyhmy"
  ],
- "pages_consulted": 5,
+ "pages_consulted": 6,
  "confidence": "medium",
  "related_unresolved": [
   "无为法",
-  "有为法"
+  "有为法",
+  "一毛孔"
  ]
 }

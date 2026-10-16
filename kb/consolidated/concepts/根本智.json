@@ -96,6 +96,20 @@
      "src": "pages/dayi_all/2018-2022dy/flWORD/wm-lb/29.ynwmhgbwmdgx"
     }
    ]
+  },
+  {
+   "label": "文殊所代表、一切智慧的起点",
+   "text": "总释说文殊菩萨是自性根本智，根本智是所有智慧的起点，遍一切处、知一切法；其作用在不同种性、次第、因缘下形式与名字不同。",
+   "quotes": [
+    {
+     "q": "文殊菩薩是自性根本智，根本智是所有智慧的起點。",
+     "src": "pages/zongshi/zs3-04"
+    },
+    {
+     "q": "文殊菩薩代表自性地根本智，徧一切處，知一切法",
+     "src": "pages/zongshi/zs5-09"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -110,6 +124,10 @@
   {
    "series": "答疑",
    "text": "2018–2022：土地与诸法的比喻、不生灭法、与第六意识的对比；2023：提供能力与保证而非结果，以直觉形式出现；2024：自性本体提供认识一切法的能力，到等妙觉位根本无明变成根本智。"
+  },
+  {
+   "series": "zongshi",
+   "text": "作者在总释中主要以文殊菩萨代表自性地根本智：它是所有智慧的起点，遍一切处、知一切法，一切应用智慧依它生起，从初发心到如来地恒不舍离；作者又说一切智是根本智，自性本具不假修得。"
   }
  ],
  "related": [
@@ -118,7 +136,8 @@
   "一念无明",
   "道种智",
   "一切智",
-  "自性智慧"
+  "自性智慧",
+  "文殊菩萨"
  ],
  "tensions": [
   {
@@ -146,6 +165,19 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
     }
    ]
+  },
+  {
+   "text": "根本智与一切智的关系：总释说一切智就是根本智、自性本具不假修得；2023 年问答说一切智加上差别智才等于根本智。",
+   "sources": [
+    {
+     "q": "雖然一切智是根本智，自性本具不假修得",
+     "src": "pages/zongshi/zs7-32"
+    },
+    {
+     "q": "一切智加上差別智，等於根本智",
+     "src": "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-"
+    }
+   ]
   }
  ],
  "gaps": [
@@ -158,11 +190,13 @@
   "pages/swxf/shizhu1",
   "pages/dayi_all/2023dy/wz/WORDbb/28.zywd-24-01-27-",
   "pages/huayan70/jiangyi12",
-  "pages/dayi_all/2024dy/2024dywd/6.dy-2024-10-19-"
+  "pages/dayi_all/2024dy/2024dywd/6.dy-2024-10-19-",
+  "pages/zongshi/zs3-04"
  ],
- "pages_consulted": 11,
+ "pages_consulted": 14,
  "confidence": "medium",
  "related_unresolved": [
-  "自性智慧"
+  "自性智慧",
+  "文殊菩萨"
  ]
 }

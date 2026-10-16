@@ -34,18 +34,57 @@
      "src": "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
     }
    ]
+  },
+  {
+   "label": "无为法地；转识后即大圆镜智",
+   "text": "作者说染净是在第七意识参照下说的分别取舍；阿赖耶识本身是无为法地，是自性法在凡夫地的显现；转八识成四智之后即大圆镜智，平等出生、平等蕴藏一切法。",
+   "quotes": [
+    {
+     "q": "阿賴耶識本身是無為法地，是自性法在凡夫地的顯現",
+     "src": "pages/zongshi/zs6-09"
+    },
+    {
+     "q": "轉八識成四智之後的阿賴耶識即是大圓鏡智，平等出生一切法，平等蘊藏一切法。",
+     "src": "pages/zongshi/zs6-09"
+    }
+   ]
+  },
+  {
+   "label": "因地不能转",
+   "text": "作者说前五识与第八阿赖耶识在因地不能转，因地修行转的是第六分别识和第七末那识的作用模式，之后第八识的显相也跟着改变。",
+   "quotes": [
+    {
+     "q": "八識中的前五識和第八阿賴耶識並非在因地能轉，因地修行是轉第六分別識和第七末那識。",
+     "src": "pages/zongshi/zs6-05"
+    }
+   ]
+  },
+  {
+   "label": "凡夫种性的须弥山",
+   "text": "作者说阿赖耶识蕴藏一切法种子，即凡夫种性的须弥山，是业力所成，凡夫的作意思惟和分别取舍不能到达。",
+   "quotes": [
+    {
+     "q": "阿賴耶識蘊藏一切法種子，此即是凡夫種性的須彌山",
+     "src": "pages/zongshi/zs6-09"
+    }
+   ]
   }
  ],
  "by_series": [
   {
    "series": "答疑",
    "text": "2018–2022 年 wm-lb 页给出别称；2023 年 WORDbb 页说是自性在凡夫种性中的称呼。"
+  },
+  {
+   "series": "zongshi",
+   "text": "文中在转八识成四智的框架里讲阿赖耶识：含藏一切染净种子，本身是无为法地、自性法在凡夫地的显现，即凡夫种性的须弥山；因地不能转，转识后即大圆镜智。"
   }
  ],
  "related": [
   "自性",
   "大圆镜智",
-  "如来藏"
+  "如来藏",
+  "须弥山"
  ],
  "tensions": [],
  "gaps": [
@@ -54,11 +93,10 @@
  "where_to_read": [
   "pages/dayi_all/2018-2022dy/flWORD/hyxf/157.nzjzmsdsq",
   "pages/dayi_all/2018-2022dy/flWORD/wm-lb/4.bsdyz",
-  "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-"
+  "pages/dayi_all/2023dy/wz/WORDbb/5.zx-2023-9-23-",
+  "pages/zongshi/zs6-09"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 5,
  "confidence": "medium",
- "related_unresolved": [
-  "大圆镜智"
- ]
+ "related_unresolved": []
 }
