@@ -2132,10 +2132,8 @@
     }
    ],
    "chars": 408,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi22"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   }
  ]
 }

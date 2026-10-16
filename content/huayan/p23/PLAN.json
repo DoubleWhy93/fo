@@ -104,10 +104,8 @@
     }
    ],
    "chars": 786,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/swxf/shizhu5"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p23-s007",

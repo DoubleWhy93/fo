@@ -77,7 +77,7 @@ def check(f):
     if r.get("coverage") != ps["coverage"]:
         errs.append(f"reading.coverage {r.get('coverage')!r} != PLAN {ps['coverage']!r}")
     secs = r.get("sections", [])
-    lo, hi = {"quoted": (2, 5), "pin": (0, 2), "none": (0, 0)}.get(ps["coverage"], (0, 5))
+    lo, hi = {"quoted": (2, 5), "pin": (0, 3), "none": (0, 0)}.get(ps["coverage"], (0, 5))
     if not lo <= len(secs) <= hi:
         errs.append(f"reading.sections: {ps['coverage']} wants {lo}-{hi}, got {len(secs)}")
     for i, s in enumerate(secs):

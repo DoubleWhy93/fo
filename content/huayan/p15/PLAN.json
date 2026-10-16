@@ -212,10 +212,8 @@
     }
    ],
    "chars": 1189,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/swxf/shizhu33"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p15-s008",
@@ -227,10 +225,8 @@
     }
    ],
    "chars": 1020,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/swxf/shizhu33"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   }
  ]
 }

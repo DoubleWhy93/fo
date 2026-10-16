@@ -58,7 +58,6 @@
    "chars": 16,
    "coverage": "quoted",
    "quoted_by": [
-    "pages/huayan70/jiangyi31",
     "pages/huayan70/jiangyi32"
    ]
   },
@@ -87,10 +86,8 @@
     }
    ],
    "chars": 1189,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi32"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p30-s006",
@@ -102,10 +99,8 @@
     }
    ],
    "chars": 1189,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi32"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p30-s007",
@@ -117,10 +112,8 @@
     }
    ],
    "chars": 510,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi32"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   }
  ]
 }

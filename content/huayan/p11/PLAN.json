@@ -76,13 +76,8 @@
     }
    ],
    "chars": 1199,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang16",
-    "pages/huayan28/28jiang19",
-    "pages/huayan28/28jiang26",
-    "pages/shixin/shixin13"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p11-s005",
@@ -99,13 +94,8 @@
     }
    ],
    "chars": 672,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang16",
-    "pages/huayan28/28jiang19",
-    "pages/huayan28/28jiang26",
-    "pages/shixin/shixin13"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   }
  ]
 }

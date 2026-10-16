@@ -47,10 +47,8 @@
     }
    ],
    "chars": 1053,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi36"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p34-s004",

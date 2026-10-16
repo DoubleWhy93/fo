@@ -105,10 +105,8 @@
     }
    ],
    "chars": 750,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi39"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p38-s005",
@@ -634,11 +632,8 @@
     }
    ],
    "chars": 1114,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang26",
-    "pages/huayan70/jiangyi44"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p38-s028",

@@ -467,13 +467,8 @@
     }
    ],
    "chars": 909,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan70/jiangyi31",
-    "pages/shixin/shixin5",
-    "pages/shixin/shixin6",
-    "pages/zongshi/zs3-14"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p27-s028",

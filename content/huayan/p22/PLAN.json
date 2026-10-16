@@ -85,10 +85,8 @@
     }
    ],
    "chars": 1169,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang20"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p22-s006",

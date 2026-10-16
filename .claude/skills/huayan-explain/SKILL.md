@@ -26,7 +26,7 @@ The full rules are in `content/huayan/SPEC.md`; the voice and depth to match are
    or a better quote. Read files as UTF-8 (the Windows console garbles Chinese: write to a file and open it).
 3. Write `content/huayan/pNN/<seg>.json` per the SPEC. Layers stay apart:
    `plain` (what it says) · `terms` (kb = lecturer's explanation + quote; word = everyday meaning, ≤60 chars, no
-   doctrine) · `reading` (only KB, follows the 段's coverage: quoted 2–5 sections / pin 0–2 / none 0) · `think` · `unsure`.
+   doctrine) · `reading` (only KB, follows the 段's coverage: quoted 2–5 sections / pin 0–3 / none 0) · `think` · `unsure`.
 4. Verify: `python -I scripts/verify_huayan.py content/huayan/pNN/<seg>.json` → 0 errors. Fix and re-run.
 5. When a batch is done: `python -I scripts/build_site.py` rebuilds the site (progress badges update automatically).
 

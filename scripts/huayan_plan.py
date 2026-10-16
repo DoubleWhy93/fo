@@ -16,6 +16,15 @@ D = "kb/sutra/huayan80"
 index = json.load(open(f"{D}/index.json", encoding="utf8"))
 cov = json.load(open(f"{D}/coverage.json", encoding="utf8"))
 MAXC, TARGET = 1200, 800
+import opencc
+
+_T2S = opencc.OpenCC("t2s").convert
+_fold = lambda s: re.sub(r"[^一-鿿]", "", _T2S(s or ""))
+
+
+def shares12(q, text):
+    fq, ft = _fold(q), _fold(text)
+    return any(fq[i:i + 12] in ft for i in range(len(fq) - 11))
 
 
 def pieces(p):
@@ -52,7 +61,13 @@ for i in index:
     named = bool(cov["pins"][str(pin)]["pages"])
     out = []
     for k, s in enumerate(segs, 1):
-        quoted = sorted({x["id"] for c in s for x in cov["paragraphs"].get(c["id"].split(".")[0], [])})
+        quoted = set()
+        for c in s:
+            for x in cov["paragraphs"].get(c["id"].split(".")[0], []):
+                # a piece of a split paragraph counts as quoted only if the quote reproduces lines of that piece
+                if "." not in c["id"] or shares12(x["quote"], c["text"]):
+                    quoted.add(x["id"])
+        quoted = sorted(quoted)
         out.append({"seg": f"p{pin:02d}-s{k:03d}", "chunks": s, "chars": sum(len(c["text"]) for c in s),
                     "coverage": "quoted" if quoted else ("pin" if named else "none"), "quoted_by": quoted})
     os.makedirs(f"content/huayan/p{pin:02d}", exist_ok=True)

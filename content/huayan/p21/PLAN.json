@@ -177,11 +177,8 @@
     }
    ],
    "chars": 244,
-   "coverage": "quoted",
-   "quoted_by": [
-    "pages/huayan28/28jiang26",
-    "pages/huayan70/jiangyi44"
-   ]
+   "coverage": "pin",
+   "quoted_by": []
   },
   {
    "seg": "p21-s012",

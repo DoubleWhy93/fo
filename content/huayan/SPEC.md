@@ -24,7 +24,7 @@ Get your evidence with `python -I scripts/huayan_context.py <seg> <out.md>` and 
    quoted. Follow the segment's `coverage` from PLAN:
    - `quoted`: some lecture/Q&A/总释 page quotes these very lines (bundle §1). Use those first: what does the lecturer
      say these lines mean? 2–5 sections.
-   - `pin`: the 品 is discussed (bundle §2–3) but these lines are not. Give at most 2 short sections with the 品-level
+   - `pin`: the 品 is discussed (bundle §2–3) but these lines are not. Give at most 3 short sections with the 品-level
      frame, and say plainly that the lectures do not explain these lines one by one.
    - `none`: no sections. The page is translation + words only, and says so.
    Never fill gaps with outside Buddhist knowledge. A lecturer's reading is "讲者的读法", not "经文的意思".
@@ -51,7 +51,7 @@ Get your evidence with `python -I scripts/huayan_context.py <seg> <out.md>` and 
 }
 ```
 Limits: each `plain[].t` ≥ 0.6× and ≤ 3× the chunk's length (completeness check); `terms` 2–6; `reading.sections`
-2–5 for quoted, 0–2 for pin, 0 for none; 1–5 `paras` per section; every `reading` para and every `kb` term has ≥1
+2–5 for quoted, 0–3 for pin, 0 for none; 1–5 `paras` per section; every `reading` para and every `kb` term has ≥1
 quote; quotes ≤150 chars, verbatim from the page named in `src` (an id in `kb/manifest.json`; sutra lines are quoted
 from the lecture page that quotes them, not from CBETA). `think` questions must not assert doctrine.
 
