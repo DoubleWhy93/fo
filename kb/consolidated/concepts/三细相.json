@@ -108,7 +108,8 @@
   "四智行法",
   "根本无明",
   "六粗相",
-  "世尊"
+  "世尊",
+  "三细相与六粗相"
  ],
  "tensions": [
   {
@@ -138,9 +139,5 @@
  ],
  "pages_consulted": 6,
  "confidence": "medium",
- "related_unresolved": [
-  "无为法",
-  "八识",
-  "六粗相"
- ]
+ "related_unresolved": []
 }

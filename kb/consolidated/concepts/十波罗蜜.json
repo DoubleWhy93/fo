@@ -110,7 +110,8 @@
   "四智行法",
   "行法理论",
   "有法",
-  "二十波罗蜜"
+  "二十波罗蜜",
+  "波罗蜜"
  ],
  "tensions": [
   {
@@ -141,8 +142,5 @@
  ],
  "pages_consulted": 7,
  "confidence": "medium",
- "related_unresolved": [
-  "四十位行法",
-  "行法理论"
- ]
+ "related_unresolved": []
 }

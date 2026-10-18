@@ -7,7 +7,7 @@ MAN = {e["id"] for e in json.load(open("kb/manifest.json", encoding="utf8"))}
 V = {"supported", "partly", "unsupported", "misattributed", "cannot_tell"}
 def check(f):
     name = os.path.basename(f)
-    bp = f"kb/analysis/audit-batches/{name}"
+    bp = f"kb/analysis/{'digest-audit-batches' if name.startswith('d') else 'audit-batches'}/{name}"
     errs = []
     try: out = json.load(open(f, encoding="utf8"))
     except Exception as e: return [f"invalid JSON: {e}"]

@@ -93,7 +93,8 @@
   "普贤菩萨",
   "经首",
   "文殊菩萨",
-  "如来果地"
+  "如来果地",
+  "菩提场"
  ],
  "tensions": [],
  "gaps": [
@@ -109,7 +110,6 @@
  "pages_consulted": 5,
  "confidence": "medium",
  "related_unresolved": [
-  "文殊菩萨",
   "如来果地"
  ]
 }

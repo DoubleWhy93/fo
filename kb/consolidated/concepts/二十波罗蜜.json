@@ -97,7 +97,8 @@
   "四智",
   "正报与依报",
   "文殊",
-  "普贤"
+  "普贤",
+  "波罗蜜"
  ],
  "tensions": [],
  "gaps": [
@@ -112,9 +113,5 @@
  ],
  "pages_consulted": 4,
  "confidence": "high",
- "related_unresolved": [
-  "四十位行法",
-  "文殊",
-  "普贤"
- ]
+ "related_unresolved": []
 }

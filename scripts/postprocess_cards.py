@@ -33,6 +33,15 @@ for k, c in cards.items():
 for k, c in cards.items():
     for a in c.get("aliases", []):
         names.setdefault(norm(a), k)
+# frameworks, 华严经 品 names and same-thing variants (kb/consolidated/related-map.json) also count as resolved
+for f in glob.glob(f"{D}/frameworks/*.json"):
+    names.setdefault(norm(json.load(open(f, encoding="utf8"))["name"]), "framework")
+for i in json.load(open("kb/sutra/huayan80/index.json", encoding="utf8")):
+    names.setdefault(norm(i["title"]), "pin")
+RMAP = {k: v for k, v in json.load(open(f"{D}/related-map.json", encoding="utf8")).items() if not k.startswith("_")}
+for var, target in RMAP.items():
+    if norm(target) in names:
+        names.setdefault(norm(var), names[norm(target)])
 
 changed = 0
 unresolved_total = 0
@@ -77,6 +86,10 @@ tl = sorted(terms.items(), key=lambda kv: len(kv[1]))
 for i, (k1, n1) in enumerate(tl):
     for k2, n2 in tl[i + 1:]:
         if n1 != n2 and len(n1) >= 3 and n1 in n2 and len(n2) - len(n1) <= 6:
+            r1 = {norm(r) for r in cards[k1].get("related", [])}
+            r2 = {norm(r) for r in cards[k2].get("related", [])}
+            if n2 in r1 and n1 in r2:
+                continue        # reviewed pair kept on purpose (see merge-log.md): they cross-link each other
             dups.append(("one contains the other", [k1, k2]))
 
 # --- tensions

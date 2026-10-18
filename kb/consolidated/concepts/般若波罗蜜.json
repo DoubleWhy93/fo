@@ -89,7 +89,8 @@
   "五蕴",
   "四智行法",
   "十住位",
-  "须弥山顶"
+  "须弥山顶",
+  "波罗蜜"
  ],
  "tensions": [],
  "gaps": [
@@ -104,8 +105,5 @@
  ],
  "pages_consulted": 6,
  "confidence": "medium",
- "related_unresolved": [
-  "五蕴",
-  "十住位"
- ]
+ "related_unresolved": []
 }

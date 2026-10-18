@@ -1,9 +1,11 @@
 {
  "term": "舍利弗",
  "key": "舍利弗",
- "aliases": [],
+ "aliases": [
+  "舍利弗尊者"
+ ],
  "summary": "代表智慧第一的声闻上首，对应行者内在向往梵行、提出问题的力量",
- "definition": "讲者说舍利弗在声闻众中智慧第一，代表生命中自觉向往梵行清净、自觉生起行法实践的具体生命力量。在阿弥陀经讲中，他是把内在生起的问题形成可言说状态的「长老舍利弗」，与文殊相关但不同。在另一页，他代表声闻种性以自我解脱为核心的智慧力量。",
+ "definition": "讲者说舍利弗在声闻众中智慧第一，代表生命中自觉向往梵行清净、自觉生起行法实践的具体生命力量。在阿弥陀经讲中，他是把内在生起的问题形成可言说状态的「长老舍利弗」，与文殊相关但不同。在另一页，他代表声闻种性以自我解脱为核心的智慧力量。答疑中又说经中的舍利弗尊者是自己生命里的一个因素，其意义要靠集结经典而非文字定义；问题形成并到达世间能言说的程度，就具有舍利弗尊者的属性。",
  "definition_basis": [
   {
    "q": "把可言說的問題顯相到可言說的狀態，就是我們每一位行者的長老舍利弗。",
@@ -16,6 +18,14 @@
   {
    "q": "『舍利弗』代表聲聞種性以自我解脫為核心的智慧力量",
    "src": "pages/huayan70/jiangyi44"
+  },
+  {
+   "q": "您若能夠集結出舍利弗尊者所代表的意義，就不會是文字化的",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/44.rhjjsdys-hydzs"
+  },
+  {
+   "q": "這個問題已經到達世間能言說地步的時候，就是具有「舍利弗尊者」的屬性。",
+   "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/2.cjdjddxfsq"
   }
  ],
  "aspects": [
@@ -31,11 +41,19 @@
   },
   {
    "label": "把问题形成可言说状态",
-   "text": "把可言说的问题显相到可言说状态，就是每位行者的长老舍利弗。",
+   "text": "把可言说的问题显相到可言说状态，就是每位行者的长老舍利弗。 答疑中也说形成问题、到达世间能言说，就是舍利弗尊者。",
    "quotes": [
     {
      "q": "把可言說的問題顯相到可言說的狀態，就是我們每一位行者的長老舍利弗。",
      "src": "pages/amtj/amtj2"
+    },
+    {
+     "q": "這個問題已經到達世間能言說地步的時候，就是具有「舍利弗尊者」的屬性。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/2.cjdjddxfsq"
+    },
+    {
+     "q": "形成這個問題，其實就是舍利弗尊者。",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/jdjd/8.yzjwfz-wfzdfsljdjddrxf"
     }
    ]
   },
@@ -48,6 +66,16 @@
      "src": "pages/huayan70/jiangyi44"
     }
    ]
+  },
+  {
+   "label": "生命中的因素，非文字定义",
+   "text": "讲者要求把舍利弗所代表的意义集结出来，而不是文字化地理解。",
+   "quotes": [
+    {
+     "q": "您若能夠集結出舍利弗尊者所代表的意義，就不會是文字化的",
+     "src": "pages/dayi_all/2018-2022dy/flWORD/hyxf/44.rhjjsdys-hydzs"
+    }
+   ]
   }
  ],
  "by_series": [
@@ -58,6 +86,10 @@
   {
    "series": "huayan70",
    "text": "讲成声闻中智慧第一，代表向往梵行与声闻种性的智慧力量，随文殊发心。"
+  },
+  {
+   "series": "答疑",
+   "text": "2018–2022 年答疑（hyxf、jdjd 系列）：把舍利弗作为行法中的因素、与形成问题相联系。"
   }
  ],
  "related": [
@@ -67,17 +99,18 @@
  ],
  "tensions": [],
  "gaps": [
-  "舍利弗在《法华经》三请等处的讲法只见于证据中的概述。"
+  "舍利弗在《法华经》三请等处的讲法只见于证据中的概述。",
+  "未说明舍利弗尊者与其他声闻众的具体区别。"
  ],
  "where_to_read": [
   "pages/amtj/amtj2",
   "pages/huayan70/jiangyi43",
-  "pages/huayan70/jiangyi44"
+  "pages/huayan70/jiangyi44",
+  "pages/dayi_all/2018-2022dy/flWORD/hyxf/44.rhjjsdys-hydzs",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/2.cjdjddxfsq",
+  "pages/dayi_all/2018-2022dy/flWORD/jdjd/8.yzjwfz-wfzdfsljdjddrxf"
  ],
- "pages_consulted": 3,
+ "pages_consulted": 6,
  "confidence": "medium",
- "related_unresolved": [
-  "声闻种性",
-  "自性智慧"
- ]
+ "related_unresolved": []
 }

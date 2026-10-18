@@ -71,8 +71,21 @@ def norm(t):
     return re.sub(r"[\s·、，,。《》“”\"'（）()：:；;\-—]", "", S(t or ""))
 
 
-cslug = {k: f"{i:03d}" for i, k in enumerate(sorted(cards), 1)}
-fslug = {k: f"{i:02d}" for i, k in enumerate(sorted(fws), 1)}
+# Page numbers are permanent: kb/consolidated/slugs.json keeps every key's number; new keys get the next number, and a
+# key that was merged away (kb/consolidated/merges.json: {old_key: new_key}) keeps its number as a redirect page.
+REG_PATH = "kb/consolidated/slugs.json"
+REG = json.load(open(REG_PATH, encoding="utf8")) if os.path.exists(REG_PATH) else {
+    "c": {k: f"{i:03d}" for i, k in enumerate(sorted(cards), 1)}, "f": {k: f"{i:02d}" for i, k in enumerate(sorted(fws), 1)}}
+for kind, keys, width in (("c", cards, 3), ("f", fws, 2)):
+    nxt = max([int(v) for v in REG[kind].values()] or [0]) + 1
+    for k in sorted(keys):
+        if k not in REG[kind]:
+            REG[kind][k] = f"{nxt:0{width}d}"
+            nxt += 1
+json.dump(REG, open(REG_PATH, "w", encoding="utf8"), ensure_ascii=False, indent=1)
+MERGES = json.load(open("kb/consolidated/merges.json", encoding="utf8")) if os.path.exists("kb/consolidated/merges.json") else {}
+cslug = {k: REG["c"][k] for k in cards}
+fslug = {k: REG["f"][k] for k in fws}
 byname = {}
 for k, c in cards.items():
     byname.setdefault(norm(c["term"]), ("c", k))
@@ -124,6 +137,72 @@ def backlinks(k):
     return out + "</dl><p class='conf'>只列出明确解释或定义了这个概念的页面。</p>"
 
 
+# ---- 《华严经》 links: sutra passages a card's own quotes reproduce, and where the term occurs in the sutra
+HY = "kb/sutra/huayan80"
+_fold = lambda s: re.sub(r"[^一-鿿]", "", S(s or ""))
+HY_PARA, HY_SEG, HY_PIN = {}, {}, {}
+for meta in json.load(open(f"{HY}/index.json", encoding="utf8")):
+    HY_PIN[meta["pin"]] = S(meta["title"])
+    for p in json.load(open(f"{HY}/p{meta['pin']:02d}.json", encoding="utf8"))["paragraphs"]:
+        HY_PARA[p["id"]] = _fold(p["text"])
+    for s in json.load(open(f"content/huayan/p{meta['pin']:02d}/PLAN.json", encoding="utf8"))["segments"]:
+        for ch in s["chunks"]:
+            HY_SEG.setdefault(ch["id"].split(".")[0], s["seg"])
+_g12 = {}
+for pid, t in HY_PARA.items():
+    for i in range(len(t) - 11):
+        _g12.setdefault(t[i:i + 12], set()).add(pid)
+
+
+def sutra_links(c):
+    """paragraphs of 华严经 that the card's quotes reproduce (best match, >= half the quote, not a repeated formula)"""
+    qs = [q["q"] for q in c.get("definition_basis", [])] + [q["q"] for a in c.get("aspects", []) for q in a.get("quotes", [])]
+    found = []
+    for q in qs:
+        fq = _fold(q)
+        grams = {fq[i:i + 12] for i in range(len(fq) - 11)}
+        score = {}
+        for g in grams:
+            for pid in _g12.get(g, ()):
+                score[pid] = score.get(pid, 0) + 1
+        if score:
+            best = max(score.values())
+            hits = [p for p, s in score.items() if s == best and s >= 3]          # >= ~14 matching characters
+            if len(hits) <= 2:
+                found += [(p, q) for p in hits if p not in [f[0] for f in found]]
+    return found
+
+
+def term_pins(c):
+    """品 where the card's term occurs most (skip very short or ubiquitous terms)"""
+    t = _fold(c["term"])
+    if len(t) < 2:
+        return []
+    cnt = {}
+    for pid, txt in HY_PARA.items():
+        n = txt.count(t)
+        if n:
+            cnt[int(pid[1:3])] = cnt.get(int(pid[1:3]), 0) + n
+    if not cnt or sum(cnt.values()) > 400:
+        return []
+    return sorted(cnt.items(), key=lambda kv: -kv[1])[:6]
+
+
+def sutra_html(c):
+    links, pins = sutra_links(c), term_pins(c)
+    if not links and not pins:
+        return ""
+    out = "<h2>在《华严经》里</h2>"
+    if links:
+        out += "<p class='conf'>这张卡的引文里引用到的经文：</p><ul class='open'>" + "".join(
+            f'<li><a href="../../huayan/p{p[1:3]}/{HY_SEG[p]}.html">第{int(p[1:3])}品 {H(HY_PIN[int(p[1:3])])}</a>：<q class="orig">{H(S(q))}</q></li>'
+            for p, q in links[:6]) + "</ul>"
+    if pins:
+        out += "<p class='conf'>“" + H(S(c["term"])) + "”在经文中出现最多的品：" + "、".join(
+            f'<a href="../../huayan/p{pin:02d}/index.html">{H(HY_PIN[pin])}</a>（{n}）' for pin, n in pins) + "</p>"
+    return out
+
+
 CONF = {"high": "置信：高", "medium": "置信：中（多据汇总材料）", "low": "置信：低"}
 for k, c in cards.items():
     b = [f"<h1>{H(S(c['term']))}</h1>", f"<p class='card-sum'>{H(S(c['summary']))}</p>"]
@@ -145,6 +224,7 @@ for k, c in cards.items():
         b.append("<h2>讲稿中没有讲清的</h2><ul class='open'>" + "".join(f"<li>{H(S(g))}</li>" for g in c["gaps"]) + "</ul>")
     if c.get("related"):
         b.append("<h2>相关</h2><p class='chips'>" + " ".join(f"<span>{link(r)}</span>" for r in c["related"]) + "</p>")
+    b.append(sutra_html(c))
     b.append(backlinks(k))
     if c.get("where_to_read"):
         b.append("<h2>建议阅读的原页</h2><ul class='open'>" + "".join(f"<li>{src_link(p)}</li>" for p in c["where_to_read"]) + "</ul>")
@@ -181,6 +261,13 @@ for k, c in fws.items():
     if c.get("related"):
         b.append("<h2>相关</h2><p class='chips'>" + " ".join(f"<span>{link(r)}</span>" for r in c["related"]) + "</p>")
     open(f"{OUT}/f/{fslug[k]}.html", "w", encoding="utf8").write(page(S(c["name"]) + " · 框架卡", "".join(b), 2, "框架卡"))
+
+for old, new in MERGES.items():                    # merged cards: their old page forwards to the surviving card
+    if old in REG["c"] and old not in cards and new in cards:
+        tgt = f"{cslug[new]}.html"
+        open(f"{OUT}/c/{REG['c'][old]}.html", "w", encoding="utf8").write(
+            f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={tgt}">'
+            f'<title>{H(S(cards[new]["term"]))}</title><p>已并入 <a href="{tgt}">{H(S(cards[new]["term"]))}</a>。</p>')
 
 rows = sorted(cards.values(), key=lambda c: -c.get("pages_consulted", 0))
 tbl = "".join(

@@ -1,0 +1,81 @@
+[
+ {
+  "id": "D154",
+  "verdict": "supported",
+  "reason": "原文明言善财先成就弥伽长者法门，然后南行十二年至住林城，并说「南行十二年」代表时刻不离一切法精进修行。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D152",
+  "verdict": "supported",
+  "reason": "上下文完整给出：百五十二菩萨代表五百菩萨围绕众、皆悉成就普贤行愿、以普贤文殊为最核心、自在出入，以及分开/合起来的说法。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D020",
+  "verdict": "supported",
+  "reason": "引文段落依次讲随缘生起、清楚细节与成就标准、并非今天修声闻明天十住，以及因缘相应、在生死法界磨练至无上正觉。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D044",
+  "verdict": "supported",
+  "reason": "讲者引《大般涅槃经》后即说人天区别在自我觉悟及语言思惟能力、此能力即因陀罗网、《华严经》即诸佛因陀罗网，均在上下文中。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D110",
+  "verdict": "supported",
+  "reason": "引文只示第一部分；同页稍后明说第二个是如实知自性根本智的一切法，要符合一切法从心想生。",
+  "suggested_text": "",
+  "evidence": [
+   {
+    "q": "第二個是什麼呢？要如實知自性根本智的一切法",
+    "src": "pages/swxf/shizhu13"
+   },
+   {
+    "q": "也就是如實知人天眾生的解脫與無上正覺的法則，這一塊要符合一切法從心想生。",
+    "src": "pages/swxf/shizhu13"
+   }
+  ]
+ },
+ {
+  "id": "D085",
+  "verdict": "supported",
+  "reason": "原文：通过概念了解贪嗔痴慢属性，再加自我行法实践参与，能改变体验走向，这就是如实知实相的过程。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D050",
+  "verdict": "supported",
+  "reason": "上下文逐句给出与文殊从善住楼阁出意趣相同、十信/四位/等觉的对应关系。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D030",
+  "verdict": "supported",
+  "reason": "原文：华严行法理论中十住到十地按四智法分开，十住为心所在处、报身世间生起处，十地为身所作法自所作法成就处、化身乃至法身世间成就处。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D059",
+  "verdict": "supported",
+  "reason": "原文明说四阶段皆有六种十八相震动、十住位两次，四位行法十方菩萨作证而《初发心功德品》十方诸佛作证。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D124",
+  "verdict": "supported",
+  "reason": "原文从行法角度释出广长舌相为正知见正思惟智慧力遍到身心觉知一切法无障碍，说诚实言为依智慧力生起、用于西方妙观察智、见一切法实相。",
+  "suggested_text": "",
+  "evidence": []
+ }
+]

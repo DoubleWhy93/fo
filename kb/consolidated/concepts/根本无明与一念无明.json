@@ -183,7 +183,9 @@
   "一切智",
   "三细相",
   "六粗相",
-  "妙觉位"
+  "妙觉位",
+  "一念无明",
+  "根本无明"
  ],
  "tensions": [
   {
@@ -232,8 +234,5 @@
  ],
  "pages_consulted": 19,
  "confidence": "high",
- "related_unresolved": [
-  "六粗相",
-  "妙觉位"
- ]
+ "related_unresolved": []
 }

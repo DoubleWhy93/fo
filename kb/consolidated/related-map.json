@@ -1,0 +1,18 @@
+{
+ "_doc": "Names used in cards' `related` lists that refer to an existing card or framework under another spelling. Only same-thing variants (not 'related to'). Read by scripts/postprocess_cards.py and scripts/build_kb_site.py.",
+ "文殊菩萨": "文殊师利菩萨",
+ "文殊": "文殊师利菩萨",
+ "普贤": "普贤菩萨",
+ "第七识": "第七意识",
+ "末那识": "第七意识",
+ "毘卢遮那": "毘卢遮那如来",
+ "毗卢遮那": "毘卢遮那如来",
+ "四智法": "四智行法",
+ "六粗相": "三细相与六粗相",
+ "四十位行法": "住行向地四位行法",
+ "十迴向位": "十回向位",
+ "五蕴": "五蕴身",
+ "生相无明": "一品生相无明",
+ "阿耨多罗三藐三菩提": "无上正觉",
+ "末法": "末法时期"
+}

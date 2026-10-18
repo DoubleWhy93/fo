@@ -1,0 +1,77 @@
+[
+ {
+  "id": "D163",
+  "verdict": "supported",
+  "reason": "答者原话：要在般若的功能上、在一切法因缘随不同因缘的显相上见到般若，即验证是否见到般若。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D066",
+  "verdict": "partly",
+  "reason": "其余各项原文俱在；但原文问的是『没有差别在什么地方』（三无差别的无差别处、自性提供何种保证），摘要改成『差别在哪里』，意思反了。",
+  "suggested_text": "生起名相言说、概念，指向这一法当下存在；判断能力为这一法能否成为这一法提供可能性；理性能力为其提供现实性；这些都是自性给的能力，人天众生皆有；『心佛及众生，是三无差别』，无差别在哪里、自性提供了哪些保证，要从《华严经》整体结构体会；文殊师利菩萨是所有人天众生唤醒知性、判断、理性三种能力最初的力量。",
+  "evidence": [
+   {
+    "q": "但是沒有差別在什麼地方呢？自性本身為我們提供了哪些保證呢？這個就要從《華嚴經》整體結構裡面去體會",
+    "src": "pages/shixin/shixin6"
+   }
+  ]
+ },
+ {
+  "id": "D046",
+  "verdict": "supported",
+  "reason": "上下文几乎逐句如此陈述：行法不离生命活动体验、各品意味、法慧与功德林入三昧表明同样道理。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D035",
+  "verdict": "supported",
+  "reason": "原文：九处经首彼此勾索对齐，构建完整行法理论；放在一起看结构清晰展示。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D173",
+  "verdict": "supported",
+  "reason": "答者说别教菩萨依个体知识经验建立故有清净法习气，普眼菩萨有此障碍，去掉才到如来座前普贤法界。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D126",
+  "verdict": "supported",
+  "reason": "引文逐字陈述。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D139",
+  "verdict": "supported",
+  "reason": "引文逐字陈述，指四位说法菩萨的说法过程。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D101",
+  "verdict": "supported",
+  "reason": "上下文陈述：从华严角度解脱形式还有很多，观佛三昧海经法数即保证，数字即诸佛世界，须转成智慧否则只是数字。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D034",
+  "verdict": "supported",
+  "reason": "上下文逐句陈述文殊为法主的两种角度及一一法成就总合之义。",
+  "suggested_text": "",
+  "evidence": []
+ },
+ {
+  "id": "D177",
+  "verdict": "supported",
+  "reason": "上下文：念头由无为法生起称芥子，全过程诸因素合为须弥，离开芥子没有须弥。",
+  "suggested_text": "",
+  "evidence": []
+ }
+]
