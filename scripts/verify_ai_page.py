@@ -33,17 +33,18 @@ def check(where, qs, need=True):
 
 for i, p in enumerate(d["lecturer_on_ai"]["points"]):
     check(f"lecturer_on_ai[{i}]", p.get("quotes"))
-for t in d["themes"]:
+items = [it for s in d["sections"] for it in s["items"]]
+for t in items:
     check(t["head"], t["lecturer"].get("quotes"))
     for c in t["lecturer"].get("cards", []):
         if norm(c) not in CARDS:
             errs.append(f"{t['head']}: no card named {c}")
-    for k in ("human", "ai", "think"):
+    for k in ("train", "try"):
         if not t.get(k):
             errs.append(f"{t['head']}: missing {k}")
 for i, p in enumerate(d["meta"]["paras"]):
     check(f"meta[{i}]", p.get("quotes"), need=False)
 for e in errs:
     print(" -", e)
-print(f"{n} quotes checked, {len(d['themes'])} themes, {len(errs)} errors")
+print(f"{n} quotes checked, {len(items)} items in {len(d['sections'])} sections, {len(errs)} errors")
 sys.exit(1 if errs else 0)

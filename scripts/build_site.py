@@ -439,17 +439,19 @@ body = (f"<h1>{H(AI['title'])}</h1><p class='lead'>{H(AI['intro'])}</p><p class=
         + f"<h2>一、{H(lo['head'])}</h2><p>{H(lo['intro'])}</p><ol>"
         + "".join(f"<li>{H(p['t'])}{ai_quotes(p['quotes'])}</li>" for p in lo["points"]) + "</ol>"
         + f"<p class='conf'>出处：<a href='{URL.get('pages/dayi_all/2024dy/fl/68.wzwlf-wzrlf', '#')}'>2024-10-5 答疑：人类为自我立法、为自然立法，及人类语料库与人工智慧的未来</a></p>"
-        + "<h2>二、讲稿里的十二个启发</h2>"
+        + "<h2>二、讲稿给训练AI的启发</h2><nav class='jump'>" + " · ".join(f'<a href="#ai{i}">{H(s["head"])}</a>' for i, s in enumerate(AI["sections"])) + "</nav>"
         + "".join(
-            f"<div class='ai-theme'><h3>{H(t['head'])}</h3>"
-            f"<div class='ai-say'><b>讲者怎么说</b>{H(t['lecturer']['t'])}{ai_quotes(t['lecturer']['quotes'])}</div>"
-            f"<div class='ai-h'><b>对人的启发（整理者的联想）</b>{H(t['human'])}</div>"
-            f"<div class='ai-m'><b>对AI、对训练AI的启发（整理者的联想）</b>{H(t['ai'])}</div>"
-            f"<p class='ai-think'>想一想：{H(t['think'])}</p>{card_chips(t['lecturer'].get('cards', []))}</div>"
-            for t in AI["themes"])
+            f"<h2 id='ai{i}'>{H(s['head'])}</h2>" + (f"<p>{H(s['intro'])}</p>" if s.get("intro") else "")
+            + "".join(
+                f"<div class='ai-theme'><h3>{H(t['head'])}</h3>"
+                f"<div class='ai-say'><b>讲者怎么说</b>{H(t['lecturer']['t'])}{ai_quotes(t['lecturer']['quotes'])}</div>"
+                f"<div class='ai-m'><b>对训练AI的启发（整理者的联想）</b>{H(t['train'])}</div>"
+                f"<div class='ai-h'><b>可以怎么做（整理者的建议）</b>{H(t['try'])}</div>{card_chips(t['lecturer'].get('cards', []))}</div>"
+                for t in s["items"])
+            for i, s in enumerate(AI["sections"]))
         + f"<h2>三、{H(AI['meta']['head'])}</h2>" + "".join(f"<p>{H(p['t'])}{ai_quotes(p.get('quotes'))}</p>" for p in AI["meta"]["paras"]))
 page("ai.html", "华严与AI", body, "华严与AI")
-hy_rows.append(["ai.html", "华严与AI：给人，也给机器的启发", "专题", AI["intro"]])
+hy_rows.append(["ai.html", AI["title"], "专题", AI["intro"]])
 
 # ---------- 搜索 (index shipped as a .js file so it also works when the site is opened from disk)
 IDX = []
@@ -505,6 +507,6 @@ page("index.html", site_common.SITE, f"""<div class="hero"><h1>华严讲稿学�
 <h2>答疑与概念</h2><div class="grid">
 <a class="tile" href="wen/index.html"><b>答疑</b><span>{len(all_rows)} 篇，按分类与年份，可搜索标题</span></a>
 <a class="tile" href="kb/index.html"><b>概念</b><span>{len(cslug)} 个概念：讲者怎么说、各讲稿怎么讲、说法不一之处</span></a>
-<a class="tile" href="ai.html"><b>华严与AI</b><span>讲者怎么看人工智能，以及讲稿给人、给训练AI的十二个启发</span></a>
+<a class="tile" href="ai.html"><b>华严与AI</b><span>讲者怎么看人工智能，以及讲稿给训练AI的十七个启发：数据、学习方式、对齐、推理与检验、课程</span></a>
 <a class="tile" href="kb/frameworks.html"><b>框架</b><span>{len(fslug)} 个：六波罗蜜、三处十会、住行向地……成员与次序</span></a></div>""")
 print(f"site: {n_lect} lecture pages, {len(all_rows)} Q&A titles ({n_digested} digested pages) in {len(groups)} groups; unmapped Q&A folders: {sorted(missing)}")
