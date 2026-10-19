@@ -6,7 +6,7 @@ S = opencc.OpenCC("t2s").convert
 H = html.escape
 
 NAV = [("华严经", "huayan/index.html"), ("二十八讲", "jiang/huayan28/index.html"), ("总释", "jiang/zongshi/index.html"), ("七十讲", "jiang/huayan70/index.html"), ("十信位", "jiang/shixin/index.html"),
-       ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("搜索", "search.html"), ("关于", "about.html")]
+       ("十住位", "jiang/swxf/index.html"), ("阿弥陀经", "amituo.html"), ("答疑", "wen/index.html"), ("知识库", "kb/index.html"), ("华严与AI", "ai.html"), ("搜索", "search.html"), ("关于", "about.html")]
 
 BAR_CSS = """.gbar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);display:flex;gap:1rem;align-items:center;
 justify-content:space-between;flex-wrap:wrap;padding:.5rem 1.2rem;font:15px/1.5 "Noto Sans SC","PingFang SC",sans-serif}
@@ -45,6 +45,11 @@ h2[id]{scroll-margin-top:4.5rem}
 .mean-c .cap{display:block;font-size:.75rem;color:var(--acc);margin-bottom:.2rem}
 .sutra-c .cap,.plain-c .cap{display:block;font-size:.75rem;color:var(--mute);margin-bottom:.2rem;white-space:normal}
 .cov-q{border-left:4px solid var(--acc)}.badge.ok{border-color:var(--acc);color:var(--acc)}
+.ai-theme{border:1px solid var(--line);border-radius:10px;padding:.2rem 1.1rem .8rem;margin:1.6rem 0;background:var(--card)}
+.ai-say{background:var(--soft);border-left:4px solid var(--acc);border-radius:6px;padding:.6rem .9rem;margin:.6rem 0}
+.ai-say b,.ai-h b,.ai-m b{display:block;font-size:.8rem;letter-spacing:.05em;margin-bottom:.15rem}
+.ai-say b{color:var(--acc)}.ai-h,.ai-m{padding:.5rem .9rem;margin:.5rem 0;border-radius:6px;border:1px dashed var(--line)}
+.ai-h b,.ai-m b{color:var(--mute)}.ai-think{font-size:.95rem;color:var(--mute);margin:.6rem 0 0}
 .auto{font-size:.82rem;color:var(--mute);border-left:3px solid var(--line);padding-left:.7rem;margin:1rem 0}
 """
 
